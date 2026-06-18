@@ -13,7 +13,6 @@ _Generated 2026-06-18 15:50 UTC; run mode(s): full_
 | TIMEPLEX (base) | FinReflect | 0.3391 | 0.2753 | — | 0.4697 | 441.1086 |
 | TIMEPLEX (base) | ICEWS18 (5k) | 0.0326 | 0.0160 | — | 0.0680 | 1114.1824 |
 | TIMEPLEX (base) | GDELT (5k) | 0.0608 | 0.0240 | — | 0.1224 | 414.1296 |
-| HyTE | FinReflect | 0.1910 | 0.1212 | 0.1869 | 0.3586 | 383.8561 |
 | HyTE | ICEWS18 (5k) | 0.0574 | 0.0200 | 0.0536 | 0.1440 | 846.4368 |
 | HyTE | GDELT (5k) | 0.0481 | 0.0016 | 0.0464 | 0.1248 | 293.1016 |
-| HyTE (interval) | FinReflect | 0.1659 | 0.0884 | 0.1970 | 0.3232 | 366.0682 |
+| HyTE  | FinReflect(interval) | 0.1659 | 0.0884 | 0.1970 | 0.3232 | 366.0682 |
