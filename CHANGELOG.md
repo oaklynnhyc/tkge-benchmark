@@ -19,6 +19,17 @@
 
 ## ② 變更紀錄（新到舊）
 
+### 2026-06-18
+- `feat(convert)` 新增 **HyTE (interval) 變體**（僅 FinReflect）：改餵真實
+  `start_date`/`end_date`（HyTE 原生即讀 start/end 兩欄、攤到 `[start,end]` 年箱），
+  **只動資料、原碼仍 CLEAN**。缺值/雜訊政策：`default_*` 佔位 end(199)/start(36) 回退
+  `year` 欄、`end<start`(2) 收成點、同 quad 取 min(start)/max(end)；1580 訓練列 70 列為
+  真實跨年區間。轉檔器 `converters/to_hyte_interval.py`、runner `run_hyte_interval.sh`、
+  `hyte_metrics.py` 加 interval 變體、`aggregate.py` 表中獨立列 + 註腳、CI（benchmark.yml）
+  HyTE job 對 finreflect 加跑。與同列點版 HyTE 即「區間 vs 時間點」消融。
+- `fix(ci)` `aggregate.py` 重生 COMPARISON.md 時**保留**手寫「## 結論」段（先前 CI 重生會
+  覆蓋掉結論）。
+
 ### 2026-06-12（完成）
 - `exp(all)` **FULL 訓練完成：4 方法 × 3 資料全部產出**（run 27375188787，artifacts 由
   collect workflow 彙整，commit `b2f90af`）。12 個 results JSON 皆 `repo_diff: CLEAN`。

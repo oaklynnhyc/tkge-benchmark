@@ -25,6 +25,12 @@ for mkey, mname in METHODS:
         modes.add(j.get("mode", "?"))
         rows.append((mname, dname, j))
 
+# Interval variant (HyTE only, FinReflect only): appended as its own row so the
+# 4x3 point-time matrix above stays unchanged. See footnote.
+intv = RES / "hyte_interval_finreflect.json"
+if intv.exists():
+    rows.append(("HyTE (interval)", "FinReflect", json.loads(intv.read_text())))
+
 lines = []
 lines.append("# TKGE Benchmark — 4 methods × 3 datasets (link prediction)\n")
 lines.append(f"_Generated {datetime.datetime.utcnow():%Y-%m-%d %H:%M} UTC; "
@@ -66,9 +72,27 @@ lines.append("""
 - **超參**：各 repo README 之 ICEWS14（事件型）官方設定為準；HyTE 用 yago 官方設定、
   batch/epochs 依 5k 規模調整（margin 10、neg 5、l2 0、epoch 1000、test_freq 100）。
   全部 CPU 訓練。
+- **HyTE (interval) 變體**（僅 FinReflect、表中獨立一列）：HyTE 原生即區間方法（讀
+  start/end 兩欄、把三元組攤到 `[start,end]` 年箱）。此列改餵 FinReflect 真實的
+  `start_date`/`end_date`（其餘三方法與點版 HyTE 不變），**只動資料、原碼仍 CLEAN**。
+  缺值/雜訊處理：`default_*` 佔位的 end_date（199 列）/start_date（36 列）回退用
+  `year` 欄（即點版 HyTE 用的時間戳）；`end<start` 的倒置（2 列）收成點；同一 quad
+  多列取最寬區間 min(start)/max(end)。1580 訓練列中有 70 列為真實跨年區間。
+  與同列點版 HyTE 比較即「區間 vs 時間點」的消融。轉檔器
+  `converters/to_hyte_interval.py`，政策統計見其 `time_map.json`。
 """)
 if missing:
     lines.append("**缺漏（執行失敗或尚未完成）**: " + "; ".join(missing) + "\n")
 
-(RES / "COMPARISON.md").write_text("\n".join(lines))
+# Preserve any hand-written conclusions section across regenerations: the
+# auto-generated part above ends at the footnote; everything from a '## 結論'
+# heading onward is human prose and must survive a CI re-run.
+prev_path = RES / "COMPARISON.md"
+if prev_path.exists():
+    prev = prev_path.read_text()
+    idx = prev.find("\n## 結論")
+    if idx != -1:
+        lines.append(prev[idx + 1:].rstrip() + "\n")
+
+prev_path.write_text("\n".join(lines))
 print("\n".join(lines))

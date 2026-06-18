@@ -1,0 +1,13 @@
+{
+  "variant": "interval",
+  "dataset": "finreflect",
+  "train_year_range": [
+    1966,
+    2030
+  ],
+  "rows_with_real_interval(start!=end)": 70,
+  "eval_endpoints_clamped_to_train_range": 0,
+  "start_fallback_to_year": 36,
+  "end_fallback_to_year": 199,
+  "reversed_collapsed": 2
+}

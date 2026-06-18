@@ -103,6 +103,16 @@ jobs:
             echo "skipped by filter ($ONLY)"; exit 0
           fi
           bash scripts/ci/run_hyte.sh ${{ matrix.dataset }} "$MODE"
+      - name: Train + evaluate HyTE interval (finreflect only, real start/end)
+        if: matrix.dataset == 'finreflect'
+        run: |
+          MODE="${{ inputs.mode }}"; MODE="${MODE:-$(head -1 .ci-trigger | tr -d '[:space:]')}"
+          ONLY="$(sed -n 2p .ci-trigger | tr -d '[:space:]')"
+          if [ -n "$ONLY" ] && [ "$ONLY" != all ] && ! echo ",$ONLY," | grep -q ",hyte:finreflect,"; then
+            echo "skipped by filter ($ONLY)"; exit 0
+          fi
+          python converters/to_hyte_interval.py
+          bash scripts/ci/run_hyte_interval.sh "$MODE"
       - name: Trim log
         if: always()
         run: |
@@ -114,6 +124,8 @@ jobs:
           path: |
             results/hyte_${{ matrix.dataset }}.json
             runs/hyte_${{ matrix.dataset }}.log
+            results/hyte_interval_${{ matrix.dataset }}.json
+            runs/hyte_interval_${{ matrix.dataset }}.log
           if-no-files-found: warn
 
   aggregate:
