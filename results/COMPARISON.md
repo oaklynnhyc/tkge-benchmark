@@ -1,6 +1,6 @@
 # TKGE Benchmark — 4 methods × 3 datasets (link prediction)
 
-_Generated 2026-06-18 15:50 UTC; run mode(s): full_
+_Generated 2026-06-18 16:07 UTC; run mode(s): full_
 
 | Method | Dataset | MRR | Hits@1 | Hits@3 | Hits@10 | MR |
 |---|---|---|---|---|---|---|
@@ -15,4 +15,8 @@ _Generated 2026-06-18 15:50 UTC; run mode(s): full_
 | TIMEPLEX (base) | GDELT (5k) | 0.0608 | 0.0240 | — | 0.1224 | 414.1296 |
 | HyTE | ICEWS18 (5k) | 0.0574 | 0.0200 | 0.0536 | 0.1440 | 846.4368 |
 | HyTE | GDELT (5k) | 0.0481 | 0.0016 | 0.0464 | 0.1248 | 293.1016 |
-| HyTE  | FinReflect(interval) | 0.1659 | 0.0884 | 0.1970 | 0.3232 | 366.0682 |
+| HyTE | FinReflect(interval) | 0.1659 | 0.0884 | 0.1970 | 0.3232 | 366.0682 |
+
+---
+- **TIMEPLEX base**（tkbi 原生評估）：`time-str` *filtered* 排名（與 ATISE 的過濾近似
+  但實作不同）；`--flag_add_reverse 1`（原 README 設定）。原生不輸出 Hits@3（表中 `—`）。

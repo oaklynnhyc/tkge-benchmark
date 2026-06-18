@@ -16,6 +16,10 @@ def fmt(v, pct=False):
 rows, missing, modes = [], [], set()
 for mkey, mname in METHODS:
     for dkey, dname in DATASETS:
+        # HyTE × FinReflect is shown ONLY as the interval row below (the
+        # point-time HyTE FinReflect result is intentionally not tabled).
+        if mkey == "hyte" and dkey == "finreflect":
+            continue
         p = RES / f"{mkey}_{dkey}.json"
         if not p.exists():
             missing.append(f"{mname} × {dname}")
@@ -25,11 +29,11 @@ for mkey, mname in METHODS:
         modes.add(j.get("mode", "?"))
         rows.append((mname, dname, j))
 
-# Interval variant (HyTE only, FinReflect only): appended as its own row so the
-# 4x3 point-time matrix above stays unchanged. See footnote.
+# HyTE interval on FinReflect: the only HyTE FinReflect row, labelled with the
+# variant on the dataset column.
 intv = RES / "hyte_interval_finreflect.json"
 if intv.exists():
-    rows.append(("HyTE (interval)", "FinReflect", json.loads(intv.read_text())))
+    rows.append(("HyTE", "FinReflect(interval)", json.loads(intv.read_text())))
 
 # --- COMPARISON.md : RESULTS TABLE ONLY (this is the file that gets committed
 #     and pushed). Protocol notes + conclusions live in the local-only
@@ -50,6 +54,11 @@ for mname, dname, j in rows:
                  f"{fmt(h3)} | {fmt(h10)} | {fmt(j.get('MR'))} |")
 if missing:
     table.append("\n**缺漏（執行失敗或尚未完成）**: " + "; ".join(missing) + "\n")
+# Single inline footnote kept on the uploaded table (fuller protocol notes +
+# conclusions live in the local-only COMPARISON_NOTES.md below).
+table.append("\n---\n- **TIMEPLEX base**（tkbi 原生評估）：`time-str` *filtered* 排名"
+             "（與 ATISE 的過濾近似\n  但實作不同）；`--flag_add_reverse 1`（原 README 設定）。"
+             "原生不輸出 Hits@3（表中 `—`）。")
 (RES / "COMPARISON.md").write_text("\n".join(table) + "\n")
 
 # --- COMPARISON_NOTES.md : protocol footnotes + hand-written conclusions.
