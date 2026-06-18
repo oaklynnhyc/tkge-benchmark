@@ -1,0 +1,17 @@
+{
+  "method": "ATISE",
+  "dataset": "finreflect",
+  "mode": "full",
+  "MRR": 0.2595,
+  "MR": 428.0,
+  "Hits@1": 0.2247,
+  "Hits@3": 0.2601,
+  "Hits@10": 0.3359,
+  "eval_protocol": "ATISE repo native: time-wise filtered, head+tail averaged",
+  "test_epoch_file": "data_ready/atise/finreflect/icews05-15/ATISE/timediscrete0/dim500/lr0.0000/neg_num10/1day/gamma120/cmin0.0030/test_result2499.txt",
+  "repo": "github.com/soledad921/ATISE",
+  "repo_commit": "711e2136e10b54acbdd7a69ad7822837ce5c44c8",
+  "repo_diff": "CLEAN (zero modification)",
+  "entry_point": "python Main.py --dataset icews05-15 --model ATISE ... (see runs/atise_finreflect.log)",
+  "notes": "dataset aliased as icews05-15 dir; timestamps shifted to 2005 window (pure data transform)"
+}

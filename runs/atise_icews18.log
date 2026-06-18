@@ -1,0 +1,5816 @@
+��————————————
+Iter-0; loss: 0.0945;time per batch:0.1175s
+Epoch-584
+————————————————
+Iter-0; loss: 0.1385;time per batch:0.1207s
+Epoch-585
+————————————————
+Iter-0; loss: 0.0287;time per batch:0.1172s
+Epoch-586
+————————————————
+Iter-0; loss: 0.0235;time per batch:0.1139s
+Epoch-587
+————————————————
+Iter-0; loss: 0.0296;time per batch:0.1146s
+Epoch-588
+————————————————
+Iter-0; loss: 0.0826;time per batch:0.1186s
+Epoch-589
+————————————————
+Iter-0; loss: 0.0536;time per batch:0.1138s
+Epoch-590
+————————————————
+Iter-0; loss: 0.2170;time per batch:0.1144s
+Epoch-591
+————————————————
+Iter-0; loss: 0.2175;time per batch:0.1166s
+Epoch-592
+————————————————
+Iter-0; loss: 0.1511;time per batch:0.1172s
+Epoch-593
+————————————————
+Iter-0; loss: 0.1201;time per batch:0.1147s
+Epoch-594
+————————————————
+Iter-0; loss: 0.1135;time per batch:0.1165s
+Epoch-595
+————————————————
+Iter-0; loss: 0.1037;time per batch:0.1141s
+Epoch-596
+————————————————
+Iter-0; loss: 0.2337;time per batch:0.1181s
+Epoch-597
+————————————————
+Iter-0; loss: 0.0222;time per batch:0.1161s
+Epoch-598
+————————————————
+Iter-0; loss: 0.1376;time per batch:0.1150s
+Epoch-599
+————————————————
+Iter-0; loss: 0.1835;time per batch:0.1157s
+Epoch-600
+————————————————
+Iter-0; loss: 0.0260;time per batch:0.1164s
+Epoch-601
+————————————————
+Iter-0; loss: 0.0390;time per batch:0.1130s
+Epoch-602
+————————————————
+Iter-0; loss: 0.0907;time per batch:0.1162s
+Epoch-603
+————————————————
+Iter-0; loss: 0.0390;time per batch:0.1163s
+Epoch-604
+————————————————
+Iter-0; loss: 0.0284;time per batch:0.1185s
+Epoch-605
+————————————————
+Iter-0; loss: 0.0238;time per batch:0.1197s
+Epoch-606
+————————————————
+Iter-0; loss: 0.0229;time per batch:0.1179s
+Epoch-607
+————————————————
+Iter-0; loss: 0.0181;time per batch:0.1190s
+Epoch-608
+————————————————
+Iter-0; loss: 0.0905;time per batch:0.1157s
+Epoch-609
+————————————————
+Iter-0; loss: 0.0953;time per batch:0.1131s
+Epoch-610
+————————————————
+Iter-0; loss: 0.0226;time per batch:0.1211s
+Epoch-611
+————————————————
+Iter-0; loss: 0.0204;time per batch:0.1448s
+Epoch-612
+————————————————
+Iter-0; loss: 0.2712;time per batch:0.1159s
+Epoch-613
+————————————————
+Iter-0; loss: 0.0652;time per batch:0.1187s
+Epoch-614
+————————————————
+Iter-0; loss: 0.2347;time per batch:0.1168s
+Epoch-615
+————————————————
+Iter-0; loss: 0.0322;time per batch:0.1209s
+Epoch-616
+————————————————
+Iter-0; loss: 0.1687;time per batch:0.1219s
+Epoch-617
+————————————————
+Iter-0; loss: 0.0278;time per batch:0.1181s
+Epoch-618
+————————————————
+Iter-0; loss: 0.0194;time per batch:0.1180s
+Epoch-619
+————————————————
+Iter-0; loss: 0.0286;time per batch:0.1157s
+Epoch-620
+————————————————
+Iter-0; loss: 0.1292;time per batch:0.1149s
+Epoch-621
+————————————————
+Iter-0; loss: 0.2607;time per batch:0.1160s
+Epoch-622
+————————————————
+Iter-0; loss: 0.1342;time per batch:0.1187s
+Epoch-623
+————————————————
+Iter-0; loss: 0.0177;time per batch:0.1203s
+Epoch-624
+————————————————
+Iter-0; loss: 0.0175;time per batch:0.1216s
+Epoch-625
+————————————————
+Iter-0; loss: 0.0352;time per batch:0.1152s
+Epoch-626
+————————————————
+Iter-0; loss: 0.0205;time per batch:0.1138s
+Epoch-627
+————————————————
+Iter-0; loss: 0.0171;time per batch:0.1180s
+Epoch-628
+————————————————
+Iter-0; loss: 0.0252;time per batch:0.1139s
+Epoch-629
+————————————————
+Iter-0; loss: 0.0253;time per batch:0.1150s
+Epoch-630
+————————————————
+Iter-0; loss: 0.0887;time per batch:0.1169s
+Epoch-631
+————————————————
+Iter-0; loss: 0.1833;time per batch:0.1164s
+Epoch-632
+————————————————
+Iter-0; loss: 0.2501;time per batch:0.1134s
+Epoch-633
+————————————————
+Iter-0; loss: 0.0360;time per batch:0.1278s
+Epoch-634
+————————————————
+Iter-0; loss: 0.0792;time per batch:0.1142s
+Epoch-635
+————————————————
+Iter-0; loss: 0.0237;time per batch:0.1138s
+Epoch-636
+————————————————
+Iter-0; loss: 0.1448;time per batch:0.1148s
+Epoch-637
+————————————————
+Iter-0; loss: 0.0296;time per batch:0.1171s
+Epoch-638
+————————————————
+Iter-0; loss: 0.0242;time per batch:0.1163s
+Epoch-639
+————————————————
+Iter-0; loss: 0.0253;time per batch:0.1191s
+Epoch-640
+————————————————
+Iter-0; loss: 0.0807;time per batch:0.1165s
+Epoch-641
+————————————————
+Iter-0; loss: 0.0524;time per batch:0.1166s
+Epoch-642
+————————————————
+Iter-0; loss: 0.1688;time per batch:0.1166s
+Epoch-643
+————————————————
+Iter-0; loss: 0.0230;time per batch:0.1134s
+Epoch-644
+————————————————
+Iter-0; loss: 0.1214;time per batch:0.1162s
+Epoch-645
+————————————————
+Iter-0; loss: 0.0119;time per batch:0.1151s
+Epoch-646
+————————————————
+Iter-0; loss: 0.1596;time per batch:0.1178s
+Epoch-647
+————————————————
+Iter-0; loss: 0.0416;time per batch:0.1204s
+Epoch-648
+————————————————
+Iter-0; loss: 0.0330;time per batch:0.1170s
+Epoch-649
+————————————————
+Iter-0; loss: 0.1523;time per batch:0.1152s
+Epoch-650
+————————————————
+Iter-0; loss: 0.2275;time per batch:0.1156s
+Epoch-651
+————————————————
+Iter-0; loss: 0.0778;time per batch:0.1134s
+Epoch-652
+————————————————
+Iter-0; loss: 0.0264;time per batch:0.1180s
+Epoch-653
+————————————————
+Iter-0; loss: 0.0302;time per batch:0.1125s
+Epoch-654
+————————————————
+Iter-0; loss: 0.0966;time per batch:0.1152s
+Epoch-655
+————————————————
+Iter-0; loss: 0.1228;time per batch:0.1143s
+Epoch-656
+————————————————
+Iter-0; loss: 0.2062;time per batch:0.1168s
+Epoch-657
+————————————————
+Iter-0; loss: 0.0698;time per batch:0.1133s
+Epoch-658
+————————————————
+Iter-0; loss: 0.0590;time per batch:0.1167s
+Epoch-659
+————————————————
+Iter-0; loss: 0.2053;time per batch:0.1264s
+Epoch-660
+————————————————
+Iter-0; loss: 0.0620;time per batch:0.1198s
+Epoch-661
+————————————————
+Iter-0; loss: 0.0649;time per batch:0.1153s
+Epoch-662
+————————————————
+Iter-0; loss: 0.0214;time per batch:0.1230s
+Epoch-663
+————————————————
+Iter-0; loss: 0.1448;time per batch:0.1144s
+Epoch-664
+————————————————
+Iter-0; loss: 0.1114;time per batch:0.1244s
+Epoch-665
+————————————————
+Iter-0; loss: 0.0555;time per batch:0.1169s
+Epoch-666
+————————————————
+Iter-0; loss: 0.2127;time per batch:0.1186s
+Epoch-667
+————————————————
+Iter-0; loss: 0.2346;time per batch:0.1129s
+Epoch-668
+————————————————
+Iter-0; loss: 0.0833;time per batch:0.1147s
+Epoch-669
+————————————————
+Iter-0; loss: 0.0273;time per batch:0.1184s
+Epoch-670
+————————————————
+Iter-0; loss: 0.0238;time per batch:0.1130s
+Epoch-671
+————————————————
+Iter-0; loss: 0.0119;time per batch:0.1130s
+Epoch-672
+————————————————
+Iter-0; loss: 0.0177;time per batch:0.1141s
+Epoch-673
+————————————————
+Iter-0; loss: 0.0636;time per batch:0.1135s
+Epoch-674
+————————————————
+Iter-0; loss: 0.1463;time per batch:0.1176s
+Epoch-675
+————————————————
+Iter-0; loss: 0.0981;time per batch:0.1148s
+Epoch-676
+————————————————
+Iter-0; loss: 0.0810;time per batch:0.1188s
+Epoch-677
+————————————————
+Iter-0; loss: 0.0302;time per batch:0.1132s
+Epoch-678
+————————————————
+Iter-0; loss: 0.1036;time per batch:0.1158s
+Epoch-679
+————————————————
+Iter-0; loss: 0.0256;time per batch:0.1215s
+Epoch-680
+————————————————
+Iter-0; loss: 0.0335;time per batch:0.1153s
+Epoch-681
+————————————————
+Iter-0; loss: 0.0767;time per batch:0.1157s
+Epoch-682
+————————————————
+Iter-0; loss: 0.1179;time per batch:0.1142s
+Epoch-683
+————————————————
+Iter-0; loss: 0.0176;time per batch:0.1179s
+Epoch-684
+————————————————
+Iter-0; loss: 0.0336;time per batch:0.1159s
+Epoch-685
+————————————————
+Iter-0; loss: 0.0649;time per batch:0.1155s
+Epoch-686
+————————————————
+Iter-0; loss: 0.0728;time per batch:0.1150s
+Epoch-687
+————————————————
+Iter-0; loss: 0.1955;time per batch:0.1143s
+Epoch-688
+————————————————
+Iter-0; loss: 0.1466;time per batch:0.1196s
+Epoch-689
+————————————————
+Iter-0; loss: 0.0340;time per batch:0.1160s
+Epoch-690
+————————————————
+Iter-0; loss: 0.0889;time per batch:0.1182s
+Epoch-691
+————————————————
+Iter-0; loss: 0.0886;time per batch:0.1194s
+Epoch-692
+————————————————
+Iter-0; loss: 0.0283;time per batch:0.1159s
+Epoch-693
+————————————————
+Iter-0; loss: 0.0234;time per batch:0.1134s
+Epoch-694
+————————————————
+Iter-0; loss: 0.0687;time per batch:0.1165s
+Epoch-695
+————————————————
+Iter-0; loss: 0.0841;time per batch:0.1161s
+Epoch-696
+————————————————
+Iter-0; loss: 0.0919;time per batch:0.1153s
+Epoch-697
+————————————————
+Iter-0; loss: 0.1952;time per batch:0.1177s
+Epoch-698
+————————————————
+Iter-0; loss: 0.0952;time per batch:0.1145s
+Epoch-699
+————————————————
+Iter-0; loss: 0.1196;time per batch:0.1145s
+Epoch-700
+————————————————
+Iter-0; loss: 0.0613;time per batch:0.1176s
+Epoch-701
+————————————————
+Iter-0; loss: 0.0082;time per batch:0.1159s
+Epoch-702
+————————————————
+Iter-0; loss: 0.0575;time per batch:0.1148s
+Epoch-703
+————————————————
+Iter-0; loss: 0.0316;time per batch:0.1160s
+Epoch-704
+————————————————
+Iter-0; loss: 0.1275;time per batch:0.1176s
+Epoch-705
+————————————————
+Iter-0; loss: 0.1932;time per batch:0.1135s
+Epoch-706
+————————————————
+Iter-0; loss: 0.0190;time per batch:0.1145s
+Epoch-707
+————————————————
+Iter-0; loss: 0.0741;time per batch:0.1147s
+Epoch-708
+————————————————
+Iter-0; loss: 0.0286;time per batch:0.1152s
+Epoch-709
+————————————————
+Iter-0; loss: 0.0176;time per batch:0.1156s
+Epoch-710
+————————————————
+Iter-0; loss: 0.1431;time per batch:0.1167s
+Epoch-711
+————————————————
+Iter-0; loss: 0.0813;time per batch:0.1149s
+Epoch-712
+————————————————
+Iter-0; loss: 0.0294;time per batch:0.1167s
+Epoch-713
+————————————————
+Iter-0; loss: 0.0336;time per batch:0.1202s
+Epoch-714
+————————————————
+Iter-0; loss: 0.0244;time per batch:0.1164s
+Epoch-715
+————————————————
+Iter-0; loss: 0.0171;time per batch:0.1151s
+Epoch-716
+————————————————
+Iter-0; loss: 0.0203;time per batch:0.1158s
+Epoch-717
+————————————————
+Iter-0; loss: 0.0250;time per batch:0.1199s
+Epoch-718
+————————————————
+Iter-0; loss: 0.1410;time per batch:0.1172s
+Epoch-719
+————————————————
+Iter-0; loss: 0.0195;time per batch:0.1164s
+Epoch-720
+————————————————
+Iter-0; loss: 0.0484;time per batch:0.1179s
+Epoch-721
+————————————————
+Iter-0; loss: 0.1475;time per batch:0.1189s
+Epoch-722
+————————————————
+Iter-0; loss: 0.0178;time per batch:0.1165s
+Epoch-723
+————————————————
+Iter-0; loss: 0.0238;time per batch:0.1167s
+Epoch-724
+————————————————
+Iter-0; loss: 0.0715;time per batch:0.1171s
+Epoch-725
+————————————————
+Iter-0; loss: 0.0713;time per batch:0.1172s
+Epoch-726
+————————————————
+Iter-0; loss: 0.0418;time per batch:0.1245s
+Epoch-727
+————————————————
+Iter-0; loss: 0.0198;time per batch:0.1183s
+Epoch-728
+————————————————
+Iter-0; loss: 0.1180;time per batch:0.1153s
+Epoch-729
+————————————————
+Iter-0; loss: 0.0160;time per batch:0.1146s
+Epoch-730
+————————————————
+Iter-0; loss: 0.0862;time per batch:0.1162s
+Epoch-731
+————————————————
+Iter-0; loss: 0.0192;time per batch:0.1167s
+Epoch-732
+————————————————
+Iter-0; loss: 0.0165;time per batch:0.1178s
+Epoch-733
+————————————————
+Iter-0; loss: 0.0888;time per batch:0.1139s
+Epoch-734
+————————————————
+Iter-0; loss: 0.0357;time per batch:0.1231s
+Epoch-735
+————————————————
+Iter-0; loss: 0.0244;time per batch:0.1163s
+Epoch-736
+————————————————
+Iter-0; loss: 0.0192;time per batch:0.1155s
+Epoch-737
+————————————————
+Iter-0; loss: 0.1445;time per batch:0.1142s
+Epoch-738
+————————————————
+Iter-0; loss: 0.0275;time per batch:0.1148s
+Epoch-739
+————————————————
+Iter-0; loss: 0.0707;time per batch:0.1151s
+Epoch-740
+————————————————
+Iter-0; loss: 0.0318;time per batch:0.1146s
+Epoch-741
+————————————————
+Iter-0; loss: 0.0156;time per batch:0.1137s
+Epoch-742
+————————————————
+Iter-0; loss: 0.0695;time per batch:0.1144s
+Epoch-743
+————————————————
+Iter-0; loss: 0.0959;time per batch:0.1137s
+Epoch-744
+————————————————
+Iter-0; loss: 0.0549;time per batch:0.1175s
+Epoch-745
+————————————————
+Iter-0; loss: 0.0150;time per batch:0.1163s
+Epoch-746
+————————————————
+Iter-0; loss: 0.0188;time per batch:0.1157s
+Epoch-747
+————————————————
+Iter-0; loss: 0.0486;time per batch:0.1182s
+Epoch-748
+————————————————
+Iter-0; loss: 0.0602;time per batch:0.1168s
+Epoch-749
+————————————————
+Iter-0; loss: 0.1006;time per batch:0.1169s
+Epoch-750
+————————————————
+Iter-0; loss: 0.0309;time per batch:0.1162s
+validation results:
+Mean Rank: 744
+Mean RR: 0.1023
+Hit@1: 0.0560
+Hit@3: 0.1128
+Hit@5: 0.1440
+Hit@10: 0.1968
+Epoch-751
+————————————————
+Iter-0; loss: 0.0223;time per batch:0.1154s
+Epoch-752
+————————————————
+Iter-0; loss: 0.0699;time per batch:0.1156s
+Epoch-753
+————————————————
+Iter-0; loss: 0.0106;time per batch:0.1218s
+Epoch-754
+————————————————
+Iter-0; loss: 0.0650;time per batch:0.1152s
+Epoch-755
+————————————————
+Iter-0; loss: 0.0266;time per batch:0.1178s
+Epoch-756
+————————————————
+Iter-0; loss: 0.0724;time per batch:0.1161s
+Epoch-757
+————————————————
+Iter-0; loss: 0.0168;time per batch:0.1151s
+Epoch-758
+————————————————
+Iter-0; loss: 0.1019;time per batch:0.1152s
+Epoch-759
+————————————————
+Iter-0; loss: 0.0340;time per batch:0.1156s
+Epoch-760
+————————————————
+Iter-0; loss: 0.0260;time per batch:0.1181s
+Epoch-761
+————————————————
+Iter-0; loss: 0.1318;time per batch:0.1183s
+Epoch-762
+————————————————
+Iter-0; loss: 0.0199;time per batch:0.1213s
+Epoch-763
+————————————————
+Iter-0; loss: 0.0305;time per batch:0.1209s
+Epoch-764
+————————————————
+Iter-0; loss: 0.0881;time per batch:0.1221s
+Epoch-765
+————————————————
+Iter-0; loss: 0.0195;time per batch:0.1229s
+Epoch-766
+————————————————
+Iter-0; loss: 0.0161;time per batch:0.1219s
+Epoch-767
+————————————————
+Iter-0; loss: 0.0536;time per batch:0.1181s
+Epoch-768
+————————————————
+Iter-0; loss: 0.1238;time per batch:0.1163s
+Epoch-769
+————————————————
+Iter-0; loss: 0.1139;time per batch:0.1178s
+Epoch-770
+————————————————
+Iter-0; loss: 0.0143;time per batch:0.1191s
+Epoch-771
+————————————————
+Iter-0; loss: 0.0981;time per batch:0.1190s
+Epoch-772
+————————————————
+Iter-0; loss: 0.0602;time per batch:0.1174s
+Epoch-773
+————————————————
+Iter-0; loss: 0.0249;time per batch:0.1150s
+Epoch-774
+————————————————
+Iter-0; loss: 0.0157;time per batch:0.1192s
+Epoch-775
+————————————————
+Iter-0; loss: 0.0123;time per batch:0.1164s
+Epoch-776
+————————————————
+Iter-0; loss: 0.0872;time per batch:0.1176s
+Epoch-777
+————————————————
+Iter-0; loss: 0.0772;time per batch:0.1178s
+Epoch-778
+————————————————
+Iter-0; loss: 0.0640;time per batch:0.1181s
+Epoch-779
+————————————————
+Iter-0; loss: 0.1343;time per batch:0.1179s
+Epoch-780
+————————————————
+Iter-0; loss: 0.0223;time per batch:0.1151s
+Epoch-781
+————————————————
+Iter-0; loss: 0.0566;time per batch:0.1181s
+Epoch-782
+————————————————
+Iter-0; loss: 0.0663;time per batch:0.1133s
+Epoch-783
+————————————————
+Iter-0; loss: 0.0832;time per batch:0.1166s
+Epoch-784
+————————————————
+Iter-0; loss: 0.0277;time per batch:0.1159s
+Epoch-785
+————————————————
+Iter-0; loss: 0.0223;time per batch:0.1150s
+Epoch-786
+————————————————
+Iter-0; loss: 0.0177;time per batch:0.1160s
+Epoch-787
+————————————————
+Iter-0; loss: 0.0569;time per batch:0.1149s
+Epoch-788
+————————————————
+Iter-0; loss: 0.0187;time per batch:0.1148s
+Epoch-789
+————————————————
+Iter-0; loss: 0.0249;time per batch:0.1173s
+Epoch-790
+————————————————
+Iter-0; loss: 0.0325;time per batch:0.1158s
+Epoch-791
+————————————————
+Iter-0; loss: 0.0237;time per batch:0.1145s
+Epoch-792
+————————————————
+Iter-0; loss: 0.0389;time per batch:0.1167s
+Epoch-793
+————————————————
+Iter-0; loss: 0.0308;time per batch:0.1159s
+Epoch-794
+————————————————
+Iter-0; loss: 0.1267;time per batch:0.1162s
+Epoch-795
+————————————————
+Iter-0; loss: 0.0409;time per batch:0.1147s
+Epoch-796
+————————————————
+Iter-0; loss: 0.0355;time per batch:0.1162s
+Epoch-797
+————————————————
+Iter-0; loss: 0.0707;time per batch:0.1178s
+Epoch-798
+————————————————
+Iter-0; loss: 0.0668;time per batch:0.1158s
+Epoch-799
+————————————————
+Iter-0; loss: 0.0256;time per batch:0.1140s
+Epoch-800
+————————————————
+Iter-0; loss: 0.0334;time per batch:0.1164s
+Epoch-801
+————————————————
+Iter-0; loss: 0.0614;time per batch:0.1175s
+Epoch-802
+————————————————
+Iter-0; loss: 0.0239;time per batch:0.1160s
+Epoch-803
+————————————————
+Iter-0; loss: 0.0256;time per batch:0.1196s
+Epoch-804
+————————————————
+Iter-0; loss: 0.0812;time per batch:0.1168s
+Epoch-805
+————————————————
+Iter-0; loss: 0.0195;time per batch:0.1138s
+Epoch-806
+————————————————
+Iter-0; loss: 0.0614;time per batch:0.1149s
+Epoch-807
+————————————————
+Iter-0; loss: 0.0314;time per batch:0.1156s
+Epoch-808
+————————————————
+Iter-0; loss: 0.0166;time per batch:0.1183s
+Epoch-809
+————————————————
+Iter-0; loss: 0.0192;time per batch:0.1154s
+Epoch-810
+————————————————
+Iter-0; loss: 0.0421;time per batch:0.1159s
+Epoch-811
+————————————————
+Iter-0; loss: 0.0418;time per batch:0.1160s
+Epoch-812
+————————————————
+Iter-0; loss: 0.0594;time per batch:0.1139s
+Epoch-813
+————————————————
+Iter-0; loss: 0.0104;time per batch:0.1133s
+Epoch-814
+————————————————
+Iter-0; loss: 0.0162;time per batch:0.1155s
+Epoch-815
+————————————————
+Iter-0; loss: 0.0677;time per batch:0.1173s
+Epoch-816
+————————————————
+Iter-0; loss: 0.0233;time per batch:0.1146s
+Epoch-817
+————————————————
+Iter-0; loss: 0.0155;time per batch:0.1140s
+Epoch-818
+————————————————
+Iter-0; loss: 0.0485;time per batch:0.1156s
+Epoch-819
+————————————————
+Iter-0; loss: 0.0226;time per batch:0.1153s
+Epoch-820
+————————————————
+Iter-0; loss: 0.0149;time per batch:0.1157s
+Epoch-821
+————————————————
+Iter-0; loss: 0.1413;time per batch:0.1169s
+Epoch-822
+————————————————
+Iter-0; loss: 0.0302;time per batch:0.1144s
+Epoch-823
+————————————————
+Iter-0; loss: 0.0392;time per batch:0.1152s
+Epoch-824
+————————————————
+Iter-0; loss: 0.0340;time per batch:0.1150s
+Epoch-825
+————————————————
+Iter-0; loss: 0.0332;time per batch:0.1156s
+Epoch-826
+————————————————
+Iter-0; loss: 0.0159;time per batch:0.1144s
+Epoch-827
+————————————————
+Iter-0; loss: 0.0128;time per batch:0.1170s
+Epoch-828
+————————————————
+Iter-0; loss: 0.0520;time per batch:0.1154s
+Epoch-829
+————————————————
+Iter-0; loss: 0.0480;time per batch:0.1172s
+Epoch-830
+————————————————
+Iter-0; loss: 0.0167;time per batch:0.1152s
+Epoch-831
+————————————————
+Iter-0; loss: 0.0334;time per batch:0.1149s
+Epoch-832
+————————————————
+Iter-0; loss: 0.0619;time per batch:0.1152s
+Epoch-833
+————————————————
+Iter-0; loss: 0.0201;time per batch:0.1163s
+Epoch-834
+————————————————
+Iter-0; loss: 0.0124;time per batch:0.1167s
+Epoch-835
+————————————————
+Iter-0; loss: 0.1340;time per batch:0.1170s
+Epoch-836
+————————————————
+Iter-0; loss: 0.0234;time per batch:0.1163s
+Epoch-837
+————————————————
+Iter-0; loss: 0.0462;time per batch:0.1147s
+Epoch-838
+————————————————
+Iter-0; loss: 0.0351;time per batch:0.1146s
+Epoch-839
+————————————————
+Iter-0; loss: 0.0153;time per batch:0.1157s
+Epoch-840
+————————————————
+Iter-0; loss: 0.0492;time per batch:0.1152s
+Epoch-841
+————————————————
+Iter-0; loss: 0.0968;time per batch:0.1143s
+Epoch-842
+————————————————
+Iter-0; loss: 0.0394;time per batch:0.1193s
+Epoch-843
+————————————————
+Iter-0; loss: 0.0602;time per batch:0.1159s
+Epoch-844
+————————————————
+Iter-0; loss: 0.0552;time per batch:0.1157s
+Epoch-845
+————————————————
+Iter-0; loss: 0.0151;time per batch:0.1171s
+Epoch-846
+————————————————
+Iter-0; loss: 0.0258;time per batch:0.1182s
+Epoch-847
+————————————————
+Iter-0; loss: 0.0112;time per batch:0.1179s
+Epoch-848
+————————————————
+Iter-0; loss: 0.0166;time per batch:0.1171s
+Epoch-849
+————————————————
+Iter-0; loss: 0.0159;time per batch:0.1157s
+Epoch-850
+————————————————
+Iter-0; loss: 0.0538;time per batch:0.1132s
+Epoch-851
+————————————————
+Iter-0; loss: 0.0269;time per batch:0.1181s
+Epoch-852
+————————————————
+Iter-0; loss: 0.0194;time per batch:0.1164s
+Epoch-853
+————————————————
+Iter-0; loss: 0.0209;time per batch:0.1165s
+Epoch-854
+————————————————
+Iter-0; loss: 0.0176;time per batch:0.1174s
+Epoch-855
+————————————————
+Iter-0; loss: 0.0414;time per batch:0.1157s
+Epoch-856
+————————————————
+Iter-0; loss: 0.0106;time per batch:0.1158s
+Epoch-857
+————————————————
+Iter-0; loss: 0.0152;time per batch:0.1158s
+Epoch-858
+————————————————
+Iter-0; loss: 0.0206;time per batch:0.1146s
+Epoch-859
+————————————————
+Iter-0; loss: 0.0157;time per batch:0.1167s
+Epoch-860
+————————————————
+Iter-0; loss: 0.0420;time per batch:0.1198s
+Epoch-861
+————————————————
+Iter-0; loss: 0.0230;time per batch:0.1192s
+Epoch-862
+————————————————
+Iter-0; loss: 0.0224;time per batch:0.1146s
+Epoch-863
+————————————————
+Iter-0; loss: 0.0590;time per batch:0.1189s
+Epoch-864
+————————————————
+Iter-0; loss: 0.0268;time per batch:0.1157s
+Epoch-865
+————————————————
+Iter-0; loss: 0.0427;time per batch:0.1163s
+Epoch-866
+————————————————
+Iter-0; loss: 0.0232;time per batch:0.1153s
+Epoch-867
+————————————————
+Iter-0; loss: 0.0119;time per batch:0.1153s
+Epoch-868
+————————————————
+Iter-0; loss: 0.0238;time per batch:0.1167s
+Epoch-869
+————————————————
+Iter-0; loss: 0.0279;time per batch:0.1196s
+Epoch-870
+————————————————
+Iter-0; loss: 0.0474;time per batch:0.1143s
+Epoch-871
+————————————————
+Iter-0; loss: 0.0241;time per batch:0.1159s
+Epoch-872
+————————————————
+Iter-0; loss: 0.0336;time per batch:0.1150s
+Epoch-873
+————————————————
+Iter-0; loss: 0.0364;time per batch:0.1166s
+Epoch-874
+————————————————
+Iter-0; loss: 0.0205;time per batch:0.1151s
+Epoch-875
+————————————————
+Iter-0; loss: 0.0291;time per batch:0.1165s
+Epoch-876
+————————————————
+Iter-0; loss: 0.0084;time per batch:0.1158s
+Epoch-877
+————————————————
+Iter-0; loss: 0.0173;time per batch:0.1185s
+Epoch-878
+————————————————
+Iter-0; loss: 0.0183;time per batch:0.1171s
+Epoch-879
+————————————————
+Iter-0; loss: 0.0782;time per batch:0.1178s
+Epoch-880
+————————————————
+Iter-0; loss: 0.0270;time per batch:0.1139s
+Epoch-881
+————————————————
+Iter-0; loss: 0.0293;time per batch:0.1181s
+Epoch-882
+————————————————
+Iter-0; loss: 0.0106;time per batch:0.1178s
+Epoch-883
+————————————————
+Iter-0; loss: 0.0379;time per batch:0.1158s
+Epoch-884
+————————————————
+Iter-0; loss: 0.0084;time per batch:0.1160s
+Epoch-885
+————————————————
+Iter-0; loss: 0.0142;time per batch:0.1160s
+Epoch-886
+————————————————
+Iter-0; loss: 0.0356;time per batch:0.1252s
+Epoch-887
+————————————————
+Iter-0; loss: 0.0147;time per batch:0.1175s
+Epoch-888
+————————————————
+Iter-0; loss: 0.0405;time per batch:0.1175s
+Epoch-889
+————————————————
+Iter-0; loss: 0.0105;time per batch:0.1165s
+Epoch-890
+————————————————
+Iter-0; loss: 0.0243;time per batch:0.1172s
+Epoch-891
+————————————————
+Iter-0; loss: 0.0317;time per batch:0.1144s
+Epoch-892
+————————————————
+Iter-0; loss: 0.0116;time per batch:0.1161s
+Epoch-893
+————————————————
+Iter-0; loss: 0.0104;time per batch:0.1137s
+Epoch-894
+————————————————
+Iter-0; loss: 0.0398;time per batch:0.1155s
+Epoch-895
+————————————————
+Iter-0; loss: 0.0161;time per batch:0.1164s
+Epoch-896
+————————————————
+Iter-0; loss: 0.0164;time per batch:0.1191s
+Epoch-897
+————————————————
+Iter-0; loss: 0.0237;time per batch:0.1179s
+Epoch-898
+————————————————
+Iter-0; loss: 0.0215;time per batch:0.1150s
+Epoch-899
+————————————————
+Iter-0; loss: 0.1008;time per batch:0.1173s
+Epoch-900
+————————————————
+Iter-0; loss: 0.0169;time per batch:0.1193s
+Epoch-901
+————————————————
+Iter-0; loss: 0.0747;time per batch:0.1160s
+Epoch-902
+————————————————
+Iter-0; loss: 0.0237;time per batch:0.1186s
+Epoch-903
+————————————————
+Iter-0; loss: 0.0149;time per batch:0.1214s
+Epoch-904
+————————————————
+Iter-0; loss: 0.0294;time per batch:0.1187s
+Epoch-905
+————————————————
+Iter-0; loss: 0.0498;time per batch:0.1170s
+Epoch-906
+————————————————
+Iter-0; loss: 0.0190;time per batch:0.1162s
+Epoch-907
+————————————————
+Iter-0; loss: 0.0301;time per batch:0.1195s
+Epoch-908
+————————————————
+Iter-0; loss: 0.0170;time per batch:0.1163s
+Epoch-909
+————————————————
+Iter-0; loss: 0.0218;time per batch:0.1201s
+Epoch-910
+————————————————
+Iter-0; loss: 0.0275;time per batch:0.1178s
+Epoch-911
+————————————————
+Iter-0; loss: 0.0198;time per batch:0.1179s
+Epoch-912
+————————————————
+Iter-0; loss: 0.0190;time per batch:0.1142s
+Epoch-913
+————————————————
+Iter-0; loss: 0.0239;time per batch:0.1151s
+Epoch-914
+————————————————
+Iter-0; loss: 0.0161;time per batch:0.1146s
+Epoch-915
+————————————————
+Iter-0; loss: 0.0277;time per batch:0.1149s
+Epoch-916
+————————————————
+Iter-0; loss: 0.0161;time per batch:0.1140s
+Epoch-917
+————————————————
+Iter-0; loss: 0.0458;time per batch:0.1315s
+Epoch-918
+————————————————
+Iter-0; loss: 0.0205;time per batch:0.1149s
+Epoch-919
+————————————————
+Iter-0; loss: 0.0226;time per batch:0.1159s
+Epoch-920
+————————————————
+Iter-0; loss: 0.0309;time per batch:0.1157s
+Epoch-921
+————————————————
+Iter-0; loss: 0.0200;time per batch:0.1174s
+Epoch-922
+————————————————
+Iter-0; loss: 0.0235;time per batch:0.1153s
+Epoch-923
+————————————————
+Iter-0; loss: 0.0123;time per batch:0.1207s
+Epoch-924
+————————————————
+Iter-0; loss: 0.0216;time per batch:0.1147s
+Epoch-925
+————————————————
+Iter-0; loss: 0.0329;time per batch:0.1174s
+Epoch-926
+————————————————
+Iter-0; loss: 0.0262;time per batch:0.1163s
+Epoch-927
+————————————————
+Iter-0; loss: 0.0906;time per batch:0.1165s
+Epoch-928
+————————————————
+Iter-0; loss: 0.0207;time per batch:0.1195s
+Epoch-929
+————————————————
+Iter-0; loss: 0.0276;time per batch:0.1179s
+Epoch-930
+————————————————
+Iter-0; loss: 0.0142;time per batch:0.1148s
+Epoch-931
+————————————————
+Iter-0; loss: 0.0094;time per batch:0.1151s
+Epoch-932
+————————————————
+Iter-0; loss: 0.0180;time per batch:0.1146s
+Epoch-933
+————————————————
+Iter-0; loss: 0.0208;time per batch:0.1165s
+Epoch-934
+————————————————
+Iter-0; loss: 0.0070;time per batch:0.1161s
+Epoch-935
+————————————————
+Iter-0; loss: 0.0099;time per batch:0.1147s
+Epoch-936
+————————————————
+Iter-0; loss: 0.0264;time per batch:0.1140s
+Epoch-937
+————————————————
+Iter-0; loss: 0.0160;time per batch:0.1151s
+Epoch-938
+————————————————
+Iter-0; loss: 0.0188;time per batch:0.1179s
+Epoch-939
+————————————————
+Iter-0; loss: 0.0096;time per batch:0.1210s
+Epoch-940
+————————————————
+Iter-0; loss: 0.0184;time per batch:0.1174s
+Epoch-941
+————————————————
+Iter-0; loss: 0.0139;time per batch:0.1220s
+Epoch-942
+————————————————
+Iter-0; loss: 0.0191;time per batch:0.1170s
+Epoch-943
+————————————————
+Iter-0; loss: 0.0167;time per batch:0.1181s
+Epoch-944
+————————————————
+Iter-0; loss: 0.0082;time per batch:0.1192s
+Epoch-945
+————————————————
+Iter-0; loss: 0.0323;time per batch:0.1185s
+Epoch-946
+————————————————
+Iter-0; loss: 0.0403;time per batch:0.1178s
+Epoch-947
+————————————————
+Iter-0; loss: 0.0190;time per batch:0.1161s
+Epoch-948
+————————————————
+Iter-0; loss: 0.0395;time per batch:0.1147s
+Epoch-949
+————————————————
+Iter-0; loss: 0.0068;time per batch:0.1146s
+Epoch-950
+————————————————
+Iter-0; loss: 0.0166;time per batch:0.1139s
+Epoch-951
+————————————————
+Iter-0; loss: 0.0125;time per batch:0.1140s
+Epoch-952
+————————————————
+Iter-0; loss: 0.0066;time per batch:0.1158s
+Epoch-953
+————————————————
+Iter-0; loss: 0.0196;time per batch:0.1160s
+Epoch-954
+————————————————
+Iter-0; loss: 0.0164;time per batch:0.1153s
+Epoch-955
+————————————————
+Iter-0; loss: 0.0122;time per batch:0.1177s
+Epoch-956
+————————————————
+Iter-0; loss: 0.0195;time per batch:0.1187s
+Epoch-957
+————————————————
+Iter-0; loss: 0.0102;time per batch:0.1147s
+Epoch-958
+————————————————
+Iter-0; loss: 0.0199;time per batch:0.1154s
+Epoch-959
+————————————————
+Iter-0; loss: 0.0293;time per batch:0.1150s
+Epoch-960
+————————————————
+Iter-0; loss: 0.0218;time per batch:0.1187s
+Epoch-961
+————————————————
+Iter-0; loss: 0.0193;time per batch:0.1162s
+Epoch-962
+————————————————
+Iter-0; loss: 0.0106;time per batch:0.1161s
+Epoch-963
+————————————————
+Iter-0; loss: 0.0108;time per batch:0.1161s
+Epoch-964
+————————————————
+Iter-0; loss: 0.0177;time per batch:0.1168s
+Epoch-965
+————————————————
+Iter-0; loss: 0.0176;time per batch:0.1161s
+Epoch-966
+————————————————
+Iter-0; loss: 0.0224;time per batch:0.1178s
+Epoch-967
+————————————————
+Iter-0; loss: 0.0164;time per batch:0.1150s
+Epoch-968
+————————————————
+Iter-0; loss: 0.0181;time per batch:0.1165s
+Epoch-969
+————————————————
+Iter-0; loss: 0.0267;time per batch:0.1169s
+Epoch-970
+————————————————
+Iter-0; loss: 0.0083;time per batch:0.1169s
+Epoch-971
+————————————————
+Iter-0; loss: 0.0408;time per batch:0.1156s
+Epoch-972
+————————————————
+Iter-0; loss: 0.0119;time per batch:0.1173s
+Epoch-973
+————————————————
+Iter-0; loss: 0.0062;time per batch:0.1161s
+Epoch-974
+————————————————
+Iter-0; loss: 0.0148;time per batch:0.1177s
+Epoch-975
+————————————————
+Iter-0; loss: 0.0078;time per batch:0.1161s
+Epoch-976
+————————————————
+Iter-0; loss: 0.0861;time per batch:0.1165s
+Epoch-977
+————————————————
+Iter-0; loss: 0.0185;time per batch:0.1214s
+Epoch-978
+————————————————
+Iter-0; loss: 0.0121;time per batch:0.1141s
+Epoch-979
+————————————————
+Iter-0; loss: 0.0238;time per batch:0.1183s
+Epoch-980
+————————————————
+Iter-0; loss: 0.0076;time per batch:0.1138s
+Epoch-981
+————————————————
+Iter-0; loss: 0.0294;time per batch:0.1173s
+Epoch-982
+————————————————
+Iter-0; loss: 0.0085;time per batch:0.1161s
+Epoch-983
+————————————————
+Iter-0; loss: 0.0233;time per batch:0.1196s
+Epoch-984
+————————————————
+Iter-0; loss: 0.0178;time per batch:0.1170s
+Epoch-985
+————————————————
+Iter-0; loss: 0.0099;time per batch:0.1171s
+Epoch-986
+————————————————
+Iter-0; loss: 0.0669;time per batch:0.1154s
+Epoch-987
+————————————————
+Iter-0; loss: 0.0056;time per batch:0.1166s
+Epoch-988
+————————————————
+Iter-0; loss: 0.0100;time per batch:0.1153s
+Epoch-989
+————————————————
+Iter-0; loss: 0.0161;time per batch:0.1202s
+Epoch-990
+————————————————
+Iter-0; loss: 0.0108;time per batch:0.1156s
+Epoch-991
+————————————————
+Iter-0; loss: 0.0268;time per batch:0.1190s
+Epoch-992
+————————————————
+Iter-0; loss: 0.0056;time per batch:0.1157s
+Epoch-993
+————————————————
+Iter-0; loss: 0.0187;time per batch:0.1149s
+Epoch-994
+————————————————
+Iter-0; loss: 0.0205;time per batch:0.1169s
+Epoch-995
+————————————————
+Iter-0; loss: 0.0233;time per batch:0.1166s
+Epoch-996
+————————————————
+Iter-0; loss: 0.0181;time per batch:0.1153s
+Epoch-997
+————————————————
+Iter-0; loss: 0.0219;time per batch:0.1199s
+Epoch-998
+————————————————
+Iter-0; loss: 0.0211;time per batch:0.1157s
+Epoch-999
+————————————————
+Iter-0; loss: 0.0132;time per batch:0.1178s
+Epoch-1000
+————————————————
+Iter-0; loss: 0.0081;time per batch:0.1151s
+validation results:
+Mean Rank: 740
+Mean RR: 0.1031
+Hit@1: 0.0584
+Hit@3: 0.1128
+Hit@5: 0.1456
+Hit@10: 0.1976
+Epoch-1001
+————————————————
+Iter-0; loss: 0.0222;time per batch:0.1164s
+Epoch-1002
+————————————————
+Iter-0; loss: 0.0202;time per batch:0.1220s
+Epoch-1003
+————————————————
+Iter-0; loss: 0.0121;time per batch:0.1165s
+Epoch-1004
+————————————————
+Iter-0; loss: 0.0175;time per batch:0.1158s
+Epoch-1005
+————————————————
+Iter-0; loss: 0.0082;time per batch:0.1158s
+Epoch-1006
+————————————————
+Iter-0; loss: 0.0072;time per batch:0.1144s
+Epoch-1007
+————————————————
+Iter-0; loss: 0.0318;time per batch:0.1180s
+Epoch-1008
+————————————————
+Iter-0; loss: 0.0712;time per batch:0.1181s
+Epoch-1009
+————————————————
+Iter-0; loss: 0.0077;time per batch:0.1164s
+Epoch-1010
+————————————————
+Iter-0; loss: 0.0075;time per batch:0.1160s
+Epoch-1011
+————————————————
+Iter-0; loss: 0.0299;time per batch:0.1225s
+Epoch-1012
+————————————————
+Iter-0; loss: 0.0100;time per batch:0.1173s
+Epoch-1013
+————————————————
+Iter-0; loss: 0.0156;time per batch:0.1164s
+Epoch-1014
+————————————————
+Iter-0; loss: 0.0091;time per batch:0.1165s
+Epoch-1015
+————————————————
+Iter-0; loss: 0.0201;time per batch:0.1178s
+Epoch-1016
+————————————————
+Iter-0; loss: 0.0072;time per batch:0.1161s
+Epoch-1017
+————————————————
+Iter-0; loss: 0.0105;time per batch:0.1185s
+Epoch-1018
+————————————————
+Iter-0; loss: 0.0351;time per batch:0.1155s
+Epoch-1019
+————————————————
+Iter-0; loss: 0.0168;time per batch:0.1165s
+Epoch-1020
+————————————————
+Iter-0; loss: 0.0244;time per batch:0.1169s
+Epoch-1021
+————————————————
+Iter-0; loss: 0.0153;time per batch:0.1177s
+Epoch-1022
+————————————————
+Iter-0; loss: 0.0139;time per batch:0.1194s
+Epoch-1023
+————————————————
+Iter-0; loss: 0.0108;time per batch:0.1158s
+Epoch-1024
+————————————————
+Iter-0; loss: 0.0186;time per batch:0.1175s
+Epoch-1025
+————————————————
+Iter-0; loss: 0.0694;time per batch:0.1151s
+Epoch-1026
+————————————————
+Iter-0; loss: 0.0157;time per batch:0.1171s
+Epoch-1027
+————————————————
+Iter-0; loss: 0.0102;time per batch:0.1161s
+Epoch-1028
+————————————————
+Iter-0; loss: 0.0563;time per batch:0.1147s
+Epoch-1029
+————————————————
+Iter-0; loss: 0.0175;time per batch:0.1149s
+Epoch-1030
+————————————————
+Iter-0; loss: 0.0079;time per batch:0.1168s
+Epoch-1031
+————————————————
+Iter-0; loss: 0.0152;time per batch:0.1173s
+Epoch-1032
+————————————————
+Iter-0; loss: 0.0146;time per batch:0.1169s
+Epoch-1033
+————————————————
+Iter-0; loss: 0.0127;time per batch:0.1148s
+Epoch-1034
+————————————————
+Iter-0; loss: 0.0102;time per batch:0.1216s
+Epoch-1035
+————————————————
+Iter-0; loss: 0.0193;time per batch:0.1154s
+Epoch-1036
+————————————————
+Iter-0; loss: 0.0116;time per batch:0.1175s
+Epoch-1037
+————————————————
+Iter-0; loss: 0.0074;time per batch:0.1160s
+Epoch-1038
+————————————————
+Iter-0; loss: 0.0163;time per batch:0.1206s
+Epoch-1039
+————————————————
+Iter-0; loss: 0.0264;time per batch:0.1165s
+Epoch-1040
+————————————————
+Iter-0; loss: 0.0159;time per batch:0.1150s
+Epoch-1041
+————————————————
+Iter-0; loss: 0.0152;time per batch:0.1150s
+Epoch-1042
+————————————————
+Iter-0; loss: 0.0387;time per batch:0.1158s
+Epoch-1043
+————————————————
+Iter-0; loss: 0.0059;time per batch:0.1162s
+Epoch-1044
+————————————————
+Iter-0; loss: 0.0109;time per batch:0.1157s
+Epoch-1045
+————————————————
+Iter-0; loss: 0.0100;time per batch:0.1161s
+Epoch-1046
+————————————————
+Iter-0; loss: 0.0143;time per batch:0.1165s
+Epoch-1047
+————————————————
+Iter-0; loss: 0.0366;time per batch:0.1161s
+Epoch-1048
+————————————————
+Iter-0; loss: 0.0208;time per batch:0.1175s
+Epoch-1049
+————————————————
+Iter-0; loss: 0.0119;time per batch:0.1155s
+Epoch-1050
+————————————————
+Iter-0; loss: 0.0128;time per batch:0.1157s
+Epoch-1051
+————————————————
+Iter-0; loss: 0.0066;time per batch:0.1176s
+Epoch-1052
+————————————————
+Iter-0; loss: 0.0298;time per batch:0.1142s
+Epoch-1053
+————————————————
+Iter-0; loss: 0.0095;time per batch:0.1139s
+Epoch-1054
+————————————————
+Iter-0; loss: 0.0181;time per batch:0.1149s
+Epoch-1055
+————————————————
+Iter-0; loss: 0.0072;time per batch:0.1164s
+Epoch-1056
+————————————————
+Iter-0; loss: 0.0142;time per batch:0.1180s
+Epoch-1057
+————————————————
+Iter-0; loss: 0.0184;time per batch:0.1162s
+Epoch-1058
+————————————————
+Iter-0; loss: 0.0222;time per batch:0.1227s
+Epoch-1059
+————————————————
+Iter-0; loss: 0.0096;time per batch:0.1150s
+Epoch-1060
+————————————————
+Iter-0; loss: 0.0156;time per batch:0.1191s
+Epoch-1061
+————————————————
+Iter-0; loss: 0.0167;time per batch:0.1149s
+Epoch-1062
+————————————————
+Iter-0; loss: 0.0104;time per batch:0.1159s
+Epoch-1063
+————————————————
+Iter-0; loss: 0.0138;time per batch:0.1160s
+Epoch-1064
+————————————————
+Iter-0; loss: 0.0242;time per batch:0.1165s
+Epoch-1065
+————————————————
+Iter-0; loss: 0.0210;time per batch:0.1179s
+Epoch-1066
+————————————————
+Iter-0; loss: 0.0110;time per batch:0.1179s
+Epoch-1067
+————————————————
+Iter-0; loss: 0.0276;time per batch:0.1157s
+Epoch-1068
+————————————————
+Iter-0; loss: 0.0071;time per batch:0.1167s
+Epoch-1069
+————————————————
+Iter-0; loss: 0.0118;time per batch:0.1172s
+Epoch-1070
+————————————————
+Iter-0; loss: 0.0115;time per batch:0.1137s
+Epoch-1071
+————————————————
+Iter-0; loss: 0.0212;time per batch:0.1158s
+Epoch-1072
+————————————————
+Iter-0; loss: 0.0184;time per batch:0.1155s
+Epoch-1073
+————————————————
+Iter-0; loss: 0.0183;time per batch:0.1168s
+Epoch-1074
+————————————————
+Iter-0; loss: 0.0464;time per batch:0.1158s
+Epoch-1075
+————————————————
+Iter-0; loss: 0.0159;time per batch:0.1155s
+Epoch-1076
+————————————————
+Iter-0; loss: 0.0240;time per batch:0.1282s
+Epoch-1077
+————————————————
+Iter-0; loss: 0.0093;time per batch:0.1165s
+Epoch-1078
+————————————————
+Iter-0; loss: 0.0064;time per batch:0.1163s
+Epoch-1079
+————————————————
+Iter-0; loss: 0.0206;time per batch:0.1140s
+Epoch-1080
+————————————————
+Iter-0; loss: 0.0485;time per batch:0.1153s
+Epoch-1081
+————————————————
+Iter-0; loss: 0.0317;time per batch:0.1155s
+Epoch-1082
+————————————————
+Iter-0; loss: 0.0152;time per batch:0.1228s
+Epoch-1083
+————————————————
+Iter-0; loss: 0.0260;time per batch:0.1160s
+Epoch-1084
+————————————————
+Iter-0; loss: 0.0066;time per batch:0.1175s
+Epoch-1085
+————————————————
+Iter-0; loss: 0.0219;time per batch:0.1156s
+Epoch-1086
+————————————————
+Iter-0; loss: 0.0423;time per batch:0.1142s
+Epoch-1087
+————————————————
+Iter-0; loss: 0.0085;time per batch:0.1149s
+Epoch-1088
+————————————————
+Iter-0; loss: 0.0091;time per batch:0.1186s
+Epoch-1089
+————————————————
+Iter-0; loss: 0.0357;time per batch:0.1173s
+Epoch-1090
+————————————————
+Iter-0; loss: 0.0110;time per batch:0.1145s
+Epoch-1091
+————————————————
+Iter-0; loss: 0.0367;time per batch:0.1164s
+Epoch-1092
+————————————————
+Iter-0; loss: 0.0146;time per batch:0.1153s
+Epoch-1093
+————————————————
+Iter-0; loss: 0.0058;time per batch:0.1154s
+Epoch-1094
+————————————————
+Iter-0; loss: 0.0148;time per batch:0.1194s
+Epoch-1095
+————————————————
+Iter-0; loss: 0.0280;time per batch:0.1149s
+Epoch-1096
+————————————————
+Iter-0; loss: 0.0221;time per batch:0.1162s
+Epoch-1097
+————————————————
+Iter-0; loss: 0.0317;time per batch:0.1154s
+Epoch-1098
+————————————————
+Iter-0; loss: 0.0322;time per batch:0.1169s
+Epoch-1099
+————————————————
+Iter-0; loss: 0.0141;time per batch:0.1155s
+Epoch-1100
+————————————————
+Iter-0; loss: 0.0129;time per batch:0.1152s
+Epoch-1101
+————————————————
+Iter-0; loss: 0.0109;time per batch:0.1154s
+Epoch-1102
+————————————————
+Iter-0; loss: 0.0086;time per batch:0.1155s
+Epoch-1103
+————————————————
+Iter-0; loss: 0.0205;time per batch:0.1193s
+Epoch-1104
+————————————————
+Iter-0; loss: 0.0123;time per batch:0.1160s
+Epoch-1105
+————————————————
+Iter-0; loss: 0.0120;time per batch:0.1162s
+Epoch-1106
+————————————————
+Iter-0; loss: 0.0129;time per batch:0.1148s
+Epoch-1107
+————————————————
+Iter-0; loss: 0.0133;time per batch:0.1159s
+Epoch-1108
+————————————————
+Iter-0; loss: 0.0276;time per batch:0.1159s
+Epoch-1109
+————————————————
+Iter-0; loss: 0.0162;time per batch:0.1181s
+Epoch-1110
+————————————————
+Iter-0; loss: 0.0217;time per batch:0.1185s
+Epoch-1111
+————————————————
+Iter-0; loss: 0.0066;time per batch:0.1159s
+Epoch-1112
+————————————————
+Iter-0; loss: 0.0111;time per batch:0.1174s
+Epoch-1113
+————————————————
+Iter-0; loss: 0.0075;time per batch:0.1179s
+Epoch-1114
+————————————————
+Iter-0; loss: 0.0189;time per batch:0.1156s
+Epoch-1115
+————————————————
+Iter-0; loss: 0.0056;time per batch:0.1161s
+Epoch-1116
+————————————————
+Iter-0; loss: 0.0163;time per batch:0.1147s
+Epoch-1117
+————————————————
+Iter-0; loss: 0.0152;time per batch:0.1159s
+Epoch-1118
+————————————————
+Iter-0; loss: 0.0153;time per batch:0.1156s
+Epoch-1119
+————————————————
+Iter-0; loss: 0.0093;time per batch:0.1145s
+Epoch-1120
+————————————————
+Iter-0; loss: 0.0067;time per batch:0.1233s
+Epoch-1121
+————————————————
+Iter-0; loss: 0.0277;time per batch:0.1159s
+Epoch-1122
+————————————————
+Iter-0; loss: 0.0232;time per batch:0.1189s
+Epoch-1123
+————————————————
+Iter-0; loss: 0.0194;time per batch:0.1145s
+Epoch-1124
+————————————————
+Iter-0; loss: 0.0188;time per batch:0.1166s
+Epoch-1125
+————————————————
+Iter-0; loss: 0.0132;time per batch:0.1154s
+Epoch-1126
+————————————————
+Iter-0; loss: 0.0059;time per batch:0.1166s
+Epoch-1127
+————————————————
+Iter-0; loss: 0.0244;time per batch:0.1167s
+Epoch-1128
+————————————————
+Iter-0; loss: 0.0356;time per batch:0.1157s
+Epoch-1129
+————————————————
+Iter-0; loss: 0.0210;time per batch:0.1164s
+Epoch-1130
+————————————————
+Iter-0; loss: 0.0186;time per batch:0.1148s
+Epoch-1131
+————————————————
+Iter-0; loss: 0.0127;time per batch:0.1156s
+Epoch-1132
+————————————————
+Iter-0; loss: 0.0074;time per batch:0.1168s
+Epoch-1133
+————————————————
+Iter-0; loss: 0.0118;time per batch:0.1183s
+Epoch-1134
+————————————————
+Iter-0; loss: 0.0109;time per batch:0.1173s
+Epoch-1135
+————————————————
+Iter-0; loss: 0.0178;time per batch:0.1166s
+Epoch-1136
+————————————————
+Iter-0; loss: 0.0374;time per batch:0.1180s
+Epoch-1137
+————————————————
+Iter-0; loss: 0.0406;time per batch:0.1210s
+Epoch-1138
+————————————————
+Iter-0; loss: 0.0044;time per batch:0.1156s
+Epoch-1139
+————————————————
+Iter-0; loss: 0.0389;time per batch:0.1154s
+Epoch-1140
+————————————————
+Iter-0; loss: 0.0044;time per batch:0.1199s
+Epoch-1141
+————————————————
+Iter-0; loss: 0.0154;time per batch:0.1161s
+Epoch-1142
+————————————————
+Iter-0; loss: 0.0240;time per batch:0.1149s
+Epoch-1143
+————————————————
+Iter-0; loss: 0.0258;time per batch:0.1163s
+Epoch-1144
+————————————————
+Iter-0; loss: 0.0067;time per batch:0.1172s
+Epoch-1145
+————————————————
+Iter-0; loss: 0.0185;time per batch:0.1208s
+Epoch-1146
+————————————————
+Iter-0; loss: 0.0188;time per batch:0.1166s
+Epoch-1147
+————————————————
+Iter-0; loss: 0.0238;time per batch:0.1160s
+Epoch-1148
+————————————————
+Iter-0; loss: 0.0198;time per batch:0.1164s
+Epoch-1149
+————————————————
+Iter-0; loss: 0.0111;time per batch:0.1162s
+Epoch-1150
+————————————————
+Iter-0; loss: 0.0342;time per batch:0.1158s
+Epoch-1151
+————————————————
+Iter-0; loss: 0.0155;time per batch:0.1155s
+Epoch-1152
+————————————————
+Iter-0; loss: 0.0229;time per batch:0.1167s
+Epoch-1153
+————————————————
+Iter-0; loss: 0.0048;time per batch:0.1148s
+Epoch-1154
+————————————————
+Iter-0; loss: 0.0216;time per batch:0.1166s
+Epoch-1155
+————————————————
+Iter-0; loss: 0.0136;time per batch:0.1174s
+Epoch-1156
+————————————————
+Iter-0; loss: 0.0092;time per batch:0.1182s
+Epoch-1157
+————————————————
+Iter-0; loss: 0.0141;time per batch:0.1158s
+Epoch-1158
+————————————————
+Iter-0; loss: 0.0121;time per batch:0.1178s
+Epoch-1159
+————————————————
+Iter-0; loss: 0.0083;time per batch:0.1152s
+Epoch-1160
+————————————————
+Iter-0; loss: 0.0243;time per batch:0.1158s
+Epoch-1161
+————————————————
+Iter-0; loss: 0.0113;time per batch:0.1153s
+Epoch-1162
+————————————————
+Iter-0; loss: 0.0214;time per batch:0.1177s
+Epoch-1163
+————————————————
+Iter-0; loss: 0.0322;time per batch:0.1173s
+Epoch-1164
+————————————————
+Iter-0; loss: 0.0176;time per batch:0.1169s
+Epoch-1165
+————————————————
+Iter-0; loss: 0.0288;time per batch:0.1164s
+Epoch-1166
+————————————————
+Iter-0; loss: 0.0108;time per batch:0.1189s
+Epoch-1167
+————————————————
+Iter-0; loss: 0.0174;time per batch:0.1166s
+Epoch-1168
+————————————————
+Iter-0; loss: 0.0173;time per batch:0.1160s
+Epoch-1169
+————————————————
+Iter-0; loss: 0.0154;time per batch:0.1163s
+Epoch-1170
+————————————————
+Iter-0; loss: 0.0110;time per batch:0.1173s
+Epoch-1171
+————————————————
+Iter-0; loss: 0.0108;time per batch:0.1160s
+Epoch-1172
+————————————————
+Iter-0; loss: 0.0069;time per batch:0.1172s
+Epoch-1173
+————————————————
+Iter-0; loss: 0.0184;time per batch:0.1147s
+Epoch-1174
+————————————————
+Iter-0; loss: 0.0157;time per batch:0.1157s
+Epoch-1175
+————————————————
+Iter-0; loss: 0.0234;time per batch:0.1150s
+Epoch-1176
+————————————————
+Iter-0; loss: 0.0181;time per batch:0.1155s
+Epoch-1177
+————————————————
+Iter-0; loss: 0.0162;time per batch:0.1144s
+Epoch-1178
+————————————————
+Iter-0; loss: 0.0051;time per batch:0.1169s
+Epoch-1179
+————————————————
+Iter-0; loss: 0.0195;time per batch:0.1152s
+Epoch-1180
+————————————————
+Iter-0; loss: 0.0154;time per batch:0.1167s
+Epoch-1181
+————————————————
+Iter-0; loss: 0.0104;time per batch:0.1172s
+Epoch-1182
+————————————————
+Iter-0; loss: 0.0070;time per batch:0.1169s
+Epoch-1183
+————————————————
+Iter-0; loss: 0.0114;time per batch:0.1175s
+Epoch-1184
+————————————————
+Iter-0; loss: 0.0114;time per batch:0.1221s
+Epoch-1185
+————————————————
+Iter-0; loss: 0.0101;time per batch:0.1178s
+Epoch-1186
+————————————————
+Iter-0; loss: 0.0300;time per batch:0.1166s
+Epoch-1187
+————————————————
+Iter-0; loss: 0.0190;time per batch:0.1174s
+Epoch-1188
+————————————————
+Iter-0; loss: 0.0150;time per batch:0.1164s
+Epoch-1189
+————————————————
+Iter-0; loss: 0.0158;time per batch:0.1153s
+Epoch-1190
+————————————————
+Iter-0; loss: 0.0111;time per batch:0.1167s
+Epoch-1191
+————————————————
+Iter-0; loss: 0.0121;time per batch:0.1184s
+Epoch-1192
+————————————————
+Iter-0; loss: 0.0155;time per batch:0.1168s
+Epoch-1193
+————————————————
+Iter-0; loss: 0.0100;time per batch:0.1143s
+Epoch-1194
+————————————————
+Iter-0; loss: 0.0086;time per batch:0.1164s
+Epoch-1195
+————————————————
+Iter-0; loss: 0.0102;time per batch:0.1198s
+Epoch-1196
+————————————————
+Iter-0; loss: 0.0177;time per batch:0.1170s
+Epoch-1197
+————————————————
+Iter-0; loss: 0.0107;time per batch:0.1162s
+Epoch-1198
+————————————————
+Iter-0; loss: 0.0228;time per batch:0.1148s
+Epoch-1199
+————————————————
+Iter-0; loss: 0.0287;time per batch:0.1191s
+Epoch-1200
+————————————————
+Iter-0; loss: 0.0120;time per batch:0.1166s
+Epoch-1201
+————————————————
+Iter-0; loss: 0.0052;time per batch:0.1188s
+Epoch-1202
+————————————————
+Iter-0; loss: 0.0061;time per batch:0.1144s
+Epoch-1203
+————————————————
+Iter-0; loss: 0.0061;time per batch:0.1158s
+Epoch-1204
+————————————————
+Iter-0; loss: 0.0040;time per batch:0.1193s
+Epoch-1205
+————————————————
+Iter-0; loss: 0.0166;time per batch:0.1155s
+Epoch-1206
+————————————————
+Iter-0; loss: 0.0128;time per batch:0.1173s
+Epoch-1207
+————————————————
+Iter-0; loss: 0.0225;time per batch:0.1168s
+Epoch-1208
+————————————————
+Iter-0; loss: 0.0068;time per batch:0.1154s
+Epoch-1209
+————————————————
+Iter-0; loss: 0.0254;time per batch:0.1156s
+Epoch-1210
+————————————————
+Iter-0; loss: 0.0211;time per batch:0.1204s
+Epoch-1211
+————————————————
+Iter-0; loss: 0.0135;time per batch:0.1216s
+Epoch-1212
+————————————————
+Iter-0; loss: 0.0236;time per batch:0.1170s
+Epoch-1213
+————————————————
+Iter-0; loss: 0.0296;time per batch:0.1187s
+Epoch-1214
+————————————————
+Iter-0; loss: 0.0146;time per batch:0.1172s
+Epoch-1215
+————————————————
+Iter-0; loss: 0.0253;time per batch:0.1154s
+Epoch-1216
+————————————————
+Iter-0; loss: 0.0103;time per batch:0.1196s
+Epoch-1217
+————————————————
+Iter-0; loss: 0.0169;time per batch:0.1170s
+Epoch-1218
+————————————————
+Iter-0; loss: 0.0256;time per batch:0.1151s
+Epoch-1219
+————————————————
+Iter-0; loss: 0.0184;time per batch:0.1179s
+Epoch-1220
+————————————————
+Iter-0; loss: 0.0042;time per batch:0.1185s
+Epoch-1221
+————————————————
+Iter-0; loss: 0.0091;time per batch:0.1159s
+Epoch-1222
+————————————————
+Iter-0; loss: 0.0078;time per batch:0.1154s
+Epoch-1223
+————————————————
+Iter-0; loss: 0.0302;time per batch:0.1143s
+Epoch-1224
+————————————————
+Iter-0; loss: 0.0144;time per batch:0.1155s
+Epoch-1225
+————————————————
+Iter-0; loss: 0.0218;time per batch:0.1223s
+Epoch-1226
+————————————————
+Iter-0; loss: 0.0306;time per batch:0.1175s
+Epoch-1227
+————————————————
+Iter-0; loss: 0.0123;time per batch:0.1165s
+Epoch-1228
+————————————————
+Iter-0; loss: 0.0140;time per batch:0.1163s
+Epoch-1229
+————————————————
+Iter-0; loss: 0.0142;time per batch:0.1162s
+Epoch-1230
+————————————————
+Iter-0; loss: 0.0092;time per batch:0.1146s
+Epoch-1231
+————————————————
+Iter-0; loss: 0.0101;time per batch:0.1172s
+Epoch-1232
+————————————————
+Iter-0; loss: 0.0105;time per batch:0.1186s
+Epoch-1233
+————————————————
+Iter-0; loss: 0.0209;time per batch:0.1151s
+Epoch-1234
+————————————————
+Iter-0; loss: 0.0168;time per batch:0.1143s
+Epoch-1235
+————————————————
+Iter-0; loss: 0.0125;time per batch:0.1161s
+Epoch-1236
+————————————————
+Iter-0; loss: 0.0134;time per batch:0.1153s
+Epoch-1237
+————————————————
+Iter-0; loss: 0.0221;time per batch:0.1173s
+Epoch-1238
+————————————————
+Iter-0; loss: 0.0165;time per batch:0.1180s
+Epoch-1239
+————————————————
+Iter-0; loss: 0.0181;time per batch:0.1162s
+Epoch-1240
+————————————————
+Iter-0; loss: 0.0145;time per batch:0.1168s
+Epoch-1241
+————————————————
+Iter-0; loss: 0.0174;time per batch:0.1181s
+Epoch-1242
+————————————————
+Iter-0; loss: 0.0110;time per batch:0.1179s
+Epoch-1243
+————————————————
+Iter-0; loss: 0.0047;time per batch:0.1170s
+Epoch-1244
+————————————————
+Iter-0; loss: 0.0116;time per batch:0.1163s
+Epoch-1245
+————————————————
+Iter-0; loss: 0.0124;time per batch:0.1159s
+Epoch-1246
+————————————————
+Iter-0; loss: 0.0170;time per batch:0.1148s
+Epoch-1247
+————————————————
+Iter-0; loss: 0.0215;time per batch:0.1168s
+Epoch-1248
+————————————————
+Iter-0; loss: 0.0125;time per batch:0.1213s
+Epoch-1249
+————————————————
+Iter-0; loss: 0.0193;time per batch:0.1162s
+Epoch-1250
+————————————————
+Iter-0; loss: 0.0173;time per batch:0.1157s
+validation results:
+Mean Rank: 720
+Mean RR: 0.1053
+Hit@1: 0.0624
+Hit@3: 0.1128
+Hit@5: 0.1456
+Hit@10: 0.1984
+Epoch-1251
+————————————————
+Iter-0; loss: 0.0111;time per batch:0.1230s
+Epoch-1252
+————————————————
+Iter-0; loss: 0.0067;time per batch:0.1150s
+Epoch-1253
+————————————————
+Iter-0; loss: 0.0132;time per batch:0.1210s
+Epoch-1254
+————————————————
+Iter-0; loss: 0.0118;time per batch:0.1155s
+Epoch-1255
+————————————————
+Iter-0; loss: 0.0091;time per batch:0.1147s
+Epoch-1256
+————————————————
+Iter-0; loss: 0.0169;time per batch:0.1152s
+Epoch-1257
+————————————————
+Iter-0; loss: 0.0146;time per batch:0.1156s
+Epoch-1258
+————————————————
+Iter-0; loss: 0.0165;time per batch:0.1168s
+Epoch-1259
+————————————————
+Iter-0; loss: 0.0304;time per batch:0.1180s
+Epoch-1260
+————————————————
+Iter-0; loss: 0.0069;time per batch:0.1188s
+Epoch-1261
+————————————————
+Iter-0; loss: 0.0067;time per batch:0.1196s
+Epoch-1262
+————————————————
+Iter-0; loss: 0.0160;time per batch:0.1177s
+Epoch-1263
+————————————————
+Iter-0; loss: 0.0270;time per batch:0.1159s
+Epoch-1264
+————————————————
+Iter-0; loss: 0.0134;time per batch:0.1165s
+Epoch-1265
+————————————————
+Iter-0; loss: 0.0294;time per batch:0.1152s
+Epoch-1266
+————————————————
+Iter-0; loss: 0.0218;time per batch:0.1188s
+Epoch-1267
+————————————————
+Iter-0; loss: 0.0035;time per batch:0.1175s
+Epoch-1268
+————————————————
+Iter-0; loss: 0.0189;time per batch:0.1156s
+Epoch-1269
+————————————————
+Iter-0; loss: 0.0145;time per batch:0.1173s
+Epoch-1270
+————————————————
+Iter-0; loss: 0.0146;time per batch:0.1191s
+Epoch-1271
+————————————————
+Iter-0; loss: 0.0156;time per batch:0.1160s
+Epoch-1272
+————————————————
+Iter-0; loss: 0.0110;time per batch:0.1179s
+Epoch-1273
+————————————————
+Iter-0; loss: 0.0179;time per batch:0.1223s
+Epoch-1274
+————————————————
+Iter-0; loss: 0.0183;time per batch:0.1161s
+Epoch-1275
+————————————————
+Iter-0; loss: 0.0229;time per batch:0.1161s
+Epoch-1276
+————————————————
+Iter-0; loss: 0.0040;time per batch:0.1167s
+Epoch-1277
+————————————————
+Iter-0; loss: 0.0253;time per batch:0.1182s
+Epoch-1278
+————————————————
+Iter-0; loss: 0.0037;time per batch:0.1146s
+Epoch-1279
+————————————————
+Iter-0; loss: 0.0194;time per batch:0.1154s
+Epoch-1280
+————————————————
+Iter-0; loss: 0.0037;time per batch:0.1158s
+Epoch-1281
+————————————————
+Iter-0; loss: 0.0047;time per batch:0.1141s
+Epoch-1282
+————————————————
+Iter-0; loss: 0.0223;time per batch:0.1156s
+Epoch-1283
+————————————————
+Iter-0; loss: 0.0119;time per batch:0.1209s
+Epoch-1284
+————————————————
+Iter-0; loss: 0.0281;time per batch:0.1191s
+Epoch-1285
+————————————————
+Iter-0; loss: 0.0170;time per batch:0.1157s
+Epoch-1286
+————————————————
+Iter-0; loss: 0.0052;time per batch:0.1162s
+Epoch-1287
+————————————————
+Iter-0; loss: 0.0175;time per batch:0.1166s
+Epoch-1288
+————————————————
+Iter-0; loss: 0.0134;time per batch:0.1160s
+Epoch-1289
+————————————————
+Iter-0; loss: 0.0128;time per batch:0.1188s
+Epoch-1290
+————————————————
+Iter-0; loss: 0.0136;time per batch:0.1153s
+Epoch-1291
+————————————————
+Iter-0; loss: 0.0167;time per batch:0.1160s
+Epoch-1292
+————————————————
+Iter-0; loss: 0.0096;time per batch:0.1165s
+Epoch-1293
+————————————————
+Iter-0; loss: 0.0130;time per batch:0.1160s
+Epoch-1294
+————————————————
+Iter-0; loss: 0.0036;time per batch:0.1162s
+Epoch-1295
+————————————————
+Iter-0; loss: 0.0104;time per batch:0.1160s
+Epoch-1296
+————————————————
+Iter-0; loss: 0.0116;time per batch:0.1159s
+Epoch-1297
+————————————————
+Iter-0; loss: 0.0142;time per batch:0.1158s
+Epoch-1298
+————————————————
+Iter-0; loss: 0.0100;time per batch:0.1157s
+Epoch-1299
+————————————————
+Iter-0; loss: 0.0118;time per batch:0.1156s
+Epoch-1300
+————————————————
+Iter-0; loss: 0.0099;time per batch:0.1180s
+Epoch-1301
+————————————————
+Iter-0; loss: 0.0142;time per batch:0.1169s
+Epoch-1302
+————————————————
+Iter-0; loss: 0.0157;time per batch:0.1176s
+Epoch-1303
+————————————————
+Iter-0; loss: 0.0096;time per batch:0.1167s
+Epoch-1304
+————————————————
+Iter-0; loss: 0.0178;time per batch:0.1161s
+Epoch-1305
+————————————————
+Iter-0; loss: 0.0186;time per batch:0.1158s
+Epoch-1306
+————————————————
+Iter-0; loss: 0.0130;time per batch:0.1172s
+Epoch-1307
+————————————————
+Iter-0; loss: 0.0144;time per batch:0.1143s
+Epoch-1308
+————————————————
+Iter-0; loss: 0.0175;time per batch:0.1150s
+Epoch-1309
+————————————————
+Iter-0; loss: 0.0187;time per batch:0.1163s
+Epoch-1310
+————————————————
+Iter-0; loss: 0.0108;time per batch:0.1165s
+Epoch-1311
+————————————————
+Iter-0; loss: 0.0154;time per batch:0.1197s
+Epoch-1312
+————————————————
+Iter-0; loss: 0.0096;time per batch:0.1176s
+Epoch-1313
+————————————————
+Iter-0; loss: 0.0109;time per batch:0.1156s
+Epoch-1314
+————————————————
+Iter-0; loss: 0.0148;time per batch:0.1180s
+Epoch-1315
+————————————————
+Iter-0; loss: 0.0085;time per batch:0.1182s
+Epoch-1316
+————————————————
+Iter-0; loss: 0.0172;time per batch:0.1207s
+Epoch-1317
+————————————————
+Iter-0; loss: 0.0146;time per batch:0.1186s
+Epoch-1318
+————————————————
+Iter-0; loss: 0.0044;time per batch:0.1194s
+Epoch-1319
+————————————————
+Iter-0; loss: 0.0055;time per batch:0.1189s
+Epoch-1320
+————————————————
+Iter-0; loss: 0.0098;time per batch:0.1193s
+Epoch-1321
+————————————————
+Iter-0; loss: 0.0220;time per batch:0.1177s
+Epoch-1322
+————————————————
+Iter-0; loss: 0.0163;time per batch:0.1155s
+Epoch-1323
+————————————————
+Iter-0; loss: 0.0105;time per batch:0.1148s
+Epoch-1324
+————————————————
+Iter-0; loss: 0.0194;time per batch:0.1296s
+Epoch-1325
+————————————————
+Iter-0; loss: 0.0094;time per batch:0.1143s
+Epoch-1326
+————————————————
+Iter-0; loss: 0.0121;time per batch:0.1178s
+Epoch-1327
+————————————————
+Iter-0; loss: 0.0062;time per batch:0.1139s
+Epoch-1328
+————————————————
+Iter-0; loss: 0.0110;time per batch:0.1185s
+Epoch-1329
+————————————————
+Iter-0; loss: 0.0084;time per batch:0.1171s
+Epoch-1330
+————————————————
+Iter-0; loss: 0.0058;time per batch:0.1176s
+Epoch-1331
+————————————————
+Iter-0; loss: 0.0118;time per batch:0.1183s
+Epoch-1332
+————————————————
+Iter-0; loss: 0.0322;time per batch:0.1157s
+Epoch-1333
+————————————————
+Iter-0; loss: 0.0096;time per batch:0.1154s
+Epoch-1334
+————————————————
+Iter-0; loss: 0.0074;time per batch:0.1160s
+Epoch-1335
+————————————————
+Iter-0; loss: 0.0188;time per batch:0.1166s
+Epoch-1336
+————————————————
+Iter-0; loss: 0.0126;time per batch:0.1153s
+Epoch-1337
+————————————————
+Iter-0; loss: 0.0193;time per batch:0.1141s
+Epoch-1338
+————————————————
+Iter-0; loss: 0.0038;time per batch:0.1154s
+Epoch-1339
+————————————————
+Iter-0; loss: 0.0233;time per batch:0.1174s
+Epoch-1340
+————————————————
+Iter-0; loss: 0.0229;time per batch:0.1205s
+Epoch-1341
+————————————————
+Iter-0; loss: 0.0120;time per batch:0.1154s
+Epoch-1342
+————————————————
+Iter-0; loss: 0.0169;time per batch:0.1153s
+Epoch-1343
+————————————————
+Iter-0; loss: 0.0102;time per batch:0.1184s
+Epoch-1344
+————————————————
+Iter-0; loss: 0.0159;time per batch:0.1181s
+Epoch-1345
+————————————————
+Iter-0; loss: 0.0179;time per batch:0.1158s
+Epoch-1346
+————————————————
+Iter-0; loss: 0.0122;time per batch:0.1152s
+Epoch-1347
+————————————————
+Iter-0; loss: 0.0150;time per batch:0.1151s
+Epoch-1348
+————————————————
+Iter-0; loss: 0.0347;time per batch:0.1157s
+Epoch-1349
+————————————————
+Iter-0; loss: 0.0096;time per batch:0.1138s
+Epoch-1350
+————————————————
+Iter-0; loss: 0.0032;time per batch:0.1171s
+Epoch-1351
+————————————————
+Iter-0; loss: 0.0261;time per batch:0.1148s
+Epoch-1352
+————————————————
+Iter-0; loss: 0.0150;time per batch:0.1183s
+Epoch-1353
+————————————————
+Iter-0; loss: 0.0127;time per batch:0.1171s
+Epoch-1354
+————————————————
+Iter-0; loss: 0.0135;time per batch:0.1157s
+Epoch-1355
+————————————————
+Iter-0; loss: 0.0375;time per batch:0.1173s
+Epoch-1356
+————————————————
+Iter-0; loss: 0.0102;time per batch:0.1172s
+Epoch-1357
+————————————————
+Iter-0; loss: 0.0232;time per batch:0.1217s
+Epoch-1358
+————————————————
+Iter-0; loss: 0.0177;time per batch:0.1163s
+Epoch-1359
+————————————————
+Iter-0; loss: 0.0051;time per batch:0.1176s
+Epoch-1360
+————————————————
+Iter-0; loss: 0.0144;time per batch:0.1161s
+Epoch-1361
+————————————————
+Iter-0; loss: 0.0112;time per batch:0.1165s
+Epoch-1362
+————————————————
+Iter-0; loss: 0.0221;time per batch:0.1169s
+Epoch-1363
+————————————————
+Iter-0; loss: 0.0103;time per batch:0.1185s
+Epoch-1364
+————————————————
+Iter-0; loss: 0.0106;time per batch:0.1158s
+Epoch-1365
+————————————————
+Iter-0; loss: 0.0145;time per batch:0.1157s
+Epoch-1366
+————————————————
+Iter-0; loss: 0.0454;time per batch:0.1158s
+Epoch-1367
+————————————————
+Iter-0; loss: 0.0135;time per batch:0.1149s
+Epoch-1368
+————————————————
+Iter-0; loss: 0.0042;time per batch:0.1176s
+Epoch-1369
+————————————————
+Iter-0; loss: 0.0185;time per batch:0.1159s
+Epoch-1370
+————————————————
+Iter-0; loss: 0.0110;time per batch:0.1159s
+Epoch-1371
+————————————————
+Iter-0; loss: 0.0137;time per batch:0.1169s
+Epoch-1372
+————————————————
+Iter-0; loss: 0.0098;time per batch:0.1162s
+Epoch-1373
+————————————————
+Iter-0; loss: 0.0110;time per batch:0.1167s
+Epoch-1374
+————————————————
+Iter-0; loss: 0.0176;time per batch:0.1159s
+Epoch-1375
+————————————————
+Iter-0; loss: 0.0177;time per batch:0.1199s
+Epoch-1376
+————————————————
+Iter-0; loss: 0.0083;time per batch:0.1162s
+Epoch-1377
+————————————————
+Iter-0; loss: 0.0089;time per batch:0.1161s
+Epoch-1378
+————————————————
+Iter-0; loss: 0.0108;time per batch:0.1166s
+Epoch-1379
+————————————————
+Iter-0; loss: 0.0076;time per batch:0.1174s
+Epoch-1380
+————————————————
+Iter-0; loss: 0.0179;time per batch:0.1153s
+Epoch-1381
+————————————————
+Iter-0; loss: 0.0054;time per batch:0.1158s
+Epoch-1382
+————————————————
+Iter-0; loss: 0.0092;time per batch:0.1165s
+Epoch-1383
+————————————————
+Iter-0; loss: 0.0235;time per batch:0.1155s
+Epoch-1384
+————————————————
+Iter-0; loss: 0.0218;time per batch:0.1172s
+Epoch-1385
+————————————————
+Iter-0; loss: 0.0283;time per batch:0.1163s
+Epoch-1386
+————————————————
+Iter-0; loss: 0.0202;time per batch:0.1177s
+Epoch-1387
+————————————————
+Iter-0; loss: 0.0038;time per batch:0.1161s
+Epoch-1388
+————————————————
+Iter-0; loss: 0.0146;time per batch:0.1169s
+Epoch-1389
+————————————————
+Iter-0; loss: 0.0179;time per batch:0.1150s
+Epoch-1390
+————————————————
+Iter-0; loss: 0.0290;time per batch:0.1171s
+Epoch-1391
+————————————————
+Iter-0; loss: 0.0412;time per batch:0.1170s
+Epoch-1392
+————————————————
+Iter-0; loss: 0.0034;time per batch:0.1158s
+Epoch-1393
+————————————————
+Iter-0; loss: 0.0040;time per batch:0.1146s
+Epoch-1394
+————————————————
+Iter-0; loss: 0.0105;time per batch:0.1173s
+Epoch-1395
+————————————————
+Iter-0; loss: 0.0121;time per batch:0.1177s
+Epoch-1396
+————————————————
+Iter-0; loss: 0.0107;time per batch:0.1163s
+Epoch-1397
+————————————————
+Iter-0; loss: 0.0263;time per batch:0.1163s
+Epoch-1398
+————————————————
+Iter-0; loss: 0.0057;time per batch:0.1204s
+Epoch-1399
+————————————————
+Iter-0; loss: 0.0212;time per batch:0.1167s
+Epoch-1400
+————————————————
+Iter-0; loss: 0.0150;time per batch:0.1148s
+Epoch-1401
+————————————————
+Iter-0; loss: 0.0040;time per batch:0.1172s
+Epoch-1402
+————————————————
+Iter-0; loss: 0.0130;time per batch:0.1175s
+Epoch-1403
+————————————————
+Iter-0; loss: 0.0152;time per batch:0.1171s
+Epoch-1404
+————————————————
+Iter-0; loss: 0.0062;time per batch:0.1168s
+Epoch-1405
+————————————————
+Iter-0; loss: 0.0094;time per batch:0.1179s
+Epoch-1406
+————————————————
+Iter-0; loss: 0.0136;time per batch:0.1163s
+Epoch-1407
+————————————————
+Iter-0; loss: 0.0084;time per batch:0.1154s
+Epoch-1408
+————————————————
+Iter-0; loss: 0.0198;time per batch:0.1162s
+Epoch-1409
+————————————————
+Iter-0; loss: 0.0078;time per batch:0.1162s
+Epoch-1410
+————————————————
+Iter-0; loss: 0.0085;time per batch:0.1154s
+Epoch-1411
+————————————————
+Iter-0; loss: 0.0122;time per batch:0.1149s
+Epoch-1412
+————————————————
+Iter-0; loss: 0.0178;time per batch:0.1180s
+Epoch-1413
+————————————————
+Iter-0; loss: 0.0181;time per batch:0.1176s
+Epoch-1414
+————————————————
+Iter-0; loss: 0.0135;time per batch:0.1173s
+Epoch-1415
+————————————————
+Iter-0; loss: 0.0185;time per batch:0.1182s
+Epoch-1416
+————————————————
+Iter-0; loss: 0.0127;time per batch:0.1146s
+Epoch-1417
+————————————————
+Iter-0; loss: 0.0114;time per batch:0.1145s
+Epoch-1418
+————————————————
+Iter-0; loss: 0.0090;time per batch:0.1148s
+Epoch-1419
+————————————————
+Iter-0; loss: 0.0209;time per batch:0.1190s
+Epoch-1420
+————————————————
+Iter-0; loss: 0.0108;time per batch:0.1278s
+Epoch-1421
+————————————————
+Iter-0; loss: 0.0123;time per batch:0.1158s
+Epoch-1422
+————————————————
+Iter-0; loss: 0.0133;time per batch:0.1144s
+Epoch-1423
+————————————————
+Iter-0; loss: 0.0184;time per batch:0.1182s
+Epoch-1424
+————————————————
+Iter-0; loss: 0.0133;time per batch:0.1162s
+Epoch-1425
+————————————————
+Iter-0; loss: 0.0186;time per batch:0.1156s
+Epoch-1426
+————————————————
+Iter-0; loss: 0.0090;time per batch:0.1166s
+Epoch-1427
+————————————————
+Iter-0; loss: 0.0031;time per batch:0.1158s
+Epoch-1428
+————————————————
+Iter-0; loss: 0.0165;time per batch:0.1164s
+Epoch-1429
+————————————————
+Iter-0; loss: 0.0131;time per batch:0.1163s
+Epoch-1430
+————————————————
+Iter-0; loss: 0.0121;time per batch:0.1147s
+Epoch-1431
+————————————————
+Iter-0; loss: 0.0165;time per batch:0.1168s
+Epoch-1432
+————————————————
+Iter-0; loss: 0.0032;time per batch:0.1193s
+Epoch-1433
+————————————————
+Iter-0; loss: 0.0194;time per batch:0.1163s
+Epoch-1434
+————————————————
+Iter-0; loss: 0.0109;time per batch:0.1171s
+Epoch-1435
+————————————————
+Iter-0; loss: 0.0041;time per batch:0.1160s
+Epoch-1436
+————————————————
+Iter-0; loss: 0.0354;time per batch:0.1142s
+Epoch-1437
+————————————————
+Iter-0; loss: 0.0040;time per batch:0.1158s
+Epoch-1438
+————————————————
+Iter-0; loss: 0.0096;time per batch:0.1197s
+Epoch-1439
+————————————————
+Iter-0; loss: 0.0195;time per batch:0.1157s
+Epoch-1440
+————————————————
+Iter-0; loss: 0.0232;time per batch:0.1164s
+Epoch-1441
+————————————————
+Iter-0; loss: 0.0391;time per batch:0.1167s
+Epoch-1442
+————————————————
+Iter-0; loss: 0.0045;time per batch:0.1149s
+Epoch-1443
+————————————————
+Iter-0; loss: 0.0204;time per batch:0.1181s
+Epoch-1444
+————————————————
+Iter-0; loss: 0.0145;time per batch:0.1134s
+Epoch-1445
+————————————————
+Iter-0; loss: 0.0150;time per batch:0.1152s
+Epoch-1446
+————————————————
+Iter-0; loss: 0.0230;time per batch:0.1162s
+Epoch-1447
+————————————————
+Iter-0; loss: 0.0044;time per batch:0.1142s
+Epoch-1448
+————————————————
+Iter-0; loss: 0.0067;time per batch:0.1152s
+Epoch-1449
+————————————————
+Iter-0; loss: 0.0066;time per batch:0.1190s
+Epoch-1450
+————————————————
+Iter-0; loss: 0.0343;time per batch:0.1161s
+Epoch-1451
+————————————————
+Iter-0; loss: 0.0160;time per batch:0.1140s
+Epoch-1452
+————————————————
+Iter-0; loss: 0.0180;time per batch:0.1157s
+Epoch-1453
+————————————————
+Iter-0; loss: 0.0062;time per batch:0.1175s
+Epoch-1454
+————————————————
+Iter-0; loss: 0.0082;time per batch:0.1163s
+Epoch-1455
+————————————————
+Iter-0; loss: 0.0086;time per batch:0.1189s
+Epoch-1456
+————————————————
+Iter-0; loss: 0.0051;time per batch:0.1158s
+Epoch-1457
+————————————————
+Iter-0; loss: 0.0201;time per batch:0.1233s
+Epoch-1458
+————————————————
+Iter-0; loss: 0.0210;time per batch:0.1143s
+Epoch-1459
+————————————————
+Iter-0; loss: 0.0203;time per batch:0.1156s
+Epoch-1460
+————————————————
+Iter-0; loss: 0.0172;time per batch:0.1179s
+Epoch-1461
+————————————————
+Iter-0; loss: 0.0072;time per batch:0.1145s
+Epoch-1462
+————————————————
+Iter-0; loss: 0.0092;time per batch:0.1149s
+Epoch-1463
+————————————————
+Iter-0; loss: 0.0165;time per batch:0.1166s
+Epoch-1464
+————————————————
+Iter-0; loss: 0.0101;time per batch:0.1139s
+Epoch-1465
+————————————————
+Iter-0; loss: 0.0076;time per batch:0.1314s
+Epoch-1466
+————————————————
+Iter-0; loss: 0.0209;time per batch:0.1164s
+Epoch-1467
+————————————————
+Iter-0; loss: 0.0172;time per batch:0.1227s
+Epoch-1468
+————————————————
+Iter-0; loss: 0.0143;time per batch:0.1164s
+Epoch-1469
+————————————————
+Iter-0; loss: 0.0084;time per batch:0.1159s
+Epoch-1470
+————————————————
+Iter-0; loss: 0.0078;time per batch:0.1152s
+Epoch-1471
+————————————————
+Iter-0; loss: 0.0044;time per batch:0.1160s
+Epoch-1472
+————————————————
+Iter-0; loss: 0.0091;time per batch:0.1188s
+Epoch-1473
+————————————————
+Iter-0; loss: 0.0043;time per batch:0.1146s
+Epoch-1474
+————————————————
+Iter-0; loss: 0.0303;time per batch:0.1169s
+Epoch-1475
+————————————————
+Iter-0; loss: 0.0198;time per batch:0.1126s
+Epoch-1476
+————————————————
+Iter-0; loss: 0.0043;time per batch:0.1178s
+Epoch-1477
+————————————————
+Iter-0; loss: 0.0257;time per batch:0.1138s
+Epoch-1478
+————————————————
+Iter-0; loss: 0.0174;time per batch:0.1173s
+Epoch-1479
+————————————————
+Iter-0; loss: 0.0035;time per batch:0.1156s
+Epoch-1480
+————————————————
+Iter-0; loss: 0.0167;time per batch:0.1154s
+Epoch-1481
+————————————————
+Iter-0; loss: 0.0221;time per batch:0.1159s
+Epoch-1482
+————————————————
+Iter-0; loss: 0.0228;time per batch:0.1155s
+Epoch-1483
+————————————————
+Iter-0; loss: 0.0118;time per batch:0.1167s
+Epoch-1484
+————————————————
+Iter-0; loss: 0.0107;time per batch:0.1141s
+Epoch-1485
+————————————————
+Iter-0; loss: 0.0192;time per batch:0.1142s
+Epoch-1486
+————————————————
+Iter-0; loss: 0.0175;time per batch:0.1151s
+Epoch-1487
+————————————————
+Iter-0; loss: 0.0037;time per batch:0.1173s
+Epoch-1488
+————————————————
+Iter-0; loss: 0.0077;time per batch:0.1152s
+Epoch-1489
+————————————————
+Iter-0; loss: 0.0153;time per batch:0.1139s
+Epoch-1490
+————————————————
+Iter-0; loss: 0.0123;time per batch:0.1149s
+Epoch-1491
+————————————————
+Iter-0; loss: 0.0305;time per batch:0.1151s
+Epoch-1492
+————————————————
+Iter-0; loss: 0.0234;time per batch:0.1171s
+Epoch-1493
+————————————————
+Iter-0; loss: 0.0076;time per batch:0.1161s
+Epoch-1494
+————————————————
+Iter-0; loss: 0.0130;time per batch:0.1147s
+Epoch-1495
+————————————————
+Iter-0; loss: 0.0065;time per batch:0.1130s
+Epoch-1496
+————————————————
+Iter-0; loss: 0.0141;time per batch:0.1130s
+Epoch-1497
+————————————————
+Iter-0; loss: 0.0105;time per batch:0.1135s
+Epoch-1498
+————————————————
+Iter-0; loss: 0.0100;time per batch:0.1129s
+Epoch-1499
+————————————————
+Iter-0; loss: 0.0150;time per batch:0.1138s
+Epoch-1500
+————————————————
+Iter-0; loss: 0.0073;time per batch:0.1147s
+validation results:
+Mean Rank: 711
+Mean RR: 0.1065
+Hit@1: 0.0608
+Hit@3: 0.1184
+Hit@5: 0.1488
+Hit@10: 0.2008
+Epoch-1501
+————————————————
+Iter-0; loss: 0.0158;time per batch:0.1163s
+Epoch-1502
+————————————————
+Iter-0; loss: 0.0081;time per batch:0.1148s
+Epoch-1503
+————————————————
+Iter-0; loss: 0.0046;time per batch:0.1129s
+Epoch-1504
+————————————————
+Iter-0; loss: 0.0098;time per batch:0.1129s
+Epoch-1505
+————————————————
+Iter-0; loss: 0.0134;time per batch:0.1140s
+Epoch-1506
+————————————————
+Iter-0; loss: 0.0096;time per batch:0.1143s
+Epoch-1507
+————————————————
+Iter-0; loss: 0.0048;time per batch:0.1132s
+Epoch-1508
+————————————————
+Iter-0; loss: 0.0220;time per batch:0.1150s
+Epoch-1509
+————————————————
+Iter-0; loss: 0.0105;time per batch:0.1172s
+Epoch-1510
+————————————————
+Iter-0; loss: 0.0039;time per batch:0.1144s
+Epoch-1511
+————————————————
+Iter-0; loss: 0.0177;time per batch:0.1128s
+Epoch-1512
+————————————————
+Iter-0; loss: 0.0053;time per batch:0.1137s
+Epoch-1513
+————————————————
+Iter-0; loss: 0.0194;time per batch:0.1122s
+Epoch-1514
+————————————————
+Iter-0; loss: 0.0259;time per batch:0.1129s
+Epoch-1515
+————————————————
+Iter-0; loss: 0.0059;time per batch:0.1154s
+Epoch-1516
+————————————————
+Iter-0; loss: 0.0122;time per batch:0.1170s
+Epoch-1517
+————————————————
+Iter-0; loss: 0.0154;time per batch:0.1145s
+Epoch-1518
+————————————————
+Iter-0; loss: 0.0081;time per batch:0.1125s
+Epoch-1519
+————————————————
+Iter-0; loss: 0.0185;time per batch:0.1164s
+Epoch-1520
+————————————————
+Iter-0; loss: 0.0242;time per batch:0.1137s
+Epoch-1521
+————————————————
+Iter-0; loss: 0.0090;time per batch:0.1138s
+Epoch-1522
+————————————————
+Iter-0; loss: 0.0157;time per batch:0.1240s
+Epoch-1523
+————————————————
+Iter-0; loss: 0.0046;time per batch:0.1135s
+Epoch-1524
+————————————————
+Iter-0; loss: 0.0239;time per batch:0.1153s
+Epoch-1525
+————————————————
+Iter-0; loss: 0.0093;time per batch:0.1171s
+Epoch-1526
+————————————————
+Iter-0; loss: 0.0108;time per batch:0.1149s
+Epoch-1527
+————————————————
+Iter-0; loss: 0.0105;time per batch:0.1140s
+Epoch-1528
+————————————————
+Iter-0; loss: 0.0262;time per batch:0.1134s
+Epoch-1529
+————————————————
+Iter-0; loss: 0.0327;time per batch:0.1138s
+Epoch-1530
+————————————————
+Iter-0; loss: 0.0111;time per batch:0.1131s
+Epoch-1531
+————————————————
+Iter-0; loss: 0.0110;time per batch:0.1130s
+Epoch-1532
+————————————————
+Iter-0; loss: 0.0146;time per batch:0.1139s
+Epoch-1533
+————————————————
+Iter-0; loss: 0.0038;time per batch:0.1143s
+Epoch-1534
+————————————————
+Iter-0; loss: 0.0059;time per batch:0.1154s
+Epoch-1535
+————————————————
+Iter-0; loss: 0.0242;time per batch:0.1133s
+Epoch-1536
+————————————————
+Iter-0; loss: 0.0275;time per batch:0.1122s
+Epoch-1537
+————————————————
+Iter-0; loss: 0.0223;time per batch:0.1157s
+Epoch-1538
+————————————————
+Iter-0; loss: 0.0030;time per batch:0.1141s
+Epoch-1539
+————————————————
+Iter-0; loss: 0.0085;time per batch:0.1131s
+Epoch-1540
+————————————————
+Iter-0; loss: 0.0172;time per batch:0.1134s
+Epoch-1541
+————————————————
+Iter-0; loss: 0.0039;time per batch:0.1184s
+Epoch-1542
+————————————————
+Iter-0; loss: 0.0162;time per batch:0.1142s
+Epoch-1543
+————————————————
+Iter-0; loss: 0.0222;time per batch:0.1142s
+Epoch-1544
+————————————————
+Iter-0; loss: 0.0097;time per batch:0.1152s
+Epoch-1545
+————————————————
+Iter-0; loss: 0.0143;time per batch:0.1144s
+Epoch-1546
+————————————————
+Iter-0; loss: 0.0044;time per batch:0.1146s
+Epoch-1547
+————————————————
+Iter-0; loss: 0.0029;time per batch:0.1146s
+Epoch-1548
+————————————————
+Iter-0; loss: 0.0046;time per batch:0.1182s
+Epoch-1549
+————————————————
+Iter-0; loss: 0.0101;time per batch:0.1137s
+Epoch-1550
+————————————————
+Iter-0; loss: 0.0152;time per batch:0.1161s
+Epoch-1551
+————————————————
+Iter-0; loss: 0.0196;time per batch:0.1143s
+Epoch-1552
+————————————————
+Iter-0; loss: 0.0059;time per batch:0.1163s
+Epoch-1553
+————————————————
+Iter-0; loss: 0.0098;time per batch:0.1127s
+Epoch-1554
+————————————————
+Iter-0; loss: 0.0127;time per batch:0.1139s
+Epoch-1555
+————————————————
+Iter-0; loss: 0.0096;time per batch:0.1164s
+Epoch-1556
+————————————————
+Iter-0; loss: 0.0048;time per batch:0.1126s
+Epoch-1557
+————————————————
+Iter-0; loss: 0.0328;time per batch:0.1144s
+Epoch-1558
+————————————————
+Iter-0; loss: 0.0310;time per batch:0.1118s
+Epoch-1559
+————————————————
+Iter-0; loss: 0.0145;time per batch:0.1129s
+Epoch-1560
+————————————————
+Iter-0; loss: 0.0151;time per batch:0.1152s
+Epoch-1561
+————————————————
+Iter-0; loss: 0.0047;time per batch:0.1126s
+Epoch-1562
+————————————————
+Iter-0; loss: 0.0230;time per batch:0.1158s
+Epoch-1563
+————————————————
+Iter-0; loss: 0.0081;time per batch:0.1133s
+Epoch-1564
+————————————————
+Iter-0; loss: 0.0166;time per batch:0.1142s
+Epoch-1565
+————————————————
+Iter-0; loss: 0.0097;time per batch:0.1134s
+Epoch-1566
+————————————————
+Iter-0; loss: 0.0101;time per batch:0.1162s
+Epoch-1567
+————————————————
+Iter-0; loss: 0.0144;time per batch:0.1171s
+Epoch-1568
+————————————————
+Iter-0; loss: 0.0087;time per batch:0.1135s
+Epoch-1569
+————————————————
+Iter-0; loss: 0.0173;time per batch:0.1149s
+Epoch-1570
+————————————————
+Iter-0; loss: 0.0162;time per batch:0.1144s
+Epoch-1571
+————————————————
+Iter-0; loss: 0.0129;time per batch:0.1209s
+Epoch-1572
+————————————————
+Iter-0; loss: 0.0055;time per batch:0.1135s
+Epoch-1573
+————————————————
+Iter-0; loss: 0.0472;time per batch:0.1158s
+Epoch-1574
+————————————————
+Iter-0; loss: 0.0173;time per batch:0.1136s
+Epoch-1575
+————————————————
+Iter-0; loss: 0.0166;time per batch:0.1119s
+Epoch-1576
+————————————————
+Iter-0; loss: 0.0188;time per batch:0.1122s
+Epoch-1577
+————————————————
+Iter-0; loss: 0.0118;time per batch:0.1154s
+Epoch-1578
+————————————————
+Iter-0; loss: 0.0229;time per batch:0.1137s
+Epoch-1579
+————————————————
+Iter-0; loss: 0.0032;time per batch:0.1162s
+Epoch-1580
+————————————————
+Iter-0; loss: 0.0042;time per batch:0.1139s
+Epoch-1581
+————————————————
+Iter-0; loss: 0.0079;time per batch:0.1174s
+Epoch-1582
+————————————————
+Iter-0; loss: 0.0172;time per batch:0.1137s
+Epoch-1583
+————————————————
+Iter-0; loss: 0.0035;time per batch:0.1180s
+Epoch-1584
+————————————————
+Iter-0; loss: 0.0276;time per batch:0.1133s
+Epoch-1585
+————————————————
+Iter-0; loss: 0.0167;time per batch:0.1175s
+Epoch-1586
+————————————————
+Iter-0; loss: 0.0025;time per batch:0.1143s
+Epoch-1587
+————————————————
+Iter-0; loss: 0.0176;time per batch:0.1154s
+Epoch-1588
+————————————————
+Iter-0; loss: 0.0182;time per batch:0.1151s
+Epoch-1589
+————————————————
+Iter-0; loss: 0.0034;time per batch:0.1137s
+Epoch-1590
+————————————————
+Iter-0; loss: 0.0031;time per batch:0.1144s
+Epoch-1591
+————————————————
+Iter-0; loss: 0.0180;time per batch:0.1153s
+Epoch-1592
+————————————————
+Iter-0; loss: 0.0172;time per batch:0.1122s
+Epoch-1593
+————————————————
+Iter-0; loss: 0.0029;time per batch:0.1148s
+Epoch-1594
+————————————————
+Iter-0; loss: 0.0124;time per batch:0.1149s
+Epoch-1595
+————————————————
+Iter-0; loss: 0.0026;time per batch:0.1133s
+Epoch-1596
+————————————————
+Iter-0; loss: 0.0030;time per batch:0.1147s
+Epoch-1597
+————————————————
+Iter-0; loss: 0.0075;time per batch:0.1125s
+Epoch-1598
+————————————————
+Iter-0; loss: 0.0213;time per batch:0.1132s
+Epoch-1599
+————————————————
+Iter-0; loss: 0.0151;time per batch:0.1175s
+Epoch-1600
+————————————————
+Iter-0; loss: 0.0181;time per batch:0.1167s
+Epoch-1601
+————————————————
+Iter-0; loss: 0.0117;time per batch:0.1144s
+Epoch-1602
+————————————————
+Iter-0; loss: 0.0142;time per batch:0.1140s
+Epoch-1603
+————————————————
+Iter-0; loss: 0.0158;time per batch:0.1150s
+Epoch-1604
+————————————————
+Iter-0; loss: 0.0122;time per batch:0.1160s
+Epoch-1605
+————————————————
+Iter-0; loss: 0.0065;time per batch:0.1145s
+Epoch-1606
+————————————————
+Iter-0; loss: 0.0036;time per batch:0.1115s
+Epoch-1607
+————————————————
+Iter-0; loss: 0.0074;time per batch:0.1149s
+Epoch-1608
+————————————————
+Iter-0; loss: 0.0094;time per batch:0.1147s
+Epoch-1609
+————————————————
+Iter-0; loss: 0.0152;time per batch:0.1413s
+Epoch-1610
+————————————————
+Iter-0; loss: 0.0147;time per batch:0.1158s
+Epoch-1611
+————————————————
+Iter-0; loss: 0.0051;time per batch:0.1144s
+Epoch-1612
+————————————————
+Iter-0; loss: 0.0360;time per batch:0.1140s
+Epoch-1613
+————————————————
+Iter-0; loss: 0.0205;time per batch:0.1138s
+Epoch-1614
+————————————————
+Iter-0; loss: 0.0103;time per batch:0.1140s
+Epoch-1615
+————————————————
+Iter-0; loss: 0.0076;time per batch:0.1174s
+Epoch-1616
+————————————————
+Iter-0; loss: 0.0100;time per batch:0.1137s
+Epoch-1617
+————————————————
+Iter-0; loss: 0.0081;time per batch:0.1131s
+Epoch-1618
+————————————————
+Iter-0; loss: 0.0226;time per batch:0.1354s
+Epoch-1619
+————————————————
+Iter-0; loss: 0.0042;time per batch:0.1150s
+Epoch-1620
+————————————————
+Iter-0; loss: 0.0178;time per batch:0.1123s
+Epoch-1621
+————————————————
+Iter-0; loss: 0.0086;time per batch:0.1193s
+Epoch-1622
+————————————————
+Iter-0; loss: 0.0047;time per batch:0.1145s
+Epoch-1623
+————————————————
+Iter-0; loss: 0.0036;time per batch:0.1139s
+Epoch-1624
+————————————————
+Iter-0; loss: 0.0158;time per batch:0.1150s
+Epoch-1625
+————————————————
+Iter-0; loss: 0.0047;time per batch:0.1142s
+Epoch-1626
+————————————————
+Iter-0; loss: 0.0065;time per batch:0.1142s
+Epoch-1627
+————————————————
+Iter-0; loss: 0.0266;time per batch:0.1206s
+Epoch-1628
+————————————————
+Iter-0; loss: 0.0155;time per batch:0.1129s
+Epoch-1629
+————————————————
+Iter-0; loss: 0.0035;time per batch:0.1146s
+Epoch-1630
+————————————————
+Iter-0; loss: 0.0144;time per batch:0.1136s
+Epoch-1631
+————————————————
+Iter-0; loss: 0.0143;time per batch:0.1139s
+Epoch-1632
+————————————————
+Iter-0; loss: 0.0034;time per batch:0.1128s
+Epoch-1633
+————————————————
+Iter-0; loss: 0.0119;time per batch:0.1181s
+Epoch-1634
+————————————————
+Iter-0; loss: 0.0132;time per batch:0.1142s
+Epoch-1635
+————————————————
+Iter-0; loss: 0.0111;time per batch:0.1140s
+Epoch-1636
+————————————————
+Iter-0; loss: 0.0065;time per batch:0.1120s
+Epoch-1637
+————————————————
+Iter-0; loss: 0.0075;time per batch:0.1236s
+Epoch-1638
+————————————————
+Iter-0; loss: 0.0131;time per batch:0.1152s
+Epoch-1639
+————————————————
+Iter-0; loss: 0.0242;time per batch:0.1128s
+Epoch-1640
+————————————————
+Iter-0; loss: 0.0168;time per batch:0.1141s
+Epoch-1641
+————————————————
+Iter-0; loss: 0.0240;time per batch:0.1136s
+Epoch-1642
+————————————————
+Iter-0; loss: 0.0169;time per batch:0.1157s
+Epoch-1643
+————————————————
+Iter-0; loss: 0.0203;time per batch:0.1126s
+Epoch-1644
+————————————————
+Iter-0; loss: 0.0095;time per batch:0.1138s
+Epoch-1645
+————————————————
+Iter-0; loss: 0.0242;time per batch:0.1170s
+Epoch-1646
+————————————————
+Iter-0; loss: 0.0111;time per batch:0.1127s
+Epoch-1647
+————————————————
+Iter-0; loss: 0.0144;time per batch:0.1141s
+Epoch-1648
+————————————————
+Iter-0; loss: 0.0209;time per batch:0.1139s
+Epoch-1649
+————————————————
+Iter-0; loss: 0.0062;time per batch:0.1126s
+Epoch-1650
+————————————————
+Iter-0; loss: 0.0062;time per batch:0.1220s
+Epoch-1651
+————————————————
+Iter-0; loss: 0.0212;time per batch:0.1126s
+Epoch-1652
+————————————————
+Iter-0; loss: 0.0039;time per batch:0.1132s
+Epoch-1653
+————————————————
+Iter-0; loss: 0.0069;time per batch:0.1140s
+Epoch-1654
+————————————————
+Iter-0; loss: 0.0122;time per batch:0.1129s
+Epoch-1655
+————————————————
+Iter-0; loss: 0.0096;time per batch:0.1136s
+Epoch-1656
+————————————————
+Iter-0; loss: 0.0113;time per batch:0.1152s
+Epoch-1657
+————————————————
+Iter-0; loss: 0.0025;time per batch:0.1139s
+Epoch-1658
+————————————————
+Iter-0; loss: 0.0097;time per batch:0.1145s
+Epoch-1659
+————————————————
+Iter-0; loss: 0.0155;time per batch:0.1146s
+Epoch-1660
+————————————————
+Iter-0; loss: 0.0107;time per batch:0.1129s
+Epoch-1661
+————————————————
+Iter-0; loss: 0.0088;time per batch:0.1157s
+Epoch-1662
+————————————————
+Iter-0; loss: 0.0157;time per batch:0.1132s
+Epoch-1663
+————————————————
+Iter-0; loss: 0.0098;time per batch:0.1158s
+Epoch-1664
+————————————————
+Iter-0; loss: 0.0312;time per batch:0.1144s
+Epoch-1665
+————————————————
+Iter-0; loss: 0.0267;time per batch:0.1159s
+Epoch-1666
+————————————————
+Iter-0; loss: 0.0131;time per batch:0.1147s
+Epoch-1667
+————————————————
+Iter-0; loss: 0.0064;time per batch:0.1172s
+Epoch-1668
+————————————————
+Iter-0; loss: 0.0373;time per batch:0.1183s
+Epoch-1669
+————————————————
+Iter-0; loss: 0.0109;time per batch:0.1155s
+Epoch-1670
+————————————————
+Iter-0; loss: 0.0101;time per batch:0.1183s
+Epoch-1671
+————————————————
+Iter-0; loss: 0.0087;time per batch:0.1139s
+Epoch-1672
+————————————————
+Iter-0; loss: 0.0192;time per batch:0.1135s
+Epoch-1673
+————————————————
+Iter-0; loss: 0.0133;time per batch:0.1146s
+Epoch-1674
+————————————————
+Iter-0; loss: 0.0229;time per batch:0.1132s
+Epoch-1675
+————————————————
+Iter-0; loss: 0.0091;time per batch:0.1171s
+Epoch-1676
+————————————————
+Iter-0; loss: 0.0076;time per batch:0.1132s
+Epoch-1677
+————————————————
+Iter-0; loss: 0.0211;time per batch:0.1143s
+Epoch-1678
+————————————————
+Iter-0; loss: 0.0143;time per batch:0.1127s
+Epoch-1679
+————————————————
+Iter-0; loss: 0.0144;time per batch:0.1144s
+Epoch-1680
+————————————————
+Iter-0; loss: 0.0177;time per batch:0.1140s
+Epoch-1681
+————————————————
+Iter-0; loss: 0.0240;time per batch:0.1142s
+Epoch-1682
+————————————————
+Iter-0; loss: 0.0186;time per batch:0.1134s
+Epoch-1683
+————————————————
+Iter-0; loss: 0.0155;time per batch:0.1139s
+Epoch-1684
+————————————————
+Iter-0; loss: 0.0040;time per batch:0.1137s
+Epoch-1685
+————————————————
+Iter-0; loss: 0.0067;time per batch:0.1167s
+Epoch-1686
+————————————————
+Iter-0; loss: 0.0148;time per batch:0.1186s
+Epoch-1687
+————————————————
+Iter-0; loss: 0.0218;time per batch:0.1165s
+Epoch-1688
+————————————————
+Iter-0; loss: 0.0083;time per batch:0.1132s
+Epoch-1689
+————————————————
+Iter-0; loss: 0.0118;time per batch:0.1157s
+Epoch-1690
+————————————————
+Iter-0; loss: 0.0224;time per batch:0.1134s
+Epoch-1691
+————————————————
+Iter-0; loss: 0.0126;time per batch:0.1129s
+Epoch-1692
+————————————————
+Iter-0; loss: 0.0135;time per batch:0.1162s
+Epoch-1693
+————————————————
+Iter-0; loss: 0.0040;time per batch:0.1130s
+Epoch-1694
+————————————————
+Iter-0; loss: 0.0098;time per batch:0.1149s
+Epoch-1695
+————————————————
+Iter-0; loss: 0.0044;time per batch:0.1126s
+Epoch-1696
+————————————————
+Iter-0; loss: 0.0276;time per batch:0.1135s
+Epoch-1697
+————————————————
+Iter-0; loss: 0.0148;time per batch:0.1146s
+Epoch-1698
+————————————————
+Iter-0; loss: 0.0263;time per batch:0.1138s
+Epoch-1699
+————————————————
+Iter-0; loss: 0.0172;time per batch:0.1134s
+Epoch-1700
+————————————————
+Iter-0; loss: 0.0178;time per batch:0.1181s
+Epoch-1701
+————————————————
+Iter-0; loss: 0.0029;time per batch:0.1128s
+Epoch-1702
+————————————————
+Iter-0; loss: 0.0043;time per batch:0.1132s
+Epoch-1703
+————————————————
+Iter-0; loss: 0.0126;time per batch:0.1142s
+Epoch-1704
+————————————————
+Iter-0; loss: 0.0274;time per batch:0.1138s
+Epoch-1705
+————————————————
+Iter-0; loss: 0.0051;time per batch:0.1120s
+Epoch-1706
+————————————————
+Iter-0; loss: 0.0154;time per batch:0.1135s
+Epoch-1707
+————————————————
+Iter-0; loss: 0.0097;time per batch:0.1131s
+Epoch-1708
+————————————————
+Iter-0; loss: 0.0077;time per batch:0.1126s
+Epoch-1709
+————————————————
+Iter-0; loss: 0.0089;time per batch:0.1146s
+Epoch-1710
+————————————————
+Iter-0; loss: 0.0074;time per batch:0.1148s
+Epoch-1711
+————————————————
+Iter-0; loss: 0.0144;time per batch:0.1132s
+Epoch-1712
+————————————————
+Iter-0; loss: 0.0174;time per batch:0.1143s
+Epoch-1713
+————————————————
+Iter-0; loss: 0.0103;time per batch:0.1134s
+Epoch-1714
+————————————————
+Iter-0; loss: 0.0108;time per batch:0.1143s
+Epoch-1715
+————————————————
+Iter-0; loss: 0.0093;time per batch:0.1136s
+Epoch-1716
+————————————————
+Iter-0; loss: 0.0261;time per batch:0.1136s
+Epoch-1717
+————————————————
+Iter-0; loss: 0.0032;time per batch:0.1132s
+Epoch-1718
+————————————————
+Iter-0; loss: 0.0161;time per batch:0.1156s
+Epoch-1719
+————————————————
+Iter-0; loss: 0.0173;time per batch:0.1131s
+Epoch-1720
+————————————————
+Iter-0; loss: 0.0142;time per batch:0.1127s
+Epoch-1721
+————————————————
+Iter-0; loss: 0.0133;time per batch:0.1158s
+Epoch-1722
+————————————————
+Iter-0; loss: 0.0200;time per batch:0.1137s
+Epoch-1723
+————————————————
+Iter-0; loss: 0.0140;time per batch:0.1181s
+Epoch-1724
+————————————————
+Iter-0; loss: 0.0094;time per batch:0.1167s
+Epoch-1725
+————————————————
+Iter-0; loss: 0.0034;time per batch:0.1137s
+Epoch-1726
+————————————————
+Iter-0; loss: 0.0031;time per batch:0.1123s
+Epoch-1727
+————————————————
+Iter-0; loss: 0.0102;time per batch:0.1136s
+Epoch-1728
+————————————————
+Iter-0; loss: 0.0123;time per batch:0.1135s
+Epoch-1729
+————————————————
+Iter-0; loss: 0.0131;time per batch:0.1143s
+Epoch-1730
+————————————————
+Iter-0; loss: 0.0195;time per batch:0.1191s
+Epoch-1731
+————————————————
+Iter-0; loss: 0.0041;time per batch:0.1143s
+Epoch-1732
+————————————————
+Iter-0; loss: 0.0097;time per batch:0.1147s
+Epoch-1733
+————————————————
+Iter-0; loss: 0.0111;time per batch:0.1124s
+Epoch-1734
+————————————————
+Iter-0; loss: 0.0104;time per batch:0.1144s
+Epoch-1735
+————————————————
+Iter-0; loss: 0.0119;time per batch:0.1136s
+Epoch-1736
+————————————————
+Iter-0; loss: 0.0215;time per batch:0.1132s
+Epoch-1737
+————————————————
+Iter-0; loss: 0.0108;time per batch:0.1124s
+Epoch-1738
+————————————————
+Iter-0; loss: 0.0085;time per batch:0.1142s
+Epoch-1739
+————————————————
+Iter-0; loss: 0.0146;time per batch:0.1142s
+Epoch-1740
+————————————————
+Iter-0; loss: 0.0079;time per batch:0.1126s
+Epoch-1741
+————————————————
+Iter-0; loss: 0.0042;time per batch:0.1150s
+Epoch-1742
+————————————————
+Iter-0; loss: 0.0164;time per batch:0.1144s
+Epoch-1743
+————————————————
+Iter-0; loss: 0.0091;time per batch:0.1133s
+Epoch-1744
+————————————————
+Iter-0; loss: 0.0089;time per batch:0.1197s
+Epoch-1745
+————————————————
+Iter-0; loss: 0.0157;time per batch:0.1139s
+Epoch-1746
+————————————————
+Iter-0; loss: 0.0260;time per batch:0.1169s
+Epoch-1747
+————————————————
+Iter-0; loss: 0.0112;time per batch:0.1136s
+Epoch-1748
+————————————————
+Iter-0; loss: 0.0141;time per batch:0.1127s
+Epoch-1749
+————————————————
+Iter-0; loss: 0.0132;time per batch:0.1125s
+Epoch-1750
+————————————————
+Iter-0; loss: 0.0139;time per batch:0.1127s
+validation results:
+Mean Rank: 692
+Mean RR: 0.1032
+Hit@1: 0.0544
+Hit@3: 0.1128
+Hit@5: 0.1568
+Hit@10: 0.2008
+Epoch-1751
+————————————————
+Iter-0; loss: 0.0221;time per batch:0.1131s
+Epoch-1752
+————————————————
+Iter-0; loss: 0.0175;time per batch:0.1149s
+Epoch-1753
+————————————————
+Iter-0; loss: 0.0057;time per batch:0.1123s
+Epoch-1754
+————————————————
+Iter-0; loss: 0.0045;time per batch:0.1141s
+Epoch-1755
+————————————————
+Iter-0; loss: 0.0025;time per batch:0.1133s
+Epoch-1756
+————————————————
+Iter-0; loss: 0.0180;time per batch:0.1148s
+Epoch-1757
+————————————————
+Iter-0; loss: 0.0206;time per batch:0.1124s
+Epoch-1758
+————————————————
+Iter-0; loss: 0.0109;time per batch:0.1150s
+Epoch-1759
+————————————————
+Iter-0; loss: 0.0236;time per batch:0.1209s
+Epoch-1760
+————————————————
+Iter-0; loss: 0.0114;time per batch:0.1143s
+Epoch-1761
+————————————————
+Iter-0; loss: 0.0117;time per batch:0.1138s
+Epoch-1762
+————————————————
+Iter-0; loss: 0.0117;time per batch:0.1159s
+Epoch-1763
+————————————————
+Iter-0; loss: 0.0094;time per batch:0.1128s
+Epoch-1764
+————————————————
+Iter-0; loss: 0.0094;time per batch:0.1149s
+Epoch-1765
+————————————————
+Iter-0; loss: 0.0132;time per batch:0.1121s
+Epoch-1766
+————————————————
+Iter-0; loss: 0.0042;time per batch:0.1183s
+Epoch-1767
+————————————————
+Iter-0; loss: 0.0161;time per batch:0.1146s
+Epoch-1768
+————————————————
+Iter-0; loss: 0.0111;time per batch:0.1117s
+Epoch-1769
+————————————————
+Iter-0; loss: 0.0380;time per batch:0.1152s
+Epoch-1770
+————————————————
+Iter-0; loss: 0.0190;time per batch:0.1145s
+Epoch-1771
+————————————————
+Iter-0; loss: 0.0221;time per batch:0.1221s
+Epoch-1772
+————————————————
+Iter-0; loss: 0.0152;time per batch:0.1198s
+Epoch-1773
+————————————————
+Iter-0; loss: 0.0190;time per batch:0.1181s
+Epoch-1774
+————————————————
+Iter-0; loss: 0.0035;time per batch:0.1149s
+Epoch-1775
+————————————————
+Iter-0; loss: 0.0079;time per batch:0.1139s
+Epoch-1776
+————————————————
+Iter-0; loss: 0.0110;time per batch:0.1138s
+Epoch-1777
+————————————————
+Iter-0; loss: 0.0150;time per batch:0.1138s
+Epoch-1778
+————————————————
+Iter-0; loss: 0.0159;time per batch:0.1138s
+Epoch-1779
+————————————————
+Iter-0; loss: 0.0077;time per batch:0.1156s
+Epoch-1780
+————————————————
+Iter-0; loss: 0.0138;time per batch:0.1184s
+Epoch-1781
+————————————————
+Iter-0; loss: 0.0085;time per batch:0.1172s
+Epoch-1782
+————————————————
+Iter-0; loss: 0.0083;time per batch:0.1132s
+Epoch-1783
+————————————————
+Iter-0; loss: 0.0035;time per batch:0.1152s
+Epoch-1784
+————————————————
+Iter-0; loss: 0.0167;time per batch:0.1151s
+Epoch-1785
+————————————————
+Iter-0; loss: 0.0192;time per batch:0.1150s
+Epoch-1786
+————————————————
+Iter-0; loss: 0.0148;time per batch:0.1148s
+Epoch-1787
+————————————————
+Iter-0; loss: 0.0093;time per batch:0.1143s
+Epoch-1788
+————————————————
+Iter-0; loss: 0.0125;time per batch:0.1147s
+Epoch-1789
+————————————————
+Iter-0; loss: 0.0079;time per batch:0.1140s
+Epoch-1790
+————————————————
+Iter-0; loss: 0.0160;time per batch:0.1157s
+Epoch-1791
+————————————————
+Iter-0; loss: 0.0149;time per batch:0.1136s
+Epoch-1792
+————————————————
+Iter-0; loss: 0.0117;time per batch:0.1148s
+Epoch-1793
+————————————————
+Iter-0; loss: 0.0206;time per batch:0.1153s
+Epoch-1794
+————————————————
+Iter-0; loss: 0.0094;time per batch:0.1173s
+Epoch-1795
+————————————————
+Iter-0; loss: 0.0090;time per batch:0.1151s
+Epoch-1796
+————————————————
+Iter-0; loss: 0.0157;time per batch:0.1157s
+Epoch-1797
+————————————————
+Iter-0; loss: 0.0033;time per batch:0.1121s
+Epoch-1798
+————————————————
+Iter-0; loss: 0.0088;time per batch:0.1121s
+Epoch-1799
+————————————————
+Iter-0; loss: 0.0044;time per batch:0.1153s
+Epoch-1800
+————————————————
+Iter-0; loss: 0.0124;time per batch:0.1169s
+Epoch-1801
+————————————————
+Iter-0; loss: 0.0248;time per batch:0.1224s
+Epoch-1802
+————————————————
+Iter-0; loss: 0.0180;time per batch:0.1151s
+Epoch-1803
+————————————————
+Iter-0; loss: 0.0144;time per batch:0.1246s
+Epoch-1804
+————————————————
+Iter-0; loss: 0.0031;time per batch:0.1186s
+Epoch-1805
+————————————————
+Iter-0; loss: 0.0032;time per batch:0.1179s
+Epoch-1806
+————————————————
+Iter-0; loss: 0.0114;time per batch:0.1200s
+Epoch-1807
+————————————————
+Iter-0; loss: 0.0084;time per batch:0.1140s
+Epoch-1808
+————————————————
+Iter-0; loss: 0.0162;time per batch:0.1226s
+Epoch-1809
+————————————————
+Iter-0; loss: 0.0152;time per batch:0.1152s
+Epoch-1810
+————————————————
+Iter-0; loss: 0.0149;time per batch:0.1138s
+Epoch-1811
+————————————————
+Iter-0; loss: 0.0028;time per batch:0.1137s
+Epoch-1812
+————————————————
+Iter-0; loss: 0.0106;time per batch:0.1147s
+Epoch-1813
+————————————————
+Iter-0; loss: 0.0096;time per batch:0.1145s
+Epoch-1814
+————————————————
+Iter-0; loss: 0.0044;time per batch:0.1153s
+Epoch-1815
+————————————————
+Iter-0; loss: 0.0153;time per batch:0.1175s
+Epoch-1816
+————————————————
+Iter-0; loss: 0.0261;time per batch:0.1230s
+Epoch-1817
+————————————————
+Iter-0; loss: 0.0112;time per batch:0.1176s
+Epoch-1818
+————————————————
+Iter-0; loss: 0.0155;time per batch:0.1142s
+Epoch-1819
+————————————————
+Iter-0; loss: 0.0064;time per batch:0.1141s
+Epoch-1820
+————————————————
+Iter-0; loss: 0.0257;time per batch:0.1191s
+Epoch-1821
+————————————————
+Iter-0; loss: 0.0136;time per batch:0.1147s
+Epoch-1822
+————————————————
+Iter-0; loss: 0.0202;time per batch:0.1130s
+Epoch-1823
+————————————————
+Iter-0; loss: 0.0131;time per batch:0.1137s
+Epoch-1824
+————————————————
+Iter-0; loss: 0.0118;time per batch:0.1134s
+Epoch-1825
+————————————————
+Iter-0; loss: 0.0206;time per batch:0.1136s
+Epoch-1826
+————————————————
+Iter-0; loss: 0.0288;time per batch:0.1170s
+Epoch-1827
+————————————————
+Iter-0; loss: 0.0217;time per batch:0.1237s
+Epoch-1828
+————————————————
+Iter-0; loss: 0.0070;time per batch:0.1198s
+Epoch-1829
+————————————————
+Iter-0; loss: 0.0104;time per batch:0.1175s
+Epoch-1830
+————————————————
+Iter-0; loss: 0.0068;time per batch:0.1246s
+Epoch-1831
+————————————————
+Iter-0; loss: 0.0040;time per batch:0.1167s
+Epoch-1832
+————————————————
+Iter-0; loss: 0.0143;time per batch:0.1160s
+Epoch-1833
+————————————————
+Iter-0; loss: 0.0134;time per batch:0.1190s
+Epoch-1834
+————————————————
+Iter-0; loss: 0.0240;time per batch:0.1170s
+Epoch-1835
+————————————————
+Iter-0; loss: 0.0148;time per batch:0.1208s
+Epoch-1836
+————————————————
+Iter-0; loss: 0.0293;time per batch:0.1145s
+Epoch-1837
+————————————————
+Iter-0; loss: 0.0093;time per batch:0.1193s
+Epoch-1838
+————————————————
+Iter-0; loss: 0.0093;time per batch:0.1187s
+Epoch-1839
+————————————————
+Iter-0; loss: 0.0245;time per batch:0.1160s
+Epoch-1840
+————————————————
+Iter-0; loss: 0.0108;time per batch:0.1171s
+Epoch-1841
+————————————————
+Iter-0; loss: 0.0024;time per batch:0.1168s
+Epoch-1842
+————————————————
+Iter-0; loss: 0.0146;time per batch:0.1153s
+Epoch-1843
+————————————————
+Iter-0; loss: 0.0230;time per batch:0.1148s
+Epoch-1844
+————————————————
+Iter-0; loss: 0.0167;time per batch:0.1207s
+Epoch-1845
+————————————————
+Iter-0; loss: 0.0169;time per batch:0.1138s
+Epoch-1846
+————————————————
+Iter-0; loss: 0.0103;time per batch:0.1166s
+Epoch-1847
+————————————————
+Iter-0; loss: 0.0451;time per batch:0.1170s
+Epoch-1848
+————————————————
+Iter-0; loss: 0.0157;time per batch:0.1175s
+Epoch-1849
+————————————————
+Iter-0; loss: 0.0086;time per batch:0.1158s
+Epoch-1850
+————————————————
+Iter-0; loss: 0.0203;time per batch:0.1165s
+Epoch-1851
+————————————————
+Iter-0; loss: 0.0075;time per batch:0.1181s
+Epoch-1852
+————————————————
+Iter-0; loss: 0.0319;time per batch:0.1146s
+Epoch-1853
+————————————————
+Iter-0; loss: 0.0080;time per batch:0.1159s
+Epoch-1854
+————————————————
+Iter-0; loss: 0.0036;time per batch:0.1151s
+Epoch-1855
+————————————————
+Iter-0; loss: 0.0031;time per batch:0.1181s
+Epoch-1856
+————————————————
+Iter-0; loss: 0.0065;time per batch:0.1195s
+Epoch-1857
+————————————————
+Iter-0; loss: 0.0086;time per batch:0.1164s
+Epoch-1858
+————————————————
+Iter-0; loss: 0.0096;time per batch:0.1158s
+Epoch-1859
+————————————————
+Iter-0; loss: 0.0030;time per batch:0.1150s
+Epoch-1860
+————————————————
+Iter-0; loss: 0.0141;time per batch:0.1166s
+Epoch-1861
+————————————————
+Iter-0; loss: 0.0027;time per batch:0.1153s
+Epoch-1862
+————————————————
+Iter-0; loss: 0.0140;time per batch:0.1208s
+Epoch-1863
+————————————————
+Iter-0; loss: 0.0323;time per batch:0.1167s
+Epoch-1864
+————————————————
+Iter-0; loss: 0.0164;time per batch:0.1182s
+Epoch-1865
+————————————————
+Iter-0; loss: 0.0177;time per batch:0.1161s
+Epoch-1866
+————————————————
+Iter-0; loss: 0.0095;time per batch:0.1162s
+Epoch-1867
+————————————————
+Iter-0; loss: 0.0146;time per batch:0.1183s
+Epoch-1868
+————————————————
+Iter-0; loss: 0.0056;time per batch:0.1151s
+Epoch-1869
+————————————————
+Iter-0; loss: 0.0166;time per batch:0.1144s
+Epoch-1870
+————————————————
+Iter-0; loss: 0.0043;time per batch:0.1204s
+Epoch-1871
+————————————————
+Iter-0; loss: 0.0148;time per batch:0.1127s
+Epoch-1872
+————————————————
+Iter-0; loss: 0.0105;time per batch:0.1147s
+Epoch-1873
+————————————————
+Iter-0; loss: 0.0090;time per batch:0.1133s
+Epoch-1874
+————————————————
+Iter-0; loss: 0.0105;time per batch:0.1166s
+Epoch-1875
+————————————————
+Iter-0; loss: 0.0199;time per batch:0.1179s
+Epoch-1876
+————————————————
+Iter-0; loss: 0.0128;time per batch:0.1161s
+Epoch-1877
+————————————————
+Iter-0; loss: 0.0155;time per batch:0.1157s
+Epoch-1878
+————————————————
+Iter-0; loss: 0.0088;time per batch:0.1256s
+Epoch-1879
+————————————————
+Iter-0; loss: 0.0094;time per batch:0.1150s
+Epoch-1880
+————————————————
+Iter-0; loss: 0.0037;time per batch:0.1168s
+Epoch-1881
+————————————————
+Iter-0; loss: 0.0081;time per batch:0.1178s
+Epoch-1882
+————————————————
+Iter-0; loss: 0.0118;time per batch:0.1175s
+Epoch-1883
+————————————————
+Iter-0; loss: 0.0132;time per batch:0.1215s
+Epoch-1884
+————————————————
+Iter-0; loss: 0.0132;time per batch:0.1236s
+Epoch-1885
+————————————————
+Iter-0; loss: 0.0106;time per batch:0.1165s
+Epoch-1886
+————————————————
+Iter-0; loss: 0.0110;time per batch:0.1186s
+Epoch-1887
+————————————————
+Iter-0; loss: 0.0091;time per batch:0.1199s
+Epoch-1888
+————————————————
+Iter-0; loss: 0.0146;time per batch:0.1178s
+Epoch-1889
+————————————————
+Iter-0; loss: 0.0032;time per batch:0.1163s
+Epoch-1890
+————————————————
+Iter-0; loss: 0.0326;time per batch:0.1197s
+Epoch-1891
+————————————————
+Iter-0; loss: 0.0158;time per batch:0.1192s
+Epoch-1892
+————————————————
+Iter-0; loss: 0.0065;time per batch:0.1174s
+Epoch-1893
+————————————————
+Iter-0; loss: 0.0110;time per batch:0.1179s
+Epoch-1894
+————————————————
+Iter-0; loss: 0.0052;time per batch:0.1233s
+Epoch-1895
+————————————————
+Iter-0; loss: 0.0091;time per batch:0.1210s
+Epoch-1896
+————————————————
+Iter-0; loss: 0.0039;time per batch:0.1168s
+Epoch-1897
+————————————————
+Iter-0; loss: 0.0138;time per batch:0.1178s
+Epoch-1898
+————————————————
+Iter-0; loss: 0.0086;time per batch:0.1191s
+Epoch-1899
+————————————————
+Iter-0; loss: 0.0034;time per batch:0.1199s
+Epoch-1900
+————————————————
+Iter-0; loss: 0.0032;time per batch:0.1214s
+Epoch-1901
+————————————————
+Iter-0; loss: 0.0148;time per batch:0.1189s
+Epoch-1902
+————————————————
+Iter-0; loss: 0.0218;time per batch:0.1170s
+Epoch-1903
+————————————————
+Iter-0; loss: 0.0231;time per batch:0.1176s
+Epoch-1904
+————————————————
+Iter-0; loss: 0.0206;time per batch:0.1169s
+Epoch-1905
+————————————————
+Iter-0; loss: 0.0236;time per batch:0.1188s
+Epoch-1906
+————————————————
+Iter-0; loss: 0.0114;time per batch:0.1194s
+Epoch-1907
+————————————————
+Iter-0; loss: 0.0133;time per batch:0.1194s
+Epoch-1908
+————————————————
+Iter-0; loss: 0.0193;time per batch:0.1255s
+Epoch-1909
+————————————————
+Iter-0; loss: 0.0125;time per batch:0.1196s
+Epoch-1910
+————————————————
+Iter-0; loss: 0.0148;time per batch:0.1211s
+Epoch-1911
+————————————————
+Iter-0; loss: 0.0114;time per batch:0.1197s
+Epoch-1912
+————————————————
+Iter-0; loss: 0.0209;time per batch:0.1243s
+Epoch-1913
+————————————————
+Iter-0; loss: 0.0225;time per batch:0.1201s
+Epoch-1914
+————————————————
+Iter-0; loss: 0.0313;time per batch:0.1204s
+Epoch-1915
+————————————————
+Iter-0; loss: 0.0325;time per batch:0.1182s
+Epoch-1916
+————————————————
+Iter-0; loss: 0.0143;time per batch:0.1170s
+Epoch-1917
+————————————————
+Iter-0; loss: 0.0129;time per batch:0.1260s
+Epoch-1918
+————————————————
+Iter-0; loss: 0.0080;time per batch:0.1202s
+Epoch-1919
+————————————————
+Iter-0; loss: 0.0126;time per batch:0.1231s
+Epoch-1920
+————————————————
+Iter-0; loss: 0.0036;time per batch:0.1218s
+Epoch-1921
+————————————————
+Iter-0; loss: 0.0128;time per batch:0.1205s
+Epoch-1922
+————————————————
+Iter-0; loss: 0.0104;time per batch:0.1209s
+Epoch-1923
+————————————————
+Iter-0; loss: 0.0046;time per batch:0.1247s
+Epoch-1924
+————————————————
+Iter-0; loss: 0.0208;time per batch:0.1242s
+Epoch-1925
+————————————————
+Iter-0; loss: 0.0092;time per batch:0.1197s
+Epoch-1926
+————————————————
+Iter-0; loss: 0.0046;time per batch:0.1181s
+Epoch-1927
+————————————————
+Iter-0; loss: 0.0225;time per batch:0.1163s
+Epoch-1928
+————————————————
+Iter-0; loss: 0.0101;time per batch:0.1272s
+Epoch-1929
+————————————————
+Iter-0; loss: 0.0055;time per batch:0.1172s
+Epoch-1930
+————————————————
+Iter-0; loss: 0.0033;time per batch:0.1213s
+Epoch-1931
+————————————————
+Iter-0; loss: 0.0131;time per batch:0.1205s
+Epoch-1932
+————————————————
+Iter-0; loss: 0.0168;time per batch:0.1191s
+Epoch-1933
+————————————————
+Iter-0; loss: 0.0146;time per batch:0.1191s
+Epoch-1934
+————————————————
+Iter-0; loss: 0.0266;time per batch:0.1207s
+Epoch-1935
+————————————————
+Iter-0; loss: 0.0065;time per batch:0.1217s
+Epoch-1936
+————————————————
+Iter-0; loss: 0.0024;time per batch:0.1245s
+Epoch-1937
+————————————————
+Iter-0; loss: 0.0297;time per batch:0.1216s
+Epoch-1938
+————————————————
+Iter-0; loss: 0.0046;time per batch:0.1194s
+Epoch-1939
+————————————————
+Iter-0; loss: 0.0032;time per batch:0.1195s
+Epoch-1940
+————————————————
+Iter-0; loss: 0.0159;time per batch:0.1216s
+Epoch-1941
+————————————————
+Iter-0; loss: 0.0279;time per batch:0.1220s
+Epoch-1942
+————————————————
+Iter-0; loss: 0.0118;time per batch:0.1202s
+Epoch-1943
+————————————————
+Iter-0; loss: 0.0265;time per batch:0.1186s
+Epoch-1944
+————————————————
+Iter-0; loss: 0.0167;time per batch:0.1208s
+Epoch-1945
+————————————————
+Iter-0; loss: 0.0092;time per batch:0.1228s
+Epoch-1946
+————————————————
+Iter-0; loss: 0.0096;time per batch:0.1178s
+Epoch-1947
+————————————————
+Iter-0; loss: 0.0075;time per batch:0.1202s
+Epoch-1948
+————————————————
+Iter-0; loss: 0.0052;time per batch:0.1194s
+Epoch-1949
+————————————————
+Iter-0; loss: 0.0050;time per batch:0.1194s
+Epoch-1950
+————————————————
+Iter-0; loss: 0.0169;time per batch:0.1201s
+Epoch-1951
+————————————————
+Iter-0; loss: 0.0101;time per batch:0.1197s
+Epoch-1952
+————————————————
+Iter-0; loss: 0.0093;time per batch:0.1207s
+Epoch-1953
+————————————————
+Iter-0; loss: 0.0147;time per batch:0.1220s
+Epoch-1954
+————————————————
+Iter-0; loss: 0.0251;time per batch:0.1189s
+Epoch-1955
+————————————————
+Iter-0; loss: 0.0027;time per batch:0.1227s
+Epoch-1956
+————————————————
+Iter-0; loss: 0.0072;time per batch:0.1229s
+Epoch-1957
+————————————————
+Iter-0; loss: 0.0146;time per batch:0.1214s
+Epoch-1958
+————————————————
+Iter-0; loss: 0.0094;time per batch:0.1189s
+Epoch-1959
+————————————————
+Iter-0; loss: 0.0088;time per batch:0.1134s
+Epoch-1960
+————————————————
+Iter-0; loss: 0.0319;time per batch:0.1144s
+Epoch-1961
+————————————————
+Iter-0; loss: 0.0334;time per batch:0.1154s
+Epoch-1962
+————————————————
+Iter-0; loss: 0.0106;time per batch:0.1173s
+Epoch-1963
+————————————————
+Iter-0; loss: 0.0156;time per batch:0.1132s
+Epoch-1964
+————————————————
+Iter-0; loss: 0.0254;time per batch:0.1143s
+Epoch-1965
+————————————————
+Iter-0; loss: 0.0096;time per batch:0.1201s
+Epoch-1966
+————————————————
+Iter-0; loss: 0.0082;time per batch:0.1170s
+Epoch-1967
+————————————————
+Iter-0; loss: 0.0122;time per batch:0.1195s
+Epoch-1968
+————————————————
+Iter-0; loss: 0.0024;time per batch:0.1187s
+Epoch-1969
+————————————————
+Iter-0; loss: 0.0112;time per batch:0.1202s
+Epoch-1970
+————————————————
+Iter-0; loss: 0.0280;time per batch:0.1110s
+Epoch-1971
+————————————————
+Iter-0; loss: 0.0175;time per batch:0.1116s
+Epoch-1972
+————————————————
+Iter-0; loss: 0.0154;time per batch:0.1176s
+Epoch-1973
+————————————————
+Iter-0; loss: 0.0100;time per batch:0.1276s
+Epoch-1974
+————————————————
+Iter-0; loss: 0.0120;time per batch:0.1168s
+Epoch-1975
+————————————————
+Iter-0; loss: 0.0201;time per batch:0.1136s
+Epoch-1976
+————————————————
+Iter-0; loss: 0.0097;time per batch:0.1171s
+Epoch-1977
+————————————————
+Iter-0; loss: 0.0177;time per batch:0.1179s
+Epoch-1978
+————————————————
+Iter-0; loss: 0.0191;time per batch:0.1133s
+Epoch-1979
+————————————————
+Iter-0; loss: 0.0124;time per batch:0.1163s
+Epoch-1980
+————————————————
+Iter-0; loss: 0.0090;time per batch:0.1115s
+Epoch-1981
+————————————————
+Iter-0; loss: 0.0146;time per batch:0.1225s
+Epoch-1982
+————————————————
+Iter-0; loss: 0.0307;time per batch:0.1207s
+Epoch-1983
+————————————————
+Iter-0; loss: 0.0151;time per batch:0.1169s
+Epoch-1984
+————————————————
+Iter-0; loss: 0.0231;time per batch:0.1192s
+Epoch-1985
+————————————————
+Iter-0; loss: 0.0029;time per batch:0.1148s
+Epoch-1986
+————————————————
+Iter-0; loss: 0.0067;time per batch:0.1175s
+Epoch-1987
+————————————————
+Iter-0; loss: 0.0025;time per batch:0.1138s
+Epoch-1988
+————————————————
+Iter-0; loss: 0.0159;time per batch:0.1158s
+Epoch-1989
+————————————————
+Iter-0; loss: 0.0176;time per batch:0.1189s
+Epoch-1990
+————————————————
+Iter-0; loss: 0.0066;time per batch:0.1193s
+Epoch-1991
+————————————————
+Iter-0; loss: 0.0167;time per batch:0.1181s
+Epoch-1992
+————————————————
+Iter-0; loss: 0.0127;time per batch:0.1220s
+Epoch-1993
+————————————————
+Iter-0; loss: 0.0023;time per batch:0.1222s
+Epoch-1994
+————————————————
+Iter-0; loss: 0.0248;time per batch:0.1154s
+Epoch-1995
+————————————————
+Iter-0; loss: 0.0090;time per batch:0.1197s
+Epoch-1996
+————————————————
+Iter-0; loss: 0.0167;time per batch:0.1240s
+Epoch-1997
+————————————————
+Iter-0; loss: 0.0036;time per batch:0.1159s
+Epoch-1998
+————————————————
+Iter-0; loss: 0.0036;time per batch:0.1187s
+Epoch-1999
+————————————————
+Iter-0; loss: 0.0092;time per batch:0.1171s
+Epoch-2000
+————————————————
+Iter-0; loss: 0.0165;time per batch:0.1181s
+validation results:
+Mean Rank: 683
+Mean RR: 0.1063
+Hit@1: 0.0608
+Hit@3: 0.1168
+Hit@5: 0.1440
+Hit@10: 0.2000
+Epoch-2001
+————————————————
+Iter-0; loss: 0.0106;time per batch:0.1132s
+Epoch-2002
+————————————————
+Iter-0; loss: 0.0396;time per batch:0.1212s
+Epoch-2003
+————————————————
+Iter-0; loss: 0.0220;time per batch:0.1151s
+Epoch-2004
+————————————————
+Iter-0; loss: 0.0300;time per batch:0.1173s
+Epoch-2005
+————————————————
+Iter-0; loss: 0.0273;time per batch:0.1138s
+Epoch-2006
+————————————————
+Iter-0; loss: 0.0078;time per batch:0.1183s
+Epoch-2007
+————————————————
+Iter-0; loss: 0.0232;time per batch:0.1195s
+Epoch-2008
+————————————————
+Iter-0; loss: 0.0200;time per batch:0.1135s
+Epoch-2009
+————————————————
+Iter-0; loss: 0.0023;time per batch:0.1173s
+Epoch-2010
+————————————————
+Iter-0; loss: 0.0131;time per batch:0.1143s
+Epoch-2011
+————————————————
+Iter-0; loss: 0.0101;time per batch:0.1124s
+Epoch-2012
+————————————————
+Iter-0; loss: 0.0118;time per batch:0.1136s
+Epoch-2013
+————————————————
+Iter-0; loss: 0.0188;time per batch:0.1159s
+Epoch-2014
+————————————————
+Iter-0; loss: 0.0164;time per batch:0.1159s
+Epoch-2015
+————————————————
+Iter-0; loss: 0.0093;time per batch:0.1139s
+Epoch-2016
+————————————————
+Iter-0; loss: 0.0029;time per batch:0.1148s
+Epoch-2017
+————————————————
+Iter-0; loss: 0.0177;time per batch:0.1128s
+Epoch-2018
+————————————————
+Iter-0; loss: 0.0206;time per batch:0.1151s
+Epoch-2019
+————————————————
+Iter-0; loss: 0.0259;time per batch:0.1140s
+Epoch-2020
+————————————————
+Iter-0; loss: 0.0093;time per batch:0.1141s
+Epoch-2021
+————————————————
+Iter-0; loss: 0.0218;time per batch:0.1198s
+Epoch-2022
+————————————————
+Iter-0; loss: 0.0208;time per batch:0.1204s
+Epoch-2023
+————————————————
+Iter-0; loss: 0.0149;time per batch:0.1143s
+Epoch-2024
+————————————————
+Iter-0; loss: 0.0189;time per batch:0.1145s
+Epoch-2025
+————————————————
+Iter-0; loss: 0.0249;time per batch:0.1162s
+Epoch-2026
+————————————————
+Iter-0; loss: 0.0250;time per batch:0.1142s
+Epoch-2027
+————————————————
+Iter-0; loss: 0.0029;time per batch:0.1131s
+Epoch-2028
+————————————————
+Iter-0; loss: 0.0034;time per batch:0.1129s
+Epoch-2029
+————————————————
+Iter-0; loss: 0.0113;time per batch:0.1130s
+Epoch-2030
+————————————————
+Iter-0; loss: 0.0142;time per batch:0.1132s
+Epoch-2031
+————————————————
+Iter-0; loss: 0.0135;time per batch:0.1143s
+Epoch-2032
+————————————————
+Iter-0; loss: 0.0417;time per batch:0.1185s
+Epoch-2033
+————————————————
+Iter-0; loss: 0.0166;time per batch:0.1140s
+Epoch-2034
+————————————————
+Iter-0; loss: 0.0258;time per batch:0.1132s
+Epoch-2035
+————————————————
+Iter-0; loss: 0.0395;time per batch:0.1154s
+Epoch-2036
+————————————————
+Iter-0; loss: 0.0190;time per batch:0.1116s
+Epoch-2037
+————————————————
+Iter-0; loss: 0.0040;time per batch:0.1147s
+Epoch-2038
+————————————————
+Iter-0; loss: 0.0093;time per batch:0.1135s
+Epoch-2039
+————————————————
+Iter-0; loss: 0.0183;time per batch:0.1162s
+Epoch-2040
+————————————————
+Iter-0; loss: 0.0078;time per batch:0.1135s
+Epoch-2041
+————————————————
+Iter-0; loss: 0.0092;time per batch:0.1143s
+Epoch-2042
+————————————————
+Iter-0; loss: 0.0056;time per batch:0.1140s
+Epoch-2043
+————————————————
+Iter-0; loss: 0.0094;time per batch:0.1127s
+Epoch-2044
+————————————————
+Iter-0; loss: 0.0093;time per batch:0.1135s
+Epoch-2045
+————————————————
+Iter-0; loss: 0.0277;time per batch:0.1132s
+Epoch-2046
+————————————————
+Iter-0; loss: 0.0044;time per batch:0.1150s
+Epoch-2047
+————————————————
+Iter-0; loss: 0.0169;time per batch:0.1126s
+Epoch-2048
+————————————————
+Iter-0; loss: 0.0082;time per batch:0.1159s
+Epoch-2049
+————————————————
+Iter-0; loss: 0.0180;time per batch:0.1141s
+Epoch-2050
+————————————————
+Iter-0; loss: 0.0094;time per batch:0.1168s
+Epoch-2051
+————————————————
+Iter-0; loss: 0.0258;time per batch:0.1137s
+Epoch-2052
+————————————————
+Iter-0; loss: 0.0053;time per batch:0.1143s
+Epoch-2053
+————————————————
+Iter-0; loss: 0.0124;time per batch:0.1132s
+Epoch-2054
+————————————————
+Iter-0; loss: 0.0129;time per batch:0.1143s
+Epoch-2055
+————————————————
+Iter-0; loss: 0.0151;time per batch:0.1124s
+Epoch-2056
+————————————————
+Iter-0; loss: 0.0080;time per batch:0.1154s
+Epoch-2057
+————————————————
+Iter-0; loss: 0.0087;time per batch:0.1165s
+Epoch-2058
+————————————————
+Iter-0; loss: 0.0131;time per batch:0.1127s
+Epoch-2059
+————————————————
+Iter-0; loss: 0.0157;time per batch:0.1138s
+Epoch-2060
+————————————————
+Iter-0; loss: 0.0155;time per batch:0.1130s
+Epoch-2061
+————————————————
+Iter-0; loss: 0.0061;time per batch:0.1129s
+Epoch-2062
+————————————————
+Iter-0; loss: 0.0135;time per batch:0.1136s
+Epoch-2063
+————————————————
+Iter-0; loss: 0.0136;time per batch:0.1134s
+Epoch-2064
+————————————————
+Iter-0; loss: 0.0032;time per batch:0.1206s
+Epoch-2065
+————————————————
+Iter-0; loss: 0.0092;time per batch:0.1126s
+Epoch-2066
+————————————————
+Iter-0; loss: 0.0086;time per batch:0.1114s
+Epoch-2067
+————————————————
+Iter-0; loss: 0.0023;time per batch:0.1134s
+Epoch-2068
+————————————————
+Iter-0; loss: 0.0088;time per batch:0.1158s
+Epoch-2069
+————————————————
+Iter-0; loss: 0.0234;time per batch:0.1116s
+Epoch-2070
+————————————————
+Iter-0; loss: 0.0191;time per batch:0.1135s
+Epoch-2071
+————————————————
+Iter-0; loss: 0.0270;time per batch:0.1133s
+Epoch-2072
+————————————————
+Iter-0; loss: 0.0068;time per batch:0.1146s
+Epoch-2073
+————————————————
+Iter-0; loss: 0.0176;time per batch:0.1161s
+Epoch-2074
+————————————————
+Iter-0; loss: 0.0084;time per batch:0.1132s
+Epoch-2075
+————————————————
+Iter-0; loss: 0.0212;time per batch:0.1137s
+Epoch-2076
+————————————————
+Iter-0; loss: 0.0112;time per batch:0.1126s
+Epoch-2077
+————————————————
+Iter-0; loss: 0.0121;time per batch:0.1137s
+Epoch-2078
+————————————————
+Iter-0; loss: 0.0139;time per batch:0.1132s
+Epoch-2079
+————————————————
+Iter-0; loss: 0.0045;time per batch:0.1163s
+Epoch-2080
+————————————————
+Iter-0; loss: 0.0192;time per batch:0.1125s
+Epoch-2081
+————————————————
+Iter-0; loss: 0.0339;time per batch:0.1146s
+Epoch-2082
+————————————————
+Iter-0; loss: 0.0093;time per batch:0.1138s
+Epoch-2083
+————————————————
+Iter-0; loss: 0.0188;time per batch:0.1134s
+Epoch-2084
+————————————————
+Iter-0; loss: 0.0136;time per batch:0.1200s
+Epoch-2085
+————————————————
+Iter-0; loss: 0.0030;time per batch:0.1132s
+Epoch-2086
+————————————————
+Iter-0; loss: 0.0089;time per batch:0.1153s
+Epoch-2087
+————————————————
+Iter-0; loss: 0.0121;time per batch:0.1169s
+Epoch-2088
+————————————————
+Iter-0; loss: 0.0099;time per batch:0.1116s
+Epoch-2089
+————————————————
+Iter-0; loss: 0.0297;time per batch:0.1121s
+Epoch-2090
+————————————————
+Iter-0; loss: 0.0180;time per batch:0.1119s
+Epoch-2091
+————————————————
+Iter-0; loss: 0.0142;time per batch:0.1203s
+Epoch-2092
+————————————————
+Iter-0; loss: 0.0156;time per batch:0.1170s
+Epoch-2093
+————————————————
+Iter-0; loss: 0.0125;time per batch:0.1188s
+Epoch-2094
+————————————————
+Iter-0; loss: 0.0064;time per batch:0.1176s
+Epoch-2095
+————————————————
+Iter-0; loss: 0.0151;time per batch:0.1145s
+Epoch-2096
+————————————————
+Iter-0; loss: 0.0147;time per batch:0.1177s
+Epoch-2097
+————————————————
+Iter-0; loss: 0.0085;time per batch:0.1128s
+Epoch-2098
+————————————————
+Iter-0; loss: 0.0078;time per batch:0.1134s
+Epoch-2099
+————————————————
+Iter-0; loss: 0.0089;time per batch:0.1203s
+Epoch-2100
+————————————————
+Iter-0; loss: 0.0146;time per batch:0.1165s
+Epoch-2101
+————————————————
+Iter-0; loss: 0.0160;time per batch:0.1134s
+Epoch-2102
+————————————————
+Iter-0; loss: 0.0111;time per batch:0.1135s
+Epoch-2103
+————————————————
+Iter-0; loss: 0.0096;time per batch:0.1148s
+Epoch-2104
+————————————————
+Iter-0; loss: 0.0277;time per batch:0.1205s
+Epoch-2105
+————————————————
+Iter-0; loss: 0.0115;time per batch:0.1171s
+Epoch-2106
+————————————————
+Iter-0; loss: 0.0345;time per batch:0.1257s
+Epoch-2107
+————————————————
+Iter-0; loss: 0.0099;time per batch:0.1141s
+Epoch-2108
+————————————————
+Iter-0; loss: 0.0096;time per batch:0.1183s
+Epoch-2109
+————————————————
+Iter-0; loss: 0.0159;time per batch:0.1165s
+Epoch-2110
+————————————————
+Iter-0; loss: 0.0025;time per batch:0.1173s
+Epoch-2111
+————————————————
+Iter-0; loss: 0.0262;time per batch:0.1171s
+Epoch-2112
+————————————————
+Iter-0; loss: 0.0101;time per batch:0.1129s
+Epoch-2113
+————————————————
+Iter-0; loss: 0.0027;time per batch:0.1149s
+Epoch-2114
+————————————————
+Iter-0; loss: 0.0028;time per batch:0.1159s
+Epoch-2115
+————————————————
+Iter-0; loss: 0.0088;time per batch:0.1160s
+Epoch-2116
+————————————————
+Iter-0; loss: 0.0214;time per batch:0.1260s
+Epoch-2117
+————————————————
+Iter-0; loss: 0.0044;time per batch:0.1229s
+Epoch-2118
+————————————————
+Iter-0; loss: 0.0195;time per batch:0.1235s
+Epoch-2119
+————————————————
+Iter-0; loss: 0.0026;time per batch:0.1234s
+Epoch-2120
+————————————————
+Iter-0; loss: 0.0019;time per batch:0.1215s
+Epoch-2121
+————————————————
+Iter-0; loss: 0.0141;time per batch:0.1217s
+Epoch-2122
+————————————————
+Iter-0; loss: 0.0157;time per batch:0.1205s
+Epoch-2123
+————————————————
+Iter-0; loss: 0.0111;time per batch:0.1246s
+Epoch-2124
+————————————————
+Iter-0; loss: 0.0128;time per batch:0.1249s
+Epoch-2125
+————————————————
+Iter-0; loss: 0.0151;time per batch:0.1190s
+Epoch-2126
+————————————————
+Iter-0; loss: 0.0085;time per batch:0.1218s
+Epoch-2127
+————————————————
+Iter-0; loss: 0.0393;time per batch:0.1206s
+Epoch-2128
+————————————————
+Iter-0; loss: 0.0146;time per batch:0.1241s
+Epoch-2129
+————————————————
+Iter-0; loss: 0.0099;time per batch:0.1190s
+Epoch-2130
+————————————————
+Iter-0; loss: 0.0168;time per batch:0.1196s
+Epoch-2131
+————————————————
+Iter-0; loss: 0.0088;time per batch:0.1215s
+Epoch-2132
+————————————————
+Iter-0; loss: 0.0158;time per batch:0.1221s
+Epoch-2133
+————————————————
+Iter-0; loss: 0.0120;time per batch:0.1237s
+Epoch-2134
+————————————————
+Iter-0; loss: 0.0123;time per batch:0.1184s
+Epoch-2135
+————————————————
+Iter-0; loss: 0.0047;time per batch:0.1177s
+Epoch-2136
+————————————————
+Iter-0; loss: 0.0055;time per batch:0.1192s
+Epoch-2137
+————————————————
+Iter-0; loss: 0.0122;time per batch:0.1196s
+Epoch-2138
+————————————————
+Iter-0; loss: 0.0087;time per batch:0.1175s
+Epoch-2139
+————————————————
+Iter-0; loss: 0.0159;time per batch:0.1146s
+Epoch-2140
+————————————————
+Iter-0; loss: 0.0038;time per batch:0.1158s
+Epoch-2141
+————————————————
+Iter-0; loss: 0.0115;time per batch:0.1206s
+Epoch-2142
+————————————————
+Iter-0; loss: 0.0027;time per batch:0.1215s
+Epoch-2143
+————————————————
+Iter-0; loss: 0.0198;time per batch:0.1206s
+Epoch-2144
+————————————————
+Iter-0; loss: 0.0131;time per batch:0.1205s
+Epoch-2145
+————————————————
+Iter-0; loss: 0.0102;time per batch:0.1164s
+Epoch-2146
+————————————————
+Iter-0; loss: 0.0075;time per batch:0.1177s
+Epoch-2147
+————————————————
+Iter-0; loss: 0.0219;time per batch:0.1169s
+Epoch-2148
+————————————————
+Iter-0; loss: 0.0034;time per batch:0.1163s
+Epoch-2149
+————————————————
+Iter-0; loss: 0.0029;time per batch:0.1205s
+Epoch-2150
+————————————————
+Iter-0; loss: 0.0134;time per batch:0.1127s
+Epoch-2151
+————————————————
+Iter-0; loss: 0.0029;time per batch:0.1139s
+Epoch-2152
+————————————————
+Iter-0; loss: 0.0185;time per batch:0.1149s
+Epoch-2153
+————————————————
+Iter-0; loss: 0.0160;time per batch:0.1136s
+Epoch-2154
+————————————————
+Iter-0; loss: 0.0111;time per batch:0.1127s
+Epoch-2155
+————————————————
+Iter-0; loss: 0.0082;time per batch:0.1125s
+Epoch-2156
+————————————————
+Iter-0; loss: 0.0087;time per batch:0.1165s
+Epoch-2157
+————————————————
+Iter-0; loss: 0.0064;time per batch:0.1172s
+Epoch-2158
+————————————————
+Iter-0; loss: 0.0165;time per batch:0.1176s
+Epoch-2159
+————————————————
+Iter-0; loss: 0.0133;time per batch:0.1139s
+Epoch-2160
+————————————————
+Iter-0; loss: 0.0167;time per batch:0.1158s
+Epoch-2161
+————————————————
+Iter-0; loss: 0.0048;time per batch:0.1163s
+Epoch-2162
+————————————————
+Iter-0; loss: 0.0170;time per batch:0.1153s
+Epoch-2163
+————————————————
+Iter-0; loss: 0.0150;time per batch:0.1149s
+Epoch-2164
+————————————————
+Iter-0; loss: 0.0090;time per batch:0.1158s
+Epoch-2165
+————————————————
+Iter-0; loss: 0.0131;time per batch:0.1137s
+Epoch-2166
+————————————————
+Iter-0; loss: 0.0245;time per batch:0.1135s
+Epoch-2167
+————————————————
+Iter-0; loss: 0.0164;time per batch:0.1146s
+Epoch-2168
+————————————————
+Iter-0; loss: 0.0246;time per batch:0.1179s
+Epoch-2169
+————————————————
+Iter-0; loss: 0.0089;time per batch:0.1163s
+Epoch-2170
+————————————————
+Iter-0; loss: 0.0097;time per batch:0.1189s
+Epoch-2171
+————————————————
+Iter-0; loss: 0.0087;time per batch:0.1162s
+Epoch-2172
+————————————————
+Iter-0; loss: 0.0228;time per batch:0.1182s
+Epoch-2173
+————————————————
+Iter-0; loss: 0.0154;time per batch:0.1159s
+Epoch-2174
+————————————————
+Iter-0; loss: 0.0113;time per batch:0.1159s
+Epoch-2175
+————————————————
+Iter-0; loss: 0.0223;time per batch:0.1145s
+Epoch-2176
+————————————————
+Iter-0; loss: 0.0093;time per batch:0.1189s
+Epoch-2177
+————————————————
+Iter-0; loss: 0.0144;time per batch:0.1235s
+Epoch-2178
+————————————————
+Iter-0; loss: 0.0030;time per batch:0.1137s
+Epoch-2179
+————————————————
+Iter-0; loss: 0.0032;time per batch:0.1140s
+Epoch-2180
+————————————————
+Iter-0; loss: 0.0371;time per batch:0.1123s
+Epoch-2181
+————————————————
+Iter-0; loss: 0.0031;time per batch:0.1185s
+Epoch-2182
+————————————————
+Iter-0; loss: 0.0067;time per batch:0.1135s
+Epoch-2183
+————————————————
+Iter-0; loss: 0.0120;time per batch:0.1159s
+Epoch-2184
+————————————————
+Iter-0; loss: 0.0243;time per batch:0.1159s
+Epoch-2185
+————————————————
+Iter-0; loss: 0.0079;time per batch:0.1131s
+Epoch-2186
+————————————————
+Iter-0; loss: 0.0179;time per batch:0.1133s
+Epoch-2187
+————————————————
+Iter-0; loss: 0.0107;time per batch:0.1136s
+Epoch-2188
+————————————————
+Iter-0; loss: 0.0082;time per batch:0.1142s
+Epoch-2189
+————————————————
+Iter-0; loss: 0.0131;time per batch:0.1121s
+Epoch-2190
+————————————————
+Iter-0; loss: 0.0145;time per batch:0.1132s
+Epoch-2191
+————————————————
+Iter-0; loss: 0.0204;time per batch:0.1158s
+Epoch-2192
+————————————————
+Iter-0; loss: 0.0161;time per batch:0.1155s
+Epoch-2193
+————————————————
+Iter-0; loss: 0.0132;time per batch:0.1193s
+Epoch-2194
+————————————————
+Iter-0; loss: 0.0144;time per batch:0.1141s
+Epoch-2195
+————————————————
+Iter-0; loss: 0.0039;time per batch:0.1119s
+Epoch-2196
+————————————————
+Iter-0; loss: 0.0022;time per batch:0.1142s
+Epoch-2197
+————————————————
+Iter-0; loss: 0.0173;time per batch:0.1151s
+Epoch-2198
+————————————————
+Iter-0; loss: 0.0162;time per batch:0.1201s
+Epoch-2199
+————————————————
+Iter-0; loss: 0.0236;time per batch:0.1207s
+Epoch-2200
+————————————————
+Iter-0; loss: 0.0021;time per batch:0.1138s
+Epoch-2201
+————————————————
+Iter-0; loss: 0.0206;time per batch:0.1143s
+Epoch-2202
+————————————————
+Iter-0; loss: 0.0216;time per batch:0.1116s
+Epoch-2203
+————————————————
+Iter-0; loss: 0.0086;time per batch:0.1199s
+Epoch-2204
+————————————————
+Iter-0; loss: 0.0027;time per batch:0.1170s
+Epoch-2205
+————————————————
+Iter-0; loss: 0.0296;time per batch:0.1178s
+Epoch-2206
+————————————————
+Iter-0; loss: 0.0292;time per batch:0.1156s
+Epoch-2207
+————————————————
+Iter-0; loss: 0.0162;time per batch:0.1178s
+Epoch-2208
+————————————————
+Iter-0; loss: 0.0113;time per batch:0.1141s
+Epoch-2209
+————————————————
+Iter-0; loss: 0.0160;time per batch:0.1127s
+Epoch-2210
+————————————————
+Iter-0; loss: 0.0320;time per batch:0.1165s
+Epoch-2211
+————————————————
+Iter-0; loss: 0.0093;time per batch:0.1142s
+Epoch-2212
+————————————————
+Iter-0; loss: 0.0021;time per batch:0.1138s
+Epoch-2213
+————————————————
+Iter-0; loss: 0.0091;time per batch:0.1133s
+Epoch-2214
+————————————————
+Iter-0; loss: 0.0132;time per batch:0.1150s
+Epoch-2215
+————————————————
+Iter-0; loss: 0.0099;time per batch:0.1123s
+Epoch-2216
+————————————————
+Iter-0; loss: 0.0025;time per batch:0.1169s
+Epoch-2217
+————————————————
+Iter-0; loss: 0.0029;time per batch:0.1144s
+Epoch-2218
+————————————————
+Iter-0; loss: 0.0192;time per batch:0.1174s
+Epoch-2219
+————————————————
+Iter-0; loss: 0.0082;time per batch:0.1164s
+Epoch-2220
+————————————————
+Iter-0; loss: 0.0030;time per batch:0.1131s
+Epoch-2221
+————————————————
+Iter-0; loss: 0.0086;time per batch:0.1156s
+Epoch-2222
+————————————————
+Iter-0; loss: 0.0026;time per batch:0.1166s
+Epoch-2223
+————————————————
+Iter-0; loss: 0.0091;time per batch:0.1133s
+Epoch-2224
+————————————————
+Iter-0; loss: 0.0137;time per batch:0.1126s
+Epoch-2225
+————————————————
+Iter-0; loss: 0.0026;time per batch:0.1129s
+Epoch-2226
+————————————————
+Iter-0; loss: 0.0120;time per batch:0.1149s
+Epoch-2227
+————————————————
+Iter-0; loss: 0.0094;time per batch:0.1148s
+Epoch-2228
+————————————————
+Iter-0; loss: 0.0221;time per batch:0.1140s
+Epoch-2229
+————————————————
+Iter-0; loss: 0.0136;time per batch:0.1139s
+Epoch-2230
+————————————————
+Iter-0; loss: 0.0039;time per batch:0.1135s
+Epoch-2231
+————————————————
+Iter-0; loss: 0.0138;time per batch:0.1130s
+Epoch-2232
+————————————————
+Iter-0; loss: 0.0108;time per batch:0.1170s
+Epoch-2233
+————————————————
+Iter-0; loss: 0.0023;time per batch:0.1124s
+Epoch-2234
+————————————————
+Iter-0; loss: 0.0170;time per batch:0.1170s
+Epoch-2235
+————————————————
+Iter-0; loss: 0.0058;time per batch:0.1133s
+Epoch-2236
+————————————————
+Iter-0; loss: 0.0180;time per batch:0.1136s
+Epoch-2237
+————————————————
+Iter-0; loss: 0.0269;time per batch:0.1175s
+Epoch-2238
+————————————————
+Iter-0; loss: 0.0086;time per batch:0.1123s
+Epoch-2239
+————————————————
+Iter-0; loss: 0.0156;time per batch:0.1121s
+Epoch-2240
+————————————————
+Iter-0; loss: 0.0161;time per batch:0.1142s
+Epoch-2241
+————————————————
+Iter-0; loss: 0.0159;time per batch:0.1119s
+Epoch-2242
+————————————————
+Iter-0; loss: 0.0077;time per batch:0.1158s
+Epoch-2243
+————————————————
+Iter-0; loss: 0.0079;time per batch:0.1233s
+Epoch-2244
+————————————————
+Iter-0; loss: 0.0020;time per batch:0.1140s
+Epoch-2245
+————————————————
+Iter-0; loss: 0.0140;time per batch:0.1127s
+Epoch-2246
+————————————————
+Iter-0; loss: 0.0140;time per batch:0.1142s
+Epoch-2247
+————————————————
+Iter-0; loss: 0.0158;time per batch:0.1140s
+Epoch-2248
+————————————————
+Iter-0; loss: 0.0095;time per batch:0.1136s
+Epoch-2249
+————————————————
+Iter-0; loss: 0.0088;time per batch:0.1124s
+Epoch-2250
+————————————————
+Iter-0; loss: 0.0186;time per batch:0.1138s
+validation results:
+Mean Rank: 673
+Mean RR: 0.1056
+Hit@1: 0.0576
+Hit@3: 0.1152
+Hit@5: 0.1528
+Hit@10: 0.2072
+Epoch-2251
+————————————————
+Iter-0; loss: 0.0043;time per batch:0.1138s
+Epoch-2252
+————————————————
+Iter-0; loss: 0.0029;time per batch:0.1149s
+Epoch-2253
+————————————————
+Iter-0; loss: 0.0220;time per batch:0.1125s
+Epoch-2254
+————————————————
+Iter-0; loss: 0.0096;time per batch:0.1118s
+Epoch-2255
+————————————————
+Iter-0; loss: 0.0025;time per batch:0.1194s
+Epoch-2256
+————————————————
+Iter-0; loss: 0.0021;time per batch:0.1180s
+Epoch-2257
+————————————————
+Iter-0; loss: 0.0177;time per batch:0.1184s
+Epoch-2258
+————————————————
+Iter-0; loss: 0.0020;time per batch:0.1219s
+Epoch-2259
+————————————————
+Iter-0; loss: 0.0139;time per batch:0.1239s
+Epoch-2260
+————————————————
+Iter-0; loss: 0.0031;time per batch:0.1205s
+Epoch-2261
+————————————————
+Iter-0; loss: 0.0025;time per batch:0.1244s
+Epoch-2262
+————————————————
+Iter-0; loss: 0.0132;time per batch:0.1256s
+Epoch-2263
+————————————————
+Iter-0; loss: 0.0028;time per batch:0.1180s
+Epoch-2264
+————————————————
+Iter-0; loss: 0.0139;time per batch:0.1150s
+Epoch-2265
+————————————————
+Iter-0; loss: 0.0395;time per batch:0.1197s
+Epoch-2266
+————————————————
+Iter-0; loss: 0.0025;time per batch:0.1213s
+Epoch-2267
+————————————————
+Iter-0; loss: 0.0149;time per batch:0.1176s
+Epoch-2268
+————————————————
+Iter-0; loss: 0.0233;time per batch:0.1168s
+Epoch-2269
+————————————————
+Iter-0; loss: 0.0062;time per batch:0.1237s
+Epoch-2270
+————————————————
+Iter-0; loss: 0.0152;time per batch:0.1224s
+Epoch-2271
+————————————————
+Iter-0; loss: 0.0051;time per batch:0.1216s
+Epoch-2272
+————————————————
+Iter-0; loss: 0.0026;time per batch:0.1131s
+Epoch-2273
+————————————————
+Iter-0; loss: 0.0036;time per batch:0.1172s
+Epoch-2274
+————————————————
+Iter-0; loss: 0.0233;time per batch:0.1144s
+Epoch-2275
+————————————————
+Iter-0; loss: 0.0028;time per batch:0.1134s
+Epoch-2276
+————————————————
+Iter-0; loss: 0.0098;time per batch:0.1157s
+Epoch-2277
+————————————————
+Iter-0; loss: 0.0031;time per batch:0.1217s
+Epoch-2278
+————————————————
+Iter-0; loss: 0.0087;time per batch:0.1144s
+Epoch-2279
+————————————————
+Iter-0; loss: 0.0146;time per batch:0.1127s
+Epoch-2280
+————————————————
+Iter-0; loss: 0.0196;time per batch:0.1146s
+Epoch-2281
+————————————————
+Iter-0; loss: 0.0094;time per batch:0.1167s
+Epoch-2282
+————————————————
+Iter-0; loss: 0.0091;time per batch:0.1144s
+Epoch-2283
+————————————————
+Iter-0; loss: 0.0219;time per batch:0.1164s
+Epoch-2284
+————————————————
+Iter-0; loss: 0.0113;time per batch:0.1130s
+Epoch-2285
+————————————————
+Iter-0; loss: 0.0165;time per batch:0.1167s
+Epoch-2286
+————————————————
+Iter-0; loss: 0.0026;time per batch:0.1128s
+Epoch-2287
+————————————————
+Iter-0; loss: 0.0019;time per batch:0.1144s
+Epoch-2288
+————————————————
+Iter-0; loss: 0.0045;time per batch:0.1126s
+Epoch-2289
+————————————————
+Iter-0; loss: 0.0031;time per batch:0.1135s
+Epoch-2290
+————————————————
+Iter-0; loss: 0.0103;time per batch:0.1127s
+Epoch-2291
+————————————————
+Iter-0; loss: 0.0152;time per batch:0.1135s
+Epoch-2292
+————————————————
+Iter-0; loss: 0.0085;time per batch:0.1123s
+Epoch-2293
+————————————————
+Iter-0; loss: 0.0126;time per batch:0.1183s
+Epoch-2294
+————————————————
+Iter-0; loss: 0.0020;time per batch:0.1137s
+Epoch-2295
+————————————————
+Iter-0; loss: 0.0146;time per batch:0.1182s
+Epoch-2296
+————————————————
+Iter-0; loss: 0.0080;time per batch:0.1131s
+Epoch-2297
+————————————————
+Iter-0; loss: 0.0151;time per batch:0.1328s
+Epoch-2298
+————————————————
+Iter-0; loss: 0.0310;time per batch:0.1129s
+Epoch-2299
+————————————————
+Iter-0; loss: 0.0109;time per batch:0.1148s
+Epoch-2300
+————————————————
+Iter-0; loss: 0.0119;time per batch:0.1164s
+Epoch-2301
+————————————————
+Iter-0; loss: 0.0176;time per batch:0.1150s
+Epoch-2302
+————————————————
+Iter-0; loss: 0.0197;time per batch:0.1145s
+Epoch-2303
+————————————————
+Iter-0; loss: 0.0026;time per batch:0.1155s
+Epoch-2304
+————————————————
+Iter-0; loss: 0.0139;time per batch:0.1135s
+Epoch-2305
+————————————————
+Iter-0; loss: 0.0178;time per batch:0.1164s
+Epoch-2306
+————————————————
+Iter-0; loss: 0.0284;time per batch:0.1143s
+Epoch-2307
+————————————————
+Iter-0; loss: 0.0034;time per batch:0.1140s
+Epoch-2308
+————————————————
+Iter-0; loss: 0.0024;time per batch:0.1157s
+Epoch-2309
+————————————————
+Iter-0; loss: 0.0302;time per batch:0.1141s
+Epoch-2310
+————————————————
+Iter-0; loss: 0.0075;time per batch:0.1129s
+Epoch-2311
+————————————————
+Iter-0; loss: 0.0079;time per batch:0.1165s
+Epoch-2312
+————————————————
+Iter-0; loss: 0.0189;time per batch:0.1124s
+Epoch-2313
+————————————————
+Iter-0; loss: 0.0104;time per batch:0.1169s
+Epoch-2314
+————————————————
+Iter-0; loss: 0.0076;time per batch:0.1178s
+Epoch-2315
+————————————————
+Iter-0; loss: 0.0273;time per batch:0.1182s
+Epoch-2316
+————————————————
+Iter-0; loss: 0.0146;time per batch:0.1203s
+Epoch-2317
+————————————————
+Iter-0; loss: 0.0140;time per batch:0.1151s
+Epoch-2318
+————————————————
+Iter-0; loss: 0.0089;time per batch:0.1151s
+Epoch-2319
+————————————————
+Iter-0; loss: 0.0274;time per batch:0.1173s
+Epoch-2320
+————————————————
+Iter-0; loss: 0.0021;time per batch:0.1136s
+Epoch-2321
+————————————————
+Iter-0; loss: 0.0105;time per batch:0.1132s
+Epoch-2322
+————————————————
+Iter-0; loss: 0.0026;time per batch:0.1157s
+Epoch-2323
+————————————————
+Iter-0; loss: 0.0042;time per batch:0.1170s
+Epoch-2324
+————————————————
+Iter-0; loss: 0.0215;time per batch:0.1163s
+Epoch-2325
+————————————————
+Iter-0; loss: 0.0187;time per batch:0.1155s
+Epoch-2326
+————————————————
+Iter-0; loss: 0.0087;time per batch:0.1155s
+Epoch-2327
+————————————————
+Iter-0; loss: 0.0084;time per batch:0.1158s
+Epoch-2328
+————————————————
+Iter-0; loss: 0.0093;time per batch:0.1222s
+Epoch-2329
+————————————————
+Iter-0; loss: 0.0078;time per batch:0.1202s
+Epoch-2330
+————————————————
+Iter-0; loss: 0.0180;time per batch:0.1186s
+Epoch-2331
+————————————————
+Iter-0; loss: 0.0170;time per batch:0.1168s
+Epoch-2332
+————————————————
+Iter-0; loss: 0.0073;time per batch:0.1168s
+Epoch-2333
+————————————————
+Iter-0; loss: 0.0350;time per batch:0.1148s
+Epoch-2334
+————————————————
+Iter-0; loss: 0.0031;time per batch:0.1144s
+Epoch-2335
+————————————————
+Iter-0; loss: 0.0203;time per batch:0.1128s
+Epoch-2336
+————————————————
+Iter-0; loss: 0.0128;time per batch:0.1146s
+Epoch-2337
+————————————————
+Iter-0; loss: 0.0167;time per batch:0.1184s
+Epoch-2338
+————————————————
+Iter-0; loss: 0.0111;time per batch:0.1138s
+Epoch-2339
+————————————————
+Iter-0; loss: 0.0181;time per batch:0.1145s
+Epoch-2340
+————————————————
+Iter-0; loss: 0.0298;time per batch:0.1148s
+Epoch-2341
+————————————————
+Iter-0; loss: 0.0098;time per batch:0.1218s
+Epoch-2342
+————————————————
+Iter-0; loss: 0.0078;time per batch:0.1141s
+Epoch-2343
+————————————————
+Iter-0; loss: 0.0083;time per batch:0.1155s
+Epoch-2344
+————————————————
+Iter-0; loss: 0.0219;time per batch:0.1146s
+Epoch-2345
+————————————————
+Iter-0; loss: 0.0165;time per batch:0.1150s
+Epoch-2346
+————————————————
+Iter-0; loss: 0.0082;time per batch:0.1122s
+Epoch-2347
+————————————————
+Iter-0; loss: 0.0173;time per batch:0.1200s
+Epoch-2348
+————————————————
+Iter-0; loss: 0.0224;time per batch:0.1149s
+Epoch-2349
+————————————————
+Iter-0; loss: 0.0081;time per batch:0.1175s
+Epoch-2350
+————————————————
+Iter-0; loss: 0.0196;time per batch:0.1151s
+Epoch-2351
+————————————————
+Iter-0; loss: 0.0079;time per batch:0.1139s
+Epoch-2352
+————————————————
+Iter-0; loss: 0.0233;time per batch:0.1137s
+Epoch-2353
+————————————————
+Iter-0; loss: 0.0100;time per batch:0.1145s
+Epoch-2354
+————————————————
+Iter-0; loss: 0.0043;time per batch:0.1171s
+Epoch-2355
+————————————————
+Iter-0; loss: 0.0165;time per batch:0.1112s
+Epoch-2356
+————————————————
+Iter-0; loss: 0.0170;time per batch:0.1190s
+Epoch-2357
+————————————————
+Iter-0; loss: 0.0097;time per batch:0.1151s
+Epoch-2358
+————————————————
+Iter-0; loss: 0.0032;time per batch:0.1125s
+Epoch-2359
+————————————————
+Iter-0; loss: 0.0099;time per batch:0.1135s
+Epoch-2360
+————————————————
+Iter-0; loss: 0.0027;time per batch:0.1135s
+Epoch-2361
+————————————————
+Iter-0; loss: 0.0052;time per batch:0.1123s
+Epoch-2362
+————————————————
+Iter-0; loss: 0.0102;time per batch:0.1165s
+Epoch-2363
+————————————————
+Iter-0; loss: 0.0074;time per batch:0.1207s
+Epoch-2364
+————————————————
+Iter-0; loss: 0.0022;time per batch:0.1191s
+Epoch-2365
+————————————————
+Iter-0; loss: 0.0118;time per batch:0.1222s
+Epoch-2366
+————————————————
+Iter-0; loss: 0.0102;time per batch:0.1142s
+Epoch-2367
+————————————————
+Iter-0; loss: 0.0036;time per batch:0.1473s
+Epoch-2368
+————————————————
+Iter-0; loss: 0.0108;time per batch:0.1173s
+Epoch-2369
+————————————————
+Iter-0; loss: 0.0053;time per batch:0.1175s
+Epoch-2370
+————————————————
+Iter-0; loss: 0.0193;time per batch:0.1136s
+Epoch-2371
+————————————————
+Iter-0; loss: 0.0162;time per batch:0.1147s
+Epoch-2372
+————————————————
+Iter-0; loss: 0.0035;time per batch:0.1145s
+Epoch-2373
+————————————————
+Iter-0; loss: 0.0297;time per batch:0.1130s
+Epoch-2374
+————————————————
+Iter-0; loss: 0.0093;time per batch:0.1125s
+Epoch-2375
+————————————————
+Iter-0; loss: 0.0018;time per batch:0.1164s
+Epoch-2376
+————————————————
+Iter-0; loss: 0.0075;time per batch:0.1176s
+Epoch-2377
+————————————————
+Iter-0; loss: 0.0171;time per batch:0.1138s
+Epoch-2378
+————————————————
+Iter-0; loss: 0.0090;time per batch:0.1156s
+Epoch-2379
+————————————————
+Iter-0; loss: 0.0239;time per batch:0.1202s
+Epoch-2380
+————————————————
+Iter-0; loss: 0.0027;time per batch:0.1209s
+Epoch-2381
+————————————————
+Iter-0; loss: 0.0091;time per batch:0.1167s
+Epoch-2382
+————————————————
+Iter-0; loss: 0.0079;time per batch:0.1171s
+Epoch-2383
+————————————————
+Iter-0; loss: 0.0208;time per batch:0.1184s
+Epoch-2384
+————————————————
+Iter-0; loss: 0.0030;time per batch:0.1143s
+Epoch-2385
+————————————————
+Iter-0; loss: 0.0158;time per batch:0.1165s
+Epoch-2386
+————————————————
+Iter-0; loss: 0.0187;time per batch:0.1187s
+Epoch-2387
+————————————————
+Iter-0; loss: 0.0129;time per batch:0.1151s
+Epoch-2388
+————————————————
+Iter-0; loss: 0.0171;time per batch:0.1172s
+Epoch-2389
+————————————————
+Iter-0; loss: 0.0093;time per batch:0.1162s
+Epoch-2390
+————————————————
+Iter-0; loss: 0.0405;time per batch:0.1164s
+Epoch-2391
+————————————————
+Iter-0; loss: 0.0089;time per batch:0.1194s
+Epoch-2392
+————————————————
+Iter-0; loss: 0.0138;time per batch:0.1146s
+Epoch-2393
+————————————————
+Iter-0; loss: 0.0163;time per batch:0.1200s
+Epoch-2394
+————————————————
+Iter-0; loss: 0.0150;time per batch:0.1178s
+Epoch-2395
+————————————————
+Iter-0; loss: 0.0240;time per batch:0.1196s
+Epoch-2396
+————————————————
+Iter-0; loss: 0.0088;time per batch:0.1154s
+Epoch-2397
+————————————————
+Iter-0; loss: 0.0297;time per batch:0.1211s
+Epoch-2398
+————————————————
+Iter-0; loss: 0.0100;time per batch:0.1394s
+Epoch-2399
+————————————————
+Iter-0; loss: 0.0129;time per batch:0.1193s
+Epoch-2400
+————————————————
+Iter-0; loss: 0.0021;time per batch:0.1156s
+Epoch-2401
+————————————————
+Iter-0; loss: 0.0143;time per batch:0.1149s
+Epoch-2402
+————————————————
+Iter-0; loss: 0.0166;time per batch:0.1215s
+Epoch-2403
+————————————————
+Iter-0; loss: 0.0147;time per batch:0.1173s
+Epoch-2404
+————————————————
+Iter-0; loss: 0.0042;time per batch:0.1177s
+Epoch-2405
+————————————————
+Iter-0; loss: 0.0072;time per batch:0.1123s
+Epoch-2406
+————————————————
+Iter-0; loss: 0.0320;time per batch:0.1142s
+Epoch-2407
+————————————————
+Iter-0; loss: 0.0114;time per batch:0.1143s
+Epoch-2408
+————————————————
+Iter-0; loss: 0.0104;time per batch:0.1192s
+Epoch-2409
+————————————————
+Iter-0; loss: 0.0198;time per batch:0.1130s
+Epoch-2410
+————————————————
+Iter-0; loss: 0.0184;time per batch:0.1144s
+Epoch-2411
+————————————————
+Iter-0; loss: 0.0106;time per batch:0.1153s
+Epoch-2412
+————————————————
+Iter-0; loss: 0.0121;time per batch:0.1160s
+Epoch-2413
+————————————————
+Iter-0; loss: 0.0074;time per batch:0.1132s
+Epoch-2414
+————————————————
+Iter-0; loss: 0.0183;time per batch:0.1154s
+Epoch-2415
+————————————————
+Iter-0; loss: 0.0042;time per batch:0.1181s
+Epoch-2416
+————————————————
+Iter-0; loss: 0.0164;time per batch:0.1199s
+Epoch-2417
+————————————————
+Iter-0; loss: 0.0144;time per batch:0.1164s
+Epoch-2418
+————————————————
+Iter-0; loss: 0.0097;time per batch:0.1176s
+Epoch-2419
+————————————————
+Iter-0; loss: 0.0190;time per batch:0.1189s
+Epoch-2420
+————————————————
+Iter-0; loss: 0.0033;time per batch:0.1138s
+Epoch-2421
+————————————————
+Iter-0; loss: 0.0261;time per batch:0.1133s
+Epoch-2422
+————————————————
+Iter-0; loss: 0.0075;time per batch:0.1140s
+Epoch-2423
+————————————————
+Iter-0; loss: 0.0079;time per batch:0.1164s
+Epoch-2424
+————————————————
+Iter-0; loss: 0.0044;time per batch:0.1151s
+Epoch-2425
+————————————————
+Iter-0; loss: 0.0232;time per batch:0.1201s
+Epoch-2426
+————————————————
+Iter-0; loss: 0.0032;time per batch:0.1176s
+Epoch-2427
+————————————————
+Iter-0; loss: 0.0023;time per batch:0.1168s
+Epoch-2428
+————————————————
+Iter-0; loss: 0.0207;time per batch:0.1174s
+Epoch-2429
+————————————————
+Iter-0; loss: 0.0041;time per batch:0.1132s
+Epoch-2430
+————————————————
+Iter-0; loss: 0.0335;time per batch:0.1138s
+Epoch-2431
+————————————————
+Iter-0; loss: 0.0083;time per batch:0.1132s
+Epoch-2432
+————————————————
+Iter-0; loss: 0.0092;time per batch:0.1172s
+Epoch-2433
+————————————————
+Iter-0; loss: 0.0098;time per batch:0.1138s
+Epoch-2434
+————————————————
+Iter-0; loss: 0.0139;time per batch:0.1166s
+Epoch-2435
+————————————————
+Iter-0; loss: 0.0288;time per batch:0.1140s
+Epoch-2436
+————————————————
+Iter-0; loss: 0.0201;time per batch:0.1142s
+Epoch-2437
+————————————————
+Iter-0; loss: 0.0084;time per batch:0.1158s
+Epoch-2438
+————————————————
+Iter-0; loss: 0.0025;time per batch:0.1132s
+Epoch-2439
+————————————————
+Iter-0; loss: 0.0136;time per batch:0.1143s
+Epoch-2440
+————————————————
+Iter-0; loss: 0.0236;time per batch:0.1132s
+Epoch-2441
+————————————————
+Iter-0; loss: 0.0172;time per batch:0.1131s
+Epoch-2442
+————————————————
+Iter-0; loss: 0.0083;time per batch:0.1121s
+Epoch-2443
+————————————————
+Iter-0; loss: 0.0027;time per batch:0.1125s
+Epoch-2444
+————————————————
+Iter-0; loss: 0.0164;time per batch:0.1140s
+Epoch-2445
+————————————————
+Iter-0; loss: 0.0084;time per batch:0.1184s
+Epoch-2446
+————————————————
+Iter-0; loss: 0.0027;time per batch:0.1150s
+Epoch-2447
+————————————————
+Iter-0; loss: 0.0021;time per batch:0.1151s
+Epoch-2448
+————————————————
+Iter-0; loss: 0.0167;time per batch:0.1119s
+Epoch-2449
+————————————————
+Iter-0; loss: 0.0106;time per batch:0.1126s
+Epoch-2450
+————————————————
+Iter-0; loss: 0.0190;time per batch:0.1227s
+Epoch-2451
+————————————————
+Iter-0; loss: 0.0087;time per batch:0.1182s
+Epoch-2452
+————————————————
+Iter-0; loss: 0.0078;time per batch:0.1167s
+Epoch-2453
+————————————————
+Iter-0; loss: 0.0085;time per batch:0.1178s
+Epoch-2454
+————————————————
+Iter-0; loss: 0.0155;time per batch:0.1180s
+Epoch-2455
+————————————————
+Iter-0; loss: 0.0176;time per batch:0.1160s
+Epoch-2456
+————————————————
+Iter-0; loss: 0.0045;time per batch:0.1127s
+Epoch-2457
+————————————————
+Iter-0; loss: 0.0028;time per batch:0.1138s
+Epoch-2458
+————————————————
+Iter-0; loss: 0.0065;time per batch:0.1201s
+Epoch-2459
+————————————————
+Iter-0; loss: 0.0114;time per batch:0.1117s
+Epoch-2460
+————————————————
+Iter-0; loss: 0.0175;time per batch:0.1131s
+Epoch-2461
+————————————————
+Iter-0; loss: 0.0069;time per batch:0.1157s
+Epoch-2462
+————————————————
+Iter-0; loss: 0.0080;time per batch:0.1146s
+Epoch-2463
+————————————————
+Iter-0; loss: 0.0177;time per batch:0.1135s
+Epoch-2464
+————————————————
+Iter-0; loss: 0.0192;time per batch:0.1146s
+Epoch-2465
+————————————————
+Iter-0; loss: 0.0081;time per batch:0.1133s
+Epoch-2466
+————————————————
+Iter-0; loss: 0.0043;time per batch:0.1163s
+Epoch-2467
+————————————————
+Iter-0; loss: 0.0090;time per batch:0.1169s
+Epoch-2468
+————————————————
+Iter-0; loss: 0.0025;time per batch:0.1126s
+Epoch-2469
+————————————————
+Iter-0; loss: 0.0229;time per batch:0.1136s
+Epoch-2470
+————————————————
+Iter-0; loss: 0.0126;time per batch:0.1241s
+Epoch-2471
+————————————————
+Iter-0; loss: 0.0211;time per batch:0.1147s
+Epoch-2472
+————————————————
+Iter-0; loss: 0.0019;time per batch:0.1156s
+Epoch-2473
+————————————————
+Iter-0; loss: 0.0173;time per batch:0.1140s
+Epoch-2474
+————————————————
+Iter-0; loss: 0.0062;time per batch:0.1178s
+Epoch-2475
+————————————————
+Iter-0; loss: 0.0265;time per batch:0.1198s
+Epoch-2476
+————————————————
+Iter-0; loss: 0.0149;time per batch:0.1160s
+Epoch-2477
+————————————————
+Iter-0; loss: 0.0179;time per batch:0.1159s
+Epoch-2478
+————————————————
+Iter-0; loss: 0.0042;time per batch:0.1165s
+Epoch-2479
+————————————————
+Iter-0; loss: 0.0086;time per batch:0.1225s
+Epoch-2480
+————————————————
+Iter-0; loss: 0.0039;time per batch:0.1218s
+Epoch-2481
+————————————————
+Iter-0; loss: 0.0149;time per batch:0.1211s
+Epoch-2482
+————————————————
+Iter-0; loss: 0.0039;time per batch:0.1214s
+Epoch-2483
+————————————————
+Iter-0; loss: 0.0206;time per batch:0.1194s
+Epoch-2484
+————————————————
+Iter-0; loss: 0.0154;time per batch:0.1187s
+Epoch-2485
+————————————————
+Iter-0; loss: 0.0242;time per batch:0.1209s
+Epoch-2486
+————————————————
+Iter-0; loss: 0.0127;time per batch:0.1206s
+Epoch-2487
+————————————————
+Iter-0; loss: 0.0061;time per batch:0.1189s
+Epoch-2488
+————————————————
+Iter-0; loss: 0.0142;time per batch:0.1193s
+Epoch-2489
+————————————————
+Iter-0; loss: 0.0021;time per batch:0.1286s
+Epoch-2490
+————————————————
+Iter-0; loss: 0.0160;time per batch:0.1203s
+Epoch-2491
+————————————————
+Iter-0; loss: 0.0096;time per batch:0.1191s
+Epoch-2492
+————————————————
+Iter-0; loss: 0.0124;time per batch:0.1196s
+Epoch-2493
+————————————————
+Iter-0; loss: 0.0200;time per batch:0.1204s
+Epoch-2494
+————————————————
+Iter-0; loss: 0.0087;time per batch:0.1213s
+Epoch-2495
+————————————————
+Iter-0; loss: 0.0022;time per batch:0.1230s
+Epoch-2496
+————————————————
+Iter-0; loss: 0.0219;time per batch:0.1196s
+Epoch-2497
+————————————————
+Iter-0; loss: 0.0119;time per batch:0.1199s
+Epoch-2498
+————————————————
+Iter-0; loss: 0.0026;time per batch:0.1194s
+Epoch-2499
+————————————————
+Iter-0; loss: 0.0199;time per batch:0.1205s
+Epoch-2500
+————————————————
+Iter-0; loss: 0.0091;time per batch:0.1367s
+validation results:
+Mean Rank: 661
+Mean RR: 0.1046
+Hit@1: 0.0568
+Hit@3: 0.1144
+Hit@5: 0.1488
+Hit@10: 0.2008
+test result:
+Mean Rank: 722
+Mean RR: 0.0881
+Hit@1: 0.0456
+Hit@3: 0.0952
+Hit@5: 0.1312
+Hit@10: 0.1832

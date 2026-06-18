@@ -1,0 +1,6 @@
+# ATISE repo (TeRo/ATiSE) — tested with python 3.10
+--extra-index-url https://download.pytorch.org/whl/cpu
+torch==1.13.1+cpu
+numpy==1.26.4
+pandas
+scikit-learn

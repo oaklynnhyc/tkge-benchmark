@@ -1,0 +1,195 @@
+CMD: python /__w/tkge-benchmark/tkge-benchmark/repos/HyTE/time_proj.py -name hyte_gdelt -margin 10 -l2 0.00 -neg_sample 5 -gpu  -epoch 1000 -test_freq 100 -batch 2500 -data_type yago -version large
+here in main
+WARNING:tensorflow:From /__w/tkge-benchmark/tkge-benchmark/repos/HyTE/time_proj.py:590: The name tf.set_random_seed is deprecated. Please use tf.compat.v1.set_random_seed instead.
+
+WARNING:tensorflow:From /__w/tkge-benchmark/tkge-benchmark/repos/HyTE/time_proj.py:332: The name tf.placeholder is deprecated. Please use tf.compat.v1.placeholder instead.
+
+WARNING:tensorflow:From /__w/tkge-benchmark/tkge-benchmark/repos/HyTE/time_proj.py:372: The name tf.get_variable is deprecated. Please use tf.compat.v1.get_variable instead.
+
+WARNING:tensorflow:
+The TensorFlow contrib module will not be included in TensorFlow 2.0.
+For more information, please see:
+  * https://github.com/tensorflow/community/blob/master/rfcs/20180907-contrib-sunset.md
+  * https://github.com/tensorflow/addons
+  * https://github.com/tensorflow/io (for I/O related ops)
+If you depend on functionality not listed there, please file an issue.
+
+WARNING:tensorflow:From /__w/tkge-benchmark/tkge-benchmark/repos/HyTE/time_proj.py:439: calling reduce_sum_v1 (from tensorflow.python.ops.math_ops) with keep_dims is deprecated and will be removed in a future version.
+Instructions for updating:
+keep_dims is deprecated, use keepdims instead
+WARNING:tensorflow:From /__w/tkge-benchmark/tkge-benchmark/repos/HyTE/time_proj.py:460: The name tf.train.AdamOptimizer is deprecated. Please use tf.compat.v1.train.AdamOptimizer instead.
+
+WARNING:tensorflow:From /usr/local/lib/python3.7/site-packages/tensorflow_core/python/ops/math_grad.py:1424: where (from tensorflow.python.ops.array_ops) is deprecated and will be removed in a future version.
+Instructions for updating:
+Use tf.where in 2.0, which has the same broadcast rule as np.where
+/usr/local/lib/python3.7/site-packages/tensorflow_core/python/framework/indexed_slices.py:424: UserWarning: Converting sparse IndexedSlices to a dense Tensor of unknown shape. This may consume a large amount of memory.
+  "Converting sparse IndexedSlices to a dense Tensor of unknown shape. "
+WARNING:tensorflow:From /__w/tkge-benchmark/tkge-benchmark/repos/HyTE/time_proj.py:462: The name tf.assign is deprecated. Please use tf.compat.v1.assign instead.
+
+WARNING:tensorflow:From /__w/tkge-benchmark/tkge-benchmark/repos/HyTE/time_proj.py:462: calling l2_normalize (from tensorflow.python.ops.nn_impl) with dim is deprecated and will be removed in a future version.
+Instructions for updating:
+dim is deprecated, use axis instead
+WARNING:tensorflow:From /__w/tkge-benchmark/tkge-benchmark/repos/HyTE/time_proj.py:476: The name tf.summary.merge_all is deprecated. Please use tf.compat.v1.summary.merge_all instead.
+
+model done
+model object created
+WARNING:tensorflow:From /__w/tkge-benchmark/tkge-benchmark/repos/HyTE/time_proj.py:596: The name tf.ConfigProto is deprecated. Please use tf.compat.v1.ConfigProto instead.
+
+WARNING:tensorflow:From /__w/tkge-benchmark/tkge-benchmark/repos/HyTE/time_proj.py:598: The name tf.Session is deprecated. Please use tf.compat.v1.Session instead.
+
+2026-06-11 20:25:56.298042: I tensorflow/core/platform/cpu_feature_guard.cc:142] Your CPU supports instructions that this TensorFlow binary was not compiled to use: AVX2 FMA
+2026-06-11 20:25:56.301845: I tensorflow/core/platform/profile_utils/cpu_utils.cc:94] CPU Frequency: 2445430000 Hz
+2026-06-11 20:25:56.302197: I tensorflow/compiler/xla/service/service.cc:168] XLA service 0x55de3e918a10 initialized for platform Host (this does not guarantee that XLA will be used). Devices:
+2026-06-11 20:25:56.302225: I tensorflow/compiler/xla/service/service.cc:176]   StreamExecutor device (0): Host, Default Version
+WARNING:tensorflow:From /__w/tkge-benchmark/tkge-benchmark/repos/HyTE/time_proj.py:599: The name tf.global_variables_initializer is deprecated. Please use tf.compat.v1.global_variables_initializer instead.
+
+enter fitting
+WARNING:tensorflow:From /__w/tkge-benchmark/tkge-benchmark/repos/HyTE/time_proj.py:494: The name tf.train.Saver is deprecated. Please use tf.compat.v1.train.Saver instead.
+
+start fitting
+Epoch 0	Loss 24953.564453125	 model hyte_gdelt
+Epoch 50	Loss 15099.01953125	 model hyte_gdelt
+Epoch 100	Loss 7790.9990234375	 model hyte_gdelt
+0. no of valid_triples complete
+500. no of valid_triples complete
+Validation Ended
+Epoch 150	Loss 5064.61181640625	 model hyte_gdelt
+Epoch 200	Loss 3298.17138671875	 model hyte_gdelt
+0. no of valid_triples complete
+500. no of valid_triples complete
+Validation Ended
+Epoch 250	Loss 2325.99365234375	 model hyte_gdelt
+Epoch 300	Loss 1634.3248291015625	 model hyte_gdelt
+0. no of valid_triples complete
+500. no of valid_triples complete
+Validation Ended
+Epoch 350	Loss 1167.3385009765625	 model hyte_gdelt
+Epoch 400	Loss 879.9580688476562	 model hyte_gdelt
+0. no of valid_triples complete
+500. no of valid_triples complete
+Validation Ended
+Epoch 450	Loss 691.9166259765625	 model hyte_gdelt
+Epoch 500	Loss 545.81982421875	 model hyte_gdelt
+0. no of valid_triples complete
+500. no of valid_triples complete
+Validation Ended
+Epoch 550	Loss 432.67913818359375	 model hyte_gdelt
+Epoch 600	Loss 343.1483459472656	 model hyte_gdelt
+0. no of valid_triples complete
+500. no of valid_triples complete
+Validation Ended
+Epoch 650	Loss 273.94525146484375	 model hyte_gdelt
+Epoch 700	Loss 222.06117248535156	 model hyte_gdelt
+0. no of valid_triples complete
+500. no of valid_triples complete
+Validation Ended
+Epoch 750	Loss 181.7101287841797	 model hyte_gdelt
+Epoch 800	Loss 150.4851837158203	 model hyte_gdelt
+0. no of valid_triples complete
+500. no of valid_triples complete
+Validation Ended
+Epoch 850	Loss 124.12948608398438	 model hyte_gdelt
+Epoch 900	Loss 102.38338470458984	 model hyte_gdelt
+0. no of valid_triples complete
+500. no of valid_triples complete
+Validation Ended
+Epoch 950	Loss 85.65232849121094	 model hyte_gdelt
+hyte_gdelt
+Epoch 100 : valid_tail rank 252.6288	 valid_head rank 287.0
+Epoch 100 : valid_tail HIT@10 13.120000000000001	 valid_head HIT@!) 12.8
+------------------------------------------
+Best Validation Epoch till now Epoch 100, tail rank: 252.6288, head rank: 287.0
+------------------------------------------
+Epoch 200 : valid_tail rank 247.8096	 valid_head rank 286.6224
+Epoch 200 : valid_tail HIT@10 15.36	 valid_head HIT@!) 15.2
+------------------------------------------
+Best Validation Epoch till now Epoch 200, tail rank: 247.8096, head rank: 286.6224
+------------------------------------------
+Epoch 300 : valid_tail rank 384.7792	 valid_head rank 412.3312
+Epoch 300 : valid_tail HIT@10 10.08	 valid_head HIT@!) 9.44
+------------------------------------------
+Best Validation Epoch till now Epoch 200, tail rank: 247.8096, head rank: 286.6224
+------------------------------------------
+Epoch 400 : valid_tail rank 494.144	 valid_head rank 510.6128
+Epoch 400 : valid_tail HIT@10 9.6	 valid_head HIT@!) 8.32
+------------------------------------------
+Best Validation Epoch till now Epoch 200, tail rank: 247.8096, head rank: 286.6224
+------------------------------------------
+Epoch 500 : valid_tail rank 532.4928	 valid_head rank 548.0768
+Epoch 500 : valid_tail HIT@10 8.16	 valid_head HIT@!) 7.04
+------------------------------------------
+Best Validation Epoch till now Epoch 200, tail rank: 247.8096, head rank: 286.6224
+------------------------------------------
+Epoch 600 : valid_tail rank 556.0624	 valid_head rank 569.7616
+Epoch 600 : valid_tail HIT@10 8.48	 valid_head HIT@!) 6.72
+------------------------------------------
+Best Validation Epoch till now Epoch 200, tail rank: 247.8096, head rank: 286.6224
+------------------------------------------
+Epoch 700 : valid_tail rank 573.3216	 valid_head rank 585.7136
+Epoch 700 : valid_tail HIT@10 8.0	 valid_head HIT@!) 6.4
+------------------------------------------
+Best Validation Epoch till now Epoch 200, tail rank: 247.8096, head rank: 286.6224
+------------------------------------------
+Epoch 800 : valid_tail rank 584.2816	 valid_head rank 598.3488
+Epoch 800 : valid_tail HIT@10 7.68	 valid_head HIT@!) 6.5600000000000005
+------------------------------------------
+Best Validation Epoch till now Epoch 200, tail rank: 247.8096, head rank: 286.6224
+------------------------------------------
+Epoch 900 : valid_tail rank 591.7856	 valid_head rank 605.3616
+Epoch 900 : valid_tail HIT@10 7.68	 valid_head HIT@!) 6.88
+------------------------------------------
+Best Validation Epoch till now Epoch 200, tail rank: 247.8096, head rank: 286.6224
+------------------------------------------
+BEST_VALID_EPOCH=200
+CMD: python /__w/tkge-benchmark/tkge-benchmark/repos/HyTE/time_proj.py -res_epoch 200 -onlyTest -restore -name hyte_gdelt -margin 10 -l2 0.00 -neg_sample 5 -gpu  -batch 2500 -data_type yago -version large
+here in main
+WARNING:tensorflow:From /__w/tkge-benchmark/tkge-benchmark/repos/HyTE/time_proj.py:590: The name tf.set_random_seed is deprecated. Please use tf.compat.v1.set_random_seed instead.
+
+WARNING:tensorflow:From /__w/tkge-benchmark/tkge-benchmark/repos/HyTE/time_proj.py:332: The name tf.placeholder is deprecated. Please use tf.compat.v1.placeholder instead.
+
+WARNING:tensorflow:From /__w/tkge-benchmark/tkge-benchmark/repos/HyTE/time_proj.py:372: The name tf.get_variable is deprecated. Please use tf.compat.v1.get_variable instead.
+
+WARNING:tensorflow:
+The TensorFlow contrib module will not be included in TensorFlow 2.0.
+For more information, please see:
+  * https://github.com/tensorflow/community/blob/master/rfcs/20180907-contrib-sunset.md
+  * https://github.com/tensorflow/addons
+  * https://github.com/tensorflow/io (for I/O related ops)
+If you depend on functionality not listed there, please file an issue.
+
+WARNING:tensorflow:From /__w/tkge-benchmark/tkge-benchmark/repos/HyTE/time_proj.py:439: calling reduce_sum_v1 (from tensorflow.python.ops.math_ops) with keep_dims is deprecated and will be removed in a future version.
+Instructions for updating:
+keep_dims is deprecated, use keepdims instead
+WARNING:tensorflow:From /__w/tkge-benchmark/tkge-benchmark/repos/HyTE/time_proj.py:460: The name tf.train.AdamOptimizer is deprecated. Please use tf.compat.v1.train.AdamOptimizer instead.
+
+WARNING:tensorflow:From /usr/local/lib/python3.7/site-packages/tensorflow_core/python/ops/math_grad.py:1424: where (from tensorflow.python.ops.array_ops) is deprecated and will be removed in a future version.
+Instructions for updating:
+Use tf.where in 2.0, which has the same broadcast rule as np.where
+/usr/local/lib/python3.7/site-packages/tensorflow_core/python/framework/indexed_slices.py:424: UserWarning: Converting sparse IndexedSlices to a dense Tensor of unknown shape. This may consume a large amount of memory.
+  "Converting sparse IndexedSlices to a dense Tensor of unknown shape. "
+WARNING:tensorflow:From /__w/tkge-benchmark/tkge-benchmark/repos/HyTE/time_proj.py:462: The name tf.assign is deprecated. Please use tf.compat.v1.assign instead.
+
+WARNING:tensorflow:From /__w/tkge-benchmark/tkge-benchmark/repos/HyTE/time_proj.py:462: calling l2_normalize (from tensorflow.python.ops.nn_impl) with dim is deprecated and will be removed in a future version.
+Instructions for updating:
+dim is deprecated, use axis instead
+WARNING:tensorflow:From /__w/tkge-benchmark/tkge-benchmark/repos/HyTE/time_proj.py:476: The name tf.summary.merge_all is deprecated. Please use tf.compat.v1.summary.merge_all instead.
+
+model done
+model object created
+WARNING:tensorflow:From /__w/tkge-benchmark/tkge-benchmark/repos/HyTE/time_proj.py:596: The name tf.ConfigProto is deprecated. Please use tf.compat.v1.ConfigProto instead.
+
+WARNING:tensorflow:From /__w/tkge-benchmark/tkge-benchmark/repos/HyTE/time_proj.py:598: The name tf.Session is deprecated. Please use tf.compat.v1.Session instead.
+
+2026-06-11 20:30:20.643714: I tensorflow/core/platform/cpu_feature_guard.cc:142] Your CPU supports instructions that this TensorFlow binary was not compiled to use: AVX2 FMA
+2026-06-11 20:30:20.647552: I tensorflow/core/platform/profile_utils/cpu_utils.cc:94] CPU Frequency: 2445430000 Hz
+2026-06-11 20:30:20.647875: I tensorflow/compiler/xla/service/service.cc:168] XLA service 0x55e005ab6b30 initialized for platform Host (this does not guarantee that XLA will be used). Devices:
+2026-06-11 20:30:20.647905: I tensorflow/compiler/xla/service/service.cc:176]   StreamExecutor device (0): Host, Default Version
+WARNING:tensorflow:From /__w/tkge-benchmark/tkge-benchmark/repos/HyTE/time_proj.py:599: The name tf.global_variables_initializer is deprecated. Please use tf.compat.v1.global_variables_initializer instead.
+
+enter fitting
+WARNING:tensorflow:From /__w/tkge-benchmark/tkge-benchmark/repos/HyTE/time_proj.py:494: The name tf.train.Saver is deprecated. Please use tf.compat.v1.train.Saver instead.
+
+start Testing
+0. no of test_triples complete
+500. no of test_triples complete
+Test ended

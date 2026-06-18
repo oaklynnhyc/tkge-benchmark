@@ -1,0 +1,11 @@
+{
+  "seed": 42,
+  "dedup_from": 2000,
+  "unique_quads": 1975,
+  "counts": {
+    "train": 1580,
+    "valid": 197,
+    "test": 198
+  },
+  "split": "80/10/10 deterministic shuffle"
+}

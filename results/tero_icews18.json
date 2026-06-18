@@ -1,0 +1,17 @@
+{
+  "method": "TERO",
+  "dataset": "icews18",
+  "mode": "full",
+  "MRR": 0.1152,
+  "MR": 962.0,
+  "Hits@1": 0.0656,
+  "Hits@3": 0.12,
+  "Hits@10": 0.2216,
+  "eval_protocol": "ATISE repo native: time-wise filtered, head+tail averaged",
+  "test_epoch_file": "data_ready/atise/icews18/icews05-15/TERO/timediscrete0/dim500/lr0.1000/neg_num10/1day/gamma110/cmin0.0050/test_result3499.txt",
+  "repo": "github.com/soledad921/ATISE",
+  "repo_commit": "711e2136e10b54acbdd7a69ad7822837ce5c44c8",
+  "repo_diff": "CLEAN (zero modification)",
+  "entry_point": "python Main.py --dataset icews05-15 --model TERO ... (see runs/tero_icews18.log)",
+  "notes": "dataset aliased as icews05-15 dir; timestamps shifted to 2005 window (pure data transform)"
+}

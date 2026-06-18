@@ -1,0 +1,18 @@
+{
+  "method": "TIMEPLEX(base)",
+  "dataset": "icews18",
+  "mode": "full",
+  "MRR": 0.032630614936351776,
+  "MR": 1114.182373046875,
+  "Hits@1": 0.01600000075995922,
+  "Hits@3": null,
+  "Hits@10": 0.06800000369548798,
+  "valid_MRR": 0.06879037618637085,
+  "eval_protocol": "tkbi native: time-str filtered, subject+object averaged ('m'); repo does not report Hits@3",
+  "checkpoint": "data_ready/timeplex/models/models/icews18_timeplex_base/best_valid_model.pt",
+  "repo": "github.com/dair-iitd/tkbi",
+  "repo_commit": "e0a26b32e22ca49957951b0ea0da9b4dc45049a8",
+  "repo_diff": "CLEAN (zero modification)",
+  "entry_point": "python main.py -d <alias> -m TimePlex_base ... (see runs/timeplex_icews18.log)",
+  "notes": "gdelt aliased 'icews-gdelt' to select tkbi's day-level ICEWS time parsing (naming only)"
+}

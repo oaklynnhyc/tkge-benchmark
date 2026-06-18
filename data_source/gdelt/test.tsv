@@ -1,0 +1,626 @@
+subject	relation	object	time_step	datetime
+SAUDI ARABIA	0353 Express intent to release persons or property	PRINCE	41130	2018-01-29 13:30
+UNITED STATES	084 Return, release, not specified below	BUSINESS	43155	2018-01-30 23:15
+AUTHORITIES	030 Express intent to cooperate, not specified below	MIGRANT	39105	2018-01-28 03:45
+CUBA	043 Host a visit	FIDEL CASTRO	41640	2018-01-29 22:00
+UNITED STATES	010 Make statement, not specified below	SCHOOL	41610	2018-01-29 21:30
+GHANA	046 Engage in negotiation	SAVINGS AND LOAN	40755	2018-01-29 07:15
+CORNISH	193 Fight with small arms and light weapons	SOUTH CAROLINA	41505	2018-01-29 19:45
+ATTORNEY GENERAL	010 Make statement, not specified below	REUTERS	39150	2018-01-28 04:30
+FIGHTER	050 Engage in diplomatic cooperation, not specified below	CIVILIAN	44025	2018-01-31 13:45
+INDUSTRY	061 Cooperate economically	RUSSIA	41160	2018-01-29 14:00
+AFRICA	040 Consult, not specified below	UNITED STATES	40635	2018-01-29 05:15
+SHANXI	010 Make statement, not specified below	COMPANY	42840	2018-01-30 18:00
+ABDULLAH	040 Consult, not specified below	CABINET	39390	2018-01-28 08:30
+POLICE	173 Arrest, detain, or charge with legal action 	STUDENT	42915	2018-01-30 19:15
+FULANI	046 Engage in negotiation	UNITED STATES	41835	2018-01-30 01:15
+PROSECUTOR	040 Consult, not specified below	DETECTIVE	44235	2018-01-31 17:15
+RUSSIAN	0241 Appeal for change in leadership	PROTESTER	39585	2018-01-28 11:45
+VILLAGE	043 Host a visit	SCHOOL	39570	2018-01-28 11:30
+HOSPITAL	110 Disapprove, not specified below	SYDNEY	40455	2018-01-29 02:15
+THE WHITE HOUSE	010 Make statement, not specified below	UNITED STATES	39105	2018-01-28 03:45
+TALIBAN	190 Use conventional military force, not specified below	CIVILIAN	39570	2018-01-28 11:30
+NIGERIA	020 Appeal, not specified below	FARMER	40545	2018-01-29 03:45
+SENATE	163 Impose embargo, boycott, or sanctions	RUSSIA	43230	2018-01-31 00:30
+RUSSIA	163 Impose embargo, boycott, or sanctions	PRESIDENT	43440	2018-01-31 04:00
+UNITED STATES	190 Use conventional military force, not specified below	JUDGE	42975	2018-01-30 20:15
+PITTSBURGH	0831 Accede to demands for change in leadership	GAZETTE	40635	2018-01-29 05:15
+TORONTO	120 Reject, not specified below	CANADA	44370	2018-01-31 19:30
+BUSINESS	020 Appeal, not specified below	CHAMBER	41820	2018-01-30 01:00
+MALI	046 Engage in negotiation	SCHOOL	43755	2018-01-31 09:15
+SCOTTISH	020 Appeal, not specified below	BUSINESS	41025	2018-01-29 11:45
+INDUSTRY	033 Express intent to provide matyerial aid, not specified below	STUDENT	41475	2018-01-29 19:15
+ADVOCATE	046 Engage in negotiation	CAREGIVER	38970	2018-01-28 01:30
+SUPREME COURT	051 Praise or endorse	PRESIDENT	42300	2018-01-30 09:00
+HIGH COURT	081 Ease administrative sanctions, not specified below	UNITED KINGDOM	43260	2018-01-31 01:00
+BUSINESS	0311 Express intent to cooperate economically	CONNECTICUT	40365	2018-01-29 00:45
+AFRICA	043 Host a visit	AMBASSADOR	44145	2018-01-31 15:45
+PRESIDENT	036 Express intent to meet or negotiate	UNITED STATES	41940	2018-01-30 03:00
+SENATOR	070 Provide aid, not specified below	PAKISTAN	40830	2018-01-29 08:30
+BRUNEI	130 Threaten, not specified below	DESTROYER	43245	2018-01-31 00:45
+LAWYER	010 Make statement, not specified below	KUWAITI	40410	2018-01-29 01:30
+SWEDENBORGIAN	040 Consult, not specified below	SAN FRANCISCO	44085	2018-01-31 14:45
+DEPUTIES	020 Appeal, not specified below	BOSTON	40560	2018-01-29 04:00
+SOUTH KOREA	040 Consult, not specified below	FOREIGN MINIST	42060	2018-01-30 05:00
+RAUL CASTRO	043 Host a visit	CUBAN	40515	2018-01-29 03:15
+ADMINISTRATION	075 Grant asylum	PAKISTAN	40440	2018-01-29 02:00
+ACTOR	111 Criticize or denounce 	MEDIA	43965	2018-01-31 12:45
+UNIVERSITY	036 Express intent to meet or negotiate	CALIFORNIA	41430	2018-01-29 18:30
+AMERICAN	043 Host a visit	FRENCH	41430	2018-01-29 18:30
+SUPREME COURT	020 Appeal, not specified below	UNIVERSITY	41895	2018-01-30 02:15
+SYRIA	013 Make optimistic comment	ANKARA	44160	2018-01-31 16:00
+PRESIDENT	020 Appeal, not specified below	POLICE COMMISSIONER	41445	2018-01-29 18:45
+ACTIVIST	111 Criticize or denounce 	ADMINISTRATION	42780	2018-01-30 17:00
+STUDENT	012 Make pessimistic comment	KENTUCKY	43200	2018-01-31 00:00
+PRESIDENT	042 Make a visit	HAITI	42255	2018-01-30 08:15
+SEPARATIST	051 Praise or endorse	YEMEN	41100	2018-01-29 13:00
+AUSTIN	010 Make statement, not specified below	TEXAS	39420	2018-01-28 09:00
+NIGERIA	114 Complain officially 	RESIDENTS	44385	2018-01-31 19:45
+PERU	010 Make statement, not specified below	SENATE	43965	2018-01-31 12:45
+TRADER	173 Arrest, detain, or charge with legal action 	PROSECUTOR	41490	2018-01-29 19:30
+PUERTO RICO	060 Engage in material cooperation, not specified below	RESIDENTS	43815	2018-01-31 10:15
+STUDENT	010 Make statement, not specified below	POLICE	42555	2018-01-30 13:15
+BRUNN	010 Make statement, not specified below	BUSINESS	41685	2018-01-29 22:45
+POLICE	084 Return, release, not specified below	CANADA	38895	2018-01-28 00:15
+MUSEVENI	010 Make statement, not specified below	AFRICA	39015	2018-01-28 02:15
+PHILIPPINE	043 Host a visit	CHINA	40215	2018-01-28 22:15
+GOVERNMENT	042 Make a visit	VILLAGE	40470	2018-01-29 02:30
+UKRAINIAN	046 Engage in negotiation	REPRESENTATIVES	44565	2018-01-31 22:45
+PHILIPPINE	043 Host a visit	CHINA	43935	2018-01-31 12:15
+FRENCH	084 Return, release, not specified below	HASSAN	40980	2018-01-29 11:00
+GATES FOUNDATION	033 Express intent to provide matyerial aid, not specified below	THAI	40230	2018-01-28 22:30
+SCIENTIST	014 Consider policy option	FRANCE	44085	2018-01-31 14:45
+CHINESE	043 Host a visit	UNITED KINGDOM	39975	2018-01-28 18:15
+ISRAEL	020 Appeal, not specified below	POLAND	40365	2018-01-29 00:45
+UNITED STATES	071 Provide economic aid	ATTORNEY	41835	2018-01-30 01:15
+JEAN CLAUDE JUNCKER	043 Host a visit	CZECH	41670	2018-01-29 22:30
+UNITED KINGDOM	040 Consult, not specified below	VOTER	43605	2018-01-31 06:45
+TURKEY	111 Criticize or denounce 	SYRIAN	42255	2018-01-30 08:15
+AFGHANISTAN	036 Express intent to meet or negotiate	UNITED STATES	41895	2018-01-30 02:15
+RUSSIAN	093 Investigate military action	GOVERNMENT	43665	2018-01-31 07:45
+SPEAKER OF THE HOUSE	025 Appeal to yield	NIGERIAN	39600	2018-01-28 12:00
+PAKISTAN	036 Express intent to meet or negotiate	UNITED STATES	40365	2018-01-29 00:45
+CAPTAIN	042 Make a visit	UNITED KINGDOM	41205	2018-01-29 14:45
+THE UN	046 Engage in negotiation	SOUTH SUDAN	39435	2018-01-28 09:15
+GUATEMALAN	046 Engage in negotiation	HONDURAN	42195	2018-01-30 07:15
+HAMAS	193 Fight with small arms and light weapons	GAZA	42795	2018-01-30 17:15
+AID GROUP	173 Arrest, detain, or charge with legal action 	JORDAN	42405	2018-01-30 10:45
+KING	010 Make statement, not specified below	AUSTRALIA	43290	2018-01-31 01:30
+MUSCAT	160 Reduce relations, not specified below	PAKISTAN	40545	2018-01-29 03:45
+COMPANY	0331 Express intent to provide economic aid	CANADA	40305	2018-01-28 23:45
+UNITED STATES	010 Make statement, not specified below	NEWSPAPER	39540	2018-01-28 11:00
+UNITED STATES	025 Appeal to yield	MYANMAR	38970	2018-01-28 01:30
+VILLAGER	012 Make pessimistic comment	MANIPUR	40830	2018-01-29 08:30
+SPOKESMAN	0841 Return, release person(s)	PHILIPPINE	41190	2018-01-29 14:30
+UNITED STATES	046 Engage in negotiation	BRAZIL	42540	2018-01-30 13:00
+GOOGLE	010 Make statement, not specified below	COLLEGE	42780	2018-01-30 17:00
+UNITED STATES	010 Make statement, not specified below	INTELLIGENCE	43380	2018-01-31 03:00
+COMMANDER	040 Consult, not specified below	TURKEY	41925	2018-01-30 02:45
+UNIVERSITY	057 Sign formal agreement	NURSE	40275	2018-01-28 23:15
+IRAN	020 Appeal, not specified below	REGIME	42900	2018-01-30 19:00
+INDUSTRY	040 Consult, not specified below	SAUDI ARABIA	42660	2018-01-30 15:00
+CHAMPAGNE	030 Express intent to cooperate, not specified below	PERU	41325	2018-01-29 16:45
+THE INTERNATIONAL COMMUNITY	013 Make optimistic comment	PALESTINIAN	40515	2018-01-29 03:15
+UNITED KINGDOM	010 Make statement, not specified below	BRITAIN	43125	2018-01-30 22:45
+COMMUNITY	190 Use conventional military force, not specified below	UKRAINIAN	43125	2018-01-30 22:45
+NKOSAZANA DLAMINI ZUMA	051 Praise or endorse	AFRICA	43590	2018-01-31 06:30
+CHINA	042 Make a visit	PAKISTAN	41970	2018-01-30 03:30
+CANADA	040 Consult, not specified below	CORPORATION	43020	2018-01-30 21:00
+FARMER	050 Engage in diplomatic cooperation, not specified below	ENTREPRENEUR	43800	2018-01-31 10:00
+GERMAN	051 Praise or endorse	DUTCH	43260	2018-01-31 01:00
+FIGHTER	190 Use conventional military force, not specified below	ALEPPO	41145	2018-01-29 13:45
+AUSTRALIA	013 Make optimistic comment	TELEVISION	40500	2018-01-29 03:00
+ZIMBABWE	036 Express intent to meet or negotiate	FARMER	40770	2018-01-29 07:30
+AL QAEDA	190 Use conventional military force, not specified below	ABBOT	39750	2018-01-28 14:30
+BELGIAN	040 Consult, not specified below	VLADIMIR PUTIN	41100	2018-01-29 13:00
+CANADA	193 Fight with small arms and light weapons	MUSLIM	40395	2018-01-29 01:15
+BRAZIL	172 Impose administrative sanctions, not specified below	LAWMAKER	43230	2018-01-31 00:30
+SENATE	128 Defy norms, law	NIGERIA	43830	2018-01-31 10:30
+STUDENT	051 Praise or endorse	UNITED STATES	44520	2018-01-31 22:00
+SWITZERLAND	020 Appeal, not specified below	HYUNDAI	43380	2018-01-31 03:00
+INDONESIAN	040 Consult, not specified below	BANGLADESH	41310	2018-01-29 16:30
+COMMUNITY	051 Praise or endorse	STUDENT	42975	2018-01-30 20:15
+PRESIDENT	051 Praise or endorse	COMMUNITY	42795	2018-01-30 17:15
+RUSSIA	043 Host a visit	DAVOS	39255	2018-01-28 06:15
+SWITZERLAND	040 Consult, not specified below	SCHOOL	40755	2018-01-29 07:15
+XEROX	046 Engage in negotiation	NEW ZEALAND	43830	2018-01-31 10:30
+DAVID CAMERON	010 Make statement, not specified below	GERMANY	43890	2018-01-31 11:30
+AFGHAN	036 Express intent to meet or negotiate	TALIBAN	40500	2018-01-29 03:00
+SENATE	042 Make a visit	PHILIPPINE	43200	2018-01-31 00:00
+MAGAZINE	036 Express intent to meet or negotiate	NEW YORK	43410	2018-01-31 03:30
+UNITED STATES	020 Appeal, not specified below	COMPANY	39540	2018-01-28 11:00
+IRELAND	051 Praise or endorse	MANCHESTER	39825	2018-01-28 15:45
+SEATTLE	043 Host a visit	PIRATE	41880	2018-01-30 02:00
+MALAWI	010 Make statement, not specified below	BUSINESS	42420	2018-01-30 11:00
+PAKISTAN	012 Make pessimistic comment	BUSINESS	39015	2018-01-28 02:15
+COMPANY	013 Make optimistic comment	EUROPEAN	44175	2018-01-31 16:15
+COLLEGE	010 Make statement, not specified below	UNIVERSITY	44580	2018-01-31 23:00
+WORKER	043 Host a visit	UNITED STATES	44505	2018-01-31 21:45
+LEBANON	042 Make a visit	PRESIDENTIAL PALACE	41610	2018-01-29 21:30
+COMMUNITY	057 Sign formal agreement	SCHOOL	42630	2018-01-30 14:30
+SOUTH KOREA	172 Impose administrative sanctions, not specified below	BUSINESS	44130	2018-01-31 15:30
+AUSTRALIA	090 Investigate, not specified below	KIRIBATI	44160	2018-01-31 16:00
+THAILAND	025 Appeal to yield	BUDDHIST	40305	2018-01-28 23:45
+PARLIAMENT	112 Accuse, not specified below	CATALAN	43335	2018-01-31 02:15
+TAIWANESE	154 Mobilize or increase armed forces 	CHINA	41790	2018-01-30 00:30
+POLICE	080 Yield, not specified below 	KERALA	43830	2018-01-31 10:30
+MATTEL	111 Criticize or denounce 	FISHER	42690	2018-01-30 15:30
+ORLANDO	042 Make a visit	HOSPITAL	43005	2018-01-30 20:45
+DUBAI	043 Host a visit	JAPAN	40980	2018-01-29 11:00
+PRISON	111 Criticize or denounce 	PRISONER	44445	2018-01-31 20:45
+CORRESPONDENT	010 Make statement, not specified below	VILLAGER	39690	2018-01-28 13:30
+VIETNAMESE	173 Arrest, detain, or charge with legal action 	FRENCH	39000	2018-01-28 02:00
+RUSSIA	051 Praise or endorse	OPPOSITION LEADER	41070	2018-01-29 12:30
+MEXICO	042 Make a visit	LONDON	44040	2018-01-31 14:00
+EUROPE	042 Make a visit	HEALTH OFFICIAL	43710	2018-01-31 08:30
+IRAN	110 Disapprove, not specified below	WASHINGTON	43950	2018-01-31 12:30
+SOUTH KOREA	040 Consult, not specified below	MILITARY	41130	2018-01-29 13:30
+KING	043 Host a visit	UNITED KINGDOM	39975	2018-01-28 18:15
+UNITED STATES	042 Make a visit	WORLD ECONOMIC FORUM	43920	2018-01-31 12:00
+PARIS	111 Criticize or denounce 	ESTONIAN	42480	2018-01-30 12:00
+UNITED STATES	042 Make a visit	COMPANIES	41745	2018-01-29 23:45
+ADMINISTRATION	162 Reduce or stop aid, not specified below	PAKISTAN	42555	2018-01-30 13:15
+SECURITY COUNCIL	040 Consult, not specified below	AFGHANISTAN	42015	2018-01-30 04:15
+COMPANY	010 Make statement, not specified below	WEBSITE	39615	2018-01-28 12:15
+PRISON	114 Complain officially 	KARNATAKA	44040	2018-01-31 14:00
+POLICE	190 Use conventional military force, not specified below	CANADA	41595	2018-01-29 21:15
+SPAIN	046 Engage in negotiation	PHILIPPINE	44400	2018-01-31 20:00
+SYRIA	036 Express intent to meet or negotiate	PRESIDENT	42930	2018-01-30 19:30
+MAGISTRATE	173 Arrest, detain, or charge with legal action 	DEPUTY	43155	2018-01-30 23:15
+HOUSE OF REPRESENTATIVES	051 Praise or endorse	UNITED STATES	41700	2018-01-29 23:00
+JAPAN	036 Express intent to meet or negotiate	CHINA	40035	2018-01-28 19:15
+IRISH	070 Provide aid, not specified below	IRELAND	43620	2018-01-31 07:00
+PARTY MEMBER	010 Make statement, not specified below	NEWSPAPER	43440	2018-01-31 04:00
+NIGERIA	010 Make statement, not specified below	THE UN	44550	2018-01-31 22:30
+UGANDA	072 Provide military aid	AFRICA	43485	2018-01-31 04:45
+UNITED STATES	046 Engage in negotiation	SENATOR	40200	2018-01-28 22:00
+BUSINESS	020 Appeal, not specified below	AUSTRALIA	43980	2018-01-31 13:00
+SECRETARY OF STATE	050 Engage in diplomatic cooperation, not specified below	NORTH KOREA	43455	2018-01-31 04:15
+RYANAIR	057 Sign formal agreement	EMPLOYEE	42450	2018-01-30 11:30
+MERCHANT	010 Make statement, not specified below	UNITED STATES	40575	2018-01-29 04:15
+INVESTOR	010 Make statement, not specified below	UNITED STATES	43965	2018-01-31 12:45
+CALIFORNIA	051 Praise or endorse	UNITED STATES	39075	2018-01-28 03:15
+JOHANNESBURG	043 Host a visit	AFRICA	40380	2018-01-29 01:00
+UNITED STATES	042 Make a visit	IRAQ	43155	2018-01-30 23:15
+INDIANA	010 Make statement, not specified below	UNITED STATES	43215	2018-01-31 00:15
+RETIRED	015 Acknowledge or claim responsibility	ISLAMABAD	39360	2018-01-28 08:00
+KANSAS	010 Make statement, not specified below	POLICE	44445	2018-01-31 20:45
+CATHOLIC	111 Criticize or denounce 	PROTESTANT	44385	2018-01-31 19:45
+CANADA	010 Make statement, not specified below	JORDAN	38880	2018-01-28 00:00
+CANADA	040 Consult, not specified below	TORONTO	40245	2018-01-28 22:45
+AFRICA	020 Appeal, not specified below	MALAWI	42330	2018-01-30 09:30
+TYRE	043 Host a visit	BUDDHIST	44070	2018-01-31 14:30
+COLLEGE	042 Make a visit	UNITED STATES	44475	2018-01-31 21:15
+CAMBODIA	173 Arrest, detain, or charge with legal action 	CANADA	41490	2018-01-29 19:30
+HEALTH MINIST	010 Make statement, not specified below	MEDIA	43590	2018-01-31 06:30
+UGANDA	174 Expel or deport individuals	RWANDAN	42645	2018-01-30 14:45
+BARACK OBAMA	043 Host a visit	NEVADA	42825	2018-01-30 17:45
+KING	041 Discuss by telephone	NIGERIA	39675	2018-01-28 13:15
+TURKEY	173 Arrest, detain, or charge with legal action 	SYRIA	41595	2018-01-29 21:15
+PRESIDENT	015 Acknowledge or claim responsibility	AFRICA	43575	2018-01-31 06:15
+KONO	042 Make a visit	CHINA	42570	2018-01-30 13:30
+MINIST	016 Deny responsibility	KENYA	44460	2018-01-31 21:00
+ISRAEL	017 Engage in symbolic act	PALESTINE	43740	2018-01-31 09:00
+BANK	145 Protest violently, riot	MISCREANT	42810	2018-01-30 17:30
+NORTH KOREA	040 Consult, not specified below	UNITED STATES	43575	2018-01-31 06:15
+RESIDENTS	020 Appeal, not specified below	NEW ZEALAND	40515	2018-01-29 03:15
+TOKYO	020 Appeal, not specified below	KONO	40320	2018-01-29 00:00
+NORTH KOREA	130 Threaten, not specified below	THE WHITE HOUSE	41595	2018-01-29 21:15
+COLLEGE	040 Consult, not specified below	POLITICIAN	38895	2018-01-28 00:15
+CONGRESS	020 Appeal, not specified below	SUPREME COURT	42645	2018-01-30 14:45
+PUBLIC RELATIONS OFFICER	010 Make statement, not specified below	GUNMEN	42750	2018-01-30 16:30
+GERMANY	043 Host a visit	JOURNALIST	42210	2018-01-30 07:30
+BRITAIN	010 Make statement, not specified below	SPOKESMAN	44370	2018-01-31 19:30
+MONACO	043 Host a visit	UNITED KINGDOM	44160	2018-01-31 16:00
+AIRLINE	112 Accuse, not specified below	QATAR	42900	2018-01-30 19:00
+PRESIDENT	161 Reduce or break diplomatic relations	THE US	40440	2018-01-29 02:00
+ISRAELI	190 Use conventional military force, not specified below	SCHOOL	39540	2018-01-28 11:00
+PROFESSOR	010 Make statement, not specified below	COMPANY	41130	2018-01-29 13:30
+RETIRED	036 Express intent to meet or negotiate	VIRGINIA	43935	2018-01-31 12:15
+AFGHANISTAN	190 Use conventional military force, not specified below	POLICE	40860	2018-01-29 09:00
+COMPANY	013 Make optimistic comment	CALIFORNIA	43200	2018-01-31 00:00
+RIYADH	120 Reject, not specified below	YEMEN	40440	2018-01-29 02:00
+FRANCE	043 Host a visit	CANADA	41835	2018-01-30 01:15
+SCHOOL	043 Host a visit	CONGRESSMAN	41400	2018-01-29 18:00
+PRESIDENT	020 Appeal, not specified below	UGANDA	41355	2018-01-29 17:15
+SCHOOL	043 Host a visit	RESIDENTS	40605	2018-01-29 04:45
+DISNEY	043 Host a visit	INDUSTRY	43065	2018-01-30 21:45
+VIRGINIA	040 Consult, not specified below	MILITARY	41535	2018-01-29 20:15
+KING	040 Consult, not specified below	ACTIVIST	43605	2018-01-31 06:45
+WASHINGTON	193 Fight with small arms and light weapons	POLICE OFFICER	41370	2018-01-29 17:30
+PRESIDENT	043 Host a visit	ZIMBABWE	42630	2018-01-30 14:30
+VOTER	046 Engage in negotiation	POLITICAL PARTIES	40455	2018-01-29 02:15
+PRINCE	051 Praise or endorse	SWEDEN	43215	2018-01-31 00:15
+ADMINISTRATION	057 Sign formal agreement	UNITED STATES	39540	2018-01-28 11:00
+TOURIST	042 Make a visit	SPANISH	40635	2018-01-29 05:15
+HOSNI MUBARAK	010 Make statement, not specified below	ISRAELI	43500	2018-01-31 05:00
+KABUL	043 Host a visit	CLERIC	43605	2018-01-31 06:45
+IRAQ	172 Impose administrative sanctions, not specified below	KURDISTAN	44025	2018-01-31 13:45
+MINIST	051 Praise or endorse	MINIST OF TRANSPORT	40800	2018-01-29 08:00
+CAMEROONIAN	043 Host a visit	NIGERIAN	43980	2018-01-31 13:00
+UNITED STATES	040 Consult, not specified below	PUBLIC RADIO	38910	2018-01-28 00:30
+ITALY	112 Accuse, not specified below	DIPLOMAT	44205	2018-01-31 16:45
+PERLIS	014 Consider policy option	IRAN	39585	2018-01-28 11:45
+UNITED STATES	190 Use conventional military force, not specified below	FIRE DEPARTMENT	44415	2018-01-31 20:15
+WEBSITE	172 Impose administrative sanctions, not specified below	COMMUNITY	43335	2018-01-31 02:15
+NORTH KOREA	043 Host a visit	SOUTHEAST ASIA	43830	2018-01-31 10:30
+LEGISLATURE	112 Accuse, not specified below	SEATTLE	44070	2018-01-31 14:30
+PRESIDENT	051 Praise or endorse	EGYPTIAN	41235	2018-01-29 15:15
+KENYAN	023 Appeal for aid, not specified below	AUDITOR GENERAL	44595	2018-01-31 23:15
+UGANDAN	043 Host a visit	ACTIVIST	41205	2018-01-29 14:45
+WELLS FARGO	057 Sign formal agreement	PHILADELPHIA	40725	2018-01-29 06:45
+ISRAEL	120 Reject, not specified below	POLISH	40395	2018-01-29 01:15
+COMMANDER	020 Appeal, not specified below	RUSSIA	43020	2018-01-30 21:00
+NORWAY	130 Threaten, not specified below	BRITISH	42495	2018-01-30 12:15
+GOVERNMENT	0841 Return, release person(s)	BERBER	44025	2018-01-31 13:45
+CHINA	043 Host a visit	UNITED STATES	43005	2018-01-30 20:45
+AUSTRALIA	112 Accuse, not specified below	GOVERNMENT	43245	2018-01-31 00:45
+IOWA	020 Appeal, not specified below	GOVERNOR	41790	2018-01-30 00:30
+PRESIDENT	162 Reduce or stop aid, not specified below	NIGERIAN	41985	2018-01-30 03:45
+UNITED STATES	080 Yield, not specified below 	CALIFORNIA	43110	2018-01-30 22:30
+UGANDAN	051 Praise or endorse	MEDIA	42660	2018-01-30 15:00
+FIGHTER	173 Arrest, detain, or charge with legal action 	GOVERNMENT	42240	2018-01-30 08:00
+SYRIA	010 Make statement, not specified below	GOVERNMENT	43575	2018-01-31 06:15
+UNITED STATES	036 Express intent to meet or negotiate	AFRICA	40785	2018-01-29 07:45
+BURKINA FASO	193 Fight with small arms and light weapons	FRENCH	40830	2018-01-29 08:30
+UNITED STATES	020 Appeal, not specified below	MEXICO	43215	2018-01-31 00:15
+THE EU	020 Appeal, not specified below	DUTCH	44085	2018-01-31 14:45
+MAGAZINE	114 Complain officially 	OTTAWA	42285	2018-01-30 08:45
+FOREIGN SECRETARY	040 Consult, not specified below	IRISH	44370	2018-01-31 19:30
+PUBLICATION	071 Provide economic aid	INVESTOR	42420	2018-01-30 11:00
+ETHIOPIA	071 Provide economic aid	COMMUNITY	44415	2018-01-31 20:15
+LISBON	173 Arrest, detain, or charge with legal action 	ANGOLAN	41550	2018-01-29 20:30
+JEWISH	010 Make statement, not specified below	RUSSIAN	41445	2018-01-29 18:45
+POLICE	055 Apologize	PROTESTER	41505	2018-01-29 19:45
+ENVIRONMENT MINIST	040 Consult, not specified below	ITALY	42195	2018-01-30 07:15
+SENATOR	036 Express intent to meet or negotiate	UNITED STATES	42675	2018-01-30 15:15
+TELEVISION	043 Host a visit	UNITED STATES	40770	2018-01-29 07:30
+TROOPER	090 Investigate, not specified below	PENNSYLVANIA	41235	2018-01-29 15:15
+KANO	040 Consult, not specified below	SENATE	44025	2018-01-31 13:45
+PRESIDENT	036 Express intent to meet or negotiate	WEST VIRGINIA	44325	2018-01-31 18:45
+UNITED STATES	036 Express intent to meet or negotiate	AIRLINE	42495	2018-01-30 12:15
+AUSTRALIA	013 Make optimistic comment	JUDGE	40530	2018-01-29 03:30
+FOREIGN MINIST	051 Praise or endorse	MUSLIM	42735	2018-01-30 16:15
+BIRMINGHAM	051 Praise or endorse	FARMER	44475	2018-01-31 21:15
+PRELATE	040 Consult, not specified below	BISHOP	43815	2018-01-31 10:15
+CANADA	042 Make a visit	NORTH CAROLINA	44535	2018-01-31 22:15
+UNITED STATES	010 Make statement, not specified below	CONGRESS	43230	2018-01-31 00:30
+ARKANSAS	036 Express intent to meet or negotiate	BUSINESS	44235	2018-01-31 17:15
+LANDLORD	012 Make pessimistic comment	MEDIA	42150	2018-01-30 06:30
+DAVOS	043 Host a visit	UNITED STATES	43260	2018-01-31 01:00
+MOSCOW	080 Yield, not specified below 	DEMONSTRATOR	39015	2018-01-28 02:15
+TOGO	160 Reduce relations, not specified below	SECURITIES EXCHANGE	44160	2018-01-31 16:00
+NIAGARA FALLS	051 Praise or endorse	JEWISH	40440	2018-01-29 02:00
+TERRORIST	0841 Return, release person(s)	TALIBAN	39195	2018-01-28 05:15
+FIGHTER JET	080 Yield, not specified below 	CHINESE	42975	2018-01-30 20:15
+PAKISTAN	010 Make statement, not specified below	CHINA	40935	2018-01-29 10:15
+RESIDENTS	014 Consider policy option	HILLARY CLINTON	39660	2018-01-28 13:00
+STUDENT	173 Arrest, detain, or charge with legal action 	PENNSYLVANIA	39720	2018-01-28 14:00
+SYRIAN	014 Consider policy option	KURD	41430	2018-01-29 18:30
+PRESIDENT	020 Appeal, not specified below	MILITARY	41925	2018-01-30 02:45
+MALTA	042 Make a visit	RUSSIA	41100	2018-01-29 13:00
+GOVERNMENT	172 Impose administrative sanctions, not specified below	CHINA	42150	2018-01-30 06:30
+MEDIA	051 Praise or endorse	POLITICIAN	41805	2018-01-30 00:45
+RUSSIAN	060 Engage in material cooperation, not specified below	RUSSIA	40965	2018-01-29 10:45
+JAPAN	040 Consult, not specified below	ABU DHABI	39795	2018-01-28 15:15
+CONSERVATIONIST	042 Make a visit	CHILE	42255	2018-01-30 08:15
+CRIMINAL	090 Investigate, not specified below	RUSSIAN	41460	2018-01-29 19:00
+ASSOCIATED PRESS	070 Provide aid, not specified below	CHAD	44325	2018-01-31 18:45
+REFUGEE	042 Make a visit	UGANDA	39315	2018-01-28 07:15
+PRESIDENT	042 Make a visit	PHILIPPINE	42795	2018-01-30 17:15
+EMPLOYEE	042 Make a visit	WEST BANK	43575	2018-01-31 06:15
+CRIMEA	110 Disapprove, not specified below	CRIMEAN TATAR	40380	2018-01-29 01:00
+AIR FORCE	051 Praise or endorse	UNITED STATES	44475	2018-01-31 21:15
+BRITISH	061 Cooperate economically	CHINA	41610	2018-01-29 21:30
+NORTH KOREA	040 Consult, not specified below	PRESIDENT	44475	2018-01-31 21:15
+COLLEGE	036 Express intent to meet or negotiate	WYOMING	43035	2018-01-30 21:15
+VILLAGE	020 Appeal, not specified below	CANADIAN	41715	2018-01-29 23:15
+CONGRESSMAN	071 Provide economic aid	OREGON	44085	2018-01-31 14:45
+UNITED STATES	060 Engage in material cooperation, not specified below	SCHOOL	42165	2018-01-30 06:45
+GOOGLE	060 Engage in material cooperation, not specified below	GAUTENG	39555	2018-01-28 11:15
+CHINA	062 Cooperate militarily	NORTH KOREA	42975	2018-01-30 20:15
+TURKISH	042 Make a visit	IRANIAN	43020	2018-01-30 21:00
+JUDGE	042 Make a visit	GOVERNMENT	43230	2018-01-31 00:30
+JAPAN	060 Engage in material cooperation, not specified below	SOUTH KOREA	42405	2018-01-30 10:45
+UNITED STATES	100 Demand, not specified below	CONGRESS	44400	2018-01-31 20:00
+LAS VEGAS	190 Use conventional military force, not specified below	CANADA	39675	2018-01-28 13:15
+ACTOR	051 Praise or endorse	COMMUNITY	39015	2018-01-28 02:15
+SCHOOL	112 Accuse, not specified below	ILLEGAL IMMIGRANT	41805	2018-01-30 00:45
+PRIME MINISTER	036 Express intent to meet or negotiate	ISRAEL	41460	2018-01-29 19:00
+UNITED STATES	013 Make optimistic comment	THE ASSOCIATED PRESS	43425	2018-01-31 03:45
+QATAR	057 Sign formal agreement	MILITARY	41610	2018-01-29 21:30
+NIGERIA	042 Make a visit	ETHIOPIA	42840	2018-01-30 18:00
+AMERICAN	046 Engage in negotiation	AFRICA	44370	2018-01-31 19:30
+NICARAGUA	010 Make statement, not specified below	UNITED STATES	41415	2018-01-29 18:15
+MCDERMOTT INTERNATIONAL	031 Express intent to engage in material cooperation,  not specified below	SAUDI	41400	2018-01-29 18:00
+UNITED STATES	112 Accuse, not specified below	PAKISTAN	42240	2018-01-30 08:00
+SIEM REAP	173 Arrest, detain, or charge with legal action 	DUTCH	43485	2018-01-31 04:45
+ISRAELI	1712 Destroy property	ISRAEL	41235	2018-01-29 15:15
+DEMONSTRATOR	043 Host a visit	RESIDENTS	39975	2018-01-28 18:15
+MILITARY	173 Arrest, detain, or charge with legal action 	TURKEY	41340	2018-01-29 17:00
+SEPARATIST	112 Accuse, not specified below	PRIME MINISTER	41205	2018-01-29 14:45
+UNITED ARAB EMIRATES	043 Host a visit	COMMUNITY	44100	2018-01-31 15:00
+THE WHITE HOUSE	130 Threaten, not specified below	UNITED STATES	40590	2018-01-29 04:30
+SUPREME COURT	081 Ease administrative sanctions, not specified below	UNITED STATES	42930	2018-01-30 19:30
+MINIST	174 Expel or deport individuals	SYRIA	39450	2018-01-28 09:30
+UNITED STATES	020 Appeal, not specified below	INDIANA	43305	2018-01-31 01:45
+STUDENT	043 Host a visit	EDUCATION DEPARTMENT	42030	2018-01-30 04:30
+TRIAL LAWYER	057 Sign formal agreement	MONSANTO	44430	2018-01-31 20:30
+BUSINESS	020 Appeal, not specified below	TOURIST	41895	2018-01-30 02:15
+KENYA	130 Threaten, not specified below	NASA	40755	2018-01-29 07:15
+ISLAMIC MILITANT	202 Engage in mass killings	TALIBAN	41100	2018-01-29 13:00
+EMPLOYER	130 Threaten, not specified below	CALIFORNIA	41835	2018-01-30 01:15
+AFGHAN	190 Use conventional military force, not specified below	UNITED STATES	38925	2018-01-28 00:45
+POLICE	010 Make statement, not specified below	UNITED STATES	42555	2018-01-30 13:15
+UNITED KINGDOM	020 Appeal, not specified below	MICHAEL GOVE	43680	2018-01-31 08:00
+ISLAMIC	015 Acknowledge or claim responsibility	MILITANT	41040	2018-01-29 12:00
+UNITED STATES	051 Praise or endorse	COMMUNITY	39435	2018-01-28 09:15
+TURKEY	010 Make statement, not specified below	TERRORIST	41025	2018-01-29 11:45
+SAUDI	192 Occupy territory	SOUTH ASIA	42495	2018-01-30 12:15
+ISRAEL	040 Consult, not specified below	ISRAELI	39615	2018-01-28 12:15
+PAKISTAN	010 Make statement, not specified below	DEPUTY	42300	2018-01-30 09:00
+NIGERIA	042 Make a visit	MILITARY	43920	2018-01-31 12:00
+CENTER FOR STRATEGIC AND INTERNATIONAL STUDIES	020 Appeal, not specified below	NORTH KOREA	44550	2018-01-31 22:30
+PROFESSOR	040 Consult, not specified below	UNITED STATES	44385	2018-01-31 19:45
+UNITED STATES	010 Make statement, not specified below	ATTORNEY GENERAL	42780	2018-01-30 17:00
+STUDENT	020 Appeal, not specified below	KENTUCKY	39945	2018-01-28 17:45
+STUDENT	042 Make a visit	UNITED KINGDOM	42465	2018-01-30 11:45
+UNITED STATES	043 Host a visit	ATTORNEY	44175	2018-01-31 16:15
+FIJI	042 Make a visit	SOLOMON ISLAND	41565	2018-01-29 20:45
+NAVAL	042 Make a visit	MEXICO	41325	2018-01-29 16:45
+CHINA	111 Criticize or denounce 	TAIWAN	44145	2018-01-31 15:45
+PAEDOPHILE	040 Consult, not specified below	POLICE	39885	2018-01-28 16:45
+THERESA MAY	055 Apologize	HOUSE OF COMMONS	44025	2018-01-31 13:45
+THE EU	030 Express intent to cooperate, not specified below	BELGIUM	41100	2018-01-29 13:00
+SPAIN	043 Host a visit	INDIANA	43230	2018-01-31 00:30
+GOOGLE	090 Investigate, not specified below	UNITED STATES	44355	2018-01-31 19:15
+UNITED KINGDOM	043 Host a visit	ISRAEL	44265	2018-01-31 17:45
+UNITED STATES	110 Disapprove, not specified below	CRIMINAL	43155	2018-01-30 23:15
+UNITED STATES	181 Abduct, hijack, or take hostage 	SYRIA	40260	2018-01-28 23:00
+SECRETARY OF STATE	036 Express intent to meet or negotiate	QATAR	42705	2018-01-30 15:45
+ZIMBABWE	043 Host a visit	MICHIGAN	41580	2018-01-29 21:00
+UNITED STATES	0353 Express intent to release persons or property	BUSINESS	41520	2018-01-29 20:00
+UNITED STATES	042 Make a visit	AUTHORITIES	42570	2018-01-30 13:30
+TALLINN	046 Engage in negotiation	THE EU	42555	2018-01-30 13:15
+BISHOP	010 Make statement, not specified below	SENATE	42810	2018-01-30 17:30
+BELGIUM	036 Express intent to meet or negotiate	GERMANY	42240	2018-01-30 08:00
+UNITED STATES	112 Accuse, not specified below	ATTORNEY GENERAL	41565	2018-01-29 20:45
+UNITED KINGDOM	0833 Accede to demands for rights	GOVERNMENT	44205	2018-01-31 16:45
+HOSPITAL	055 Apologize	REFUGEE	43755	2018-01-31 09:15
+HOUSTON	043 Host a visit	STUDENT	44475	2018-01-31 21:15
+ADEN	042 Make a visit	DJIBOUTI	38955	2018-01-28 01:15
+ISRAELI	042 Make a visit	JERUSALEM	40530	2018-01-29 03:30
+ISRAELI	042 Make a visit	AMMAN	42690	2018-01-30 15:30
+KING	010 Make statement, not specified below	BARBADOS	43440	2018-01-31 04:00
+AUTHORITIES	015 Acknowledge or claim responsibility	FEDERAL COURT	41745	2018-01-29 23:45
+MINIST	010 Make statement, not specified below	BULAWAYO	41760	2018-01-30 00:00
+UNITED STATES	010 Make statement, not specified below	INTELLIGENCE	39435	2018-01-28 09:15
+MISSOURI	0841 Return, release person(s)	UNIVERSITY	42480	2018-01-30 12:00
+BUSINESS	0311 Express intent to cooperate economically	EMPLOYEE	42975	2018-01-30 20:15
+FRENCH	020 Appeal, not specified below	NIGERIA	40500	2018-01-29 03:00
+ENGINEER	042 Make a visit	GOOGLE	43020	2018-01-30 21:00
+PRESIDENT	051 Praise or endorse	COLLEGE	41850	2018-01-30 01:30
+REGIME	1822 Torture	NORTH KOREAN	44310	2018-01-31 18:30
+IRELAND	043 Host a visit	MISSOURI	42060	2018-01-30 05:00
+AFGHANISTAN	010 Make statement, not specified below	TERRORIST	39195	2018-01-28 05:15
+DELEGATE	043 Host a visit	LAOS	44115	2018-01-31 15:15
+UNITED NATIONS	071 Provide economic aid	DEMOCRATIC REPUBLIC OF CONGO	42915	2018-01-30 19:15
+UNITED STATES	010 Make statement, not specified below	CHAMBER	44100	2018-01-31 15:00
+FANG	010 Make statement, not specified below	IOWA	44070	2018-01-31 14:30
+ATTORNEY	010 Make statement, not specified below	LOUISIANA	43440	2018-01-31 04:00
+UTTAR PRADESH	173 Arrest, detain, or charge with legal action 	INSPECTOR GENERAL	43890	2018-01-31 11:30
+MALTA	043 Host a visit	AUGUSTINIANS	39495	2018-01-28 10:15
+WASHINGTON	051 Praise or endorse	ADMINISTRATION	42255	2018-01-30 08:15
+UNITED STATES	050 Engage in diplomatic cooperation, not specified below	SETTLEMENT	41385	2018-01-29 17:45
+BUSINESS	042 Make a visit	MAHARASHTRA	42480	2018-01-30 12:00
+BANGLADESH	042 Make a visit	MYANMAR	44100	2018-01-31 15:00
+TURKISH	130 Threaten, not specified below	CYPRIOT	40080	2018-01-28 20:00
+ISRAEL	040 Consult, not specified below	WORLD ECONOMIC FORUM	40320	2018-01-29 00:00
+AUSTRALIAN	114 Complain officially 	MEDIA	41145	2018-01-29 13:45
+NATION OF ISLAM	125 Reject proposal to meet, discuss, or negotiate	DALLAS	44310	2018-01-31 18:30
+GOVERNMENT	040 Consult, not specified below	GERMANY	44220	2018-01-31 17:00
+COMPANY	111 Criticize or denounce 	UNITED KINGDOM	38940	2018-01-28 01:00
+COMPANY	090 Investigate, not specified below	THE NETHERLAND	39855	2018-01-28 16:15
+UNITED STATES	130 Threaten, not specified below	SINAI	41505	2018-01-29 19:45
+AMERICAN	051 Praise or endorse	ISRAEL	41520	2018-01-29 20:00
+FRANCE	046 Engage in negotiation	COMPANY	43275	2018-01-31 01:15
+CHINESE	036 Express intent to meet or negotiate	TAIPEI	40395	2018-01-29 01:15
+AMERICAN	081 Ease administrative sanctions, not specified below	SUPREME COURT	41475	2018-01-29 19:15
+CONGRESS	010 Make statement, not specified below	PRESIDENT	44310	2018-01-31 18:30
+PAKISTAN	071 Provide economic aid	SEPARATIST	43365	2018-01-31 02:45
+JAPAN	010 Make statement, not specified below	SOUTH KOREA	39930	2018-01-28 17:30
+POLICE	042 Make a visit	NEIGHBORHOOD	41025	2018-01-29 11:45
+HIGH COURT	051 Praise or endorse	LANDOWNER	39180	2018-01-28 05:00
+THE UN	111 Criticize or denounce 	KABUL	43620	2018-01-31 07:00
+WEBSITE	114 Complain officially 	UNITED KINGDOM	42570	2018-01-30 13:30
+UNITED STATES	051 Praise or endorse	MANCHESTER	39405	2018-01-28 08:45
+CUBA	010 Make statement, not specified below	PRESIDENT	40200	2018-01-28 22:00
+UNITED KINGDOM	190 Use conventional military force, not specified below	HOSPITAL	39945	2018-01-28 17:45
+GOVERNMENT	046 Engage in negotiation	MEDIA	39675	2018-01-28 13:15
+COMPANY	010 Make statement, not specified below	SCHOOL	41235	2018-01-29 15:15
+HEALTH OFFICIAL	193 Fight with small arms and light weapons	AMERICAN	41805	2018-01-30 00:45
+EXPATRIATE	010 Make statement, not specified below	NEWSPAPER	44445	2018-01-31 20:45
+UNITED STATES	043 Host a visit	WORLD ECONOMIC FORUM	39915	2018-01-28 17:15
+PRISON	043 Host a visit	ACTIVIST	44565	2018-01-31 22:45
+LEBANESE	112 Accuse, not specified below	IRAN	41640	2018-01-29 22:00
+WELLINGTON	130 Threaten, not specified below	POLICE	41865	2018-01-30 01:45
+CANADA	090 Investigate, not specified below	SCHOOL	43185	2018-01-30 23:45
+GOOGLE	070 Provide aid, not specified below	MICROSOFT	43035	2018-01-30 21:15
+SCOTTISH	020 Appeal, not specified below	UNITED KINGDOM	43515	2018-01-31 05:15
+NIGERIA	010 Make statement, not specified below	OPPOSITION PARTY	43170	2018-01-30 23:30
+ACTIVIST	1041 Demand change in leadership	BANGKOK	43335	2018-01-31 02:15
+REPRESENTATIVES	042 Make a visit	UNITED STATES	42450	2018-01-30 11:30
+QATAR	050 Engage in diplomatic cooperation, not specified below	IRAN	39060	2018-01-28 03:00
+UNITED STATES	0874 Retreat or surrender militarily	SENATE	43035	2018-01-30 21:15
+CREDIT SUISSE	080 Yield, not specified below 	BUREAUCRAT	40560	2018-01-29 04:00
+SPAIN	080 Yield, not specified below 	CATALAN	44235	2018-01-31 17:15
+NIGERIAN	114 Complain officially 	GOVERNMENT	38925	2018-01-28 00:45
+MINIST	036 Express intent to meet or negotiate	MEXICAN	39825	2018-01-28 15:45
+PRESIDENT	042 Make a visit	JERUSALEM	39525	2018-01-28 10:45
+UNITED STATES	010 Make statement, not specified below	WALL STREET JOURNAL	39945	2018-01-28 17:45
+SRI LANKA	040 Consult, not specified below	COLOMBO	42780	2018-01-30 17:00
+CHINA	112 Accuse, not specified below	UNITED KINGDOM	44010	2018-01-31 13:30
+THE AU	010 Make statement, not specified below	AUSTRALIA	40440	2018-01-29 02:00
+UGANDA	043 Host a visit	AMBASSADOR	42195	2018-01-30 07:15
+UNITED STATES	015 Acknowledge or claim responsibility	DOCTOR	42300	2018-01-30 09:00
+UNITED STATES	042 Make a visit	ISRAEL	40140	2018-01-28 21:00
+REUTERS	010 Make statement, not specified below	EMPLOYEE	42060	2018-01-30 05:00
+UNITED STATES	190 Use conventional military force, not specified below	TALIBAN	43380	2018-01-31 03:00
+GOVERNMENT OFFICIAL	010 Make statement, not specified below	CONGLOMERATE	42975	2018-01-30 20:15
+TRINIDAD AND TOBAGO	040 Consult, not specified below	TOBAGO	43080	2018-01-30 22:00
+SCOTTISH	030 Express intent to cooperate, not specified below	MINIST	39285	2018-01-28 06:45
+BUSINESS	120 Reject, not specified below	PUBLICATION	43755	2018-01-31 09:15
+RIGHTS GROUP	112 Accuse, not specified below	ADDIS ABABA	41040	2018-01-29 12:00
+REPRESENTATIVES	020 Appeal, not specified below	BUSINESS	44235	2018-01-31 17:15
+ISRAEL	020 Appeal, not specified below	THE WHITE HOUSE	41565	2018-01-29 20:45
+COMPANY	061 Cooperate economically	ANTIGUA AND BARBUDA	40815	2018-01-29 08:15
+UNITED STATES	042 Make a visit	MIAMI	43050	2018-01-30 21:30
+THE OPPOSITION	042 Make a visit	LAOS	44370	2018-01-31 19:30
+GABON	030 Express intent to cooperate, not specified below	DORTMUND	42255	2018-01-30 08:15
+ARMY	051 Praise or endorse	CHINOOK	40905	2018-01-29 09:45
+FARC	190 Use conventional military force, not specified below	UNITED KINGDOM	42270	2018-01-30 08:30
+AUSTIN	051 Praise or endorse	UNITED STATES	42900	2018-01-30 19:00
+ISRAEL	111 Criticize or denounce 	POLAND	38985	2018-01-28 01:45
+UNITED STATES	020 Appeal, not specified below	GOVERNMENT	44415	2018-01-31 20:15
+JUDGE	081 Ease administrative sanctions, not specified below	JERSEY	44415	2018-01-31 20:15
+ARMY	100 Demand, not specified below	NAVY	40875	2018-01-29 09:15
+AFGHAN	192 Occupy territory	AFGHANISTAN	40635	2018-01-29 05:15
+VOTER	060 Engage in material cooperation, not specified below	CHINA	39465	2018-01-28 09:45
+WALL STREET JOURNAL	013 Make optimistic comment	NEW YORK	38925	2018-01-28 00:45
+ZAMBIA	020 Appeal, not specified below	STUDENT	44550	2018-01-31 22:30
+POLICE	010 Make statement, not specified below	AUSTRALIA	43080	2018-01-30 22:00
+THERESA MAY	011 Decline comment	DEFENCE SECRETARY	44265	2018-01-31 17:45
+JAPAN	0311 Express intent to cooperate economically	COMPANY	44370	2018-01-31 19:30
+RIGHTS GROUP	0253 Appeal for release of persons or property	IRAN	40125	2018-01-28 20:45
+AFGHANISTAN	190 Use conventional military force, not specified below	TALIBAN	42330	2018-01-30 09:30
+SCHOOL	071 Provide economic aid	STUDENT	41505	2018-01-29 19:45
+NIGERIA	040 Consult, not specified below	PRESIDENT	42660	2018-01-30 15:00
+PROTESTER	042 Make a visit	NORTH DAKOTA	41505	2018-01-29 19:45
+FLORIDA	190 Use conventional military force, not specified below	SCHOOL	43215	2018-01-31 00:15
+UNIVERSITY	040 Consult, not specified below	UNITED STATES	44085	2018-01-31 14:45
+PARLIAMENT	070 Provide aid, not specified below	UNITED KINGDOM	40890	2018-01-29 09:30
+ARMY UNIT	154 Mobilize or increase armed forces 	ADMINISTRATION	41100	2018-01-29 13:00
+MAURITANIAN	173 Arrest, detain, or charge with legal action 	MAURITANIA	41325	2018-01-29 16:45
+STUDENT	030 Express intent to cooperate, not specified below	PRESIDENT	41580	2018-01-29 21:00
+COMPANIES	010 Make statement, not specified below	PRESIDENT	41820	2018-01-30 01:00
+VIETNAMESE	150 Demonstrate military or police power, not specified below	JABALPUR	41400	2018-01-29 18:00
+PORTUGAL	043 Host a visit	VIETNAMESE	40530	2018-01-29 03:30
+UNIVERSITY	180 Use unconventional violence, not specified below	UNITED STATES	41310	2018-01-29 16:30
+VODAFONE	043 Host a visit	MEDIA	44520	2018-01-31 22:00
+HOSPITAL	012 Make pessimistic comment	KIEV	39675	2018-01-28 13:15
+NORWAY	014 Consider policy option	MAINE	44385	2018-01-31 19:45
+NEW YORK	173 Arrest, detain, or charge with legal action 	CRIMINAL	43635	2018-01-31 07:15
+PRESIDENT	040 Consult, not specified below	CANARY ISLANDS	44385	2018-01-31 19:45
+CHANDIGARH	042 Make a visit	CORPORATION	39945	2018-01-28 17:45
+TEHRAN	040 Consult, not specified below	SYRIA	42195	2018-01-30 07:15
+GOVERNMENT	173 Arrest, detain, or charge with legal action 	CULPRIT	39870	2018-01-28 16:30
+CALIFORNIA	013 Make optimistic comment	UNITED STATES	41805	2018-01-30 00:45
+PRESIDENT	040 Consult, not specified below	JOURNALIST	40335	2018-01-29 00:15
+CANADA	010 Make statement, not specified below	WATERLOO	41415	2018-01-29 18:15
+MINIST	014 Consider policy option	UNITED KINGDOM	44625	2018-01-31 23:45
+UNITED STATES	020 Appeal, not specified below	POLICE	43890	2018-01-31 11:30
+GREECE	050 Engage in diplomatic cooperation, not specified below	ALBANIA	42555	2018-01-30 13:15
+UNITED STATES	161 Reduce or break diplomatic relations	THE US	42780	2018-01-30 17:00
+NIGERIA	010 Make statement, not specified below	REFUGEE	40710	2018-01-29 06:30
+ECUADOR	022 Appeal for diplomatic cooperation, such as policy support	COLOMBIA	41685	2018-01-29 22:45
+MORGAN STANLEY	043 Host a visit	BANK	40365	2018-01-29 00:45
+UNITED STATES	042 Make a visit	REPRESENTATIVES	42105	2018-01-30 05:45
+KENYA	0234 Appeal for military protection or peacekeeping	GOVERNMENT	39915	2018-01-28 17:15
+MAYOR	051 Praise or endorse	AFRICA	42465	2018-01-30 11:45
+UNITED ARAB EMIRATES	045 Mediate	COMPANY	43860	2018-01-31 11:00
+GAZA	036 Express intent to meet or negotiate	ENVOY	43515	2018-01-31 05:15
+FARMER	190 Use conventional military force, not specified below	AMNESTY INTERNATIONAL	42540	2018-01-30 13:00
+AFRICAN UNION	043 Host a visit	KING	42330	2018-01-30 09:30
+PRESIDENT	051 Praise or endorse	ANGOLA	41010	2018-01-29 11:30
+UNITED STATES	042 Make a visit	COMMUNITY	44505	2018-01-31 21:45
+IMAM	010 Make statement, not specified below	SIMON WIESENTHAL CENTER	44520	2018-01-31 22:00
+NAGPUR	120 Reject, not specified below	UNIVERSITY	42825	2018-01-30 17:45
+SRI LANKA	043 Host a visit	WESTERN AUSTRALIA	42450	2018-01-30 11:30
+GREENVILLE	051 Praise or endorse	CATHOLIC	43305	2018-01-31 01:45
+HILLARY CLINTON	042 Make a visit	REUTERS	41160	2018-01-29 14:00
+SYRIA	010 Make statement, not specified below	ARMY UNIT	38925	2018-01-28 00:45
+EGYPT	051 Praise or endorse	BANK	42420	2018-01-30 11:00
+THE WHITE HOUSE	040 Consult, not specified below	NATIVE AMERICAN	41775	2018-01-30 00:15
+SPOKESMAN	073 Provide humanitarian aid	SAUDI ARABIA	41580	2018-01-29 21:00
+CHINA	012 Make pessimistic comment	TAIWANESE	43365	2018-01-31 02:45
+RUSSIA	046 Engage in negotiation	UKRAINIAN	42015	2018-01-30 04:15
+SYRIA	195 Employ aerial weapons	RUSSIA	42795	2018-01-30 17:15
+NIGERIA	032 Express intent to provide diplomatic cooperation such as policy support	COMMANDER	40800	2018-01-29 08:00
+MAGISTRATE	040 Consult, not specified below	UGANDA	42570	2018-01-30 13:30
+GOVERNMENT	070 Provide aid, not specified below	TANZANIAN	43815	2018-01-31 10:15
+ECUADORIAN	114 Complain officially 	CHEVRON	43650	2018-01-31 07:30
+COMPANIES	013 Make optimistic comment	AMERICAN	43440	2018-01-31 04:00
+AUSTRIA	020 Appeal, not specified below	RUSSIA	42795	2018-01-30 17:15
+WASHINGTON	084 Return, release, not specified below	RUSSIAN	42330	2018-01-30 09:30
+THE OPPOSITION	120 Reject, not specified below	RUSSIA	43890	2018-01-31 11:30
+AMRITSAR	020 Appeal, not specified below	CABINET MINISTER	44400	2018-01-31 20:00
+UNITED STATES	043 Host a visit	NORTH AMERICA	40455	2018-01-29 02:15
+COMPANIES	014 Consider policy option	VENEZUELA	41220	2018-01-29 15:00
+POLISH	042 Make a visit	FRENCH	40080	2018-01-28 20:00
+UNITED STATES	051 Praise or endorse	STUDENT	42045	2018-01-30 04:45
+CHIEF EXECUTIVE	060 Engage in material cooperation, not specified below	JAPAN	40860	2018-01-29 09:00
+UNITED STATES	070 Provide aid, not specified below	UNIVERSITY	44310	2018-01-31 18:30
+PARTY LEADER	046 Engage in negotiation	MAITHRIPALA SIRISENA	41415	2018-01-29 18:15
+UNITED STATES	042 Make a visit	PROTESTER	41895	2018-01-30 02:15
+UNITED STATES	190 Use conventional military force, not specified below	POLE	39990	2018-01-28 18:30
+TURKEY	180 Use unconventional violence, not specified below	WASHINGTON	39975	2018-01-28 18:15
+UNITED STATES	071 Provide economic aid	MILITARY	39090	2018-01-28 03:30
+AFRICA	125 Reject proposal to meet, discuss, or negotiate	WRITER	44040	2018-01-31 14:00
+LAWMAKER	020 Appeal, not specified below	POLISH	39300	2018-01-28 07:00
+NAVY	060 Engage in material cooperation, not specified below	GOVERNMENT	44625	2018-01-31 23:45
+MAYOR	040 Consult, not specified below	ONTARIO	44595	2018-01-31 23:15
+YEMEN	010 Make statement, not specified below	UNICEF	43170	2018-01-30 23:30
+NAVY	057 Sign formal agreement	SEYCHELLES	41520	2018-01-29 20:00
+WORKER	057 Sign formal agreement	UNITED ARAB EMIRATES	39390	2018-01-28 08:30
+PHILIPPINE	112 Accuse, not specified below	LAWYER	44400	2018-01-31 20:00
+PRESIDENT	040 Consult, not specified below	CHINA	41865	2018-01-30 01:45
+COUNSEL	090 Investigate, not specified below	RUSSIAN	44355	2018-01-31 19:15
+THE UN	042 Make a visit	NEW YORK	44310	2018-01-31 18:30
+MINIST	043 Host a visit	LEGISLATOR	43740	2018-01-31 09:00
+COMMUNITY	057 Sign formal agreement	GOOGLE	40980	2018-01-29 11:00
+EUROPE	013 Make optimistic comment	NEWSPAPER	42840	2018-01-30 18:00
+TURKEY	190 Use conventional military force, not specified below	MILITARY	43065	2018-01-30 21:45
+JUDGE	040 Consult, not specified below	UNITED KINGDOM	41595	2018-01-29 21:15
+COMMERCE MINIST	036 Express intent to meet or negotiate	AMIT	42195	2018-01-30 07:15
+GOVERNMENT	114 Complain officially 	COMPANIES	40785	2018-01-29 07:45
+UNITED STATES	071 Provide economic aid	MILITARY	43665	2018-01-31 07:45
+DUBAI	043 Host a visit	CONGRESS	43995	2018-01-31 13:15
+MALAYSIAN	090 Investigate, not specified below	MALAYSIA	44085	2018-01-31 14:45
+NAGA	160 Reduce relations, not specified below	NAGALAND	40245	2018-01-28 22:45
+IRAN	190 Use conventional military force, not specified below	CHINA	43095	2018-01-30 22:15
+UNIVERSITY	042 Make a visit	UNITED STATES	42825	2018-01-30 17:45
+SUPERIOR COURT	173 Arrest, detain, or charge with legal action 	GOVERNOR	44010	2018-01-31 13:30
+UNITED STATES	020 Appeal, not specified below	COAST GUARD	38985	2018-01-28 01:45
+GALAPAGOS	042 Make a visit	AUCKLAND	41730	2018-01-29 23:30
+BLANTYRE	020 Appeal, not specified below	COMMUNITY	41145	2018-01-29 13:45
+PHILADELPHIA	046 Engage in negotiation	CATHOLIC	44100	2018-01-31 15:00
+NOAKHALI	193 Fight with small arms and light weapons	WORKER	40860	2018-01-29 09:00
+CONGRESS	163 Impose embargo, boycott, or sanctions	RUSSIA	43455	2018-01-31 04:15
+GREECE	120 Reject, not specified below	MACEDONIA	41100	2018-01-29 13:00
+NAPLES	173 Arrest, detain, or charge with legal action 	BUSINESS	41310	2018-01-29 16:30
+KING	193 Fight with small arms and light weapons	UNITED STATES	44505	2018-01-31 21:45
+POLICE	020 Appeal, not specified below	JUDGE	44505	2018-01-31 21:45
+UNITED STATES	051 Praise or endorse	FIREFIGHTER	40965	2018-01-29 10:45
+PRESIDENT	057 Sign formal agreement	BUSINESS	43845	2018-01-31 10:45
+MERCHANT	036 Express intent to meet or negotiate	PORTLAND	42795	2018-01-30 17:15
+JUDGE	010 Make statement, not specified below	NEW ZEALAND	39450	2018-01-28 09:30
+MILITARY	190 Use conventional military force, not specified below	UNITED STATES	41565	2018-01-29 20:45
+PRISON	043 Host a visit	INTERNATIONAL COMMITTEE OF THE RED CROSS	43890	2018-01-31 11:30
+UNITED STATES	040 Consult, not specified below	AMBASSADOR	41670	2018-01-29 22:30
+BOSTON	046 Engage in negotiation	AFRICA	39810	2018-01-28 15:30
+PRESIDENT	070 Provide aid, not specified below	UNITED STATES	41895	2018-01-30 02:15
+UNITED STATES	070 Provide aid, not specified below	LIEUTENANT	42855	2018-01-30 18:15
+QUITO	173 Arrest, detain, or charge with legal action 	CRIMINAL	41685	2018-01-29 22:45
+FIRST LADY	020 Appeal, not specified below	THE WHITE HOUSE	39480	2018-01-28 10:00
+SINGAPORE	0311 Express intent to cooperate economically	SRI LANKAN	41490	2018-01-29 19:30
+LAW OFFICER	193 Fight with small arms and light weapons	OKLAHOMA	44130	2018-01-31 15:30
+A US	0873 Demobilize armed forces	SYRIA	42810	2018-01-30 17:30
+MALAYSIA	042 Make a visit	AMERICAN	43035	2018-01-30 21:15
+STUDENT	042 Make a visit	INDIANAPOLIS	43725	2018-01-31 08:45
+NORTH KOREA	010 Make statement, not specified below	REGIME	43590	2018-01-31 06:30
+FOREIGN MINIST	040 Consult, not specified below	BRITON	39540	2018-01-28 11:00
+REUTERS	173 Arrest, detain, or charge with legal action 	RIYADH	39435	2018-01-28 09:15
+ARMY	084 Return, release, not specified below	UNITED STATES	42510	2018-01-30 12:30
+COMPANY	120 Reject, not specified below	AUSTRALIA	40380	2018-01-29 01:00
+BUSAN	020 Appeal, not specified below	SOUTH KOREA	44145	2018-01-31 15:45
+PRESIDENT	110 Disapprove, not specified below	UNITED STATES	41985	2018-01-30 03:45

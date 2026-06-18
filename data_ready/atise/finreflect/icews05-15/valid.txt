@@ -1,0 +1,197 @@
+khc	produces	meat and seafood	2005-01-04
+aapl	produces	itunes store	2005-01-01
+well	operates_in	concord , nh	2005-01-09
+well	operates_in	west virginia	2005-01-09
+well	operates_in	colleyville , tx	2005-01-10
+pom	operates_in	new jersey	2005-01-02
+tel	produces	interventional medical component	2005-01-07
+aapl	produces	service	2005-01-10
+amzn	produces	product and service	2005-01-04
+cat	operates_in	decatur	2005-01-10
+houston electric	operates_in	houston	2005-01-06
+rcl	operates_in	silver spirit	2005-01-11
+well	operates_in	ann arbor , mi	2005-01-11
+cat	operates_in	south korea	2005-01-10
+aapl	produces	other product	2005-01-04
+material handle & underground	produces	highwall miner	2005-01-04
+cnp	produces	coal	2005-01-07
+vz	produces	control solution	2005-01-07
+vz	produces	residential fix connectivity solution	2005-01-11
+well	operates_in	lakeland , fl	2005-01-10
+well	operates_in	howell , nj	2005-01-10
+well	operates_in	madison , tn	2005-01-08
+cat	operates_in	texas	2005-01-02
+well	operates_in	brick , nj	2005-01-09
+well	operates_in	bakersfield , ca	2005-01-08
+well	operates_in	osawatomie , ks	2005-01-09
+cat	produces	multi-terrain loader	2005-01-02
+well	operates_in	fairhope , al	2005-01-08
+well	operates_in	nebraska	2005-01-07
+cnp	operates_in	texas gulf coast area	2005-01-08
+aapl	produces	beat	2005-01-05
+well	operates_in	rockville centre , ny	2005-01-06
+pm	produces	chesterfield	2005-01-04
+cnp	operates_in	louisiana	2005-01-09
+gme	produces	video game software	2005-01-01
+amzn	operates_in	geographic reach	2005-01-05
+fltplan.com	supplies	pre-departure clearance	2005-01-05
+cat	produces	articulate truck	2005-01-07
+well	operates_in	canton , oh	2005-01-07
+well	operates_in	west palm beach , fl	2005-01-11
+rcl	operates_in	port of costa maya	2005-01-11
+aap	produces	reputable brand name part	2005-01-04
+amzn	produces	database service	2005-01-04
+cnp	operates_in	spencer county	2005-01-11
+aapl	supplies	technical documentation	2005-01-01
+nbcuniversal	produces	entertainment content	2005-01-09
+well	operates_in	west bend , wi	2005-01-11
+well	operates_in	margate , fl	2005-01-07
+tfc	produces	wealth management	2005-01-11
+resource industry	produces	hardrock continuous mining system	2005-01-04
+enable	operates_in	egt	2005-01-07
+well	operates_in	ann arbor	2005-01-06
+rcl	produces	anthem of the sea	2005-01-02
+tfc	produces	trust service	2005-01-10
+rcl	operates_in	caribbean	2005-01-08
+well	operates_in	salem , or	2005-01-11
+gme	produces	website	2005-01-02
+communication solution	supplies	dryer	2005-01-11
+aap	produces	recyclable item	2005-01-07
+rcl	operates_in	east asia	2005-01-09
+panw	supplies	inventory	2005-01-11
+well	operates_in	sterling height , mi	2005-01-09
+cat	produces	retiree medical stop loss insurance	2005-01-05
+vz	produces	hvac system	2005-01-07
+construction industry segment	produces	compactors	2005-01-08
+well	operates_in	denver , co	2005-01-10
+rcl	operates_in	international market	2005-01-01
+latin america	operates_in	cat	2005-01-10
+well	operates_in	west reading , pa	2005-01-08
+amzn	produces	co-branded credit card agreement	2005-01-03
+ctas	produces	first aid and safety product	2005-01-03
+cdf croisieres de france	operates_in	malta	2005-01-02
+well	operates_in	st paul , mn	2005-01-09
+rcl	operates_in	bermuda	2005-01-06
+aapl	produces	apple tv device	2005-01-07
+ace funding	supplies	bondable transition property	2005-01-02
+well	operates_in	lynchburg , va	2005-01-06
+ctas	operates_in	united state	2005-01-08
+cnp	operates_in	united state	2005-01-04
+well	operates_in	jackson , tn	2005-01-08
+vz	operates_in	mass market	2005-01-04
+well	operates_in	huntington beach , ca	2005-01-09
+grmn	supplies	synchronize race timer	2005-01-07
+pm	produces	cigarette	2005-01-09
+tel	produces	comm . solution	2005-01-11
+ctas	operates_in	business service industry	2005-01-06
+well	operates_in	flower mound , tx	2005-01-09
+well	operates_in	superior , wi	2005-01-09
+rcl	operates_in	southern summer	2005-01-05
+atl city electric	produces	electricity	2005-01-02
+rcl	operates_in	antarctica	2005-01-09
+well	operates_in	montgomery , al	2005-01-08
+cnp	operates_in	united state	2005-01-09
+well	operates_in	triple-net leasing	2005-01-06
+construction industry	produces	small tractor	2005-01-02
+vz	operates_in	local government	2005-01-07
+bf-b	produces	sonoma-cutrer	2005-01-02
+well	operates_in	georgia	2005-01-09
+well	operates_in	lake havasu city , az	2005-01-07
+vz	produces	cell site real estate	2005-01-05
+cmcsa	produces	wireless gateway	2005-01-02
+well	operates_in	dublin , oh	2005-01-08
+rcl	operates_in	australian market	2005-01-03
+ctas	operates_in	cincinnati , ohio	2005-01-01
+meyer turku shipyard	produces	ship	2005-01-04
+cat	produces	skid steer loader	2005-01-07
+natural gas segment	produces	home repair protection plan	2005-01-07
+ctas	produces	mat	2005-01-06
+well	operates_in	richardson	2005-01-11
+well	operates_in	castleton , in	2005-01-09
+cat	produces	well stimulation pump	2005-01-04
+tel	produces	wire and heat shrink tube	2005-01-07
+tel	supplies	process control system	2005-01-08
+amzn	operates_in	germany	2005-01-10
+vz	produces	wireless data service	2005-01-02
+well	operates_in	colt neck , nj	2005-01-07
+vz	operates_in	150 country	2005-01-04
+resource industry	produces	hardrock continuous mining system	2005-01-02
+rcl	operates_in	u.s. virgin island	2005-01-11
+khc	produces	product	2005-01-09
+aap	produces	brake	2005-01-07
+resource industry	produces	articulate truck	2005-01-03
+well	produces	independent support living	2005-01-06
+vz	operates_in	global	2005-01-07
+amzn	operates_in	north america segment	2005-01-10
+well	operates_in	sherman oak , ca	2005-01-06
+well	operates_in	newport , ok	2005-01-11
+bf-b	supplies	independent grower	2005-01-03
+well	operates_in	hatfield , uk	2005-01-08
+cnp	supplies	indexed debt security	2005-01-05
+aapl	produces	apple pay	2005-01-04
+well	operates_in	cincinnati , oh	2005-01-09
+cat	produces	motorgraders	2005-01-05
+well	operates_in	west bend	2005-01-06
+cmcsa	supplies	third-party video provider	2005-01-09
+well	operates_in	denver , co	2005-01-09
+ctas	supplies	protective apparel	2005-01-01
+tel	produces	high-voltage relay	2005-01-04
+well	operates_in	arlington , tx	2005-01-08
+well	operates_in	concord , nh	2005-01-06
+tgna	operates_in	united state	2005-01-02
+pm	supplies	tobacco product	2005-01-09
+cat	produces	continuous miner	2005-01-04
+ceip	operates_in	texas	2005-01-02
+well	operates_in	senior housing	2005-01-09
+pom	operates_in	district of columbia	2005-01-02
+vz	produces	network access	2005-01-07
+well	produces	senior housing property	2005-01-08
+cnp	operates_in	posey county	2005-01-06
+well	operates_in	florence , nj	2005-01-11
+well	operates_in	decatur , ga	2005-01-06
+uniform rental and facility service	produces	mop	2005-01-08
+well	operates_in	tacoma , wa	2005-01-09
+well	operates_in	triple-net segment	2005-01-11
+well	operates_in	greenville , mi	2005-01-08
+cat	produces	construction and mining equipment	2005-01-04
+cnp	supplies	service	2005-01-04
+well	supplies	apis	2005-01-08
+vz	produces	software solution	2005-01-02
+cat	produces	rail-related service	2005-01-02
+cat	produces	forestry equipment	2005-01-07
+all other segment	produces	brand management and marketing strategy	2005-01-11
+grmn	supplies	autopilot mode	2005-01-06
+well	operates_in	woodstock , va	2005-01-09
+tgna	operates_in	digital medium segment	2005-01-03
+well	produces	sho	2005-01-10
+bf-b	produces	sponsorship	2005-01-03
+well	operates_in	kensington , md	2005-01-07
+vz	operates_in	east coast	2005-01-10
+well	operates_in	reno , nv	2005-01-06
+amzn	produces	advertising service	2005-01-05
+well	operates_in	high point , nc	2005-01-08
+dxc	operates_in	other international	2005-01-06
+well	operates_in	mansfield , tx	2005-01-08
+vz	produces	security solution	2005-01-11
+cnp	operates_in	southwestern indiana	2005-01-08
+well	operates_in	suffield , ct	2005-01-07
+fltsafety.com	supplies	hazard management	2005-01-05
+cat	supplies	heavy machinery	2005-01-08
+aapl	supplies	gps	2005-01-03
+meyer turku oy	supplies	unnamed ( icon-class )	2005-01-06
+rcl	operates_in	destination	2005-01-01
+rcl	operates_in	asia/pacific	2005-01-08
+cat	produces	medium track excavator	2005-01-06
+well	operates_in	stafford , uk	2005-01-07
+amzn	produces	fire tablet	2005-01-09
+rcl	operates_in	global cruise itinerary	2005-01-09
+aap	produces	hand tool	2005-01-06
+cat	operates_in	eame	2005-01-09
+well	operates_in	east setauket	2005-01-11
+vz	produces	netbooks	2005-01-04
+well	operates_in	kentucky	2005-01-07
+well	operates_in	lebanon , pa	2005-01-06
+bf-b	produces	saw mill	2005-01-02
+dxc	operates_in	asia-pacific	2005-01-06
+cnp	produces	natural gas	2005-01-05
+cat	operates_in	muncie	2005-01-10

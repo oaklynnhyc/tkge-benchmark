@@ -1,0 +1,12 @@
+{
+  "mode": "SAMPLE",
+  "src": "/sessions/quirky-blissful-curie/mnt/AI_SupplyChain_RA/Methods/FinReflectData_TransE/ICEWS18_data_decoded",
+  "seed": 42,
+  "n_train": 5000,
+  "n_eval": 625,
+  "counts": {
+    "train": 5000,
+    "valid": 625,
+    "test": 625
+  }
+}

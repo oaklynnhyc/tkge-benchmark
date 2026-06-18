@@ -1,0 +1,6 @@
+# tkbi repo (TIMEPLEX) — python 3.8 + torch 1.7.1 (close to repo's pytorch 1.0 era)
+--extra-index-url https://download.pytorch.org/whl/cpu
+torch==1.7.1+cpu
+numpy<1.24
+pandas
+scikit-learn

@@ -1,0 +1,53 @@
+name: collect-results
+
+# Re-runs aggregation for an existing benchmark run (artifacts fetched by
+# run-id). Triggered by pushing .ci-collect whose first line is the run id.
+on:
+  push:
+    paths: [".ci-collect"]
+  workflow_dispatch:
+    inputs:
+      run_id:
+        description: "workflow run id to collect artifacts from"
+        required: true
+
+permissions:
+  contents: write
+  actions: read
+
+jobs:
+  collect:
+    runs-on: ubuntu-22.04
+    steps:
+      - uses: actions/checkout@v4
+      - name: Resolve run id
+        id: rid
+        run: |
+          RID="${{ inputs.run_id }}"; RID="${RID:-$(head -1 .ci-collect | tr -d '[:space:]')}"
+          echo "rid=$RID" >> "$GITHUB_OUTPUT"
+      - uses: actions/download-artifact@v4
+        with:
+          pattern: result-*
+          merge-multiple: true
+          path: ci_out
+          run-id: ${{ steps.rid.outputs.rid }}
+          github-token: ${{ secrets.GITHUB_TOKEN }}
+      - name: Collect
+        run: |
+          mkdir -p results runs
+          find ci_out -name "*.json" -exec cp {} results/ \;
+          find ci_out -name "*.log"  -exec cp {} runs/ \;
+          ls -la results/
+      - name: Build COMPARISON.md
+        run: python scripts/ci/aggregate.py
+      - name: Commit results back
+        run: |
+          git config user.name "tkge-benchmark-ci"
+          git config user.email "ci@users.noreply.github.com"
+          git stash -u || true
+          git pull --rebase origin ${{ github.ref_name }}
+          git stash pop || true
+          git add results/
+          git add -f runs/*.log || true
+          git commit -m "exp(ci): collected results from run ${{ steps.rid.outputs.rid }}" || echo "nothing to commit"
+          git push origin HEAD:${{ github.ref_name }} || { git pull --rebase origin ${{ github.ref_name }} && git push origin HEAD:${{ github.ref_name }}; }

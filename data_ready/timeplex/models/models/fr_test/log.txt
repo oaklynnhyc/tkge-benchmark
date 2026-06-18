@@ -1,0 +1,45 @@
+Namespace(mode='train', model='TimePlex_base', model_type='custom', dataset='finreflect', data_repository_root='./data', model_arguments={'embedding_dim': 200, 'srt_wt': 5.0, 'ort_wt': 5.0, 'sot_wt': 5.0, 'time_reg_wt': 1.0, 'emb_reg_wt': 0.005}, optimizer='Adagrad', loss='crossentropy_loss_AllNeg', learning_rate=0.1, regularization_coefficient=1.0, regularizer=2.0, gradient_clip=None, max_epochs=1, batch_size=1000, eval_every_x_mini_batches=2000, eval_batch_size=500, negative_sample_count=0, save_dir='./models/models/fr_test', resume_from_save=None, oov_entity=1, verbose=0, debug=0, batch_norm=0, message=None, bin_time=0, flag_time_smooth=0, time_neg_samples=0, perturb_time=0, patience=3, tflogs_dir='./models/models/fr_test', flag_add_reverse=1, predict_time=0, subset=1, time_prediction_method='greedy-coalescing', predict_rel=0, expand_mode='None', filter_method='time-str', flag_additional_filter=0, dump_t_scores=None, save_time_results=None, save_text=None, hooks=[], use_time_facts=0, time_loss_margin=5.0)
+User Message::  None
+Command::  /tmp/repos/tkbi/main.py -d finreflect --data_repository_root ./data -m TimePlex_base -a {"embedding_dim":200, "srt_wt": 5.0, "ort_wt": 5.0, "sot_wt": 5.0, "time_reg_wt":1.0, "emb_reg_wt":0.005} -l crossentropy_loss_AllNeg -r 0.1 -b 1000 -x 2000 -n 0 -v 1 -q 0 -y 500 -g_reg 2 -g 1.0 --filter_method time-str -e 1 --flag_add_reverse 1 --save_dir models/fr_test
+Flag: use_time_tokenizer- False
+Flag: flag_add_reverse- 1
+Flag: use_time_interval False
+KB ./data/finreflect/train.txt True
+Data Size: ./data/finreflect/train.txt (1580, 9)
+KB ./data/finreflect/test.txt 0
+Data Size: ./data/finreflect/test.txt (198, 9)
+KB ./data/finreflect/valid.txt 0
+Data Size: ./data/finreflect/valid.txt (197, 9)
+KB ./data/finreflect/train.txt True
+Data Size: ./data/finreflect/train.txt (1580, 9)
+KB ./data/finreflect/test.txt 0
+Data Size: ./data/finreflect/test.txt (198, 9)
+KB ./data/finreflect/valid.txt 0
+Data Size: ./data/finreflect/valid.txt (197, 9)
+Train (no expansion) (1580, 9)
+Test (198, 9)
+Valid (197, 9)
+Number of timestamps:  14
+[(2017, 4), (2018, 5), (2019, 6), (2020, 7), (2021, 8), (2022, 9), (2023, 10), (2024, 11), (3000, 12), ('UNK-TIME', 13)]
+Using reg  2.0
+final model arguments {'embedding_dim': 200, 'srt_wt': 5.0, 'ort_wt': 5.0, 'sot_wt': 5.0, 'time_reg_wt': 1.0, 'emb_reg_wt': 0.005, 'entity_count': 1332, 'timeInterval_count': 14, 'reg': 2.0, 'relation_count': 6, 'flag_add_reverse': 1, 'batch_norm': 0}
+Regularization value: in time_complex_fast:  2.0
+batch_norm not being used
+Not expanding training data
+Train (after expansion) (1580, 9)
+building all known database from joint kb
+Applying filter- time-str
+If using additional filter- 0
+converting to lists
+done
+building all known database from joint kb
+Applying filter- time-str
+If using additional filter- 0
+converting to lists
+done
+Using regularization_coefficient[: 1.0
+max_mini_batch_count: 1, eval_batch_size 500
+Starting training
+Mini Batches     1 or   0.0 epochs |[1;34m----------------------[0;0m|   1.0% | Current Loss   7.7589 | reg  0.565 | time      0 ||
+Ending
+{'valid_m': {'mrr': 0.0}, 'test_m': {'mrr': 0.0}, 'valid_e2': {'mrr': 0.0}, 'test_e2': {'mrr': 0.0}, 'valid_e1': {'mrr': 0.0}, 'test_e1': {'mrr': 0.0}}

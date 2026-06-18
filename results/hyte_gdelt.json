@@ -1,0 +1,18 @@
+{
+  "method": "HYTE",
+  "dataset": "gdelt",
+  "mode": "full",
+  "MRR": 0.04809897215712022,
+  "MR": 293.1016,
+  "Hits@1": 0.0016,
+  "Hits@3": 0.0464,
+  "Hits@10": 0.1248,
+  "best_valid_epoch": 200,
+  "n_test_ranks": 1250,
+  "eval_protocol": "HyTE native dumps: RAW (unfiltered), head+tail averaged; MRR/Hits@1/3 post-computed from the repo's own score dumps using its exact rank definition",
+  "repo": "github.com/malllabiisc/HyTE",
+  "repo_commit": "96fc3498d3f3fbc7acd61d81a704537b239ac94d",
+  "repo_diff": "CLEAN (zero modification)",
+  "entry_point": "python time_proj.py -name hyte_gdelt ... (see runs/hyte_gdelt.log)",
+  "notes": "data served under hardcoded data/yago/large alias; time points as 4-char tokens, HyTE's own >300-count binning applied"
+}

@@ -1,0 +1,625 @@
+SOUTH AFRICAN	174 Expel or deport individuals	AFRICA	2005-01-25
+UNITED STATES	020 Appeal, not specified below	IRANIAN	2005-01-26
+RUSSIA	020 Appeal, not specified below	NORTH KOREA	2005-01-26
+BORDER PATROL	081 Ease administrative sanctions, not specified below	UNITED STATES	2005-01-27
+AUSTRALIA	043 Host a visit	COMMUNITY	2005-01-26
+MISSOURI	010 Make statement, not specified below	GOVERNMENT	2005-01-27
+LIEUTENANT	043 Host a visit	AMERICAN ENTERPRISE INSTITUTE	2005-01-25
+MILITANT	173 Arrest, detain, or charge with legal action 	MANIPUR	2005-01-26
+UNITED STATES	020 Appeal, not specified below	DEPUTY	2005-01-26
+AFRICA	020 Appeal, not specified below	POPULATION	2005-01-25
+UNITED STATES	193 Fight with small arms and light weapons	CHINA	2005-01-26
+UNITED STATES	173 Arrest, detain, or charge with legal action 	PRISON	2005-01-27
+PRINCE	036 Express intent to meet or negotiate	TELEVISION	2005-01-26
+COMPANY	040 Consult, not specified below	AFRICA	2005-01-25
+PAKISTAN	057 Sign formal agreement	ENVOY	2005-01-25
+BRITISH	040 Consult, not specified below	BERMUDA	2005-01-25
+MUMBAI	042 Make a visit	SCHOOL	2005-01-25
+GERMAN	040 Consult, not specified below	CANADIAN	2005-01-25
+NIGERIA	112 Accuse, not specified below	AUTHORITIES	2005-01-25
+EUROPEAN	163 Impose embargo, boycott, or sanctions	IRAN	2005-01-26
+COUNSEL	100 Demand, not specified below	MEDIA	2005-01-27
+UGANDA	051 Praise or endorse	MUSEVENI	2005-01-26
+OBAMA	110 Disapprove, not specified below	INDUSTRY	2005-01-27
+UNITED STATES	042 Make a visit	CONGRESS	2005-01-27
+PARLIAMENT	040 Consult, not specified below	GOVERNMENT	2005-01-26
+CROWN PRINCE	051 Praise or endorse	JEDDAH	2005-01-25
+SYRIA	020 Appeal, not specified below	TURKEY	2005-01-26
+ACTOR	042 Make a visit	UNITED STATES	2005-01-25
+DELHI	120 Reject, not specified below	CORRESPONDENT	2005-01-25
+BUSINESS	046 Engage in negotiation	UNITED STATES	2005-01-25
+MINIST	014 Consider policy option	HOSPITAL	2005-01-25
+COMMUNITY	071 Provide economic aid	STUDENT	2005-01-25
+LUTHERAN	036 Express intent to meet or negotiate	UNITED STATES	2005-01-26
+CHICAGO	010 Make statement, not specified below	PROSECUTOR	2005-01-26
+TAJIKISTAN	0233 Appeal for humanitarian aid	REFUGEE	2005-01-26
+DUTCH	051 Praise or endorse	RETIRED	2005-01-27
+UNITED KINGDOM	0841 Return, release person(s)	THE EUROPEAN UNION	2005-01-26
+DEPUTY	010 Make statement, not specified below	AFRICA	2005-01-25
+RAKHINE STATE	110 Disapprove, not specified below	ADVISORY BOARD	2005-01-25
+JAPAN	043 Host a visit	MEDIA	2005-01-25
+UNITED STATES	0874 Retreat or surrender militarily	PRESIDENT	2005-01-25
+TURKEY	040 Consult, not specified below	UNITED STATES	2005-01-26
+ADVISORY BOARD	0831 Accede to demands for change in leadership	MYANMAR	2005-01-25
+POLICE	090 Investigate, not specified below	CANADA	2005-01-25
+UNITED STATES	042 Make a visit	WISCONSIN	2005-01-27
+UNITED STATES	071 Provide economic aid	UNITED KINGDOM	2005-01-26
+CAPE TOWN	036 Express intent to meet or negotiate	AFRICA	2005-01-26
+FARMER	0874 Retreat or surrender militarily	UNITED STATES	2005-01-26
+PRIME MINISTER	012 Make pessimistic comment	THE US	2005-01-26
+AUTHORITIES	042 Make a visit	NEW YORK	2005-01-25
+HUMAN RIGHTS ORGANIZATION	020 Appeal, not specified below	MINIST OF INTERNAL AFFAIRS	2005-01-25
+IOWA	120 Reject, not specified below	UNITED STATES	2005-01-25
+UNITED KINGDOM	111 Criticize or denounce 	DETECTIVE	2005-01-25
+MALI	040 Consult, not specified below	BURKINA FASO	2005-01-25
+BUENOS AIRES	040 Consult, not specified below	EUROPEAN COMMISSION	2005-01-26
+PORTUGAL	173 Arrest, detain, or charge with legal action 	CRIMINAL	2005-01-25
+STUDENT	042 Make a visit	INDIGENOUS	2005-01-25
+KINGSTON	060 Engage in material cooperation, not specified below	RETIRED	2005-01-26
+VIRGINIA	043 Host a visit	MISSOURI	2005-01-27
+EUROPE	010 Make statement, not specified below	CUBA	2005-01-25
+FRANCE	120 Reject, not specified below	ITALY	2005-01-25
+TURKEY	010 Make statement, not specified below	UNIVERSITY	2005-01-27
+EMPLOYER	040 Consult, not specified below	UNITED STATES	2005-01-26
+SWITZERLAND	026 Appeal to others to meet or negotiate	WORLD ECONOMIC FORUM	2005-01-26
+UNITED STATES	043 Host a visit	IDAHO	2005-01-26
+CHINA	141 Demonstrate or rally	UNITED STATES	2005-01-27
+MEXICO	043 Host a visit	NORTH CAROLINA	2005-01-26
+KURIGRAM	010 Make statement, not specified below	PRESIDENT	2005-01-25
+BELGIUM	130 Threaten, not specified below	COMPANIES	2005-01-25
+PUERTO RICAN	195 Employ aerial weapons	NEW YORK	2005-01-26
+POLISH	046 Engage in negotiation	POLAND	2005-01-26
+UNITED STATES	051 Praise or endorse	DEALER	2005-01-26
+STUDENT	040 Consult, not specified below	UNITED STATES	2005-01-25
+POLICE	042 Make a visit	CHINA	2005-01-26
+GARRISON	043 Host a visit	SCHOOL	2005-01-27
+AUSTRALIA	051 Praise or endorse	UNITED KINGDOM	2005-01-26
+BELGIUM	060 Engage in material cooperation, not specified below	NIGERIA	2005-01-26
+NEW ZEALAND	193 Fight with small arms and light weapons	UNITED STATES	2005-01-25
+NIGERIA	071 Provide economic aid	CHRISTIAN	2005-01-26
+SENATE	040 Consult, not specified below	UNITED STATES	2005-01-25
+UNITED STATES	042 Make a visit	SCHOOL	2005-01-25
+DEPUTY	036 Express intent to meet or negotiate	PRESIDENT	2005-01-26
+FIRST STATE	010 Make statement, not specified below	GOVERNMENT	2005-01-26
+UNITED STATES	090 Investigate, not specified below	POLICE	2005-01-25
+UNIVERSITY	040 Consult, not specified below	UNITED STATES	2005-01-25
+SAUDI ARABIA	190 Use conventional military force, not specified below	SPECIAL FORCES	2005-01-27
+TURKEY	060 Engage in material cooperation, not specified below	ALBANIAN	2005-01-25
+FRENCH	190 Use conventional military force, not specified below	UNITED KINGDOM	2005-01-26
+MILITIA	020 Appeal, not specified below	SOMALI	2005-01-25
+SCHOOL	042 Make a visit	CATHOLIC	2005-01-25
+GERMAN	046 Engage in negotiation	NEWSPAPER	2005-01-27
+NIGERIAN	114 Complain officially 	COMMUNITY	2005-01-27
+STUDENT	040 Consult, not specified below	UNITED STATES	2005-01-26
+GHANA	036 Express intent to meet or negotiate	AUTHORITIES	2005-01-25
+LEGISLATURE	071 Provide economic aid	WASHINGTON	2005-01-25
+UNITED STATES	040 Consult, not specified below	CRIMINAL	2005-01-26
+BUSINESS	193 Fight with small arms and light weapons	ISRAEL	2005-01-25
+SYRIA	143 Conduct strike or boycott, not specified below	RUSSIA	2005-01-27
+RUSSIAN	036 Express intent to meet or negotiate	UNITED STATES	2005-01-26
+UNITED STATES	010 Make statement, not specified below	CARRIER	2005-01-26
+IMMIGRANT	020 Appeal, not specified below	PRESIDENT	2005-01-27
+AMERICAN	070 Provide aid, not specified below	RED CROSS	2005-01-26
+JUDGE	051 Praise or endorse	UNITED KINGDOM	2005-01-25
+KINSHASA	090 Investigate, not specified below	SCHOOL	2005-01-26
+TURKISH	190 Use conventional military force, not specified below	MILITARY	2005-01-25
+VIETNAM	043 Host a visit	CAMBODIA	2005-01-27
+UNITED STATES	071 Provide economic aid	BORDER SECURITY	2005-01-26
+ASSAM	145 Protest violently, riot	POLICE	2005-01-27
+UNITED KINGDOM	020 Appeal, not specified below	GERMAN	2005-01-26
+CHICAGO	043 Host a visit	GREECE	2005-01-26
+PRESIDENT	013 Make optimistic comment	COUNSEL	2005-01-26
+PROTESTER	010 Make statement, not specified below	HAITIAN	2005-01-26
+NIGERIA	046 Engage in negotiation	AFRICAN UNION	2005-01-27
+SCHOOL	040 Consult, not specified below	RELIGION	2005-01-26
+UNITED STATES	046 Engage in negotiation	DAVOS	2005-01-26
+PRESIDENT	042 Make a visit	BANGLADESH	2005-01-27
+PRESIDENT	111 Criticize or denounce 	SWITZERLAND	2005-01-25
+IDAHO	010 Make statement, not specified below	COMPANIES	2005-01-26
+CITIZEN	020 Appeal, not specified below	IRELAND	2005-01-25
+PRIME MINISTER	042 Make a visit	WORLD ECONOMIC FORUM	2005-01-25
+PUBLICATION	010 Make statement, not specified below	INDIGENOUS PEOPLE	2005-01-26
+SPANISH	180 Use unconventional violence, not specified below	SENEGAL	2005-01-27
+NOVA SCOTIA	010 Make statement, not specified below	EMPLOYEE	2005-01-27
+POLICE	010 Make statement, not specified below	FLORIDA	2005-01-27
+MAGAZINE	193 Fight with small arms and light weapons	LONDON	2005-01-25
+UNITED STATES	110 Disapprove, not specified below	URUGUAY	2005-01-26
+MINISTRY	010 Make statement, not specified below	BUSINESS	2005-01-26
+WRITER	013 Make optimistic comment	AUSTRALIA	2005-01-27
+UNITED STATES	010 Make statement, not specified below	SWITZERLAND	2005-01-26
+TURKMENISTAN	061 Cooperate economically	CHINA	2005-01-27
+KHALEDA ZIA	130 Threaten, not specified below	GOVERNMENT	2005-01-26
+JUDGE	173 Arrest, detain, or charge with legal action 	UNITED STATES	2005-01-26
+AMBASSADOR	110 Disapprove, not specified below	UNITED NATIONS	2005-01-26
+MILITARY	042 Make a visit	RUSSIAN	2005-01-25
+OTAGO	043 Host a visit	SYRIA	2005-01-25
+PRESIDENT	010 Make statement, not specified below	SENATE	2005-01-27
+AMERICAN	010 Make statement, not specified below	SPOKESMAN	2005-01-26
+PAKISTANI	111 Criticize or denounce 	PAKISTAN	2005-01-25
+UNITED STATES	040 Consult, not specified below	THE WHITE HOUSE	2005-01-25
+JAPAN	010 Make statement, not specified below	UNITED NATIONS	2005-01-25
+NORWEGIAN	061 Cooperate economically	CHINA	2005-01-27
+TANZANIA	0311 Express intent to cooperate economically	KENYA	2005-01-25
+NETFLIX	051 Praise or endorse	JAPAN	2005-01-25
+TROOPER	040 Consult, not specified below	UNITED STATES	2005-01-25
+DAVOS	036 Express intent to meet or negotiate	MONTREAL	2005-01-26
+HONDURAN	112 Accuse, not specified below	ORGANIZATION OF AMERICAN STATES	2005-01-25
+COUNSEL	100 Demand, not specified below	UNITED STATES	2005-01-26
+UNITED STATES	180 Use unconventional violence, not specified below	JAPAN	2005-01-26
+UNITED STATES	051 Praise or endorse	SCHOOL	2005-01-25
+SENA	0874 Retreat or surrender militarily	JAIPUR	2005-01-27
+STUDENT	046 Engage in negotiation	HOUSTON	2005-01-26
+WORLD ECONOMIC FORUM	042 Make a visit	DAVOS	2005-01-25
+ETHIOPIA	046 Engage in negotiation	SUDAN	2005-01-27
+HAITI	046 Engage in negotiation	BUSINESS	2005-01-26
+AFRICA	111 Criticize or denounce 	NATAL	2005-01-25
+JUDGE	0841 Return, release person(s)	JERSEY	2005-01-25
+VIETNAM	040 Consult, not specified below	NEWSPAPER	2005-01-27
+UNITED STATES	043 Host a visit	INDUSTRY	2005-01-27
+PARLIAMENT	043 Host a visit	POLITICIAN	2005-01-27
+UNITED STATES	015 Acknowledge or claim responsibility	FELON	2005-01-25
+PRISON	042 Make a visit	INDONESIA	2005-01-25
+HOUSTON	193 Fight with small arms and light weapons	AUTHORITIES	2005-01-26
+HINDU	084 Return, release, not specified below	PRESIDENT	2005-01-26
+BAHRAIN	051 Praise or endorse	EMPLOYEE	2005-01-26
+VINCE CABLE	0214 Appeal for intelligence	POLICE	2005-01-26
+NEW YORK	0353 Express intent to release persons or property	SCHOOL	2005-01-25
+RUSSIA	042 Make a visit	BUSINESS	2005-01-27
+BRITAIN	036 Express intent to meet or negotiate	SWITZERLAND	2005-01-25
+JAPAN	040 Consult, not specified below	NASA	2005-01-26
+JOHANNESBURG	175 Use tactics of violent repression  	JOURNALIST	2005-01-26
+BANGLADESH	036 Express intent to meet or negotiate	STUDENT	2005-01-27
+GOVERNMENT	190 Use conventional military force, not specified below	CALIFORNIA	2005-01-25
+PAPUA NEW GUINEA	010 Make statement, not specified below	CHRISTMAS ISLAND	2005-01-27
+CANADA	010 Make statement, not specified below	MEDIA	2005-01-27
+ATTORNEY	046 Engage in negotiation	NETFLIX	2005-01-26
+SCHOOL	036 Express intent to meet or negotiate	MUMBAI	2005-01-26
+BRITISH	042 Make a visit	ST HELENA	2005-01-26
+PUBLICATION	172 Impose administrative sanctions, not specified below	JUSTICE OF THE PEACE	2005-01-27
+COMMUNITY	040 Consult, not specified below	UNITED STATES	2005-01-26
+ISRAEL	013 Make optimistic comment	UNITED STATES	2005-01-25
+AUSTRALIA	042 Make a visit	VIETNAM	2005-01-26
+BELARUS	042 Make a visit	UNITED STATES	2005-01-25
+SOUTH KOREA	018 Make empathetic comment	JAPAN	2005-01-25
+CHINA	036 Express intent to meet or negotiate	UNITED KINGDOM	2005-01-26
+UKRAINE	043 Host a visit	RUSSIA	2005-01-26
+UNITED STATES	046 Engage in negotiation	RUSSIA	2005-01-26
+TURKEY	180 Use unconventional violence, not specified below	SYRIA	2005-01-27
+FOREIGN MINIST	040 Consult, not specified below	TURKEY	2005-01-25
+OLUSEGUN OBASANJO	010 Make statement, not specified below	PRESIDENT	2005-01-25
+AFRICA	043 Host a visit	UNITED KINGDOM	2005-01-26
+AUSTIN	100 Demand, not specified below	CONGRESS	2005-01-27
+THERESA MAY	013 Make optimistic comment	UNITED KINGDOM	2005-01-25
+HARYANA	173 Arrest, detain, or charge with legal action 	WORKER	2005-01-27
+MALAYSIA	090 Investigate, not specified below	WEBSITE	2005-01-25
+UNITED STATES	010 Make statement, not specified below	FIRST LADY	2005-01-27
+ASEAN	042 Make a visit	PAKISTAN	2005-01-26
+MEXICO	046 Engage in negotiation	UNITED STATES	2005-01-27
+TEHRAN	110 Disapprove, not specified below	IRAN	2005-01-25
+ARMED FORCES	062 Cooperate militarily	NEW DELHI	2005-01-27
+PROSECUTOR	042 Make a visit	SEOUL	2005-01-26
+ECUADOR	043 Host a visit	COLOMBIA	2005-01-25
+COUNSEL	130 Threaten, not specified below	RUSSIA	2005-01-26
+TORONTO	040 Consult, not specified below	CANADA	2005-01-26
+GUERRILLA	190 Use conventional military force, not specified below	VIETNAM	2005-01-26
+COMMUNITY	020 Appeal, not specified below	CRIMINAL	2005-01-26
+BURKINA FASO	190 Use conventional military force, not specified below	GOVERNMENT	2005-01-26
+UZBEKISTAN	036 Express intent to meet or negotiate	MINISTRY	2005-01-26
+POLICE	040 Consult, not specified below	UNITED STATES	2005-01-25
+ATTORNEY	090 Investigate, not specified below	BANK	2005-01-25
+ASEAN	040 Consult, not specified below	PRIME MINISTER	2005-01-25
+UNITED STATES	010 Make statement, not specified below	SURGEON	2005-01-26
+UNITED KINGDOM	046 Engage in negotiation	ITALY	2005-01-25
+ITALY	090 Investigate, not specified below	ERITREAN	2005-01-26
+PRESIDENT	051 Praise or endorse	DAVOS	2005-01-26
+EGYPT	036 Express intent to meet or negotiate	AMERICAN	2005-01-26
+JUDGE	173 Arrest, detain, or charge with legal action 	PRISON	2005-01-26
+ATTORNEY	042 Make a visit	GARRISON	2005-01-26
+PAKISTAN	046 Engage in negotiation	SIEMENS AG	2005-01-25
+THE WHITE HOUSE	042 Make a visit	ITALY	2005-01-26
+UNITED STATES	090 Investigate, not specified below	UNITED KINGDOM	2005-01-27
+POLICE	153 Mobilize or increase police power	DEMONSTRATOR	2005-01-27
+NEIGHBORHOOD	036 Express intent to meet or negotiate	OKLAHOMA CITY	2005-01-25
+CALIFORNIA	0214 Appeal for intelligence	CEOS	2005-01-26
+CANADA	033 Express intent to provide matyerial aid, not specified below	COMMUNITY	2005-01-25
+PROVINCIAL OFFICIALS	010 Make statement, not specified below	POLICE	2005-01-25
+CHINA	013 Make optimistic comment	CHIEF EXECUTIVE	2005-01-27
+DEVELOPMENT AGENC	036 Express intent to meet or negotiate	FIGHTER	2005-01-26
+UNITED STATES	013 Make optimistic comment	COMMUNITY	2005-01-25
+ATTORNEY	010 Make statement, not specified below	TURKISH	2005-01-27
+UNITED KINGDOM	043 Host a visit	EDINBURGH	2005-01-26
+PUERTO RICO	010 Make statement, not specified below	UNITED STATES	2005-01-25
+REUTERS	173 Arrest, detain, or charge with legal action 	UNIVERSITY	2005-01-25
+TURKEY	010 Make statement, not specified below	SUNNI	2005-01-27
+MUSLIM	010 Make statement, not specified below	STUDENT	2005-01-27
+REUTERS	020 Appeal, not specified below	TURKEY	2005-01-25
+ITALY	192 Occupy territory	GERMANY	2005-01-25
+EMPLOYER	042 Make a visit	COMMUNITY	2005-01-25
+KABUL	190 Use conventional military force, not specified below	TALIBAN	2005-01-27
+AUSTRALIA	057 Sign formal agreement	JAPAN	2005-01-26
+LECTURER	111 Criticize or denounce 	ZIMBABWE	2005-01-27
+BRITISH	051 Praise or endorse	UNITED KINGDOM	2005-01-26
+UNITED STATES	060 Engage in material cooperation, not specified below	BOEING	2005-01-26
+AMERICAN	120 Reject, not specified below	MOSCOW	2005-01-25
+JAPAN	012 Make pessimistic comment	GOVERNMENT	2005-01-27
+UNITED STATES	173 Arrest, detain, or charge with legal action 	RUSSIA	2005-01-25
+UNITED STATES	020 Appeal, not specified below	ODESSA	2005-01-25
+THE US	072 Provide military aid	NORTH KOREA	2005-01-25
+EXPORTER	111 Criticize or denounce 	PAKISTAN	2005-01-27
+PROSECUTOR	112 Accuse, not specified below	NEW ZEALAND	2005-01-26
+NEW YORK	0231 Appeal for economic aid	POLICE	2005-01-27
+DEPUTY	043 Host a visit	FRANCE	2005-01-27
+SOMALIA	043 Host a visit	CABINET	2005-01-25
+GANG	112 Accuse, not specified below	BANK	2005-01-25
+PRESIDENT	013 Make optimistic comment	INDUSTRY	2005-01-27
+MEDIA	110 Disapprove, not specified below	PUBLICATION	2005-01-26
+CANADA	173 Arrest, detain, or charge with legal action 	PRISON	2005-01-26
+NEW YORK	1821 Sexually assault	UNITED STATES	2005-01-26
+UNITED STATES	112 Accuse, not specified below	MILITARY	2005-01-25
+AFRICA	046 Engage in negotiation	LAW ENFORCEMENT AGENCY	2005-01-25
+AMERICAN	020 Appeal, not specified below	RED CROSS	2005-01-26
+COAST GUARD	060 Engage in material cooperation, not specified below	NORTHROP GRUMMAN	2005-01-25
+NEW YORK	010 Make statement, not specified below	KING	2005-01-27
+UNITED STATES	046 Engage in negotiation	LANDOWNER	2005-01-26
+BENIN	013 Make optimistic comment	JOURNALIST	2005-01-27
+PRESIDENT	030 Express intent to cooperate, not specified below	IMMIGRANT	2005-01-26
+ITALIAN	111 Criticize or denounce 	HUNGARY	2005-01-27
+SYRIA	014 Consider policy option	TURKEY	2005-01-26
+PROSECUTOR	020 Appeal, not specified below	ADMINISTRATION	2005-01-27
+DENVER	060 Engage in material cooperation, not specified below	PRISON	2005-01-26
+UTTAR PRADESH	190 Use conventional military force, not specified below	SMALL TOWN	2005-01-27
+TROOPER	112 Accuse, not specified below	KENTUCKY	2005-01-25
+RUSSIA	010 Make statement, not specified below	DAVOS	2005-01-26
+NORTH KOREA	040 Consult, not specified below	NEW YORK	2005-01-27
+FRANCE	042 Make a visit	THE WHITE HOUSE	2005-01-25
+UNITED KINGDOM	100 Demand, not specified below	MILITARY	2005-01-25
+DELHI	112 Accuse, not specified below	TRADER	2005-01-25
+POLICE	042 Make a visit	HONDURAS	2005-01-27
+NIGERIAN	020 Appeal, not specified below	NIGERIA	2005-01-26
+LONDON	040 Consult, not specified below	AUSTRALIA	2005-01-26
+NEW DELHI	043 Host a visit	PRIME MINISTER	2005-01-25
+BRUSSELS	174 Expel or deport individuals	SPAIN	2005-01-27
+OSAMA BIN LADEN	010 Make statement, not specified below	NAVY	2005-01-27
+SAN DIEGO	110 Disapprove, not specified below	DEPUTY	2005-01-26
+GHANA	071 Provide economic aid	PRESIDENT	2005-01-27
+CHINA	061 Cooperate economically	BUSINESS	2005-01-26
+UNITED STATES	013 Make optimistic comment	COMPANY	2005-01-25
+AFRICA	040 Consult, not specified below	DAVOS	2005-01-25
+CHARLOTTE	051 Praise or endorse	CORPORATION	2005-01-25
+GREENLAND	042 Make a visit	ALASKA	2005-01-27
+RUSSIAN	060 Engage in material cooperation, not specified below	ISLAMIC	2005-01-27
+POLICE	043 Host a visit	COLLEGE	2005-01-25
+POLAND	180 Use unconventional violence, not specified below	GERMANY	2005-01-27
+MAYOR	051 Praise or endorse	AUSTRALIAN	2005-01-25
+UGANDA	0214 Appeal for intelligence	PARLIAMENT	2005-01-25
+CRIMINAL	193 Fight with small arms and light weapons	UNITED STATES	2005-01-25
+SYRIA	040 Consult, not specified below	TURKEY	2005-01-26
+POLICE	112 Accuse, not specified below	UNITED STATES	2005-01-25
+PRIME MINISTER	010 Make statement, not specified below	HUNGARY	2005-01-25
+BUFFALO	042 Make a visit	STUDENT	2005-01-27
+VIET NAM	040 Consult, not specified below	CABINET	2005-01-25
+CIVILIAN	010 Make statement, not specified below	SYRIA	2005-01-25
+EUROPE	070 Provide aid, not specified below	POLAND	2005-01-26
+CHINESE	046 Engage in negotiation	KONO	2005-01-27
+NIGERIA	043 Host a visit	SENATOR	2005-01-26
+PRODUCER	193 Fight with small arms and light weapons	MANCHU	2005-01-26
+GOVERNMENT SPOKESMAN	013 Make optimistic comment	UNITED STATES	2005-01-26
+MEDIA	173 Arrest, detain, or charge with legal action 	DEPUTIES	2005-01-26
+UNITED KINGDOM	070 Provide aid, not specified below	THE EU	2005-01-25
+INDONESIA	036 Express intent to meet or negotiate	AFGHANISTAN	2005-01-26
+NIGER DELTA	060 Engage in material cooperation, not specified below	NIGERIA	2005-01-25
+UNITED KINGDOM	055 Apologize	MINIST	2005-01-25
+BRITISH	112 Accuse, not specified below	GOVERNMENT	2005-01-26
+UNITED STATES	071 Provide economic aid	GOVERNOR	2005-01-26
+NEW YORK	040 Consult, not specified below	UNITED NATIONS	2005-01-26
+UNITED STATES	046 Engage in negotiation	FOREIGN MINIST	2005-01-26
+UNITED STATES	051 Praise or endorse	STUDENT	2005-01-25
+INTELLIGENCE	010 Make statement, not specified below	UNITED STATES	2005-01-27
+ISRAEL	112 Accuse, not specified below	IRAN	2005-01-26
+GOVERNMENT	071 Provide economic aid	POLITICAL PARTIES	2005-01-26
+CIVIL SERVICE	042 Make a visit	NIGERIA	2005-01-26
+NAVY	080 Yield, not specified below 	VIETNAM	2005-01-25
+ITALY	014 Consider policy option	REUTERS	2005-01-25
+CHIEF MINISTER	040 Consult, not specified below	COMPANY	2005-01-25
+LOCAL MEDIA	061 Cooperate economically	UNITED KINGDOM	2005-01-27
+BODO	051 Praise or endorse	GERMANY	2005-01-27
+PRESIDENT	112 Accuse, not specified below	WASHINGTON	2005-01-25
+PRESIDENT	040 Consult, not specified below	LOUISVILLE	2005-01-27
+MADRID	173 Arrest, detain, or charge with legal action 	BELGIUM	2005-01-27
+STUDENT	051 Praise or endorse	MUSLIM	2005-01-26
+GENEVA	057 Sign formal agreement	GHANA	2005-01-25
+UNITED STATES	111 Criticize or denounce 	AFRICA	2005-01-25
+GOVERNMENT OFFICIAL	010 Make statement, not specified below	REUTERS	2005-01-25
+PAKISTANI	1821 Sexually assault	PAKISTAN	2005-01-26
+GERMAN	046 Engage in negotiation	COMPANY	2005-01-25
+INDONESIA	172 Impose administrative sanctions, not specified below	ISLAMIC	2005-01-25
+STUDENT	032 Express intent to provide diplomatic cooperation such as policy support	ATTORNEY GENERAL	2005-01-27
+CANADA	014 Consider policy option	HOSPITAL	2005-01-26
+BANGKOK	070 Provide aid, not specified below	GOVERNMENT	2005-01-27
+AUSTRALIA	042 Make a visit	BULGARIA	2005-01-25
+PRIME MINISTER	036 Express intent to meet or negotiate	NEW DELHI	2005-01-27
+PRESIDENT	013 Make optimistic comment	UNITED KINGDOM	2005-01-25
+MINIST	040 Consult, not specified below	BRITAIN	2005-01-26
+THAILAND	120 Reject, not specified below	MILITARY	2005-01-25
+JOURNALIST	046 Engage in negotiation	SWITZERLAND	2005-01-26
+NATO	036 Express intent to meet or negotiate	LISBON	2005-01-25
+DETECTIVE	015 Acknowledge or claim responsibility	CITIZEN	2005-01-25
+UNITED NATIONS	042 Make a visit	NEW YORK	2005-01-26
+UNITED STATES	010 Make statement, not specified below	SYRIA	2005-01-26
+RUSSIA	120 Reject, not specified below	NORTH KOREA	2005-01-26
+MICHIGAN	050 Engage in diplomatic cooperation, not specified below	UNIVERSITY	2005-01-25
+SIERRA LEONE	036 Express intent to meet or negotiate	AFRICA	2005-01-27
+GANGSTER	193 Fight with small arms and light weapons	POLICE	2005-01-27
+AFRICA	112 Accuse, not specified below	CONGRESS	2005-01-27
+CHARLOTTE	112 Accuse, not specified below	AUTHORITIES	2005-01-26
+DISTRICT COURT	015 Acknowledge or claim responsibility	EMPLOYEE	2005-01-25
+PENNSYLVANIA	080 Yield, not specified below 	JUDGE	2005-01-26
+TARA	0831 Accede to demands for change in leadership	CANADA	2005-01-25
+PRESIDENT	051 Praise or endorse	UNITED KINGDOM	2005-01-26
+ZAMBOANGA	040 Consult, not specified below	PHILIPPINE	2005-01-25
+DISSIDENT	192 Occupy territory	SYRIA	2005-01-26
+COMMUNITY	046 Engage in negotiation	PROVIDENCE	2005-01-27
+SYRIA	1384 Threaten conventional attack  	WASHINGTON	2005-01-25
+REFUGEE	031 Express intent to engage in material cooperation,  not specified below	IRELAND	2005-01-25
+ISRAELI	190 Use conventional military force, not specified below	ISRAEL	2005-01-25
+PRESIDENT	112 Accuse, not specified below	IRAN	2005-01-26
+UNITED STATES	046 Engage in negotiation	CHAD	2005-01-27
+IRANIAN	010 Make statement, not specified below	GOVERNMENT	2005-01-25
+VILLAGE	193 Fight with small arms and light weapons	COMMANDER	2005-01-27
+POLICE COMMISSIONER	124 Refuse to yield, not specified below	NIGERIA	2005-01-27
+ACTOR	051 Praise or endorse	ANDHRA PRADESH	2005-01-26
+THE UN	050 Engage in diplomatic cooperation, not specified below	RUSSIA	2005-01-25
+FLORIDA	112 Accuse, not specified below	SCHOOL	2005-01-26
+RETIRED	043 Host a visit	RUSSIA	2005-01-27
+MEXICO	192 Occupy territory	THE US	2005-01-26
+TURKEY	010 Make statement, not specified below	THE NETHERLAND	2005-01-27
+TELEVISION	120 Reject, not specified below	SWITZERLAND	2005-01-25
+UNITED STATES	051 Praise or endorse	LAWYER	2005-01-26
+HUNGARIAN	043 Host a visit	GERMANY	2005-01-25
+SIERRA LEONE	051 Praise or endorse	NEWSPAPER	2005-01-25
+GUYANESE	080 Yield, not specified below 	PRISON	2005-01-26
+DUTCH	090 Investigate, not specified below	FRANCE	2005-01-25
+SYRIA	020 Appeal, not specified below	TURKEY	2005-01-26
+SAUDI	043 Host a visit	SAUDI ARABIA	2005-01-26
+JAPAN	043 Host a visit	CHINA	2005-01-27
+RICHARD GORDON	042 Make a visit	AUSTRALIA	2005-01-26
+HOSPITAL	043 Host a visit	PAKISTAN	2005-01-26
+UNITED STATES	030 Express intent to cooperate, not specified below	PRISON	2005-01-26
+AUSTRALIAN	043 Host a visit	FIGHTER JET	2005-01-25
+COLLEGE	010 Make statement, not specified below	ISRAEL	2005-01-25
+SCHOOL	043 Host a visit	DEPUTIES	2005-01-26
+STUDENT	0874 Retreat or surrender militarily	COMMUNITY	2005-01-26
+UKRAINE	060 Engage in material cooperation, not specified below	CHINA	2005-01-27
+SPOKESMAN	051 Praise or endorse	IRAQ	2005-01-27
+CHINA	090 Investigate, not specified below	EUROPE	2005-01-26
+TURKISH	020 Appeal, not specified below	SYRIA	2005-01-26
+ADVISORY BOARD	042 Make a visit	RETURNEE	2005-01-26
+JUDGE	0353 Express intent to release persons or property	IRELAND	2005-01-26
+CHINESE	084 Return, release, not specified below	UNITED STATES	2005-01-26
+HOUSE SPEAKER	071 Provide economic aid	DEPUTY	2005-01-25
+UNITED ARAB EMIRATES	010 Make statement, not specified below	NIGERIA	2005-01-25
+LEBANESE	046 Engage in negotiation	ISRAELI	2005-01-26
+GOVERNMENT	090 Investigate, not specified below	MAHARASHTRA	2005-01-25
+UNITED STATES	180 Use unconventional violence, not specified below	TERRORIST	2005-01-26
+POLICE	011 Decline comment	ATTORNEY	2005-01-25
+UNITED KINGDOM	010 Make statement, not specified below	RUSSIA	2005-01-25
+KING	173 Arrest, detain, or charge with legal action 	UNITED KINGDOM	2005-01-25
+NEPAL	043 Host a visit	UNITED ARAB EMIRATES	2005-01-26
+COMPANY	045 Mediate	NEW ZEALAND	2005-01-25
+ASSUR	030 Express intent to cooperate, not specified below	RESIDENTS	2005-01-27
+SAUDI	036 Express intent to meet or negotiate	SAUDI ARABIA	2005-01-25
+RAIDER	043 Host a visit	MARAUDER	2005-01-25
+ASYLUM SEEKER	042 Make a visit	CHRISTMAS ISLAND	2005-01-26
+UNITED STATES	061 Cooperate economically	MEXICO	2005-01-27
+IRAQI	051 Praise or endorse	RUSSIAN	2005-01-27
+IRELAND	040 Consult, not specified below	MINIST	2005-01-26
+RESIDENTS	012 Make pessimistic comment	STUDENT	2005-01-25
+CANADA	043 Host a visit	CHARLOTTE	2005-01-25
+CHINA	081 Ease administrative sanctions, not specified below	IRAN	2005-01-25
+EUROPEAN	051 Praise or endorse	BELGIUM	2005-01-26
+UNITED STATES	193 Fight with small arms and light weapons	SCHOOL	2005-01-27
+LAWMAKER	051 Praise or endorse	UNITED STATES	2005-01-25
+AFRICA	040 Consult, not specified below	UNITED STATES	2005-01-27
+UNITED STATES	064 Share intelligence or information	NEWSPAPER	2005-01-25
+ANDREW HOLNESS	036 Express intent to meet or negotiate	JAMAICA	2005-01-27
+SUPREME COURT	173 Arrest, detain, or charge with legal action 	POLICE	2005-01-27
+BRITAIN	112 Accuse, not specified below	GOVERNMENT	2005-01-27
+AUSTRALIAN	051 Praise or endorse	PRESIDENT	2005-01-27
+AUSTRIAN	173 Arrest, detain, or charge with legal action 	BUSINESS	2005-01-26
+INDUSTRY	046 Engage in negotiation	UNITED STATES	2005-01-26
+SINGAPORE	051 Praise or endorse	ASEAN	2005-01-26
+PERU	042 Make a visit	CHILE	2005-01-25
+SPANISH	042 Make a visit	LA PAZ	2005-01-26
+KENYA	043 Host a visit	UGANDA	2005-01-25
+BOEING	190 Use conventional military force, not specified below	CANADIAN	2005-01-27
+SWITZERLAND	0874 Retreat or surrender militarily	UNITED STATES	2005-01-25
+IRAN	010 Make statement, not specified below	UNITED NATIONS	2005-01-26
+DOCTOR	190 Use conventional military force, not specified below	TEXAS	2005-01-26
+OIL TANKER	042 Make a visit	NIGERIA	2005-01-25
+THE UN	111 Criticize or denounce 	JERUSALEM	2005-01-25
+BUSINESS	051 Praise or endorse	PUBLIC SECTOR	2005-01-27
+NEW YORK	071 Provide economic aid	MORGAN STANLEY	2005-01-26
+JEWISH	012 Make pessimistic comment	SWEDEN	2005-01-26
+EGYPT	112 Accuse, not specified below	EGYPTIAN	2005-01-26
+NORTH KOREA	010 Make statement, not specified below	CHINA	2005-01-27
+ADVISORY BOARD	0831 Accede to demands for change in leadership	BANGLADESH	2005-01-25
+ETHIOPIA	120 Reject, not specified below	WORLD BANK	2005-01-26
+JAMBI	090 Investigate, not specified below	CRIMINAL	2005-01-27
+COMMUNITY	043 Host a visit	REFUGEE	2005-01-26
+BRAZIL	110 Disapprove, not specified below	NIGERIA	2005-01-27
+NEW YORK	046 Engage in negotiation	RUNNER	2005-01-25
+SCHOOL	071 Provide economic aid	ALABAMA	2005-01-25
+SENATE	120 Reject, not specified below	PRESIDENT	2005-01-27
+PRINCE	051 Praise or endorse	WORKER	2005-01-27
+AMMAN	036 Express intent to meet or negotiate	JERUSALEM	2005-01-25
+KING	057 Sign formal agreement	UNITED STATES	2005-01-26
+POLICE	190 Use conventional military force, not specified below	AFRICA	2005-01-26
+EUROPEAN COMMISSION	040 Consult, not specified below	BUENOS AIRES	2005-01-26
+TURKISH	0874 Retreat or surrender militarily	SYRIAN	2005-01-27
+SENATOR	010 Make statement, not specified below	GOVERNMENT	2005-01-26
+PARIS	180 Use unconventional violence, not specified below	BELGIUM	2005-01-27
+MISSISSIPPI	013 Make optimistic comment	LAWMAKER	2005-01-26
+ALABAMA	173 Arrest, detain, or charge with legal action 	SCHOOL	2005-01-25
+ETHIOPIAN	1822 Torture	FEDERAL POLICE	2005-01-26
+UNITED STATES	013 Make optimistic comment	THE ASSOCIATED PRESS	2005-01-25
+SECURITY FORCE	193 Fight with small arms and light weapons	PROTESTER	2005-01-27
+PHILIPPINE	084 Return, release, not specified below	ACTOR	2005-01-25
+UNITED STATES	173 Arrest, detain, or charge with legal action 	POLICE	2005-01-27
+MILITIA	052 Defend verbally	CHRISTIAN	2005-01-26
+UNITED STATES	192 Occupy territory	NORTH AMERICA	2005-01-27
+ASSOCIATED PRESS	173 Arrest, detain, or charge with legal action 	PRISON	2005-01-26
+UNITED STATES	0331 Express intent to provide economic aid	BUSINESS	2005-01-25
+VIETNAM	057 Sign formal agreement	THE US	2005-01-25
+TRADE UNION	100 Demand, not specified below	BOEING	2005-01-25
+GUNMAN	182 Physically assault, not specified below	CONSTABLE	2005-01-26
+INSURGENT	180 Use unconventional violence, not specified below	POLICE POST	2005-01-25
+BUSINESS	030 Express intent to cooperate, not specified below	ECONOMIST	2005-01-27
+PRESIDENT	084 Return, release, not specified below	UNITED STATES	2005-01-25
+OPPOSITION LEADER	042 Make a visit	JERUSALEM	2005-01-27
+NIGERIA	193 Fight with small arms and light weapons	MILITANT	2005-01-27
+THE OPPOSITION	175 Use tactics of violent repression  	MUMBAI	2005-01-26
+UNITED STATES	051 Praise or endorse	IMMIGRANT	2005-01-27
+MILAN	182 Physically assault, not specified below	REUTERS	2005-01-25
+KING	090 Investigate, not specified below	UNITED STATES	2005-01-26
+CIVILIAN	040 Consult, not specified below	POLISH	2005-01-27
+IRELAND	042 Make a visit	MARY ROBINSON	2005-01-25
+BORDER PATROL	173 Arrest, detain, or charge with legal action 	PROSECUTOR	2005-01-26
+UNITED STATES	043 Host a visit	ARMY	2005-01-25
+NIGERIA	046 Engage in negotiation	NIGERIAN	2005-01-25
+THE POPE	042 Make a visit	SANTIAGO	2005-01-25
+MALUSI GIGABA	040 Consult, not specified below	DAVOS	2005-01-25
+BISHOP	043 Host a visit	CHINA	2005-01-27
+PRAGUE	042 Make a visit	RUSSIAN	2005-01-27
+PAKISTAN	010 Make statement, not specified below	DAVOS	2005-01-25
+CANTON	080 Yield, not specified below 	CITIZEN	2005-01-26
+SWISS	051 Praise or endorse	UNITED STATES	2005-01-27
+ADVOCATE	043 Host a visit	SENATOR	2005-01-27
+GOVERNMENT	010 Make statement, not specified below	CRIMINAL	2005-01-25
+GOVERNMENT	014 Consider policy option	UNITED KINGDOM	2005-01-26
+ALBERTO FUJIMORI	182 Physically assault, not specified below	PERU	2005-01-25
+DELHI	202 Engage in mass killings	UNITED KINGDOM	2005-01-26
+UNITED STATES	043 Host a visit	CANADA	2005-01-25
+LAWYER	010 Make statement, not specified below	GOVERNMENT	2005-01-26
+GOVERNMENT	043 Host a visit	NEW DELHI	2005-01-27
+ASEAN	040 Consult, not specified below	NEW DELHI	2005-01-25
+INTELLIGENCE SERVICE	173 Arrest, detain, or charge with legal action 	CORPORATION	2005-01-26
+GARRISON	040 Consult, not specified below	UNITED STATES	2005-01-25
+AFRICAN UNION	057 Sign formal agreement	MOUSSA FAKI	2005-01-27
+WARSAW	042 Make a visit	BOSTON	2005-01-26
+GOVERNMENT	046 Engage in negotiation	NEPAL	2005-01-26
+MILWAUKEE	036 Express intent to meet or negotiate	COMPANY	2005-01-26
+SANTA CRUZ	1821 Sexually assault	UNITED STATES	2005-01-26
+SECRETARY OF DEFENSE	050 Engage in diplomatic cooperation, not specified below	SPECIAL FORCES	2005-01-25
+SONY	110 Disapprove, not specified below	UNITED STATES	2005-01-26
+MINIST OF FOREIGN AFFAIRS	010 Make statement, not specified below	AFRICA	2005-01-27
+MUMBAI	070 Provide aid, not specified below	ACTOR	2005-01-25
+AUSTRIAN	020 Appeal, not specified below	AUSTRIA	2005-01-26
+EMPLOYEE	1721 Impose restrictions on political freedoms  	WEBSITE	2005-01-25
+UNITED STATES	043 Host a visit	SCHOOL	2005-01-27
+UNIVERSITY	011 Decline comment	UNITED STATES	2005-01-26
+TALIBAN	036 Express intent to meet or negotiate	VILLAGE	2005-01-26
+ACTIVIST	172 Impose administrative sanctions, not specified below	JAMAICA	2005-01-26
+CHICAGO	1721 Impose restrictions on political freedoms  	SCHOOL	2005-01-25
+NIGERIA	195 Employ aerial weapons	UNITED STATES	2005-01-26
+PAKISTAN	173 Arrest, detain, or charge with legal action 	PAKISTANI	2005-01-25
+UNITED STATES	112 Accuse, not specified below	HONDURAS	2005-01-27
+IMMIGRANT	012 Make pessimistic comment	UNITED STATES	2005-01-27
+CHIEF MINISTER	100 Demand, not specified below	TRADER	2005-01-25
+INTERGOVERNMENTAL AUTHORITY ON DEVELOPMENT	045 Mediate	SOUTH SUDANESE	2005-01-25
+MANUFACTURER	051 Praise or endorse	BHARAT	2005-01-25
+UNITED STATES	040 Consult, not specified below	LAWYER	2005-01-25
+GERMANY	020 Appeal, not specified below	IRAN	2005-01-26
+LAS VEGAS	115 Bring lawsuit against 	GUNMAN	2005-01-26
+COLLEGE	046 Engage in negotiation	UNITED STATES	2005-01-27
+ISRAEL	111 Criticize or denounce 	OUTLAW	2005-01-27
+GOVERNOR	071 Provide economic aid	SCHOOL	2005-01-26
+IRELAND	020 Appeal, not specified below	FARMER	2005-01-25
+SCHOLAR	010 Make statement, not specified below	CONSERVATION INTERNATIONAL	2005-01-25
+TERRORIST	010 Make statement, not specified below	KABUL	2005-01-27
+UNITED STATES	060 Engage in material cooperation, not specified below	ATTORNEY	2005-01-27
+POLICE	173 Arrest, detain, or charge with legal action 	UNITED KINGDOM	2005-01-25
+AMIT	111 Criticize or denounce 	KARNATAKA	2005-01-27
+IMMIGRANT	036 Express intent to meet or negotiate	AMERICAN	2005-01-25
+IRISH	060 Engage in material cooperation, not specified below	TRADE UNION	2005-01-26
+ISRAEL	184 Use as human shield 	CIVILIAN	2005-01-25
+SWITZERLAND	042 Make a visit	WORLD ECONOMIC FORUM	2005-01-26
+SCIENTIST	110 Disapprove, not specified below	RUSSIAN	2005-01-25
+ARMY	010 Make statement, not specified below	WEBSITE	2005-01-25
+SAINT	042 Make a visit	GREECE	2005-01-26
+AUTHORITIES	193 Fight with small arms and light weapons	SCHOOL	2005-01-25
+CUBA	060 Engage in material cooperation, not specified below	UNITED STATES	2005-01-25
+PHYSICIAN	036 Express intent to meet or negotiate	ARIZONA	2005-01-26
+UNITED STATES	182 Physically assault, not specified below	MINIST	2005-01-25
+ENGINEER	040 Consult, not specified below	UNITED KINGDOM	2005-01-25
+CHINESE	051 Praise or endorse	THAILAND	2005-01-27
+UNITED STATES	071 Provide economic aid	MEDIA	2005-01-27
+AFRICA	111 Criticize or denounce 	ETHIOPIA	2005-01-25
+COMPANY	020 Appeal, not specified below	MANILA	2005-01-26
+GOVERNMENT	090 Investigate, not specified below	LAS VEGAS	2005-01-27
+GERMANY	040 Consult, not specified below	COMPANY	2005-01-25
+ROTARY CLUB	036 Express intent to meet or negotiate	DURANGO	2005-01-26
+CONGO	010 Make statement, not specified below	JOURNALIST	2005-01-27
+POLICE	115 Bring lawsuit against 	SENA	2005-01-27
+DENVER	040 Consult, not specified below	INDUSTRY	2005-01-27
+UNIVERSITY	140 Engage in political dissent, not specified below	LONDON	2005-01-25
+SINAI	036 Express intent to meet or negotiate	COMMUNITY	2005-01-25
+DJIBOUTI	043 Host a visit	ADEN	2005-01-26
+DAGESTAN	043 Host a visit	RUSSIAN	2005-01-26
+LANDLORD	070 Provide aid, not specified below	GREECE	2005-01-26
+BANK	010 Make statement, not specified below	BANGKOK	2005-01-26
+ISRAELI	112 Accuse, not specified below	PALESTINIAN	2005-01-26
+ARGENTINA	042 Make a visit	CHINA	2005-01-26
+KABUL	190 Use conventional military force, not specified below	AMERICAN	2005-01-26
+ISLAMABAD	0841 Return, release person(s)	SUPREME COURT	2005-01-26
+SCHOOL	010 Make statement, not specified below	UNITED STATES	2005-01-25
+GENEVA	043 Host a visit	MINIST OF PUBLIC HEALTH	2005-01-25
+UNITED STATES	100 Demand, not specified below	CONGRESS	2005-01-26
+STUDENT	042 Make a visit	MEDIA	2005-01-25
+LAWMAKER	030 Express intent to cooperate, not specified below	UNITED STATES	2005-01-27
+MAYOR	125 Reject proposal to meet, discuss, or negotiate	UNITED STATES	2005-01-26
+SYRIA	010 Make statement, not specified below	THE US	2005-01-25
+HAMAS	042 Make a visit	TURKEY	2005-01-27
+AUSTIN	190 Use conventional military force, not specified below	IMMIGRANT	2005-01-25
+KINGDOM	071 Provide economic aid	NORTH KOREAN	2005-01-27
+GREECE	011 Decline comment	DEFENSE ATTORNEY	2005-01-27
+NEW YORK	040 Consult, not specified below	CANADA	2005-01-26
+MAYOR	120 Reject, not specified below	UNITED STATES	2005-01-25
+BANK	051 Praise or endorse	POLISH	2005-01-25
+SECRETARY OF STATE	040 Consult, not specified below	PAKISTANI	2005-01-26
+POLICE	010 Make statement, not specified below	UNITED STATES	2005-01-25
+BANGLADESH	036 Express intent to meet or negotiate	BANGLADESHI	2005-01-26
+CORDOBA	1312 Threaten to boycott, embargo, or sanction	COLOMBIA	2005-01-27
+UNITED STATES	020 Appeal, not specified below	CONGRESS	2005-01-25
+EGYPT	046 Engage in negotiation	EGYPTIAN	2005-01-25
+THAILAND	013 Make optimistic comment	ASEAN	2005-01-26
+POLICE OFFICER	042 Make a visit	CIVILIAN	2005-01-27
+GHANA	071 Provide economic aid	PEASANT	2005-01-25
+POLICE	020 Appeal, not specified below	AUSTIN	2005-01-25
+CZECH REPUBLIC	030 Express intent to cooperate, not specified below	HUNGARY	2005-01-25
+POLICE PERSONNEL	027 Appeal to others to settle dispute	KARNATAKA	2005-01-25
+CORRESPONDENT	020 Appeal, not specified below	ZIMBABWEAN	2005-01-26
+PRESIDENT	061 Cooperate economically	UNITED STATES OF AMERICA	2005-01-26
+PILGRIM	036 Express intent to meet or negotiate	INDUSTRY	2005-01-26
+EGYPT	042 Make a visit	TOURIST	2005-01-25
+UNITED STATES	013 Make optimistic comment	EUROPE	2005-01-25
+SCHOOL	193 Fight with small arms and light weapons	TEXAS	2005-01-25
+RUSSIA	043 Host a visit	THE UN	2005-01-27
+LEBANON	100 Demand, not specified below	ISRAELI	2005-01-25
+INDUSTRY	120 Reject, not specified below	LEGISLATOR	2005-01-25
+INDIANA	070 Provide aid, not specified below	MASSACHUSETTS	2005-01-25
+GREECE	141 Demonstrate or rally	MACEDONIA	2005-01-26
+UNITED STATES	115 Bring lawsuit against 	NEW YORK	2005-01-27
+SOUTH AFRICAN	010 Make statement, not specified below	BATHABILE DLAMINI	2005-01-26
+SENATE	070 Provide aid, not specified below	TEXAS	2005-01-26
+SWEDEN	042 Make a visit	ZAMBIA	2005-01-26
+ASSOCIATED PRESS	070 Provide aid, not specified below	CHAD	2005-01-25
+RUSSIA	020 Appeal, not specified below	PRESIDENT	2005-01-26
+WASHINGTON	110 Disapprove, not specified below	EUROPEAN UNION	2005-01-27
+FOREIGN MINIST	042 Make a visit	CANADA	2005-01-26
+ITALY	010 Make statement, not specified below	NEWSPAPER	2005-01-25
+FLORIDA	1721 Impose restrictions on political freedoms  	SCHOOL	2005-01-25
+PRESIDENT	071 Provide economic aid	MEXICO	2005-01-27
+PRISONER	050 Engage in diplomatic cooperation, not specified below	ARMY	2005-01-26
+UNITED STATES	014 Consider policy option	DELEGATE	2005-01-25
+IRAQ	112 Accuse, not specified below	KURD	2005-01-27
+CHINA	030 Express intent to cooperate, not specified below	GERMANY	2005-01-25
