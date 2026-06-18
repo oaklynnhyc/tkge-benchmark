@@ -31,23 +31,37 @@ intv = RES / "hyte_interval_finreflect.json"
 if intv.exists():
     rows.append(("HyTE (interval)", "FinReflect", json.loads(intv.read_text())))
 
-lines = []
-lines.append("# TKGE Benchmark — 4 methods × 3 datasets (link prediction)\n")
-lines.append(f"_Generated {datetime.datetime.utcnow():%Y-%m-%d %H:%M} UTC; "
+# --- COMPARISON.md : RESULTS TABLE ONLY (this is the file that gets committed
+#     and pushed). Protocol notes + conclusions live in the local-only
+#     COMPARISON_NOTES.md (see below), never uploaded. ---
+table = []
+table.append("# TKGE Benchmark — 4 methods × 3 datasets (link prediction)\n")
+table.append(f"_Generated {datetime.datetime.utcnow():%Y-%m-%d %H:%M} UTC; "
              f"run mode(s): {', '.join(sorted(modes)) or 'n/a'}_\n")
-lines.append("| Method | Dataset | MRR | Hits@1 | Hits@3 | Hits@10 | MR |")
-lines.append("|---|---|---|---|---|---|---|")
+table.append("| Method | Dataset | MRR | Hits@1 | Hits@3 | Hits@10 | MR |")
+table.append("|---|---|---|---|---|---|---|")
 for mname, dname, j in rows:
     if j is None:
-        lines.append(f"| {mname} | {dname} | — | — | — | — | — |")
+        table.append(f"| {mname} | {dname} | — | — | — | — | — |")
         continue
     h1, h3, h10 = j.get("Hits@1"), j.get("Hits@3"), j.get("Hits@10")
     # HyTE post-computed hits are fractions; ATISE native also fractions.
-    lines.append(f"| {mname} | {dname} | {fmt(j.get('MRR'))} | {fmt(h1)} | "
+    table.append(f"| {mname} | {dname} | {fmt(j.get('MRR'))} | {fmt(h1)} | "
                  f"{fmt(h3)} | {fmt(h10)} | {fmt(j.get('MR'))} |")
+if missing:
+    table.append("\n**缺漏（執行失敗或尚未完成）**: " + "; ".join(missing) + "\n")
+(RES / "COMPARISON.md").write_text("\n".join(table) + "\n")
 
-lines.append("""
-## 評估協定差異（誠實註腳，不假裝完全等價）
+# --- COMPARISON_NOTES.md : protocol footnotes + hand-written conclusions.
+#     LOCAL-ONLY — matched by '*.md' in .gitignore, so it is NEVER committed or
+#     pushed (and is absent from the CI checkout, so CI regenerates only the
+#     auto footnote; the '## 結論' prose is preserved from this file's own
+#     previous contents when run locally). ---
+notes = []
+notes.append("# TKGE Benchmark — 說明與結論（本地檔，不上傳）\n")
+notes.append("> 指標表格見同目錄 `COMPARISON.md`。本檔保留評估協定說明與結論，"
+             "由 `.gitignore` 的 `*.md` 規則排除、不進版控。\n")
+notes.append("""## 評估協定差異（誠實註腳，不假裝完全等價）
 
 - **共同點**：四方法吃**同一份資料與同一份 train/valid/test 切分**
   （FinReflect：去重後 seed=42、80/10/10，1580/197/198；ICEWS18、GDELT：原 5k 抽樣
@@ -81,18 +95,11 @@ lines.append("""
   與同列點版 HyTE 比較即「區間 vs 時間點」的消融。轉檔器
   `converters/to_hyte_interval.py`，政策統計見其 `time_map.json`。
 """)
-if missing:
-    lines.append("**缺漏（執行失敗或尚未完成）**: " + "; ".join(missing) + "\n")
-
-# Preserve any hand-written conclusions section across regenerations: the
-# auto-generated part above ends at the footnote; everything from a '## 結論'
-# heading onward is human prose and must survive a CI re-run.
-prev_path = RES / "COMPARISON.md"
-if prev_path.exists():
-    prev = prev_path.read_text()
+notes_path = RES / "COMPARISON_NOTES.md"
+if notes_path.exists():
+    prev = notes_path.read_text()
     idx = prev.find("\n## 結論")
     if idx != -1:
-        lines.append(prev[idx + 1:].rstrip() + "\n")
-
-prev_path.write_text("\n".join(lines))
+        notes.append(prev[idx + 1:].rstrip() + "\n")
+notes_path.write_text("\n".join(notes) + "\n")
 print("\n".join(lines))
