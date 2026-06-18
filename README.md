@@ -14,7 +14,7 @@ seed=42 80/10/10 切分）；ICEWS18、GDELT（皆 5k 抽樣 train5000/valid625/
 
 ## 設計原則：用原作者方法，只動資料
 
-任何方法的模型／評分／訓練核心**一行未改**（CI 對 pinned commit 做 clean-tree 檢查）。
+任何方法的模型／評分／訓練核心未改（CI 對 pinned commit 做 clean-tree 檢查）。
 新資料集以「別名」接入各 repo 的硬編碼路徑/名稱：
 
 - **ATISE**：資料擺進 `data_ready/atise/<ds>/icews05-15/`，以該別名目錄為 cwd 執行原始
