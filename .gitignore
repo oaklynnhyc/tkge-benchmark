@@ -26,10 +26,10 @@ envs/pylibs/
 # --- 給 Fable 的指令：只在本地保留，不推上 GitHub ---
 INSTRUCTIONS.md
 
-# --- 文件 md：新增的一律只留本地、不推上去（已追蹤的 5 個以 ! 例外保留）---
+# --- 文件 md：新增的一律只留本地、不推上去（保留追蹤的以 ! 例外）---
+# CHANGELOG.md 改為只留本地、不推上去（不再例外）
 *.md
 !README.md
-!CHANGELOG.md
 !results/COMPARISON.md
 !data_source/DATA_README.md
 !repos/SOURCES.md
