@@ -1,4 +1,4 @@
-CMD: python /__w/tkge-benchmark/tkge-benchmark/repos/HyTE/time_proj.py -name hyte_finreflect -margin 10 -l2 0.00 -neg_sample 5 -gpu  -epoch 1000 -test_freq 100 -batch 2500 -data_type yago -version large
+CMD: python /__w/tkge-benchmark/tkge-benchmark/repos/HyTE/time_proj.py -name hyte_interval_finreflect -margin 10 -l2 0.00 -neg_sample 5 -gpu  -epoch 1000 -test_freq 100 -batch 2500 -data_type yago -version large
 here in main
 WARNING:tensorflow:From /__w/tkge-benchmark/tkge-benchmark/repos/HyTE/time_proj.py:590: The name tf.set_random_seed is deprecated. Please use tf.compat.v1.set_random_seed instead.
 
@@ -37,102 +37,102 @@ WARNING:tensorflow:From /__w/tkge-benchmark/tkge-benchmark/repos/HyTE/time_proj.
 
 WARNING:tensorflow:From /__w/tkge-benchmark/tkge-benchmark/repos/HyTE/time_proj.py:598: The name tf.Session is deprecated. Please use tf.compat.v1.Session instead.
 
-2026-06-18 15:38:59.834312: I tensorflow/core/platform/cpu_feature_guard.cc:142] Your CPU supports instructions that this TensorFlow binary was not compiled to use: AVX2 FMA
-2026-06-18 15:38:59.838696: I tensorflow/core/platform/profile_utils/cpu_utils.cc:94] CPU Frequency: 2596130000 Hz
-2026-06-18 15:38:59.839049: I tensorflow/compiler/xla/service/service.cc:168] XLA service 0x55eb073a9d50 initialized for platform Host (this does not guarantee that XLA will be used). Devices:
-2026-06-18 15:38:59.839081: I tensorflow/compiler/xla/service/service.cc:176]   StreamExecutor device (0): Host, Default Version
+2026-06-18 15:40:45.122674: I tensorflow/core/platform/cpu_feature_guard.cc:142] Your CPU supports instructions that this TensorFlow binary was not compiled to use: AVX2 FMA
+2026-06-18 15:40:45.126991: I tensorflow/core/platform/profile_utils/cpu_utils.cc:94] CPU Frequency: 2596130000 Hz
+2026-06-18 15:40:45.127335: I tensorflow/compiler/xla/service/service.cc:168] XLA service 0x5627f7a3dea0 initialized for platform Host (this does not guarantee that XLA will be used). Devices:
+2026-06-18 15:40:45.127363: I tensorflow/compiler/xla/service/service.cc:176]   StreamExecutor device (0): Host, Default Version
 WARNING:tensorflow:From /__w/tkge-benchmark/tkge-benchmark/repos/HyTE/time_proj.py:599: The name tf.global_variables_initializer is deprecated. Please use tf.compat.v1.global_variables_initializer instead.
 
 enter fitting
 WARNING:tensorflow:From /__w/tkge-benchmark/tkge-benchmark/repos/HyTE/time_proj.py:494: The name tf.train.Saver is deprecated. Please use tf.compat.v1.train.Saver instead.
 
 start fitting
-Epoch 0	Loss 25052.50390625	 model hyte_finreflect
-Epoch 50	Loss 16314.509765625	 model hyte_finreflect
-Epoch 100	Loss 8681.7861328125	 model hyte_finreflect
+Epoch 0	Loss 25041.15234375	 model hyte_interval_finreflect
+Epoch 50	Loss 16346.7744140625	 model hyte_interval_finreflect
+Epoch 100	Loss 8762.046875	 model hyte_interval_finreflect
 0. no of valid_triples complete
 Validation Ended
-Epoch 150	Loss 4976.35400390625	 model hyte_finreflect
-Epoch 200	Loss 3035.481201171875	 model hyte_finreflect
+Epoch 150	Loss 5027.5517578125	 model hyte_interval_finreflect
+Epoch 200	Loss 3119.5390625	 model hyte_interval_finreflect
 0. no of valid_triples complete
 Validation Ended
-Epoch 250	Loss 2128.121826171875	 model hyte_finreflect
-Epoch 300	Loss 1606.4755859375	 model hyte_finreflect
+Epoch 250	Loss 2146.585693359375	 model hyte_interval_finreflect
+Epoch 300	Loss 1535.017578125	 model hyte_interval_finreflect
 0. no of valid_triples complete
 Validation Ended
-Epoch 350	Loss 1199.1922607421875	 model hyte_finreflect
-Epoch 400	Loss 829.4850463867188	 model hyte_finreflect
+Epoch 350	Loss 1103.797607421875	 model hyte_interval_finreflect
+Epoch 400	Loss 798.2017211914062	 model hyte_interval_finreflect
 0. no of valid_triples complete
 Validation Ended
-Epoch 450	Loss 542.8976440429688	 model hyte_finreflect
-Epoch 500	Loss 345.7652893066406	 model hyte_finreflect
+Epoch 450	Loss 546.8594360351562	 model hyte_interval_finreflect
+Epoch 500	Loss 373.07159423828125	 model hyte_interval_finreflect
 0. no of valid_triples complete
 Validation Ended
-Epoch 550	Loss 224.84103393554688	 model hyte_finreflect
-Epoch 600	Loss 144.60830688476562	 model hyte_finreflect
+Epoch 550	Loss 255.8240966796875	 model hyte_interval_finreflect
+Epoch 600	Loss 172.93942260742188	 model hyte_interval_finreflect
 0. no of valid_triples complete
 Validation Ended
-Epoch 650	Loss 86.94200897216797	 model hyte_finreflect
-Epoch 700	Loss 57.15802001953125	 model hyte_finreflect
+Epoch 650	Loss 113.60731506347656	 model hyte_interval_finreflect
+Epoch 700	Loss 69.95020294189453	 model hyte_interval_finreflect
 0. no of valid_triples complete
 Validation Ended
-Epoch 750	Loss 34.88175964355469	 model hyte_finreflect
-Epoch 800	Loss 20.003206253051758	 model hyte_finreflect
+Epoch 750	Loss 45.58585739135742	 model hyte_interval_finreflect
+Epoch 800	Loss 31.082956314086914	 model hyte_interval_finreflect
 0. no of valid_triples complete
 Validation Ended
-Epoch 850	Loss 11.357001304626465	 model hyte_finreflect
-Epoch 900	Loss 7.621772289276123	 model hyte_finreflect
+Epoch 850	Loss 21.53645133972168	 model hyte_interval_finreflect
+Epoch 900	Loss 13.188508033752441	 model hyte_interval_finreflect
 0. no of valid_triples complete
 Validation Ended
-Epoch 950	Loss 5.399692058563232	 model hyte_finreflect
-hyte_finreflect
-Epoch 100 : valid_tail rank 749.5736040609137	 valid_head rank 81.86802030456853
-Epoch 100 : valid_tail HIT@10 4.060913705583756	 valid_head HIT@!) 65.48223350253807
+Epoch 950	Loss 9.65626049041748	 model hyte_interval_finreflect
+hyte_interval_finreflect
+Epoch 100 : valid_tail rank 774.6395939086294	 valid_head rank 81.54314720812182
+Epoch 100 : valid_tail HIT@10 4.568527918781726	 valid_head HIT@!) 63.45177664974619
 ------------------------------------------
-Best Validation Epoch till now Epoch 100, tail rank: 749.5736040609137, head rank: 81.86802030456853
+Best Validation Epoch till now Epoch 100, tail rank: 774.6395939086294, head rank: 81.54314720812182
 ------------------------------------------
-Epoch 200 : valid_tail rank 733.2131979695431	 valid_head rank 60.736040609137056
-Epoch 200 : valid_tail HIT@10 5.0761421319796955	 valid_head HIT@!) 58.37563451776649
+Epoch 200 : valid_tail rank 749.3756345177665	 valid_head rank 62.558375634517766
+Epoch 200 : valid_tail HIT@10 5.0761421319796955	 valid_head HIT@!) 59.390862944162436
 ------------------------------------------
-Best Validation Epoch till now Epoch 200, tail rank: 733.2131979695431, head rank: 60.736040609137056
+Best Validation Epoch till now Epoch 200, tail rank: 749.3756345177665, head rank: 62.558375634517766
 ------------------------------------------
-Epoch 300 : valid_tail rank 704.6243654822335	 valid_head rank 58.68020304568528
-Epoch 300 : valid_tail HIT@10 4.568527918781726	 valid_head HIT@!) 58.88324873096447
+Epoch 300 : valid_tail rank 721.4771573604061	 valid_head rank 64.19796954314721
+Epoch 300 : valid_tail HIT@10 5.583756345177665	 valid_head HIT@!) 57.360406091370564
 ------------------------------------------
-Best Validation Epoch till now Epoch 300, tail rank: 704.6243654822335, head rank: 58.68020304568528
+Best Validation Epoch till now Epoch 300, tail rank: 721.4771573604061, head rank: 64.19796954314721
 ------------------------------------------
-Epoch 400 : valid_tail rank 679.2842639593908	 valid_head rank 64.59390862944161
-Epoch 400 : valid_tail HIT@10 5.0761421319796955	 valid_head HIT@!) 63.45177664974619
+Epoch 400 : valid_tail rank 696.989847715736	 valid_head rank 75.37055837563452
+Epoch 400 : valid_tail HIT@10 5.583756345177665	 valid_head HIT@!) 60.40609137055838
 ------------------------------------------
-Best Validation Epoch till now Epoch 400, tail rank: 679.2842639593908, head rank: 64.59390862944161
+Best Validation Epoch till now Epoch 400, tail rank: 696.989847715736, head rank: 75.37055837563452
 ------------------------------------------
-Epoch 500 : valid_tail rank 659.2335025380711	 valid_head rank 78.23857868020305
-Epoch 500 : valid_tail HIT@10 5.0761421319796955	 valid_head HIT@!) 59.89847715736041
+Epoch 500 : valid_tail rank 684.994923857868	 valid_head rank 88.28934010152284
+Epoch 500 : valid_tail HIT@10 6.091370558375635	 valid_head HIT@!) 58.88324873096447
 ------------------------------------------
-Best Validation Epoch till now Epoch 500, tail rank: 659.2335025380711, head rank: 78.23857868020305
+Best Validation Epoch till now Epoch 400, tail rank: 696.989847715736, head rank: 75.37055837563452
 ------------------------------------------
-Epoch 600 : valid_tail rank 652.4263959390863	 valid_head rank 85.23350253807106
-Epoch 600 : valid_tail HIT@10 5.583756345177665	 valid_head HIT@!) 60.40609137055838
+Epoch 600 : valid_tail rank 670.3807106598985	 valid_head rank 96.9238578680203
+Epoch 600 : valid_tail HIT@10 6.091370558375635	 valid_head HIT@!) 59.390862944162436
 ------------------------------------------
-Best Validation Epoch till now Epoch 500, tail rank: 659.2335025380711, head rank: 78.23857868020305
+Best Validation Epoch till now Epoch 600, tail rank: 670.3807106598985, head rank: 96.9238578680203
 ------------------------------------------
-Epoch 700 : valid_tail rank 648.3807106598985	 valid_head rank 90.67005076142132
-Epoch 700 : valid_tail HIT@10 5.583756345177665	 valid_head HIT@!) 60.40609137055838
+Epoch 700 : valid_tail rank 662.0203045685279	 valid_head rank 101.99492385786802
+Epoch 700 : valid_tail HIT@10 5.583756345177665	 valid_head HIT@!) 59.390862944162436
 ------------------------------------------
-Best Validation Epoch till now Epoch 500, tail rank: 659.2335025380711, head rank: 78.23857868020305
+Best Validation Epoch till now Epoch 700, tail rank: 662.0203045685279, head rank: 101.99492385786802
 ------------------------------------------
-Epoch 800 : valid_tail rank 647.2385786802031	 valid_head rank 95.05076142131979
-Epoch 800 : valid_tail HIT@10 5.583756345177665	 valid_head HIT@!) 59.390862944162436
+Epoch 800 : valid_tail rank 657.274111675127	 valid_head rank 106.39086294416244
+Epoch 800 : valid_tail HIT@10 6.091370558375635	 valid_head HIT@!) 58.37563451776649
 ------------------------------------------
-Best Validation Epoch till now Epoch 500, tail rank: 659.2335025380711, head rank: 78.23857868020305
+Best Validation Epoch till now Epoch 800, tail rank: 657.274111675127, head rank: 106.39086294416244
 ------------------------------------------
-Epoch 900 : valid_tail rank 645.9238578680203	 valid_head rank 97.56852791878173
-Epoch 900 : valid_tail HIT@10 6.598984771573605	 valid_head HIT@!) 57.868020304568525
+Epoch 900 : valid_tail rank 653.2335025380711	 valid_head rank 108.86294416243655
+Epoch 900 : valid_tail HIT@10 5.583756345177665	 valid_head HIT@!) 57.868020304568525
 ------------------------------------------
-Best Validation Epoch till now Epoch 500, tail rank: 659.2335025380711, head rank: 78.23857868020305
+Best Validation Epoch till now Epoch 900, tail rank: 653.2335025380711, head rank: 108.86294416243655
 ------------------------------------------
-BEST_VALID_EPOCH=500
-CMD: python /__w/tkge-benchmark/tkge-benchmark/repos/HyTE/time_proj.py -res_epoch 500 -onlyTest -restore -name hyte_finreflect -margin 10 -l2 0.00 -neg_sample 5 -gpu  -batch 2500 -data_type yago -version large
+BEST_VALID_EPOCH=900
+CMD: python /__w/tkge-benchmark/tkge-benchmark/repos/HyTE/time_proj.py -res_epoch 900 -onlyTest -restore -name hyte_interval_finreflect -margin 10 -l2 0.00 -neg_sample 5 -gpu  -batch 2500 -data_type yago -version large
 here in main
 WARNING:tensorflow:From /__w/tkge-benchmark/tkge-benchmark/repos/HyTE/time_proj.py:590: The name tf.set_random_seed is deprecated. Please use tf.compat.v1.set_random_seed instead.
 
@@ -171,10 +171,10 @@ WARNING:tensorflow:From /__w/tkge-benchmark/tkge-benchmark/repos/HyTE/time_proj.
 
 WARNING:tensorflow:From /__w/tkge-benchmark/tkge-benchmark/repos/HyTE/time_proj.py:598: The name tf.Session is deprecated. Please use tf.compat.v1.Session instead.
 
-2026-06-18 15:40:40.304137: I tensorflow/core/platform/cpu_feature_guard.cc:142] Your CPU supports instructions that this TensorFlow binary was not compiled to use: AVX2 FMA
-2026-06-18 15:40:40.308755: I tensorflow/core/platform/profile_utils/cpu_utils.cc:94] CPU Frequency: 2596130000 Hz
-2026-06-18 15:40:40.309076: I tensorflow/compiler/xla/service/service.cc:168] XLA service 0x56407dd00460 initialized for platform Host (this does not guarantee that XLA will be used). Devices:
-2026-06-18 15:40:40.309105: I tensorflow/compiler/xla/service/service.cc:176]   StreamExecutor device (0): Host, Default Version
+2026-06-18 15:42:25.731253: I tensorflow/core/platform/cpu_feature_guard.cc:142] Your CPU supports instructions that this TensorFlow binary was not compiled to use: AVX2 FMA
+2026-06-18 15:42:25.735743: I tensorflow/core/platform/profile_utils/cpu_utils.cc:94] CPU Frequency: 2596130000 Hz
+2026-06-18 15:42:25.736068: I tensorflow/compiler/xla/service/service.cc:168] XLA service 0x564a4a1ecb00 initialized for platform Host (this does not guarantee that XLA will be used). Devices:
+2026-06-18 15:42:25.736096: I tensorflow/compiler/xla/service/service.cc:176]   StreamExecutor device (0): Host, Default Version
 WARNING:tensorflow:From /__w/tkge-benchmark/tkge-benchmark/repos/HyTE/time_proj.py:599: The name tf.global_variables_initializer is deprecated. Please use tf.compat.v1.global_variables_initializer instead.
 
 enter fitting

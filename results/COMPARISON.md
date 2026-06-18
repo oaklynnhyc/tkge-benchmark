@@ -1,6 +1,6 @@
 # TKGE Benchmark — 4 methods × 3 datasets (link prediction)
 
-_Generated 2026-06-12 07:05 UTC; run mode(s): full_
+_Generated 2026-06-18 15:42 UTC; run mode(s): full_
 
 | Method | Dataset | MRR | Hits@1 | Hits@3 | Hits@10 | MR |
 |---|---|---|---|---|---|---|
@@ -16,6 +16,7 @@ _Generated 2026-06-12 07:05 UTC; run mode(s): full_
 | HyTE | FinReflect | 0.1910 | 0.1212 | 0.1869 | 0.3586 | 383.8561 |
 | HyTE | ICEWS18 (5k) | 0.0574 | 0.0200 | 0.0536 | 0.1440 | 846.4368 |
 | HyTE | GDELT (5k) | 0.0481 | 0.0016 | 0.0464 | 0.1248 | 293.1016 |
+| HyTE (interval) | FinReflect | 0.1659 | 0.0884 | 0.1970 | 0.3232 | 366.0682 |
 
 ## 評估協定差異（誠實註腳，不假裝完全等價）
 
@@ -42,6 +43,14 @@ _Generated 2026-06-12 07:05 UTC; run mode(s): full_
 - **超參**：各 repo README 之 ICEWS14（事件型）官方設定為準；HyTE 用 yago 官方設定、
   batch/epochs 依 5k 規模調整（margin 10、neg 5、l2 0、epoch 1000、test_freq 100）。
   全部 CPU 訓練。
+- **HyTE (interval) 變體**（僅 FinReflect、表中獨立一列）：HyTE 原生即區間方法（讀
+  start/end 兩欄、把三元組攤到 `[start,end]` 年箱）。此列改餵 FinReflect 真實的
+  `start_date`/`end_date`（其餘三方法與點版 HyTE 不變），**只動資料、原碼仍 CLEAN**。
+  缺值/雜訊處理：`default_*` 佔位的 end_date（199 列）/start_date（36 列）回退用
+  `year` 欄（即點版 HyTE 用的時間戳）；`end<start` 的倒置（2 列）收成點；同一 quad
+  多列取最寬區間 min(start)/max(end)。1580 訓練列中有 70 列為真實跨年區間。
+  與同列點版 HyTE 比較即「區間 vs 時間點」的消融。轉檔器
+  `converters/to_hyte_interval.py`，政策統計見其 `time_map.json`。
 
 ## 結論（full run，2026-06-12）
 
