@@ -1,0 +1,11 @@
+{
+  "dataset": "finreflect",
+  "num_entities": 1605,
+  "num_relations": 3,
+  "time_min": 2014,
+  "time_max": 2024,
+  "n_time_steps": 11,
+  "train": 1776,
+  "test": 198,
+  "note": "valid 併入 train；無 self-loop；t 已 0 起算整數"
+}

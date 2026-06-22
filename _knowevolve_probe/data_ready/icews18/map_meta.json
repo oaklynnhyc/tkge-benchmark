@@ -1,0 +1,11 @@
+{
+  "dataset": "icews18",
+  "num_entities": 3412,
+  "num_relations": 156,
+  "time_min": 0,
+  "time_max": 7272,
+  "n_time_steps": 304,
+  "train": 5625,
+  "test": 625,
+  "note": "valid 併入 train；無 self-loop；t 已 0 起算整數"
+}
