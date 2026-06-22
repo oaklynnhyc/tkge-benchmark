@@ -11,8 +11,7 @@ EPOCHS=$([ "$MODE" = smoke ] && echo 250 || echo 5000)
 mkdir -p "$ROOT/runs"; LOG="$ROOT/runs/tero_interval_finreflect.log"
 cd "$WORK"; rm -rf yago/TERO
 CMD=(python "$REPO/Main.py" --dataset yago --model TERO --dim 500 --lr 0.1 --gamma 110
-     --loss logloss --timedisc 1 --cuda "" --thre 1 --max_epoch "$EPOCHS")
+     --loss logloss --timedisc 1 --cuda "" --gran 1 --thre 1 --max_epoch "$EPOCHS")
 echo "CMD: ${CMD[*]}" | tee "$LOG"
 PYTHONUNBUFFERED=1 PYTHONPATH="$REPO" "${CMD[@]}" 2>&1 | tee -a "$LOG"
-python "$ROOT/scripts/ci/parse_atise.py" tero_interval finreflect "$MODE" || \
-  echo "（解析器需加 tero_interval 分支；見 INTERVAL_ABLATION.md）"
+python "$ROOT/scripts/ci/parse_atise.py" tero_interval finreflect "$MODE"

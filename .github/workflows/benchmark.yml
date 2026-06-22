@@ -65,6 +65,21 @@ jobs:
           else
             bash scripts/ci/run_timeplex.sh ${{ matrix.dataset }} "$MODE"
           fi
+      - name: Train + evaluate interval (finreflect only — TeRo/TIMEPLEX real start/end)
+        if: matrix.dataset == 'finreflect' && (matrix.method == 'tero' || matrix.method == 'timeplex')
+        run: |
+          MODE="${{ inputs.mode }}"; MODE="${MODE:-$(head -1 .ci-trigger | tr -d '[:space:]')}"
+          ONLY="$(sed -n 2p .ci-trigger | tr -d '[:space:]')"
+          if [ -n "$ONLY" ] && [ "$ONLY" != all ] && ! echo ",$ONLY," | grep -q ",${{ matrix.method }}:finreflect,"; then
+            echo "skipped by filter ($ONLY)"; exit 0
+          fi
+          if [ "${{ matrix.method }}" = tero ]; then
+            python converters/to_tero_interval.py
+            bash scripts/ci/run_tero_interval.sh "$MODE"
+          else
+            python converters/to_timeplex_interval.py
+            bash scripts/ci/run_timeplex_interval.sh "$MODE"
+          fi
       - name: Trim log
         if: always()
         run: |
@@ -76,6 +91,8 @@ jobs:
           path: |
             results/${{ matrix.method }}_${{ matrix.dataset }}.json
             runs/${{ matrix.method }}_${{ matrix.dataset }}.log
+            results/${{ matrix.method }}_interval_finreflect.json
+            runs/${{ matrix.method }}_interval_finreflect.log
           if-no-files-found: warn
 
   train-hyte:

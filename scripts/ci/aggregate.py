@@ -35,6 +35,13 @@ intv = RES / "hyte_interval_finreflect.json"
 if intv.exists():
     rows.append(("HyTE", "FinReflect(interval)", json.loads(intv.read_text())))
 
+# TeRo / TIMEPLEX interval on FinReflect (real start/end). Each sits next to its
+# point-time row above → the "point vs interval" ablation, 3 methods.
+for mk, label in (("tero_interval", "TeRo"), ("timeplex_interval", "TIMEPLEX (base)")):
+    pj = RES / f"{mk}_finreflect.json"
+    if pj.exists():
+        rows.append((label, "FinReflect(interval)", json.loads(pj.read_text())))
+
 # --- COMPARISON.md : RESULTS TABLE ONLY (this is the file that gets committed
 #     and pushed). Protocol notes + conclusions live in the local-only
 #     COMPARISON_NOTES.md (see below), never uploaded. ---
@@ -111,4 +118,4 @@ if notes_path.exists():
     if idx != -1:
         notes.append(prev[idx + 1:].rstrip() + "\n")
 notes_path.write_text("\n".join(notes) + "\n")
-print("\n".join(lines))
+print("\n".join(table))

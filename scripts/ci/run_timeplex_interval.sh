@@ -18,5 +18,4 @@ CMD=(python "$REPO/main.py" -d WIKIDATA12k --data_repository_root ./data -m Time
   --save_dir models/WIKIDATA12k_tp_interval)
 echo "CMD: ${CMD[*]}" | tee "$LOG"
 PYTHONUNBUFFERED=1 PYTHONPATH="$REPO" "${CMD[@]}" 2>&1 | tee -a "$LOG" | tail -200
-python "$ROOT/scripts/ci/parse_timeplex.py" timeplex_interval finreflect "$MODE" || \
-  echo "（解析器需加 interval 分支；見 INTERVAL_ABLATION.md）"
+python "$ROOT/scripts/ci/parse_timeplex.py" finreflect "$MODE" interval
