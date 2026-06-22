@@ -1,0 +1,104 @@
+CMD: python /home/runner/work/tkge-benchmark/tkge-benchmark/repos/tkbi/main.py -d WIKIDATA12k --data_repository_root ./data -m TimePlex_base -a {"embedding_dim":200,"srt_wt":5.0,"ort_wt":5.0,"sot_wt":5.0,"time_reg_wt":1.0,"emb_reg_wt":0.005} -l crossentropy_loss_AllNeg -r 0.1 -b 1000 -x 20 -n 0 -v 1 -q 0 -y 500 -g_reg 2 -g 1.0 --bin_time 1 --filter_method time-interval -e 20 --flag_add_reverse 1 --save_dir models/WIKIDATA12k_tp_interval
+[1;33mCUDA is not available, using cpu[0;0m
+Making directory (s) ./models/models/WIKIDATA12k_tp_interval
+duplicating
+Namespace(batch_norm=0, batch_size=1000, bin_time=1, data_repository_root='./data', dataset='WIKIDATA12k', debug=0, dump_t_scores=None, eval_batch_size=500, eval_every_x_mini_batches=20, expand_mode='None', filter_method='time-interval', flag_add_reverse=1, flag_additional_filter=0, flag_time_smooth=0, gradient_clip=None, hooks=[], learning_rate=0.1, loss='crossentropy_loss_AllNeg', max_epochs=20, message=None, mode='train', model='TimePlex_base', model_arguments={'embedding_dim': 200, 'srt_wt': 5.0, 'ort_wt': 5.0, 'sot_wt': 5.0, 'time_reg_wt': 1.0, 'emb_reg_wt': 0.005}, model_type='custom', negative_sample_count=0, oov_entity=1, optimizer='Adagrad', patience=3, perturb_time=0, predict_rel=0, predict_time=0, regularization_coefficient=1.0, regularizer=2.0, resume_from_save=None, save_dir='./models/models/WIKIDATA12k_tp_interval', save_text=None, save_time_results=None, subset=1, tflogs_dir='./models/models/WIKIDATA12k_tp_interval', time_loss_margin=5.0, time_neg_samples=0, time_prediction_method='greedy-coalescing', use_time_facts=0, verbose=0)
+User Message::  None
+Command::  /home/runner/work/tkge-benchmark/tkge-benchmark/repos/tkbi/main.py -d WIKIDATA12k --data_repository_root ./data -m TimePlex_base -a {"embedding_dim":200,"srt_wt":5.0,"ort_wt":5.0,"sot_wt":5.0,"time_reg_wt":1.0,"emb_reg_wt":0.005} -l crossentropy_loss_AllNeg -r 0.1 -b 1000 -x 20 -n 0 -v 1 -q 0 -y 500 -g_reg 2 -g 1.0 --bin_time 1 --filter_method time-interval -e 20 --flag_add_reverse 1 --save_dir models/WIKIDATA12k_tp_interval
+Flag: use_time_tokenizer- False
+Flag: flag_add_reverse- 1
+Using hyTE-like chunking
+
+Flag: use_time_interval True
+KB ./data/WIKIDATA12k/train.txt True
+Data Size: ./data/WIKIDATA12k/train.txt (1580, 9)
+KB ./data/WIKIDATA12k/test.txt 0
+Data Size: ./data/WIKIDATA12k/test.txt (198, 9)
+KB ./data/WIKIDATA12k/valid.txt 0
+Data Size: ./data/WIKIDATA12k/valid.txt (197, 9)
+KB ./data/WIKIDATA12k/train.txt True
+Data Size: ./data/WIKIDATA12k/train.txt (1580, 9)
+KB ./data/WIKIDATA12k/test.txt 0
+Data Size: ./data/WIKIDATA12k/test.txt (198, 9)
+KB ./data/WIKIDATA12k/valid.txt 0
+Data Size: ./data/WIKIDATA12k/valid.txt (197, 9)
+Train (no expansion) (1580, 9)
+Test (198, 9)
+Valid (197, 9)
+BIN: to year-pair {(0, 2015): 0, (2016, 2017): 1, (2018, 2019): 2, (2020, 2020): 3, (2021, 2021): 4, (2022, 2022): 5, (2023, 2023): 6, (2024, 2024): 7, (2025, 2030): 8}
+Using reg  2.0
+final model arguments {'embedding_dim': 200, 'srt_wt': 5.0, 'ort_wt': 5.0, 'sot_wt': 5.0, 'time_reg_wt': 1.0, 'emb_reg_wt': 0.005, 'entity_count': 1332, 'timeInterval_count': 9, 'reg': 2.0, 'relation_count': 6, 'flag_add_reverse': 1, 'batch_norm': 0}
+Regularization value: in time_complex_fast:  2.0
+batch_norm not being used
+Not expanding training data
+Train (after expansion) (1580, 9)
+building all known database from joint kb
+Applying filter- time-interval
+If using additional filter- 0
+converting to lists
+done
+building all known database from joint kb
+Applying filter- time-interval
+If using additional filter- 0
+converting to lists
+done
+Using regularization_coefficient[: 1.0
+max_mini_batch_count: 31, eval_batch_size 500
+Starting training
+Mini Batches     1 or   0.0 epochs |[1;34m**********************[0;0m| 100.0% | Average Loss   7.7517 | reg  0.559 | time      1 ||
+Mini Batches     2 or   0.6 epochs |[1;34m**********************[0;0m| 100.0% | Average Loss   9.0442 | reg  1.875 | time      1 ||
+Mini Batches     3 or   1.3 epochs |[1;34m**********************[0;0m| 100.0% | Average Loss   7.3135 | reg  1.346 | time      2 ||
+Mini Batches     4 or   1.9 epochs |[1;34m**********************[0;0m| 100.0% | Average Loss   4.5394 | reg  0.414 | time      2 ||
+Mini Batches     5 or   2.5 epochs |[1;34m**********************[0;0m| 100.0% | Average Loss   4.2438 | reg  0.356 | time      3 ||
+Mini Batches     6 or   3.2 epochs |[1;34m**********************[0;0m| 100.0% | Average Loss   3.3566 | reg  0.388 | time      3 ||
+Mini Batches     7 or   3.8 epochs |[1;34m**********************[0;0m| 100.0% | Average Loss   2.9598 | reg  0.382 | time      4 ||
+Mini Batches     8 or   4.4 epochs |[1;34m**********************[0;0m| 100.0% | Average Loss   2.6272 | reg  0.390 | time      5 ||
+Mini Batches     9 or   5.1 epochs |[1;34m**********************[0;0m| 100.0% | Average Loss   2.4010 | reg  0.386 | time      5 ||
+Mini Batches    10 or   5.7 epochs |[1;34m**********************[0;0m| 100.0% | Average Loss   2.3181 | reg  0.390 | time      6 ||
+Mini Batches    11 or   6.3 epochs |[1;34m**********************[0;0m| 100.0% | Average Loss   2.2368 | reg  0.385 | time      6 ||
+Mini Batches    12 or   7.0 epochs |[1;34m**********************[0;0m| 100.0% | Average Loss   2.1444 | reg  0.387 | time      7 ||
+Mini Batches    13 or   7.6 epochs |[1;34m**********************[0;0m| 100.0% | Average Loss   2.0415 | reg  0.386 | time      7 ||
+Mini Batches    14 or   8.2 epochs |[1;34m**********************[0;0m| 100.0% | Average Loss   2.0519 | reg  0.383 | time      8 ||
+Mini Batches    15 or   8.9 epochs |[1;34m**********************[0;0m| 100.0% | Average Loss   2.0449 | reg  0.374 | time      8 ||
+Mini Batches    16 or   9.5 epochs |[1;34m**********************[0;0m| 100.0% | Average Loss   1.9583 | reg  0.379 | time      9 ||
+Mini Batches    17 or  10.1 epochs |[1;34m**********************[0;0m| 100.0% | Average Loss   1.9483 | reg  0.368 | time     10 ||
+Mini Batches    18 or  10.8 epochs |[1;34m**********************[0;0m| 100.0% | Average Loss   1.9846 | reg  0.372 | time     10 ||
+Mini Batches    19 or  11.4 epochs |[1;34m**********************[0;0m| 100.0% | Average Loss   1.9224 | reg  0.361 | time     11 ||
+Mini Batches    20 or  12.0 epochs |[1;34m**********************[0;0m| 100.0% | Average Loss   1.8743 | reg  0.373 | time     11 ||
+Eval on valid |[1;32m**********[0;0m| 100.0% |M| mrr:34.13|h10:48.73%|h1:28.17|e1| mrr:64.12|h10:86.80%|h1:55.33|e2| mrr:4.15|h10:10.66%|h1:1.02|time     0|
+Eval on valid |M| mrr:34.13|h10:48.73|h1:28.17%|e1| mrr:64.12|h10:86.80|h1:55.33%|e2| mrr:4.15|h10:10.66|h1:1.02|%|r | mrr:0.00|h10:0.00|h1:0.00|%|t | mrr:0.00|h10:0.00|h1:0.00| mr:0.00|%|tp| mrr:0.00|h10:0.00|h1:0.00| mr:0.00|%| iou:0.00|%time     0|
+ 
+Eval on test  |[1;32m**********[0;0m| 100.0% |M| mrr:33.49|h10:47.22%|h1:28.54|e1| mrr:64.16|h10:87.37%|h1:56.06|e2| mrr:2.82|h10:7.07%|h1:1.01|time     0|
+Eval on test  |M| mrr:33.49|h10:47.22|h1:28.54%|e1| mrr:64.16|h10:87.37|h1:56.06%|e2| mrr:2.82|h10:7.07|h1:1.01|%|r | mrr:0.00|h10:0.00|h1:0.00|%|t | mrr:0.00|h10:0.00|h1:0.00| mr:0.00|%|tp| mrr:0.00|h10:0.00|h1:0.00| mr:0.00|%| iou:0.00|%time     0|
+ 
+
+Best Model details:
+ valid_m {'mrr': tensor(0.3413), 'mr': tensor(394.3985), 'hits10': tensor(0.4873), 'hits1': tensor(0.2817)} 
+ test_m {'mrr': tensor(0.3349), 'mr': tensor(389.4798), 'hits10': tensor(0.4722), 'hits1': tensor(0.2854)} 
+
+ valid {'mrr': tensor(0.0415), 'mr': tensor(730.4112), 'hits10': tensor(0.1066), 'hits1': tensor(0.0102)} 
+ test {'mrr': tensor(0.0282), 'mr': tensor(724.5555), 'hits10': tensor(0.0707), 'hits1': tensor(0.0101)} 
+
+ valid_e1 {'mrr': tensor(0.6412), 'mr': tensor(58.3858), 'hits10': tensor(0.8680), 'hits1': tensor(0.5533)} 
+ test_e1 {'mrr': tensor(0.6416), 'mr': tensor(54.4040), 'hits10': tensor(0.8737), 'hits1': tensor(0.5606)} 
+
+ valid_r {'mrr': 0.0, 'mr': 0.0, 'hits10': 0.0, 'hits1': 0.0} 
+ test_r {'mrr': 0.0, 'mr': 0.0, 'hits10': 0.0, 'hits1': 0.0} 
+
+ valid_t {'mrr': 0.0, 'mr': 0.0, 'hits10': 0.0, 'hits1': 0.0} 
+ test_t {'mrr': 0.0, 'mr': 0.0, 'hits10': 0.0, 'hits1': 0.0} 
+
+Mini Batches    21 or  12.7 epochs |[1;34m**********************[0;0m| 100.0% | Average Loss   1.9160 | reg  0.359 | time     12 ||
+Mini Batches    22 or  13.3 epochs |[1;34m**********************[0;0m| 100.0% | Average Loss   1.8610 | reg  0.366 | time     13 ||
+Mini Batches    23 or  13.9 epochs |[1;34m**********************[0;0m| 100.0% | Average Loss   1.8225 | reg  0.359 | time     13 ||
+Mini Batches    24 or  14.6 epochs |[1;34m**********************[0;0m| 100.0% | Average Loss   1.8640 | reg  0.362 | time     14 ||
+Mini Batches    25 or  15.2 epochs |[1;34m**********************[0;0m| 100.0% | Average Loss   1.8756 | reg  0.350 | time     14 ||
+Mini Batches    26 or  15.8 epochs |[1;34m**********************[0;0m| 100.0% | Average Loss   1.8327 | reg  0.355 | time     15 ||
+Mini Batches    27 or  16.5 epochs |[1;34m**********************[0;0m| 100.0% | Average Loss   1.8218 | reg  0.355 | time     15 ||
+Mini Batches    28 or  17.1 epochs |[1;34m**********************[0;0m| 100.0% | Average Loss   1.7781 | reg  0.350 | time     16 ||
+Mini Batches    29 or  17.7 epochs |[1;34m**********************[0;0m| 100.0% | Average Loss   1.8346 | reg  0.352 | time     16 ||
+Mini Batches    30 or  18.4 epochs |[1;34m**********************[0;0m| 100.0% | Average Loss   1.8193 | reg  0.344 | time     17 ||
+Mini Batches    31 or  19.0 epochs |[1;34m**********************[0;0m| 100.0% | Average Loss   1.7878 | reg  0.351 | time     18 ||
+
+Ending
+{'valid_m': {'mrr': tensor(0.3413), 'mr': tensor(394.3985), 'hits10': tensor(0.4873), 'hits1': tensor(0.2817)}, 'test_m': {'mrr': tensor(0.3349), 'mr': tensor(389.4798), 'hits10': tensor(0.4722), 'hits1': tensor(0.2854)}, 'valid': {'mrr': tensor(0.0415), 'mr': tensor(730.4112), 'hits10': tensor(0.1066), 'hits1': tensor(0.0102)}, 'test': {'mrr': tensor(0.0282), 'mr': tensor(724.5555), 'hits10': tensor(0.0707), 'hits1': tensor(0.0101)}, 'valid_e1': {'mrr': tensor(0.6412), 'mr': tensor(58.3858), 'hits10': tensor(0.8680), 'hits1': tensor(0.5533)}, 'test_e1': {'mrr': tensor(0.6416), 'mr': tensor(54.4040), 'hits10': tensor(0.8737), 'hits1': tensor(0.5606)}, 'valid_r': {'mrr': 0.0, 'mr': 0.0, 'hits10': 0.0, 'hits1': 0.0}, 'test_r': {'mrr': 0.0, 'mr': 0.0, 'hits10': 0.0, 'hits1': 0.0}, 'valid_t': {'mrr': 0.0, 'mr': 0.0, 'hits10': 0.0, 'hits1': 0.0}, 'test_t': {'mrr': 0.0, 'mr': 0.0, 'hits10': 0.0, 'hits1': 0.0}}
