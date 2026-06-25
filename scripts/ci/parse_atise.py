@@ -18,7 +18,15 @@ else:
 
 files = sorted(base.rglob("test_result*.txt"),
                key=lambda p: int(re.search(r"(\d+)", p.name).group(1)))
-assert files, f"no test_result*.txt under {base}"
+eval_split = "test"
+if not files:
+    # ATISE Train.py 只在早停(patience>=3)或最後 epoch 落在驗證邊界且非 patience<3 分支時
+    # 才 dump test_result*.txt。短訓練/小資料可能沒觸發 → 回退到最後一次 validation 的
+    # result*.txt（檔名不以 test_ 開頭，與上面互斥），並在 JSON 標明 eval_split。
+    files = sorted(base.rglob("result*.txt"),
+                   key=lambda p: int(re.search(r"(\d+)", p.name).group(1)))
+    eval_split = "validation (ATISE 未 dump test，回退最後一次驗證)"
+assert files, f"no test_result*.txt / result*.txt under {base}"
 f = files[-1]
 metrics = {}
 for line in f.read_text().splitlines():
@@ -49,7 +57,7 @@ else:
 
 out = {
     "method": f"{model_dir}(interval)" if is_interval else method.upper(),
-    "dataset": ds, "mode": mode,
+    "dataset": ds, "mode": mode, "eval_split": eval_split,
     "MRR": metrics.get("Mean RR"), "MR": metrics.get("Mean Rank"),
     "Hits@1": metrics.get("Hit@1"), "Hits@3": metrics.get("Hit@3"),
     "Hits@10": metrics.get("Hit@10"),
