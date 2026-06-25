@@ -1,0 +1,18 @@
+{
+  "method": "TERO(interval)",
+  "dataset": "finreflect",
+  "mode": "smoke",
+  "eval_split": "validation (ATISE \u672a dump test\uff0c\u56de\u9000\u6700\u5f8c\u4e00\u6b21\u9a57\u8b49)",
+  "MRR": 0.1564,
+  "MR": 598.0,
+  "Hits@1": 0.1041,
+  "Hits@3": 0.1751,
+  "Hits@10": 0.2538,
+  "eval_protocol": "ATISE repo native (yago path): time-wise filtered; REAL interval start/end via Dataset_YG; --timedisc 1 dual-relation begin/end",
+  "test_epoch_file": "data_ready/tero_interval/finreflect/yago/TERO/timediscrete1/dim500/lr0.1000/neg_num10/1day/gamma110/cmin0.0050/1count/result249.txt",
+  "repo": "github.com/soledad921/ATISE",
+  "repo_commit": "711e2136e10b54acbdd7a69ad7822837ce5c44c8",
+  "repo_diff": "CLEAN (zero modification)",
+  "entry_point": "python Main.py --dataset yago --model TERO --timedisc 1 ... (see runs/tero_interval_finreflect.log)",
+  "notes": "FinReflect REAL interval (start/end) fed via ATISE yago path (Dataset_YG reads cols 4/5); dual-relation begin/end; only data+flag, repo CLEAN"
+}

@@ -2,6 +2,7 @@
   "method": "TERO",
   "dataset": "finreflect",
   "mode": "smoke",
+  "eval_split": "test",
   "MRR": 0.2374,
   "MR": 579.0,
   "Hits@1": 0.1818,

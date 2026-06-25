@@ -1,6 +1,6 @@
 # TKGE Benchmark — 4 methods × 3 datasets (link prediction)
 
-_Generated 2026-06-22 10:30 UTC; run mode(s): full, smoke_
+_Generated 2026-06-25 05:21 UTC; run mode(s): full, smoke_
 
 | Method | Dataset | MRR | Hits@1 | Hits@3 | Hits@10 | MR |
 |---|---|---|---|---|---|---|
@@ -16,6 +16,7 @@ _Generated 2026-06-22 10:30 UTC; run mode(s): full, smoke_
 | HyTE | ICEWS18 (5k) | 0.0574 | 0.0200 | 0.0536 | 0.1440 | 846.4368 |
 | HyTE | GDELT (5k) | 0.0481 | 0.0016 | 0.0464 | 0.1248 | 293.1016 |
 | HyTE | FinReflect(interval) | 0.1659 | 0.0884 | 0.1970 | 0.3232 | 366.0682 |
+| TeRo | FinReflect(interval) | 0.1564 | 0.1041 | 0.1751 | 0.2538 | 598.0000 |
 | TIMEPLEX (base) | FinReflect(interval) | 0.3349 | 0.2854 | — | 0.4722 | 389.4798 |
 
 ---

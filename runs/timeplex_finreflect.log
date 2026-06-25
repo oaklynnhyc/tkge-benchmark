@@ -49,7 +49,7 @@ Starting training
 Mini Batches     3 or   1.3 epochs |[1;34m**********************[0;0m| 100.0% | Average Loss   7.3130 | reg  1.397 | time      2 ||
 Mini Batches     4 or   1.9 epochs |[1;34m**********************[0;0m| 100.0% | Average Loss   4.6531 | reg  0.427 | time      2 ||
 Mini Batches     5 or   2.5 epochs |[1;34m**********************[0;0m| 100.0% | Average Loss   4.2199 | reg  0.376 | time      3 ||
-Mini Batches     6 or   3.2 epochs |[1;34m**********************[0;0m| 100.0% | Average Loss   3.3354 | reg  0.401 | time      4 ||
+Mini Batches     6 or   3.2 epochs |[1;34m**********************[0;0m| 100.0% | Average Loss   3.3354 | reg  0.401 | time      3 ||
 Mini Batches     7 or   3.8 epochs |[1;34m**********************[0;0m| 100.0% | Average Loss   2.8762 | reg  0.398 | time      4 ||
 Mini Batches     8 or   4.4 epochs |[1;34m**********************[0;0m| 100.0% | Average Loss   2.5882 | reg  0.407 | time      5 ||
 Mini Batches     9 or   5.1 epochs |[1;34m**********************[0;0m| 100.0% | Average Loss   2.3299 | reg  0.404 | time      5 ||
