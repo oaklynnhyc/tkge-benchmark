@@ -37,10 +37,10 @@ WARNING:tensorflow:From /__w/tkge-benchmark/tkge-benchmark/repos/HyTE/time_proj.
 
 WARNING:tensorflow:From /__w/tkge-benchmark/tkge-benchmark/repos/HyTE/time_proj.py:598: The name tf.Session is deprecated. Please use tf.compat.v1.Session instead.
 
-2026-07-13 09:56:04.594755: I tensorflow/core/platform/cpu_feature_guard.cc:142] Your CPU supports instructions that this TensorFlow binary was not compiled to use: AVX2 AVX512F FMA
-2026-07-13 09:56:04.598452: I tensorflow/core/platform/profile_utils/cpu_utils.cc:94] CPU Frequency: 2300000000 Hz
-2026-07-13 09:56:04.598717: I tensorflow/compiler/xla/service/service.cc:168] XLA service 0x55ffc9aeeb90 initialized for platform Host (this does not guarantee that XLA will be used). Devices:
-2026-07-13 09:56:04.598756: I tensorflow/compiler/xla/service/service.cc:176]   StreamExecutor device (0): Host, Default Version
+2026-07-13 09:58:15.953279: I tensorflow/core/platform/cpu_feature_guard.cc:142] Your CPU supports instructions that this TensorFlow binary was not compiled to use: AVX2 FMA
+2026-07-13 09:58:15.957234: I tensorflow/core/platform/profile_utils/cpu_utils.cc:94] CPU Frequency: 2445425000 Hz
+2026-07-13 09:58:15.957545: I tensorflow/compiler/xla/service/service.cc:168] XLA service 0x560e3e9c2f80 initialized for platform Host (this does not guarantee that XLA will be used). Devices:
+2026-07-13 09:58:15.957573: I tensorflow/compiler/xla/service/service.cc:176]   StreamExecutor device (0): Host, Default Version
 WARNING:tensorflow:From /__w/tkge-benchmark/tkge-benchmark/repos/HyTE/time_proj.py:599: The name tf.global_variables_initializer is deprecated. Please use tf.compat.v1.global_variables_initializer instead.
 
 enter fitting
@@ -48,14 +48,14 @@ WARNING:tensorflow:From /__w/tkge-benchmark/tkge-benchmark/repos/HyTE/time_proj.
 
 start fitting
 Epoch 0	Loss 25052.486328125	 model hyte_finreflect_month
-Epoch 50	Loss 16313.5390625	 model hyte_finreflect_month
+Epoch 50	Loss 16313.9072265625	 model hyte_finreflect_month
 0. no of valid_triples complete
 Validation Ended
 hyte_finreflect_month
-Epoch 50 : valid_tail rank 764.6548223350254	 valid_head rank 104.51776649746193
-Epoch 50 : valid_tail HIT@10 4.060913705583756	 valid_head HIT@!) 63.95939086294417
+Epoch 50 : valid_tail rank 764.6142131979695	 valid_head rank 104.40609137055837
+Epoch 50 : valid_tail HIT@10 4.060913705583756	 valid_head HIT@!) 64.46700507614213
 ------------------------------------------
-Best Validation Epoch till now Epoch 50, tail rank: 764.6548223350254, head rank: 104.51776649746193
+Best Validation Epoch till now Epoch 50, tail rank: 764.6142131979695, head rank: 104.40609137055837
 ------------------------------------------
 BEST_VALID_EPOCH=50
 CMD: python /__w/tkge-benchmark/tkge-benchmark/repos/HyTE/time_proj.py -res_epoch 50 -onlyTest -restore -name hyte_finreflect_month -margin 10 -l2 0.00 -neg_sample 5 -gpu  -batch 2500 -data_type yago -version large
@@ -97,10 +97,10 @@ WARNING:tensorflow:From /__w/tkge-benchmark/tkge-benchmark/repos/HyTE/time_proj.
 
 WARNING:tensorflow:From /__w/tkge-benchmark/tkge-benchmark/repos/HyTE/time_proj.py:598: The name tf.Session is deprecated. Please use tf.compat.v1.Session instead.
 
-2026-07-13 09:56:16.873961: I tensorflow/core/platform/cpu_feature_guard.cc:142] Your CPU supports instructions that this TensorFlow binary was not compiled to use: AVX2 AVX512F FMA
-2026-07-13 09:56:16.877640: I tensorflow/core/platform/profile_utils/cpu_utils.cc:94] CPU Frequency: 2300000000 Hz
-2026-07-13 09:56:16.877884: I tensorflow/compiler/xla/service/service.cc:168] XLA service 0x55c3ceccc770 initialized for platform Host (this does not guarantee that XLA will be used). Devices:
-2026-07-13 09:56:16.877928: I tensorflow/compiler/xla/service/service.cc:176]   StreamExecutor device (0): Host, Default Version
+2026-07-13 09:58:27.919648: I tensorflow/core/platform/cpu_feature_guard.cc:142] Your CPU supports instructions that this TensorFlow binary was not compiled to use: AVX2 FMA
+2026-07-13 09:58:27.923448: I tensorflow/core/platform/profile_utils/cpu_utils.cc:94] CPU Frequency: 2445425000 Hz
+2026-07-13 09:58:27.923766: I tensorflow/compiler/xla/service/service.cc:168] XLA service 0x55a067add010 initialized for platform Host (this does not guarantee that XLA will be used). Devices:
+2026-07-13 09:58:27.923792: I tensorflow/compiler/xla/service/service.cc:176]   StreamExecutor device (0): Host, Default Version
 WARNING:tensorflow:From /__w/tkge-benchmark/tkge-benchmark/repos/HyTE/time_proj.py:599: The name tf.global_variables_initializer is deprecated. Please use tf.compat.v1.global_variables_initializer instead.
 
 enter fitting

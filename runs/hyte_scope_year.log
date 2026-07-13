@@ -37,35 +37,35 @@ WARNING:tensorflow:From /__w/tkge-benchmark/tkge-benchmark/repos/HyTE/time_proj_
 
 WARNING:tensorflow:From /__w/tkge-benchmark/tkge-benchmark/repos/HyTE/time_proj_tdns_scope.py:674: The name tf.Session is deprecated. Please use tf.compat.v1.Session instead.
 
-2026-07-13 09:55:50.586259: I tensorflow/core/platform/cpu_feature_guard.cc:142] Your CPU supports instructions that this TensorFlow binary was not compiled to use: AVX2 FMA
-2026-07-13 09:55:50.590866: I tensorflow/core/platform/profile_utils/cpu_utils.cc:94] CPU Frequency: 2596150000 Hz
-2026-07-13 09:55:50.591184: I tensorflow/compiler/xla/service/service.cc:168] XLA service 0x55572a8e37b0 initialized for platform Host (this does not guarantee that XLA will be used). Devices:
-2026-07-13 09:55:50.591212: I tensorflow/compiler/xla/service/service.cc:176]   StreamExecutor device (0): Host, Default Version
+2026-07-13 09:58:34.057824: I tensorflow/core/platform/cpu_feature_guard.cc:142] Your CPU supports instructions that this TensorFlow binary was not compiled to use: AVX2 FMA
+2026-07-13 09:58:34.062137: I tensorflow/core/platform/profile_utils/cpu_utils.cc:94] CPU Frequency: 2445420000 Hz
+2026-07-13 09:58:34.062455: I tensorflow/compiler/xla/service/service.cc:168] XLA service 0x5609288f43a0 initialized for platform Host (this does not guarantee that XLA will be used). Devices:
+2026-07-13 09:58:34.062479: I tensorflow/compiler/xla/service/service.cc:176]   StreamExecutor device (0): Host, Default Version
 WARNING:tensorflow:From /__w/tkge-benchmark/tkge-benchmark/repos/HyTE/time_proj_tdns_scope.py:675: The name tf.global_variables_initializer is deprecated. Please use tf.compat.v1.global_variables_initializer instead.
 
 enter fitting
 WARNING:tensorflow:From /__w/tkge-benchmark/tkge-benchmark/repos/HyTE/time_proj_tdns_scope.py:561: The name tf.train.Saver is deprecated. Please use tf.compat.v1.train.Saver instead.
 
 start fitting
-Epoch 0	Loss 25239.677734375	 model scope_year_sel_13_07_2026_09:55:49
-Epoch 10	Loss 23779.81640625	 model scope_year_sel_13_07_2026_09:55:49
-Epoch 20	Loss 22387.259765625	 model scope_year_sel_13_07_2026_09:55:49
-Epoch 30	Loss 21048.373046875	 model scope_year_sel_13_07_2026_09:55:49
-Epoch 40	Loss 19726.20703125	 model scope_year_sel_13_07_2026_09:55:49
-Epoch 50	Loss 18421.330078125	 model scope_year_sel_13_07_2026_09:55:49
+Epoch 0	Loss 25239.677734375	 model scope_year_sel_13_07_2026_09:58:32
+Epoch 10	Loss 23779.81640625	 model scope_year_sel_13_07_2026_09:58:32
+Epoch 20	Loss 22387.259765625	 model scope_year_sel_13_07_2026_09:58:32
+Epoch 30	Loss 21048.373046875	 model scope_year_sel_13_07_2026_09:58:32
+Epoch 40	Loss 19726.20703125	 model scope_year_sel_13_07_2026_09:58:32
+Epoch 50	Loss 18421.330078125	 model scope_year_sel_13_07_2026_09:58:32
 0. no of valid_triples complete
 Validation Ended
-Epoch 60	Loss 17111.09765625	 model scope_year_sel_13_07_2026_09:55:49
-Epoch 70	Loss 15801.8525390625	 model scope_year_sel_13_07_2026_09:55:49
-Epoch 80	Loss 14488.115234375	 model scope_year_sel_13_07_2026_09:55:49
-Epoch 90	Loss 13337.474609375	 model scope_year_sel_13_07_2026_09:55:49
-Epoch 100	Loss 12453.7392578125	 model scope_year_sel_13_07_2026_09:55:49
+Epoch 60	Loss 17111.09765625	 model scope_year_sel_13_07_2026_09:58:32
+Epoch 70	Loss 15801.8525390625	 model scope_year_sel_13_07_2026_09:58:32
+Epoch 80	Loss 14488.115234375	 model scope_year_sel_13_07_2026_09:58:32
+Epoch 90	Loss 13337.474609375	 model scope_year_sel_13_07_2026_09:58:32
+Epoch 100	Loss 12453.7392578125	 model scope_year_sel_13_07_2026_09:58:32
 0. no of valid_triples complete
 Validation Ended
-Epoch 110	Loss 11702.701171875	 model scope_year_sel_13_07_2026_09:55:49
-Epoch 120	Loss 11027.9541015625	 model scope_year_sel_13_07_2026_09:55:49
-Epoch 130	Loss 10362.2216796875	 model scope_year_sel_13_07_2026_09:55:49
-Epoch 140	Loss 9820.8369140625	 model scope_year_sel_13_07_2026_09:55:49
+Epoch 110	Loss 11702.701171875	 model scope_year_sel_13_07_2026_09:58:32
+Epoch 120	Loss 11027.9541015625	 model scope_year_sel_13_07_2026_09:58:32
+Epoch 130	Loss 10362.2216796875	 model scope_year_sel_13_07_2026_09:58:32
+Epoch 140	Loss 9820.8369140625	 model scope_year_sel_13_07_2026_09:58:32
 CMD[test]: python time_proj_tdns_scope.py -name scope_year_test -margin 10 -l2 0.00 -neg_sample 5 -gpu  -batch 2500 -seed 1234 -epoch 150 -test_freq 50 -data_type yago -version large
 here in main
 WARNING:tensorflow:From /__w/tkge-benchmark/tkge-benchmark/repos/HyTE/time_proj_tdns_scope.py:666: The name tf.set_random_seed is deprecated. Please use tf.compat.v1.set_random_seed instead.
@@ -105,37 +105,37 @@ WARNING:tensorflow:From /__w/tkge-benchmark/tkge-benchmark/repos/HyTE/time_proj_
 
 WARNING:tensorflow:From /__w/tkge-benchmark/tkge-benchmark/repos/HyTE/time_proj_tdns_scope.py:674: The name tf.Session is deprecated. Please use tf.compat.v1.Session instead.
 
-2026-07-13 09:56:08.314244: I tensorflow/core/platform/cpu_feature_guard.cc:142] Your CPU supports instructions that this TensorFlow binary was not compiled to use: AVX2 FMA
-2026-07-13 09:56:08.318596: I tensorflow/core/platform/profile_utils/cpu_utils.cc:94] CPU Frequency: 2596150000 Hz
-2026-07-13 09:56:08.318941: I tensorflow/compiler/xla/service/service.cc:168] XLA service 0x55dac42cc0e0 initialized for platform Host (this does not guarantee that XLA will be used). Devices:
-2026-07-13 09:56:08.318971: I tensorflow/compiler/xla/service/service.cc:176]   StreamExecutor device (0): Host, Default Version
+2026-07-13 09:58:51.784815: I tensorflow/core/platform/cpu_feature_guard.cc:142] Your CPU supports instructions that this TensorFlow binary was not compiled to use: AVX2 FMA
+2026-07-13 09:58:51.788930: I tensorflow/core/platform/profile_utils/cpu_utils.cc:94] CPU Frequency: 2445420000 Hz
+2026-07-13 09:58:51.789243: I tensorflow/compiler/xla/service/service.cc:168] XLA service 0x555cd1f57790 initialized for platform Host (this does not guarantee that XLA will be used). Devices:
+2026-07-13 09:58:51.789268: I tensorflow/compiler/xla/service/service.cc:176]   StreamExecutor device (0): Host, Default Version
 WARNING:tensorflow:From /__w/tkge-benchmark/tkge-benchmark/repos/HyTE/time_proj_tdns_scope.py:675: The name tf.global_variables_initializer is deprecated. Please use tf.compat.v1.global_variables_initializer instead.
 
 enter fitting
 WARNING:tensorflow:From /__w/tkge-benchmark/tkge-benchmark/repos/HyTE/time_proj_tdns_scope.py:561: The name tf.train.Saver is deprecated. Please use tf.compat.v1.train.Saver instead.
 
 start fitting
-Epoch 0	Loss 25239.677734375	 model scope_year_test_13_07_2026_09:56:07
-Epoch 10	Loss 23779.81640625	 model scope_year_test_13_07_2026_09:56:07
-Epoch 20	Loss 22387.259765625	 model scope_year_test_13_07_2026_09:56:07
-Epoch 30	Loss 21048.373046875	 model scope_year_test_13_07_2026_09:56:07
-Epoch 40	Loss 19726.20703125	 model scope_year_test_13_07_2026_09:56:07
-Epoch 50	Loss 18421.330078125	 model scope_year_test_13_07_2026_09:56:07
+Epoch 0	Loss 25239.677734375	 model scope_year_test_13_07_2026_09:58:50
+Epoch 10	Loss 23779.81640625	 model scope_year_test_13_07_2026_09:58:50
+Epoch 20	Loss 22387.259765625	 model scope_year_test_13_07_2026_09:58:50
+Epoch 30	Loss 21048.373046875	 model scope_year_test_13_07_2026_09:58:50
+Epoch 40	Loss 19726.20703125	 model scope_year_test_13_07_2026_09:58:50
+Epoch 50	Loss 18421.330078125	 model scope_year_test_13_07_2026_09:58:50
 0. no of valid_triples complete
 Validation Ended
-Epoch 60	Loss 17111.09765625	 model scope_year_test_13_07_2026_09:56:07
-Epoch 70	Loss 15801.8525390625	 model scope_year_test_13_07_2026_09:56:07
-Epoch 80	Loss 14488.115234375	 model scope_year_test_13_07_2026_09:56:07
-Epoch 90	Loss 13337.474609375	 model scope_year_test_13_07_2026_09:56:07
-Epoch 100	Loss 12453.7392578125	 model scope_year_test_13_07_2026_09:56:07
+Epoch 60	Loss 17111.09765625	 model scope_year_test_13_07_2026_09:58:50
+Epoch 70	Loss 15801.8525390625	 model scope_year_test_13_07_2026_09:58:50
+Epoch 80	Loss 14488.115234375	 model scope_year_test_13_07_2026_09:58:50
+Epoch 90	Loss 13337.474609375	 model scope_year_test_13_07_2026_09:58:50
+Epoch 100	Loss 12453.7392578125	 model scope_year_test_13_07_2026_09:58:50
 0. no of valid_triples complete
 Validation Ended
-Epoch 110	Loss 11702.701171875	 model scope_year_test_13_07_2026_09:56:07
-Epoch 120	Loss 11027.9541015625	 model scope_year_test_13_07_2026_09:56:07
-Epoch 130	Loss 10362.2216796875	 model scope_year_test_13_07_2026_09:56:07
-Epoch 140	Loss 9820.8369140625	 model scope_year_test_13_07_2026_09:56:07
-scope_year_sel_13_07_2026_09:55:49
+Epoch 110	Loss 11702.701171875	 model scope_year_test_13_07_2026_09:58:50
+Epoch 120	Loss 11027.9541015625	 model scope_year_test_13_07_2026_09:58:50
+Epoch 130	Loss 10362.2216796875	 model scope_year_test_13_07_2026_09:58:50
+Epoch 140	Loss 9820.8369140625	 model scope_year_test_13_07_2026_09:58:50
+scope_year_sel_13_07_2026_09:58:32
 Epoch 50 :  time_rank 4.253807106598985
 Epoch 100 :  time_rank 4.096446700507614
-BEST_EPOCH=100 SEL_MEAN_RANK(0-based)=
+BEST_EPOCH=100 SEL_MEAN_RANK(0-based)=4.096446700507614
 ckpt sha256 sel=3531c6079c9c987f199ffcfa554ec1966efbe96a9f7a3f2542002e9aa442128d test=3531c6079c9c987f199ffcfa554ec1966efbe96a9f7a3f2542002e9aa442128d match=true

@@ -1,0 +1,42 @@
+{
+  "method": "HYTE-time(scoping)",
+  "dataset": "finreflect_year",
+  "mode": "smoke",
+  "task": "time prediction (temporal scoping)",
+  "strict_top1": 0.10101010101010101,
+  "Hits@3": 0.32323232323232326,
+  "Hits@10": 1.0,
+  "mean_rank": 5.05050505050505,
+  "mean_rank_0based": 4.05050505050505,
+  "n_time_bins": 9,
+  "n_eval": 198,
+  "best_valid_epoch": 100,
+  "sel_valid_mean_rank_0based": 4.096446700507614,
+  "twin_ckpt_bytes_match": true,
+  "eval_protocol": "HyTE original time_proj_tdns_scope.py dumps + result_eval_time.py rank definition; strict = exact gold time-bin at top-1 (unfiltered). Test scores via twin run (valid.txt=test split) with identical args+seed; epoch selected on the real valid split.",
+  "repo": "github.com/malllabiisc/HyTE",
+  "repo_commit": "96fc3498d3f3fbc7acd61d81a704537b239ac94d",
+  "repo_diff": "CLEAN (zero modification)",
+  "entry_point": "python time_proj_tdns_scope.py -name scope_year_* ... (see runs/hyte_scope_year.log)",
+  "data_meta": {
+    "real_to_token": {
+      "2014": "2014",
+      "2015": "2015",
+      "2016": "2016",
+      "2017": "2017",
+      "2018": "2018",
+      "2019": "2019",
+      "2020": "2020",
+      "2021": "2021",
+      "2022": "2022",
+      "2023": "2023",
+      "2024": "2024"
+    },
+    "train_token_range": [
+      2014,
+      2024
+    ],
+    "eval_tokens_clamped_to_train_range": 0
+  },
+  "notes": "class space = HyTE's own frequency bins (hardcoded >300 count), not raw years/months; year vs month variants differ in token granularity feeding that binning."
+}

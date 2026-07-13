@@ -1,0 +1,38 @@
+{
+  "method": "HYTE-time(scoping)",
+  "dataset": "finreflect_month",
+  "mode": "smoke",
+  "task": "time prediction (temporal scoping)",
+  "strict_top1": 0.12626262626262627,
+  "Hits@3": 0.3333333333333333,
+  "Hits@10": 1.0,
+  "mean_rank": 5.0,
+  "mean_rank_0based": 4.0,
+  "n_time_bins": 9,
+  "n_eval": 198,
+  "best_valid_epoch": 100,
+  "sel_valid_mean_rank_0based": 4.106598984771574,
+  "twin_ckpt_bytes_match": true,
+  "eval_protocol": "HyTE original time_proj_tdns_scope.py dumps + result_eval_time.py rank definition; strict = exact gold time-bin at top-1 (unfiltered). Test scores via twin run (valid.txt=test split) with identical args+seed; epoch selected on the real valid split.",
+  "repo": "github.com/malllabiisc/HyTE",
+  "repo_commit": "96fc3498d3f3fbc7acd61d81a704537b239ac94d",
+  "repo_diff": "CLEAN (zero modification)",
+  "entry_point": "python time_proj_tdns_scope.py -name scope_month_* ... (see runs/hyte_scope_month.log)",
+  "data_meta": {
+    "rows": 2000,
+    "parsed_month": 1964,
+    "fallback_january": 0,
+    "collision_groups": 9,
+    "quads_with_month": 1942,
+    "min_year": 2014,
+    "token_rule": "1000+(year-min_year)*12+(month-1)",
+    "split_rows_fallback_january": 33,
+    "train_token_range": [
+      1000,
+      1131
+    ],
+    "eval_tokens_clamped": 0,
+    "distinct_month_tokens": 53
+  },
+  "notes": "class space = HyTE's own frequency bins (hardcoded >300 count), not raw years/months; year vs month variants differ in token granularity feeding that binning."
+}
