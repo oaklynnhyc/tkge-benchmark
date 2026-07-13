@@ -37,10 +37,10 @@ WARNING:tensorflow:From /__w/tkge-benchmark/tkge-benchmark/repos/HyTE/time_proj.
 
 WARNING:tensorflow:From /__w/tkge-benchmark/tkge-benchmark/repos/HyTE/time_proj.py:598: The name tf.Session is deprecated. Please use tf.compat.v1.Session instead.
 
-2026-07-13 10:01:33.951013: I tensorflow/core/platform/cpu_feature_guard.cc:142] Your CPU supports instructions that this TensorFlow binary was not compiled to use: AVX2 FMA
-2026-07-13 10:01:33.954935: I tensorflow/core/platform/profile_utils/cpu_utils.cc:94] CPU Frequency: 2445430000 Hz
-2026-07-13 10:01:33.955290: I tensorflow/compiler/xla/service/service.cc:168] XLA service 0x560591f28520 initialized for platform Host (this does not guarantee that XLA will be used). Devices:
-2026-07-13 10:01:33.955320: I tensorflow/compiler/xla/service/service.cc:176]   StreamExecutor device (0): Host, Default Version
+2026-07-13 10:27:33.859990: I tensorflow/core/platform/cpu_feature_guard.cc:142] Your CPU supports instructions that this TensorFlow binary was not compiled to use: AVX2 AVX512F FMA
+2026-07-13 10:27:33.863303: I tensorflow/core/platform/profile_utils/cpu_utils.cc:94] CPU Frequency: 2596130000 Hz
+2026-07-13 10:27:33.863565: I tensorflow/compiler/xla/service/service.cc:168] XLA service 0x55a4ffc48c10 initialized for platform Host (this does not guarantee that XLA will be used). Devices:
+2026-07-13 10:27:33.863585: I tensorflow/compiler/xla/service/service.cc:176]   StreamExecutor device (0): Host, Default Version
 WARNING:tensorflow:From /__w/tkge-benchmark/tkge-benchmark/repos/HyTE/time_proj.py:599: The name tf.global_variables_initializer is deprecated. Please use tf.compat.v1.global_variables_initializer instead.
 
 enter fitting
@@ -171,10 +171,10 @@ WARNING:tensorflow:From /__w/tkge-benchmark/tkge-benchmark/repos/HyTE/time_proj.
 
 WARNING:tensorflow:From /__w/tkge-benchmark/tkge-benchmark/repos/HyTE/time_proj.py:598: The name tf.Session is deprecated. Please use tf.compat.v1.Session instead.
 
-2026-07-13 10:03:04.126271: I tensorflow/core/platform/cpu_feature_guard.cc:142] Your CPU supports instructions that this TensorFlow binary was not compiled to use: AVX2 FMA
-2026-07-13 10:03:04.130100: I tensorflow/core/platform/profile_utils/cpu_utils.cc:94] CPU Frequency: 2445430000 Hz
-2026-07-13 10:03:04.130427: I tensorflow/compiler/xla/service/service.cc:168] XLA service 0x5596dd524030 initialized for platform Host (this does not guarantee that XLA will be used). Devices:
-2026-07-13 10:03:04.130455: I tensorflow/compiler/xla/service/service.cc:176]   StreamExecutor device (0): Host, Default Version
+2026-07-13 10:28:46.293239: I tensorflow/core/platform/cpu_feature_guard.cc:142] Your CPU supports instructions that this TensorFlow binary was not compiled to use: AVX2 AVX512F FMA
+2026-07-13 10:28:46.296512: I tensorflow/core/platform/profile_utils/cpu_utils.cc:94] CPU Frequency: 2596130000 Hz
+2026-07-13 10:28:46.296748: I tensorflow/compiler/xla/service/service.cc:168] XLA service 0x5558ef9d5030 initialized for platform Host (this does not guarantee that XLA will be used). Devices:
+2026-07-13 10:28:46.296769: I tensorflow/compiler/xla/service/service.cc:176]   StreamExecutor device (0): Host, Default Version
 WARNING:tensorflow:From /__w/tkge-benchmark/tkge-benchmark/repos/HyTE/time_proj.py:599: The name tf.global_variables_initializer is deprecated. Please use tf.compat.v1.global_variables_initializer instead.
 
 enter fitting

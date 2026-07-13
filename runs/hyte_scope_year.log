@@ -37,84 +37,84 @@ WARNING:tensorflow:From /__w/tkge-benchmark/tkge-benchmark/repos/HyTE/time_proj_
 
 WARNING:tensorflow:From /__w/tkge-benchmark/tkge-benchmark/repos/HyTE/time_proj_tdns_scope.py:674: The name tf.Session is deprecated. Please use tf.compat.v1.Session instead.
 
-2026-07-13 10:01:48.748376: I tensorflow/core/platform/cpu_feature_guard.cc:142] Your CPU supports instructions that this TensorFlow binary was not compiled to use: AVX2 AVX512F FMA
-2026-07-13 10:01:48.751985: I tensorflow/core/platform/profile_utils/cpu_utils.cc:94] CPU Frequency: 2299995000 Hz
-2026-07-13 10:01:48.752239: I tensorflow/compiler/xla/service/service.cc:168] XLA service 0x55d3959df1b0 initialized for platform Host (this does not guarantee that XLA will be used). Devices:
-2026-07-13 10:01:48.752263: I tensorflow/compiler/xla/service/service.cc:176]   StreamExecutor device (0): Host, Default Version
+2026-07-13 10:27:39.857750: I tensorflow/core/platform/cpu_feature_guard.cc:142] Your CPU supports instructions that this TensorFlow binary was not compiled to use: AVX2 FMA
+2026-07-13 10:27:39.861973: I tensorflow/core/platform/profile_utils/cpu_utils.cc:94] CPU Frequency: 2445430000 Hz
+2026-07-13 10:27:39.862291: I tensorflow/compiler/xla/service/service.cc:168] XLA service 0x55b96c5ea540 initialized for platform Host (this does not guarantee that XLA will be used). Devices:
+2026-07-13 10:27:39.862318: I tensorflow/compiler/xla/service/service.cc:176]   StreamExecutor device (0): Host, Default Version
 WARNING:tensorflow:From /__w/tkge-benchmark/tkge-benchmark/repos/HyTE/time_proj_tdns_scope.py:675: The name tf.global_variables_initializer is deprecated. Please use tf.compat.v1.global_variables_initializer instead.
 
 enter fitting
 WARNING:tensorflow:From /__w/tkge-benchmark/tkge-benchmark/repos/HyTE/time_proj_tdns_scope.py:561: The name tf.train.Saver is deprecated. Please use tf.compat.v1.train.Saver instead.
 
 start fitting
-Epoch 0	Loss 25239.677734375	 model scope_year_sel_13_07_2026_10:01:47
-Epoch 20	Loss 22387.259765625	 model scope_year_sel_13_07_2026_10:01:47
-Epoch 40	Loss 19726.103515625	 model scope_year_sel_13_07_2026_10:01:47
-Epoch 60	Loss 17110.744140625	 model scope_year_sel_13_07_2026_10:01:47
-Epoch 80	Loss 14488.296875	 model scope_year_sel_13_07_2026_10:01:47
-Epoch 100	Loss 12456.2626953125	 model scope_year_sel_13_07_2026_10:01:47
+Epoch 0	Loss 25239.677734375	 model scope_year_sel_13_07_2026_10:27:38
+Epoch 20	Loss 22387.259765625	 model scope_year_sel_13_07_2026_10:27:38
+Epoch 40	Loss 19726.20703125	 model scope_year_sel_13_07_2026_10:27:38
+Epoch 60	Loss 17111.09765625	 model scope_year_sel_13_07_2026_10:27:38
+Epoch 80	Loss 14488.115234375	 model scope_year_sel_13_07_2026_10:27:38
+Epoch 100	Loss 12453.7392578125	 model scope_year_sel_13_07_2026_10:27:38
 0. no of valid_triples complete
 Validation Ended
-Epoch 120	Loss 11038.9609375	 model scope_year_sel_13_07_2026_10:01:47
-Epoch 140	Loss 9828.8046875	 model scope_year_sel_13_07_2026_10:01:47
-Epoch 160	Loss 8807.4482421875	 model scope_year_sel_13_07_2026_10:01:47
-Epoch 180	Loss 7549.4462890625	 model scope_year_sel_13_07_2026_10:01:47
-Epoch 200	Loss 6078.89501953125	 model scope_year_sel_13_07_2026_10:01:47
+Epoch 120	Loss 11027.9541015625	 model scope_year_sel_13_07_2026_10:27:38
+Epoch 140	Loss 9820.8369140625	 model scope_year_sel_13_07_2026_10:27:38
+Epoch 160	Loss 8807.443359375	 model scope_year_sel_13_07_2026_10:27:38
+Epoch 180	Loss 7558.3017578125	 model scope_year_sel_13_07_2026_10:27:38
+Epoch 200	Loss 6081.0400390625	 model scope_year_sel_13_07_2026_10:27:38
 0. no of valid_triples complete
 Validation Ended
-Epoch 220	Loss 4804.6904296875	 model scope_year_sel_13_07_2026_10:01:47
-Epoch 240	Loss 3864.194580078125	 model scope_year_sel_13_07_2026_10:01:47
-Epoch 260	Loss 3114.404296875	 model scope_year_sel_13_07_2026_10:01:47
-Epoch 280	Loss 2499.52099609375	 model scope_year_sel_13_07_2026_10:01:47
-Epoch 300	Loss 2008.20703125	 model scope_year_sel_13_07_2026_10:01:47
+Epoch 220	Loss 4802.9150390625	 model scope_year_sel_13_07_2026_10:27:38
+Epoch 240	Loss 3866.01318359375	 model scope_year_sel_13_07_2026_10:27:38
+Epoch 260	Loss 3116.732666015625	 model scope_year_sel_13_07_2026_10:27:38
+Epoch 280	Loss 2501.28369140625	 model scope_year_sel_13_07_2026_10:27:38
+Epoch 300	Loss 2010.5045166015625	 model scope_year_sel_13_07_2026_10:27:38
 0. no of valid_triples complete
 Validation Ended
-Epoch 320	Loss 1665.0938720703125	 model scope_year_sel_13_07_2026_10:01:47
-Epoch 340	Loss 1398.3353271484375	 model scope_year_sel_13_07_2026_10:01:47
-Epoch 360	Loss 1237.097900390625	 model scope_year_sel_13_07_2026_10:01:47
-Epoch 380	Loss 1071.1905517578125	 model scope_year_sel_13_07_2026_10:01:47
-Epoch 400	Loss 957.5079956054688	 model scope_year_sel_13_07_2026_10:01:47
+Epoch 320	Loss 1666.975830078125	 model scope_year_sel_13_07_2026_10:27:38
+Epoch 340	Loss 1398.041259765625	 model scope_year_sel_13_07_2026_10:27:38
+Epoch 360	Loss 1236.037353515625	 model scope_year_sel_13_07_2026_10:27:38
+Epoch 380	Loss 1068.44970703125	 model scope_year_sel_13_07_2026_10:27:38
+Epoch 400	Loss 956.6178588867188	 model scope_year_sel_13_07_2026_10:27:38
 0. no of valid_triples complete
 Validation Ended
-Epoch 420	Loss 845.4827880859375	 model scope_year_sel_13_07_2026_10:01:47
-Epoch 440	Loss 780.8829956054688	 model scope_year_sel_13_07_2026_10:01:47
-Epoch 460	Loss 706.6522827148438	 model scope_year_sel_13_07_2026_10:01:47
-Epoch 480	Loss 656.9420776367188	 model scope_year_sel_13_07_2026_10:01:47
-Epoch 500	Loss 599.1209716796875	 model scope_year_sel_13_07_2026_10:01:47
+Epoch 420	Loss 845.5064086914062	 model scope_year_sel_13_07_2026_10:27:38
+Epoch 440	Loss 779.7574462890625	 model scope_year_sel_13_07_2026_10:27:38
+Epoch 460	Loss 706.0239868164062	 model scope_year_sel_13_07_2026_10:27:38
+Epoch 480	Loss 656.6310424804688	 model scope_year_sel_13_07_2026_10:27:38
+Epoch 500	Loss 599.9932250976562	 model scope_year_sel_13_07_2026_10:27:38
 0. no of valid_triples complete
 Validation Ended
-Epoch 520	Loss 559.6138916015625	 model scope_year_sel_13_07_2026_10:01:47
-Epoch 540	Loss 513.555419921875	 model scope_year_sel_13_07_2026_10:01:47
-Epoch 560	Loss 484.2101135253906	 model scope_year_sel_13_07_2026_10:01:47
-Epoch 580	Loss 443.5751953125	 model scope_year_sel_13_07_2026_10:01:47
-Epoch 600	Loss 425.7961120605469	 model scope_year_sel_13_07_2026_10:01:47
+Epoch 520	Loss 561.7587890625	 model scope_year_sel_13_07_2026_10:27:38
+Epoch 540	Loss 517.685546875	 model scope_year_sel_13_07_2026_10:27:38
+Epoch 560	Loss 489.31866455078125	 model scope_year_sel_13_07_2026_10:27:38
+Epoch 580	Loss 447.29150390625	 model scope_year_sel_13_07_2026_10:27:38
+Epoch 600	Loss 427.4660949707031	 model scope_year_sel_13_07_2026_10:27:38
 0. no of valid_triples complete
 Validation Ended
-Epoch 620	Loss 402.87677001953125	 model scope_year_sel_13_07_2026_10:01:47
-Epoch 640	Loss 374.508544921875	 model scope_year_sel_13_07_2026_10:01:47
-Epoch 660	Loss 365.2855529785156	 model scope_year_sel_13_07_2026_10:01:47
-Epoch 680	Loss 346.5268859863281	 model scope_year_sel_13_07_2026_10:01:47
-Epoch 700	Loss 334.1091613769531	 model scope_year_sel_13_07_2026_10:01:47
+Epoch 620	Loss 402.6423645019531	 model scope_year_sel_13_07_2026_10:27:38
+Epoch 640	Loss 373.30859375	 model scope_year_sel_13_07_2026_10:27:38
+Epoch 660	Loss 363.21685791015625	 model scope_year_sel_13_07_2026_10:27:38
+Epoch 680	Loss 344.5890197753906	 model scope_year_sel_13_07_2026_10:27:38
+Epoch 700	Loss 330.94073486328125	 model scope_year_sel_13_07_2026_10:27:38
 0. no of valid_triples complete
 Validation Ended
-Epoch 720	Loss 319.6293029785156	 model scope_year_sel_13_07_2026_10:01:47
-Epoch 740	Loss 312.8133850097656	 model scope_year_sel_13_07_2026_10:01:47
-Epoch 760	Loss 296.6887512207031	 model scope_year_sel_13_07_2026_10:01:47
-Epoch 780	Loss 291.0573425292969	 model scope_year_sel_13_07_2026_10:01:47
-Epoch 800	Loss 262.76641845703125	 model scope_year_sel_13_07_2026_10:01:47
+Epoch 720	Loss 316.07672119140625	 model scope_year_sel_13_07_2026_10:27:38
+Epoch 740	Loss 311.3191223144531	 model scope_year_sel_13_07_2026_10:27:38
+Epoch 760	Loss 294.5000915527344	 model scope_year_sel_13_07_2026_10:27:38
+Epoch 780	Loss 289.6678466796875	 model scope_year_sel_13_07_2026_10:27:38
+Epoch 800	Loss 260.7008056640625	 model scope_year_sel_13_07_2026_10:27:38
 0. no of valid_triples complete
 Validation Ended
-Epoch 820	Loss 278.89764404296875	 model scope_year_sel_13_07_2026_10:01:47
-Epoch 840	Loss 271.8414306640625	 model scope_year_sel_13_07_2026_10:01:47
-Epoch 860	Loss 258.1778869628906	 model scope_year_sel_13_07_2026_10:01:47
-Epoch 880	Loss 256.1916198730469	 model scope_year_sel_13_07_2026_10:01:47
-Epoch 900	Loss 252.75611877441406	 model scope_year_sel_13_07_2026_10:01:47
+Epoch 820	Loss 276.4772644042969	 model scope_year_sel_13_07_2026_10:27:38
+Epoch 840	Loss 269.6133728027344	 model scope_year_sel_13_07_2026_10:27:38
+Epoch 860	Loss 255.8517608642578	 model scope_year_sel_13_07_2026_10:27:38
+Epoch 880	Loss 253.8875274658203	 model scope_year_sel_13_07_2026_10:27:38
+Epoch 900	Loss 250.81895446777344	 model scope_year_sel_13_07_2026_10:27:38
 0. no of valid_triples complete
 Validation Ended
-Epoch 920	Loss 234.05885314941406	 model scope_year_sel_13_07_2026_10:01:47
-Epoch 940	Loss 235.43162536621094	 model scope_year_sel_13_07_2026_10:01:47
-Epoch 960	Loss 235.666015625	 model scope_year_sel_13_07_2026_10:01:47
-Epoch 980	Loss 232.88771057128906	 model scope_year_sel_13_07_2026_10:01:47
+Epoch 920	Loss 232.36219787597656	 model scope_year_sel_13_07_2026_10:27:38
+Epoch 940	Loss 233.58546447753906	 model scope_year_sel_13_07_2026_10:27:38
+Epoch 960	Loss 234.204833984375	 model scope_year_sel_13_07_2026_10:27:38
+Epoch 980	Loss 231.0017852783203	 model scope_year_sel_13_07_2026_10:27:38
 CMD[test]: python time_proj_tdns_scope.py -name scope_year_test -margin 10 -l2 0.00 -neg_sample 5 -gpu  -batch 2500 -seed 1234 -epoch 1000 -test_freq 100 -data_type yago -version large
 here in main
 WARNING:tensorflow:From /__w/tkge-benchmark/tkge-benchmark/repos/HyTE/time_proj_tdns_scope.py:666: The name tf.set_random_seed is deprecated. Please use tf.compat.v1.set_random_seed instead.
@@ -154,93 +154,93 @@ WARNING:tensorflow:From /__w/tkge-benchmark/tkge-benchmark/repos/HyTE/time_proj_
 
 WARNING:tensorflow:From /__w/tkge-benchmark/tkge-benchmark/repos/HyTE/time_proj_tdns_scope.py:674: The name tf.Session is deprecated. Please use tf.compat.v1.Session instead.
 
-2026-07-13 10:03:14.939963: I tensorflow/core/platform/cpu_feature_guard.cc:142] Your CPU supports instructions that this TensorFlow binary was not compiled to use: AVX2 AVX512F FMA
-2026-07-13 10:03:14.943528: I tensorflow/core/platform/profile_utils/cpu_utils.cc:94] CPU Frequency: 2299995000 Hz
-2026-07-13 10:03:14.943736: I tensorflow/compiler/xla/service/service.cc:168] XLA service 0x55cf03155250 initialized for platform Host (this does not guarantee that XLA will be used). Devices:
-2026-07-13 10:03:14.943771: I tensorflow/compiler/xla/service/service.cc:176]   StreamExecutor device (0): Host, Default Version
+2026-07-13 10:29:06.372196: I tensorflow/core/platform/cpu_feature_guard.cc:142] Your CPU supports instructions that this TensorFlow binary was not compiled to use: AVX2 FMA
+2026-07-13 10:29:06.376093: I tensorflow/core/platform/profile_utils/cpu_utils.cc:94] CPU Frequency: 2445430000 Hz
+2026-07-13 10:29:06.376405: I tensorflow/compiler/xla/service/service.cc:168] XLA service 0x56075ef0c120 initialized for platform Host (this does not guarantee that XLA will be used). Devices:
+2026-07-13 10:29:06.376429: I tensorflow/compiler/xla/service/service.cc:176]   StreamExecutor device (0): Host, Default Version
 WARNING:tensorflow:From /__w/tkge-benchmark/tkge-benchmark/repos/HyTE/time_proj_tdns_scope.py:675: The name tf.global_variables_initializer is deprecated. Please use tf.compat.v1.global_variables_initializer instead.
 
 enter fitting
 WARNING:tensorflow:From /__w/tkge-benchmark/tkge-benchmark/repos/HyTE/time_proj_tdns_scope.py:561: The name tf.train.Saver is deprecated. Please use tf.compat.v1.train.Saver instead.
 
 start fitting
-Epoch 0	Loss 25239.677734375	 model scope_year_test_13_07_2026_10:03:14
-Epoch 20	Loss 22387.259765625	 model scope_year_test_13_07_2026_10:03:14
-Epoch 40	Loss 19726.103515625	 model scope_year_test_13_07_2026_10:03:14
-Epoch 60	Loss 17110.744140625	 model scope_year_test_13_07_2026_10:03:14
-Epoch 80	Loss 14488.296875	 model scope_year_test_13_07_2026_10:03:14
-Epoch 100	Loss 12456.2626953125	 model scope_year_test_13_07_2026_10:03:14
+Epoch 0	Loss 25239.677734375	 model scope_year_test_13_07_2026_10:29:05
+Epoch 20	Loss 22387.259765625	 model scope_year_test_13_07_2026_10:29:05
+Epoch 40	Loss 19726.20703125	 model scope_year_test_13_07_2026_10:29:05
+Epoch 60	Loss 17111.09765625	 model scope_year_test_13_07_2026_10:29:05
+Epoch 80	Loss 14488.115234375	 model scope_year_test_13_07_2026_10:29:05
+Epoch 100	Loss 12453.7392578125	 model scope_year_test_13_07_2026_10:29:05
 0. no of valid_triples complete
 Validation Ended
-Epoch 120	Loss 11038.9609375	 model scope_year_test_13_07_2026_10:03:14
-Epoch 140	Loss 9828.8046875	 model scope_year_test_13_07_2026_10:03:14
-Epoch 160	Loss 8807.4482421875	 model scope_year_test_13_07_2026_10:03:14
-Epoch 180	Loss 7549.4462890625	 model scope_year_test_13_07_2026_10:03:14
-Epoch 200	Loss 6078.89501953125	 model scope_year_test_13_07_2026_10:03:14
+Epoch 120	Loss 11027.9541015625	 model scope_year_test_13_07_2026_10:29:05
+Epoch 140	Loss 9820.8369140625	 model scope_year_test_13_07_2026_10:29:05
+Epoch 160	Loss 8807.443359375	 model scope_year_test_13_07_2026_10:29:05
+Epoch 180	Loss 7558.3017578125	 model scope_year_test_13_07_2026_10:29:05
+Epoch 200	Loss 6081.0400390625	 model scope_year_test_13_07_2026_10:29:05
 0. no of valid_triples complete
 Validation Ended
-Epoch 220	Loss 4804.6904296875	 model scope_year_test_13_07_2026_10:03:14
-Epoch 240	Loss 3864.194580078125	 model scope_year_test_13_07_2026_10:03:14
-Epoch 260	Loss 3114.404296875	 model scope_year_test_13_07_2026_10:03:14
-Epoch 280	Loss 2499.52099609375	 model scope_year_test_13_07_2026_10:03:14
-Epoch 300	Loss 2008.20703125	 model scope_year_test_13_07_2026_10:03:14
+Epoch 220	Loss 4802.9150390625	 model scope_year_test_13_07_2026_10:29:05
+Epoch 240	Loss 3866.01318359375	 model scope_year_test_13_07_2026_10:29:05
+Epoch 260	Loss 3116.732666015625	 model scope_year_test_13_07_2026_10:29:05
+Epoch 280	Loss 2501.28369140625	 model scope_year_test_13_07_2026_10:29:05
+Epoch 300	Loss 2010.5045166015625	 model scope_year_test_13_07_2026_10:29:05
 0. no of valid_triples complete
 Validation Ended
-Epoch 320	Loss 1665.0938720703125	 model scope_year_test_13_07_2026_10:03:14
-Epoch 340	Loss 1398.3353271484375	 model scope_year_test_13_07_2026_10:03:14
-Epoch 360	Loss 1237.097900390625	 model scope_year_test_13_07_2026_10:03:14
-Epoch 380	Loss 1071.1905517578125	 model scope_year_test_13_07_2026_10:03:14
-Epoch 400	Loss 957.5079956054688	 model scope_year_test_13_07_2026_10:03:14
+Epoch 320	Loss 1666.975830078125	 model scope_year_test_13_07_2026_10:29:05
+Epoch 340	Loss 1398.041259765625	 model scope_year_test_13_07_2026_10:29:05
+Epoch 360	Loss 1236.037353515625	 model scope_year_test_13_07_2026_10:29:05
+Epoch 380	Loss 1068.44970703125	 model scope_year_test_13_07_2026_10:29:05
+Epoch 400	Loss 956.6178588867188	 model scope_year_test_13_07_2026_10:29:05
 0. no of valid_triples complete
 Validation Ended
-Epoch 420	Loss 845.4827880859375	 model scope_year_test_13_07_2026_10:03:14
-Epoch 440	Loss 780.8829956054688	 model scope_year_test_13_07_2026_10:03:14
-Epoch 460	Loss 706.6522827148438	 model scope_year_test_13_07_2026_10:03:14
-Epoch 480	Loss 656.9420776367188	 model scope_year_test_13_07_2026_10:03:14
-Epoch 500	Loss 599.1209716796875	 model scope_year_test_13_07_2026_10:03:14
+Epoch 420	Loss 845.5064086914062	 model scope_year_test_13_07_2026_10:29:05
+Epoch 440	Loss 779.7574462890625	 model scope_year_test_13_07_2026_10:29:05
+Epoch 460	Loss 706.0239868164062	 model scope_year_test_13_07_2026_10:29:05
+Epoch 480	Loss 656.6310424804688	 model scope_year_test_13_07_2026_10:29:05
+Epoch 500	Loss 599.9932250976562	 model scope_year_test_13_07_2026_10:29:05
 0. no of valid_triples complete
 Validation Ended
-Epoch 520	Loss 559.6138916015625	 model scope_year_test_13_07_2026_10:03:14
-Epoch 540	Loss 513.555419921875	 model scope_year_test_13_07_2026_10:03:14
-Epoch 560	Loss 484.2101135253906	 model scope_year_test_13_07_2026_10:03:14
-Epoch 580	Loss 443.5751953125	 model scope_year_test_13_07_2026_10:03:14
-Epoch 600	Loss 425.7961120605469	 model scope_year_test_13_07_2026_10:03:14
+Epoch 520	Loss 561.7587890625	 model scope_year_test_13_07_2026_10:29:05
+Epoch 540	Loss 517.685546875	 model scope_year_test_13_07_2026_10:29:05
+Epoch 560	Loss 489.31866455078125	 model scope_year_test_13_07_2026_10:29:05
+Epoch 580	Loss 447.29150390625	 model scope_year_test_13_07_2026_10:29:05
+Epoch 600	Loss 427.4660949707031	 model scope_year_test_13_07_2026_10:29:05
 0. no of valid_triples complete
 Validation Ended
-Epoch 620	Loss 402.87677001953125	 model scope_year_test_13_07_2026_10:03:14
-Epoch 640	Loss 374.508544921875	 model scope_year_test_13_07_2026_10:03:14
-Epoch 660	Loss 365.2855529785156	 model scope_year_test_13_07_2026_10:03:14
-Epoch 680	Loss 346.5268859863281	 model scope_year_test_13_07_2026_10:03:14
-Epoch 700	Loss 334.1091613769531	 model scope_year_test_13_07_2026_10:03:14
+Epoch 620	Loss 402.6423645019531	 model scope_year_test_13_07_2026_10:29:05
+Epoch 640	Loss 373.30859375	 model scope_year_test_13_07_2026_10:29:05
+Epoch 660	Loss 363.21685791015625	 model scope_year_test_13_07_2026_10:29:05
+Epoch 680	Loss 344.5890197753906	 model scope_year_test_13_07_2026_10:29:05
+Epoch 700	Loss 330.94073486328125	 model scope_year_test_13_07_2026_10:29:05
 0. no of valid_triples complete
 Validation Ended
-Epoch 720	Loss 319.6293029785156	 model scope_year_test_13_07_2026_10:03:14
-Epoch 740	Loss 312.8133850097656	 model scope_year_test_13_07_2026_10:03:14
-Epoch 760	Loss 296.6887512207031	 model scope_year_test_13_07_2026_10:03:14
-Epoch 780	Loss 291.0573425292969	 model scope_year_test_13_07_2026_10:03:14
-Epoch 800	Loss 262.76641845703125	 model scope_year_test_13_07_2026_10:03:14
+Epoch 720	Loss 316.07672119140625	 model scope_year_test_13_07_2026_10:29:05
+Epoch 740	Loss 311.3191223144531	 model scope_year_test_13_07_2026_10:29:05
+Epoch 760	Loss 294.5000915527344	 model scope_year_test_13_07_2026_10:29:05
+Epoch 780	Loss 289.6678466796875	 model scope_year_test_13_07_2026_10:29:05
+Epoch 800	Loss 260.7008056640625	 model scope_year_test_13_07_2026_10:29:05
 0. no of valid_triples complete
 Validation Ended
-Epoch 820	Loss 278.89764404296875	 model scope_year_test_13_07_2026_10:03:14
-Epoch 840	Loss 271.8414306640625	 model scope_year_test_13_07_2026_10:03:14
-Epoch 860	Loss 258.1778869628906	 model scope_year_test_13_07_2026_10:03:14
-Epoch 880	Loss 256.1916198730469	 model scope_year_test_13_07_2026_10:03:14
-Epoch 900	Loss 252.75611877441406	 model scope_year_test_13_07_2026_10:03:14
+Epoch 820	Loss 276.4772644042969	 model scope_year_test_13_07_2026_10:29:05
+Epoch 840	Loss 269.6133728027344	 model scope_year_test_13_07_2026_10:29:05
+Epoch 860	Loss 255.8517608642578	 model scope_year_test_13_07_2026_10:29:05
+Epoch 880	Loss 253.8875274658203	 model scope_year_test_13_07_2026_10:29:05
+Epoch 900	Loss 250.81895446777344	 model scope_year_test_13_07_2026_10:29:05
 0. no of valid_triples complete
 Validation Ended
-Epoch 920	Loss 234.05885314941406	 model scope_year_test_13_07_2026_10:03:14
-Epoch 940	Loss 235.43162536621094	 model scope_year_test_13_07_2026_10:03:14
-Epoch 960	Loss 235.666015625	 model scope_year_test_13_07_2026_10:03:14
-Epoch 980	Loss 232.88771057128906	 model scope_year_test_13_07_2026_10:03:14
-scope_year_sel_13_07_2026_10:01:47
-Epoch 100 :  time_rank 4.086294416243655
-Epoch 200 :  time_rank 4.309644670050761
-Epoch 300 :  time_rank 4.5126903553299496
-Epoch 400 :  time_rank 4.482233502538071
-Epoch 500 :  time_rank 4.401015228426396
-Epoch 600 :  time_rank 4.370558375634518
+Epoch 920	Loss 232.36219787597656	 model scope_year_test_13_07_2026_10:29:05
+Epoch 940	Loss 233.58546447753906	 model scope_year_test_13_07_2026_10:29:05
+Epoch 960	Loss 234.204833984375	 model scope_year_test_13_07_2026_10:29:05
+Epoch 980	Loss 231.0017852783203	 model scope_year_test_13_07_2026_10:29:05
+scope_year_sel_13_07_2026_10:27:38
+Epoch 100 :  time_rank 4.096446700507614
+Epoch 200 :  time_rank 4.32994923857868
+Epoch 300 :  time_rank 4.50253807106599
+Epoch 400 :  time_rank 4.461928934010152
+Epoch 500 :  time_rank 4.3908629441624365
+Epoch 600 :  time_rank 4.385786802030457
 Epoch 700 :  time_rank 4.3604060913705585
-Epoch 800 :  time_rank 4.289340101522843
-Epoch 900 :  time_rank 4.299492385786802
-BEST_EPOCH=100 SEL_MEAN_RANK(0-based)=4.086294416243655
-ckpt sha256 sel=0d3112f6592b2533be4a0751230f5ec7064dbfb37ac27a76778359c742d90d33 test=0d3112f6592b2533be4a0751230f5ec7064dbfb37ac27a76778359c742d90d33 match=true
+Epoch 800 :  time_rank 4.299492385786802
+Epoch 900 :  time_rank 4.304568527918781
+BEST_EPOCH=100 SEL_MEAN_RANK(0-based)=4.096446700507614
+ckpt sha256 sel=3531c6079c9c987f199ffcfa554ec1966efbe96a9f7a3f2542002e9aa442128d test=3531c6079c9c987f199ffcfa554ec1966efbe96a9f7a3f2542002e9aa442128d match=true
