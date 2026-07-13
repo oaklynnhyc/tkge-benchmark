@@ -5,3 +5,5 @@ scipy
 pandas
 scikit-learn
 requests  # imported by repo's helper.py
+
+matplotlib  # imported by time_proj_tdns_scope.py (scoping entry point)
