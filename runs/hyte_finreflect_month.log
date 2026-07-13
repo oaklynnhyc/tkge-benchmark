@@ -1,4 +1,4 @@
-CMD: python /__w/tkge-benchmark/tkge-benchmark/repos/HyTE/time_proj.py -name hyte_finreflect_month -margin 10 -l2 0.00 -neg_sample 5 -gpu  -epoch 100 -test_freq 50 -batch 2500 -data_type yago -version large
+CMD: python /__w/tkge-benchmark/tkge-benchmark/repos/HyTE/time_proj.py -name hyte_finreflect_month -margin 10 -l2 0.00 -neg_sample 5 -gpu  -epoch 1000 -test_freq 100 -batch 2500 -data_type yago -version large
 here in main
 WARNING:tensorflow:From /__w/tkge-benchmark/tkge-benchmark/repos/HyTE/time_proj.py:590: The name tf.set_random_seed is deprecated. Please use tf.compat.v1.set_random_seed instead.
 
@@ -37,10 +37,10 @@ WARNING:tensorflow:From /__w/tkge-benchmark/tkge-benchmark/repos/HyTE/time_proj.
 
 WARNING:tensorflow:From /__w/tkge-benchmark/tkge-benchmark/repos/HyTE/time_proj.py:598: The name tf.Session is deprecated. Please use tf.compat.v1.Session instead.
 
-2026-07-13 09:58:15.953279: I tensorflow/core/platform/cpu_feature_guard.cc:142] Your CPU supports instructions that this TensorFlow binary was not compiled to use: AVX2 FMA
-2026-07-13 09:58:15.957234: I tensorflow/core/platform/profile_utils/cpu_utils.cc:94] CPU Frequency: 2445425000 Hz
-2026-07-13 09:58:15.957545: I tensorflow/compiler/xla/service/service.cc:168] XLA service 0x560e3e9c2f80 initialized for platform Host (this does not guarantee that XLA will be used). Devices:
-2026-07-13 09:58:15.957573: I tensorflow/compiler/xla/service/service.cc:176]   StreamExecutor device (0): Host, Default Version
+2026-07-13 10:01:33.951013: I tensorflow/core/platform/cpu_feature_guard.cc:142] Your CPU supports instructions that this TensorFlow binary was not compiled to use: AVX2 FMA
+2026-07-13 10:01:33.954935: I tensorflow/core/platform/profile_utils/cpu_utils.cc:94] CPU Frequency: 2445430000 Hz
+2026-07-13 10:01:33.955290: I tensorflow/compiler/xla/service/service.cc:168] XLA service 0x560591f28520 initialized for platform Host (this does not guarantee that XLA will be used). Devices:
+2026-07-13 10:01:33.955320: I tensorflow/compiler/xla/service/service.cc:176]   StreamExecutor device (0): Host, Default Version
 WARNING:tensorflow:From /__w/tkge-benchmark/tkge-benchmark/repos/HyTE/time_proj.py:599: The name tf.global_variables_initializer is deprecated. Please use tf.compat.v1.global_variables_initializer instead.
 
 enter fitting
@@ -49,16 +49,90 @@ WARNING:tensorflow:From /__w/tkge-benchmark/tkge-benchmark/repos/HyTE/time_proj.
 start fitting
 Epoch 0	Loss 25052.486328125	 model hyte_finreflect_month
 Epoch 50	Loss 16313.9072265625	 model hyte_finreflect_month
+Epoch 100	Loss 8679.615234375	 model hyte_finreflect_month
 0. no of valid_triples complete
 Validation Ended
+Epoch 150	Loss 4975.73388671875	 model hyte_finreflect_month
+Epoch 200	Loss 3036.569091796875	 model hyte_finreflect_month
+0. no of valid_triples complete
+Validation Ended
+Epoch 250	Loss 2129.89697265625	 model hyte_finreflect_month
+Epoch 300	Loss 1610.0574951171875	 model hyte_finreflect_month
+0. no of valid_triples complete
+Validation Ended
+Epoch 350	Loss 1207.2276611328125	 model hyte_finreflect_month
+Epoch 400	Loss 831.5276489257812	 model hyte_finreflect_month
+0. no of valid_triples complete
+Validation Ended
+Epoch 450	Loss 541.76318359375	 model hyte_finreflect_month
+Epoch 500	Loss 353.4544372558594	 model hyte_finreflect_month
+0. no of valid_triples complete
+Validation Ended
+Epoch 550	Loss 230.40968322753906	 model hyte_finreflect_month
+Epoch 600	Loss 147.17837524414062	 model hyte_finreflect_month
+0. no of valid_triples complete
+Validation Ended
+Epoch 650	Loss 87.67015838623047	 model hyte_finreflect_month
+Epoch 700	Loss 56.429954528808594	 model hyte_finreflect_month
+0. no of valid_triples complete
+Validation Ended
+Epoch 750	Loss 33.3147087097168	 model hyte_finreflect_month
+Epoch 800	Loss 19.47114372253418	 model hyte_finreflect_month
+0. no of valid_triples complete
+Validation Ended
+Epoch 850	Loss 10.861088752746582	 model hyte_finreflect_month
+Epoch 900	Loss 7.062885284423828	 model hyte_finreflect_month
+0. no of valid_triples complete
+Validation Ended
+Epoch 950	Loss 4.3504133224487305	 model hyte_finreflect_month
 hyte_finreflect_month
-Epoch 50 : valid_tail rank 764.6142131979695	 valid_head rank 104.40609137055837
-Epoch 50 : valid_tail HIT@10 4.060913705583756	 valid_head HIT@!) 64.46700507614213
+Epoch 100 : valid_tail rank 750.269035532995	 valid_head rank 81.3756345177665
+Epoch 100 : valid_tail HIT@10 4.060913705583756	 valid_head HIT@!) 64.9746192893401
 ------------------------------------------
-Best Validation Epoch till now Epoch 50, tail rank: 764.6142131979695, head rank: 104.40609137055837
+Best Validation Epoch till now Epoch 100, tail rank: 750.269035532995, head rank: 81.3756345177665
 ------------------------------------------
-BEST_VALID_EPOCH=50
-CMD: python /__w/tkge-benchmark/tkge-benchmark/repos/HyTE/time_proj.py -res_epoch 50 -onlyTest -restore -name hyte_finreflect_month -margin 10 -l2 0.00 -neg_sample 5 -gpu  -batch 2500 -data_type yago -version large
+Epoch 200 : valid_tail rank 734.015228426396	 valid_head rank 60.60406091370558
+Epoch 200 : valid_tail HIT@10 5.0761421319796955	 valid_head HIT@!) 57.868020304568525
+------------------------------------------
+Best Validation Epoch till now Epoch 200, tail rank: 734.015228426396, head rank: 60.60406091370558
+------------------------------------------
+Epoch 300 : valid_tail rank 705.5837563451777	 valid_head rank 58.390862944162436
+Epoch 300 : valid_tail HIT@10 5.0761421319796955	 valid_head HIT@!) 58.37563451776649
+------------------------------------------
+Best Validation Epoch till now Epoch 300, tail rank: 705.5837563451777, head rank: 58.390862944162436
+------------------------------------------
+Epoch 400 : valid_tail rank 680.1725888324873	 valid_head rank 64.56852791878173
+Epoch 400 : valid_tail HIT@10 5.0761421319796955	 valid_head HIT@!) 62.43654822335025
+------------------------------------------
+Best Validation Epoch till now Epoch 400, tail rank: 680.1725888324873, head rank: 64.56852791878173
+------------------------------------------
+Epoch 500 : valid_tail rank 658.0913705583756	 valid_head rank 78.69543147208122
+Epoch 500 : valid_tail HIT@10 5.0761421319796955	 valid_head HIT@!) 60.40609137055838
+------------------------------------------
+Best Validation Epoch till now Epoch 500, tail rank: 658.0913705583756, head rank: 78.69543147208122
+------------------------------------------
+Epoch 600 : valid_tail rank 646.8274111675127	 valid_head rank 86.49746192893402
+Epoch 600 : valid_tail HIT@10 5.583756345177665	 valid_head HIT@!) 60.40609137055838
+------------------------------------------
+Best Validation Epoch till now Epoch 600, tail rank: 646.8274111675127, head rank: 86.49746192893402
+------------------------------------------
+Epoch 700 : valid_tail rank 643.3654822335026	 valid_head rank 92.91878172588832
+Epoch 700 : valid_tail HIT@10 5.583756345177665	 valid_head HIT@!) 59.390862944162436
+------------------------------------------
+Best Validation Epoch till now Epoch 600, tail rank: 646.8274111675127, head rank: 86.49746192893402
+------------------------------------------
+Epoch 800 : valid_tail rank 642.0406091370559	 valid_head rank 97.11675126903553
+Epoch 800 : valid_tail HIT@10 6.598984771573605	 valid_head HIT@!) 57.868020304568525
+------------------------------------------
+Best Validation Epoch till now Epoch 600, tail rank: 646.8274111675127, head rank: 86.49746192893402
+------------------------------------------
+Epoch 900 : valid_tail rank 641.9086294416244	 valid_head rank 99.5228426395939
+Epoch 900 : valid_tail HIT@10 7.1065989847715745	 valid_head HIT@!) 57.360406091370564
+------------------------------------------
+Best Validation Epoch till now Epoch 600, tail rank: 646.8274111675127, head rank: 86.49746192893402
+------------------------------------------
+BEST_VALID_EPOCH=600
+CMD: python /__w/tkge-benchmark/tkge-benchmark/repos/HyTE/time_proj.py -res_epoch 600 -onlyTest -restore -name hyte_finreflect_month -margin 10 -l2 0.00 -neg_sample 5 -gpu  -batch 2500 -data_type yago -version large
 here in main
 WARNING:tensorflow:From /__w/tkge-benchmark/tkge-benchmark/repos/HyTE/time_proj.py:590: The name tf.set_random_seed is deprecated. Please use tf.compat.v1.set_random_seed instead.
 
@@ -97,10 +171,10 @@ WARNING:tensorflow:From /__w/tkge-benchmark/tkge-benchmark/repos/HyTE/time_proj.
 
 WARNING:tensorflow:From /__w/tkge-benchmark/tkge-benchmark/repos/HyTE/time_proj.py:598: The name tf.Session is deprecated. Please use tf.compat.v1.Session instead.
 
-2026-07-13 09:58:27.919648: I tensorflow/core/platform/cpu_feature_guard.cc:142] Your CPU supports instructions that this TensorFlow binary was not compiled to use: AVX2 FMA
-2026-07-13 09:58:27.923448: I tensorflow/core/platform/profile_utils/cpu_utils.cc:94] CPU Frequency: 2445425000 Hz
-2026-07-13 09:58:27.923766: I tensorflow/compiler/xla/service/service.cc:168] XLA service 0x55a067add010 initialized for platform Host (this does not guarantee that XLA will be used). Devices:
-2026-07-13 09:58:27.923792: I tensorflow/compiler/xla/service/service.cc:176]   StreamExecutor device (0): Host, Default Version
+2026-07-13 10:03:04.126271: I tensorflow/core/platform/cpu_feature_guard.cc:142] Your CPU supports instructions that this TensorFlow binary was not compiled to use: AVX2 FMA
+2026-07-13 10:03:04.130100: I tensorflow/core/platform/profile_utils/cpu_utils.cc:94] CPU Frequency: 2445430000 Hz
+2026-07-13 10:03:04.130427: I tensorflow/compiler/xla/service/service.cc:168] XLA service 0x5596dd524030 initialized for platform Host (this does not guarantee that XLA will be used). Devices:
+2026-07-13 10:03:04.130455: I tensorflow/compiler/xla/service/service.cc:176]   StreamExecutor device (0): Host, Default Version
 WARNING:tensorflow:From /__w/tkge-benchmark/tkge-benchmark/repos/HyTE/time_proj.py:599: The name tf.global_variables_initializer is deprecated. Please use tf.compat.v1.global_variables_initializer instead.
 
 enter fitting
