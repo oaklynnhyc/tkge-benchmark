@@ -42,8 +42,8 @@ jobs:
         run: python scripts/ci/aggregate.py
       - name: Commit results back
         run: |
-          git config user.name "tkge-benchmark-ci"
-          git config user.email "ci@users.noreply.github.com"
+          git config user.name "oaklynnhyc"
+          git config user.email "218784285+oaklynnhyc@users.noreply.github.com"
           git stash -u || true
           git pull --rebase origin ${{ github.ref_name }}
           git stash pop || true
