@@ -16,765 +16,765 @@ Epoch-1
 ————————————————
 /home/runner/work/tkge-benchmark/tkge-benchmark/repos/ATISE/model.py:121: UserWarning: Implicit dimension choice for softmax has been deprecated. Change the call to include dim=X as an argument.
   p = F.softmax(temp * y_neg)
-Iter-0; loss: 53.4764;time per batch:0.1228s
+Iter-0; loss: 53.4764;time per batch:0.1523s
 Epoch-2
 ————————————————
-Iter-0; loss: 5.4878;time per batch:0.0773s
+Iter-0; loss: 5.4878;time per batch:0.1077s
 Epoch-3
 ————————————————
-Iter-0; loss: 3.3434;time per batch:0.0770s
+Iter-0; loss: 3.3409;time per batch:0.1021s
 Epoch-4
 ————————————————
-Iter-0; loss: 1.8611;time per batch:0.0796s
+Iter-0; loss: 1.8486;time per batch:0.0968s
 Epoch-5
 ————————————————
-Iter-0; loss: 1.5582;time per batch:0.0763s
+Iter-0; loss: 1.5587;time per batch:0.0962s
 Epoch-6
 ————————————————
-Iter-0; loss: 1.4813;time per batch:0.0762s
+Iter-0; loss: 1.5082;time per batch:0.0963s
 Epoch-7
 ————————————————
-Iter-0; loss: 1.2303;time per batch:0.0777s
+Iter-0; loss: 1.2318;time per batch:0.0953s
 Epoch-8
 ————————————————
-Iter-0; loss: 1.1061;time per batch:0.0739s
+Iter-0; loss: 1.1269;time per batch:0.0970s
 Epoch-9
 ————————————————
-Iter-0; loss: 1.1264;time per batch:0.0805s
+Iter-0; loss: 1.1097;time per batch:0.0965s
 Epoch-10
 ————————————————
-Iter-0; loss: 1.0473;time per batch:0.0811s
+Iter-0; loss: 1.0174;time per batch:0.0975s
 Epoch-11
 ————————————————
-Iter-0; loss: 0.8098;time per batch:0.0755s
+Iter-0; loss: 0.8208;time per batch:0.0959s
 Epoch-12
 ————————————————
-Iter-0; loss: 0.7027;time per batch:0.0738s
+Iter-0; loss: 0.6819;time per batch:0.0985s
 Epoch-13
 ————————————————
-Iter-0; loss: 0.8868;time per batch:0.0819s
+Iter-0; loss: 0.8926;time per batch:0.0953s
 Epoch-14
 ————————————————
-Iter-0; loss: 0.8352;time per batch:0.0771s
+Iter-0; loss: 0.8260;time per batch:0.0955s
 Epoch-15
 ————————————————
-Iter-0; loss: 0.8147;time per batch:0.0772s
+Iter-0; loss: 0.8362;time per batch:0.1000s
 Epoch-16
 ————————————————
-Iter-0; loss: 0.7809;time per batch:0.0775s
+Iter-0; loss: 0.8167;time per batch:0.0961s
 Epoch-17
 ————————————————
-Iter-0; loss: 0.7390;time per batch:0.0774s
+Iter-0; loss: 0.7530;time per batch:0.0983s
 Epoch-18
 ————————————————
-Iter-0; loss: 0.8624;time per batch:0.0761s
+Iter-0; loss: 0.8055;time per batch:0.0977s
 Epoch-19
 ————————————————
-Iter-0; loss: 0.8860;time per batch:0.0800s
+Iter-0; loss: 0.8549;time per batch:0.0960s
 Epoch-20
 ————————————————
-Iter-0; loss: 0.7190;time per batch:0.0817s
+Iter-0; loss: 0.6911;time per batch:0.1007s
 Epoch-21
 ————————————————
-Iter-0; loss: 0.7852;time per batch:0.0832s
+Iter-0; loss: 0.8007;time per batch:0.1021s
 Epoch-22
 ————————————————
-Iter-0; loss: 0.6789;time per batch:0.0793s
+Iter-0; loss: 0.6821;time per batch:0.0956s
 Epoch-23
 ————————————————
-Iter-0; loss: 0.7622;time per batch:0.0805s
+Iter-0; loss: 0.7715;time per batch:0.0954s
 Epoch-24
 ————————————————
-Iter-0; loss: 0.7367;time per batch:0.0868s
+Iter-0; loss: 0.7333;time per batch:0.0957s
 Epoch-25
 ————————————————
-Iter-0; loss: 0.8525;time per batch:0.0870s
+Iter-0; loss: 0.8189;time per batch:0.0940s
 Epoch-26
 ————————————————
-Iter-0; loss: 0.6491;time per batch:0.0859s
+Iter-0; loss: 0.7696;time per batch:0.0974s
 Epoch-27
 ————————————————
-Iter-0; loss: 0.6474;time per batch:0.0792s
+Iter-0; loss: 0.6437;time per batch:0.1331s
 Epoch-28
 ————————————————
-Iter-0; loss: 0.8174;time per batch:0.0805s
+Iter-0; loss: 0.8461;time per batch:0.1015s
 Epoch-29
 ————————————————
-Iter-0; loss: 0.6564;time per batch:0.0810s
+Iter-0; loss: 0.6596;time per batch:0.1044s
 Epoch-30
 ————————————————
-Iter-0; loss: 0.6360;time per batch:0.0855s
+Iter-0; loss: 0.5679;time per batch:0.1024s
 Epoch-31
 ————————————————
-Iter-0; loss: 0.6950;time per batch:0.0795s
+Iter-0; loss: 0.7359;time per batch:0.1029s
 Epoch-32
 ————————————————
-Iter-0; loss: 0.7225;time per batch:0.0811s
+Iter-0; loss: 0.7340;time per batch:0.0958s
 Epoch-33
 ————————————————
-Iter-0; loss: 0.8031;time per batch:0.0855s
+Iter-0; loss: 0.8211;time per batch:0.1053s
 Epoch-34
 ————————————————
-Iter-0; loss: 0.7676;time per batch:0.0838s
+Iter-0; loss: 0.8136;time per batch:0.1107s
 Epoch-35
 ————————————————
-Iter-0; loss: 0.7522;time per batch:0.0792s
+Iter-0; loss: 0.7696;time per batch:0.0970s
 Epoch-36
 ————————————————
-Iter-0; loss: 0.5780;time per batch:0.0768s
+Iter-0; loss: 0.5611;time per batch:0.1031s
 Epoch-37
 ————————————————
-Iter-0; loss: 0.6258;time per batch:0.0775s
+Iter-0; loss: 0.6130;time per batch:0.0969s
 Epoch-38
 ————————————————
-Iter-0; loss: 0.5986;time per batch:0.0803s
+Iter-0; loss: 0.6005;time per batch:0.0982s
 Epoch-39
 ————————————————
-Iter-0; loss: 0.6480;time per batch:0.0775s
+Iter-0; loss: 0.6477;time per batch:0.0957s
 Epoch-40
 ————————————————
-Iter-0; loss: 0.5469;time per batch:0.0771s
+Iter-0; loss: 0.5474;time per batch:0.0966s
 Epoch-41
 ————————————————
-Iter-0; loss: 0.4931;time per batch:0.0805s
+Iter-0; loss: 0.4651;time per batch:0.0986s
 Epoch-42
 ————————————————
-Iter-0; loss: 0.5285;time per batch:0.0839s
+Iter-0; loss: 0.5664;time per batch:0.1014s
 Epoch-43
 ————————————————
-Iter-0; loss: 0.6357;time per batch:0.0791s
+Iter-0; loss: 0.6109;time per batch:0.0959s
 Epoch-44
 ————————————————
-Iter-0; loss: 0.6061;time per batch:0.0911s
+Iter-0; loss: 0.5897;time per batch:0.1069s
 Epoch-45
 ————————————————
-Iter-0; loss: 0.6500;time per batch:0.0813s
+Iter-0; loss: 0.6475;time per batch:0.0974s
 Epoch-46
 ————————————————
-Iter-0; loss: 0.5774;time per batch:0.0823s
+Iter-0; loss: 0.5682;time per batch:0.1016s
 Epoch-47
 ————————————————
-Iter-0; loss: 0.5957;time per batch:0.0862s
+Iter-0; loss: 0.5826;time per batch:0.1003s
 Epoch-48
 ————————————————
-Iter-0; loss: 0.4382;time per batch:0.0821s
+Iter-0; loss: 0.4730;time per batch:0.0978s
 Epoch-49
 ————————————————
-Iter-0; loss: 0.5954;time per batch:0.0819s
+Iter-0; loss: 0.5902;time per batch:0.0948s
 Epoch-50
 ————————————————
-Iter-0; loss: 0.5558;time per batch:0.0811s
+Iter-0; loss: 0.5585;time per batch:0.0947s
 Epoch-51
 ————————————————
-Iter-0; loss: 0.6834;time per batch:0.0828s
+Iter-0; loss: 0.6726;time per batch:0.1044s
 Epoch-52
 ————————————————
-Iter-0; loss: 0.6335;time per batch:0.0814s
+Iter-0; loss: 0.6039;time per batch:0.0974s
 Epoch-53
 ————————————————
-Iter-0; loss: 0.6758;time per batch:0.0817s
+Iter-0; loss: 0.6790;time per batch:0.0967s
 Epoch-54
 ————————————————
-Iter-0; loss: 0.5122;time per batch:0.0790s
+Iter-0; loss: 0.5257;time per batch:0.0974s
 Epoch-55
 ————————————————
-Iter-0; loss: 0.7792;time per batch:0.0902s
+Iter-0; loss: 0.7581;time per batch:0.0967s
 Epoch-56
 ————————————————
-Iter-0; loss: 0.6004;time per batch:0.0824s
+Iter-0; loss: 0.6194;time per batch:0.0955s
 Epoch-57
 ————————————————
-Iter-0; loss: 0.6253;time per batch:0.0834s
+Iter-0; loss: 0.5927;time per batch:0.0988s
 Epoch-58
 ————————————————
-Iter-0; loss: 0.4126;time per batch:0.0828s
+Iter-0; loss: 0.4148;time per batch:0.0979s
 Epoch-59
 ————————————————
-Iter-0; loss: 0.4818;time per batch:0.0953s
+Iter-0; loss: 0.4743;time per batch:0.1021s
 Epoch-60
 ————————————————
-Iter-0; loss: 0.5701;time per batch:0.0817s
+Iter-0; loss: 0.5227;time per batch:0.0936s
 Epoch-61
 ————————————————
-Iter-0; loss: 0.6594;time per batch:0.0819s
+Iter-0; loss: 0.6362;time per batch:0.0932s
 Epoch-62
 ————————————————
-Iter-0; loss: 0.6951;time per batch:0.0816s
+Iter-0; loss: 0.7171;time per batch:0.0931s
 Epoch-63
 ————————————————
-Iter-0; loss: 0.5197;time per batch:0.0819s
+Iter-0; loss: 0.5178;time per batch:0.0945s
 Epoch-64
 ————————————————
-Iter-0; loss: 0.5073;time per batch:0.0835s
+Iter-0; loss: 0.5155;time per batch:0.0933s
 Epoch-65
 ————————————————
-Iter-0; loss: 0.4053;time per batch:0.0868s
+Iter-0; loss: 0.4146;time per batch:0.0936s
 Epoch-66
 ————————————————
-Iter-0; loss: 0.5258;time per batch:0.0810s
+Iter-0; loss: 0.5038;time per batch:0.1006s
 Epoch-67
 ————————————————
-Iter-0; loss: 0.6653;time per batch:0.0796s
+Iter-0; loss: 0.6325;time per batch:0.0996s
 Epoch-68
 ————————————————
-Iter-0; loss: 0.5916;time per batch:0.0786s
+Iter-0; loss: 0.5775;time per batch:0.0981s
 Epoch-69
 ————————————————
-Iter-0; loss: 0.5313;time per batch:0.0807s
+Iter-0; loss: 0.5183;time per batch:0.0944s
 Epoch-70
 ————————————————
-Iter-0; loss: 0.4884;time per batch:0.0794s
+Iter-0; loss: 0.4744;time per batch:0.0978s
 Epoch-71
 ————————————————
-Iter-0; loss: 0.5104;time per batch:0.0800s
+Iter-0; loss: 0.5141;time per batch:0.0990s
 Epoch-72
 ————————————————
-Iter-0; loss: 0.5010;time per batch:0.0777s
+Iter-0; loss: 0.5051;time per batch:0.0980s
 Epoch-73
 ————————————————
-Iter-0; loss: 0.5364;time per batch:0.0825s
+Iter-0; loss: 0.5561;time per batch:0.0933s
 Epoch-74
 ————————————————
-Iter-0; loss: 0.4914;time per batch:0.0795s
+Iter-0; loss: 0.4833;time per batch:0.0941s
 Epoch-75
 ————————————————
-Iter-0; loss: 0.4986;time per batch:0.0791s
+Iter-0; loss: 0.4956;time per batch:0.0956s
 Epoch-76
 ————————————————
-Iter-0; loss: 0.5156;time per batch:0.0810s
+Iter-0; loss: 0.5004;time per batch:0.0944s
 Epoch-77
 ————————————————
-Iter-0; loss: 0.4887;time per batch:0.0807s
+Iter-0; loss: 0.4941;time per batch:0.0949s
 Epoch-78
 ————————————————
-Iter-0; loss: 0.6108;time per batch:0.0804s
+Iter-0; loss: 0.6397;time per batch:0.0973s
 Epoch-79
 ————————————————
-Iter-0; loss: 0.3593;time per batch:0.0849s
+Iter-0; loss: 0.3889;time per batch:0.0937s
 Epoch-80
 ————————————————
-Iter-0; loss: 0.5824;time per batch:0.0810s
+Iter-0; loss: 0.5596;time per batch:0.0962s
 Epoch-81
 ————————————————
-Iter-0; loss: 0.6293;time per batch:0.0818s
+Iter-0; loss: 0.6368;time per batch:0.0978s
 Epoch-82
 ————————————————
-Iter-0; loss: 0.5072;time per batch:0.0838s
+Iter-0; loss: 0.5080;time per batch:0.0997s
 Epoch-83
 ————————————————
-Iter-0; loss: 0.4655;time per batch:0.0833s
+Iter-0; loss: 0.4548;time per batch:0.0961s
 Epoch-84
 ————————————————
-Iter-0; loss: 0.4629;time per batch:0.0800s
+Iter-0; loss: 0.4638;time per batch:0.0964s
 Epoch-85
 ————————————————
-Iter-0; loss: 0.4392;time per batch:0.0793s
+Iter-0; loss: 0.4425;time per batch:0.0946s
 Epoch-86
 ————————————————
-Iter-0; loss: 0.5766;time per batch:0.0773s
+Iter-0; loss: 0.5838;time per batch:0.0956s
 Epoch-87
 ————————————————
-Iter-0; loss: 0.4136;time per batch:0.0772s
+Iter-0; loss: 0.4110;time per batch:0.0947s
 Epoch-88
 ————————————————
-Iter-0; loss: 0.4811;time per batch:0.0787s
+Iter-0; loss: 0.4915;time per batch:0.0976s
 Epoch-89
 ————————————————
-Iter-0; loss: 0.5301;time per batch:0.0777s
+Iter-0; loss: 0.5817;time per batch:0.0972s
 Epoch-90
 ————————————————
-Iter-0; loss: 0.4479;time per batch:0.0774s
+Iter-0; loss: 0.4300;time per batch:0.0963s
 Epoch-91
 ————————————————
-Iter-0; loss: 0.4947;time per batch:0.0792s
+Iter-0; loss: 0.4562;time per batch:0.0959s
 Epoch-92
 ————————————————
-Iter-0; loss: 0.3745;time per batch:0.0788s
+Iter-0; loss: 0.3907;time per batch:0.0980s
 Epoch-93
 ————————————————
-Iter-0; loss: 0.5150;time per batch:0.0783s
+Iter-0; loss: 0.4983;time per batch:0.0984s
 Epoch-94
 ————————————————
-Iter-0; loss: 0.3299;time per batch:0.0792s
+Iter-0; loss: 0.3182;time per batch:0.0938s
 Epoch-95
 ————————————————
-Iter-0; loss: 0.5028;time per batch:0.0793s
+Iter-0; loss: 0.5182;time per batch:0.0937s
 Epoch-96
 ————————————————
-Iter-0; loss: 0.4524;time per batch:0.0815s
+Iter-0; loss: 0.4499;time per batch:0.0963s
 Epoch-97
 ————————————————
-Iter-0; loss: 0.4879;time per batch:0.0842s
+Iter-0; loss: 0.4552;time per batch:0.1017s
 Epoch-98
 ————————————————
-Iter-0; loss: 0.6506;time per batch:0.0813s
+Iter-0; loss: 0.6503;time per batch:0.0955s
 Epoch-99
 ————————————————
-Iter-0; loss: 0.3155;time per batch:0.0814s
+Iter-0; loss: 0.3241;time per batch:0.0943s
 Epoch-100
 ————————————————
-Iter-0; loss: 0.4315;time per batch:0.0825s
+Iter-0; loss: 0.4388;time per batch:0.0935s
 Epoch-101
 ————————————————
-Iter-0; loss: 0.4119;time per batch:0.0819s
+Iter-0; loss: 0.3906;time per batch:0.0986s
 Epoch-102
 ————————————————
-Iter-0; loss: 0.5194;time per batch:0.0843s
+Iter-0; loss: 0.5064;time per batch:0.0978s
 Epoch-103
 ————————————————
-Iter-0; loss: 0.4420;time per batch:0.0795s
+Iter-0; loss: 0.4439;time per batch:0.0974s
 Epoch-104
 ————————————————
-Iter-0; loss: 0.4223;time per batch:0.0779s
+Iter-0; loss: 0.4319;time per batch:0.0980s
 Epoch-105
 ————————————————
-Iter-0; loss: 0.4684;time per batch:0.0789s
+Iter-0; loss: 0.4392;time per batch:0.0941s
 Epoch-106
 ————————————————
-Iter-0; loss: 0.4648;time per batch:0.0763s
+Iter-0; loss: 0.4669;time per batch:0.0987s
 Epoch-107
 ————————————————
-Iter-0; loss: 0.5365;time per batch:0.0790s
+Iter-0; loss: 0.5190;time per batch:0.0952s
 Epoch-108
 ————————————————
-Iter-0; loss: 0.4505;time per batch:0.0787s
+Iter-0; loss: 0.4586;time per batch:0.1004s
 Epoch-109
 ————————————————
-Iter-0; loss: 0.5464;time per batch:0.0770s
+Iter-0; loss: 0.5291;time per batch:0.0958s
 Epoch-110
 ————————————————
-Iter-0; loss: 0.4879;time per batch:0.0822s
+Iter-0; loss: 0.5042;time per batch:0.0941s
 Epoch-111
 ————————————————
-Iter-0; loss: 0.3997;time per batch:0.0799s
+Iter-0; loss: 0.4220;time per batch:0.0944s
 Epoch-112
 ————————————————
-Iter-0; loss: 0.3191;time per batch:0.0757s
+Iter-0; loss: 0.3158;time per batch:0.0936s
 Epoch-113
 ————————————————
-Iter-0; loss: 0.4532;time per batch:0.0754s
+Iter-0; loss: 0.4595;time per batch:0.0975s
 Epoch-114
 ————————————————
-Iter-0; loss: 0.4741;time per batch:0.0773s
+Iter-0; loss: 0.4757;time per batch:0.0946s
 Epoch-115
 ————————————————
-Iter-0; loss: 0.4432;time per batch:0.0773s
+Iter-0; loss: 0.4538;time per batch:0.0941s
 Epoch-116
 ————————————————
-Iter-0; loss: 0.4568;time per batch:0.0794s
+Iter-0; loss: 0.4670;time per batch:0.0921s
 Epoch-117
 ————————————————
-Iter-0; loss: 0.4535;time per batch:0.0873s
+Iter-0; loss: 0.4522;time per batch:0.0963s
 Epoch-118
 ————————————————
-Iter-0; loss: 0.4122;time per batch:0.0769s
+Iter-0; loss: 0.4448;time per batch:0.1087s
 Epoch-119
 ————————————————
-Iter-0; loss: 0.5298;time per batch:0.0750s
+Iter-0; loss: 0.5300;time per batch:0.1001s
 Epoch-120
 ————————————————
-Iter-0; loss: 0.5148;time per batch:0.0769s
+Iter-0; loss: 0.5209;time per batch:0.0981s
 Epoch-121
 ————————————————
-Iter-0; loss: 0.3492;time per batch:0.0822s
+Iter-0; loss: 0.3413;time per batch:0.0944s
 Epoch-122
 ————————————————
-Iter-0; loss: 0.3592;time per batch:0.0783s
+Iter-0; loss: 0.3566;time per batch:0.0954s
 Epoch-123
 ————————————————
-Iter-0; loss: 0.4435;time per batch:0.0779s
+Iter-0; loss: 0.4183;time per batch:0.1018s
 Epoch-124
 ————————————————
-Iter-0; loss: 0.3139;time per batch:0.0785s
+Iter-0; loss: 0.3185;time per batch:0.0964s
 Epoch-125
 ————————————————
-Iter-0; loss: 0.3958;time per batch:0.0786s
+Iter-0; loss: 0.3891;time per batch:0.0984s
 Epoch-126
 ————————————————
-Iter-0; loss: 0.3691;time per batch:0.0823s
+Iter-0; loss: 0.3789;time per batch:0.0925s
 Epoch-127
 ————————————————
-Iter-0; loss: 0.3389;time per batch:0.0768s
+Iter-0; loss: 0.3351;time per batch:0.0960s
 Epoch-128
 ————————————————
-Iter-0; loss: 0.3776;time per batch:0.0775s
+Iter-0; loss: 0.3529;time per batch:0.0978s
 Epoch-129
 ————————————————
-Iter-0; loss: 0.4065;time per batch:0.0765s
+Iter-0; loss: 0.4056;time per batch:0.0945s
 Epoch-130
 ————————————————
-Iter-0; loss: 0.5160;time per batch:0.0767s
+Iter-0; loss: 0.5225;time per batch:0.1010s
 Epoch-131
 ————————————————
-Iter-0; loss: 0.2812;time per batch:0.0753s
+Iter-0; loss: 0.2957;time per batch:0.0923s
 Epoch-132
 ————————————————
-Iter-0; loss: 0.4200;time per batch:0.0755s
+Iter-0; loss: 0.4062;time per batch:0.0992s
 Epoch-133
 ————————————————
-Iter-0; loss: 0.3696;time per batch:0.0745s
+Iter-0; loss: 0.3745;time per batch:0.0971s
 Epoch-134
 ————————————————
-Iter-0; loss: 0.3342;time per batch:0.0767s
+Iter-0; loss: 0.3189;time per batch:0.0950s
 Epoch-135
 ————————————————
-Iter-0; loss: 0.3824;time per batch:0.0770s
+Iter-0; loss: 0.3765;time per batch:0.0987s
 Epoch-136
 ————————————————
-Iter-0; loss: 0.4265;time per batch:0.0781s
+Iter-0; loss: 0.4305;time per batch:0.0955s
 Epoch-137
 ————————————————
-Iter-0; loss: 0.5072;time per batch:0.0793s
+Iter-0; loss: 0.5080;time per batch:0.0970s
 Epoch-138
 ————————————————
-Iter-0; loss: 0.3976;time per batch:0.0794s
+Iter-0; loss: 0.3882;time per batch:0.0978s
 Epoch-139
 ————————————————
-Iter-0; loss: 0.3877;time per batch:0.0780s
+Iter-0; loss: 0.3753;time per batch:0.0986s
 Epoch-140
 ————————————————
-Iter-0; loss: 0.3968;time per batch:0.0816s
+Iter-0; loss: 0.4192;time per batch:0.0965s
 Epoch-141
 ————————————————
-Iter-0; loss: 0.3508;time per batch:0.0793s
+Iter-0; loss: 0.3660;time per batch:0.0930s
 Epoch-142
 ————————————————
-Iter-0; loss: 0.4435;time per batch:0.0775s
+Iter-0; loss: 0.4499;time per batch:0.0949s
 Epoch-143
 ————————————————
-Iter-0; loss: 0.3739;time per batch:0.0788s
+Iter-0; loss: 0.3689;time per batch:0.0990s
 Epoch-144
 ————————————————
-Iter-0; loss: 0.2972;time per batch:0.0764s
+Iter-0; loss: 0.2965;time per batch:0.0942s
 Epoch-145
 ————————————————
-Iter-0; loss: 0.4041;time per batch:0.0743s
+Iter-0; loss: 0.4064;time per batch:0.0948s
 Epoch-146
 ————————————————
-Iter-0; loss: 0.3376;time per batch:0.0747s
+Iter-0; loss: 0.3395;time per batch:0.0967s
 Epoch-147
 ————————————————
-Iter-0; loss: 0.3086;time per batch:0.0829s
+Iter-0; loss: 0.2931;time per batch:0.0950s
 Epoch-148
 ————————————————
-Iter-0; loss: 0.4166;time per batch:0.0794s
+Iter-0; loss: 0.4202;time per batch:0.1051s
 Epoch-149
 ————————————————
-Iter-0; loss: 0.3399;time per batch:0.0765s
+Iter-0; loss: 0.3392;time per batch:0.0958s
 Epoch-150
 ————————————————
-Iter-0; loss: 0.4444;time per batch:0.0816s
+Iter-0; loss: 0.4501;time per batch:0.0967s
 Epoch-151
 ————————————————
-Iter-0; loss: 0.3398;time per batch:0.0814s
+Iter-0; loss: 0.3638;time per batch:0.0956s
 Epoch-152
 ————————————————
-Iter-0; loss: 0.2900;time per batch:0.0800s
+Iter-0; loss: 0.3412;time per batch:0.1015s
 Epoch-153
 ————————————————
-Iter-0; loss: 0.2996;time per batch:0.0846s
+Iter-0; loss: 0.3210;time per batch:0.1031s
 Epoch-154
 ————————————————
-Iter-0; loss: 0.3435;time per batch:0.0765s
+Iter-0; loss: 0.3473;time per batch:0.0970s
 Epoch-155
 ————————————————
-Iter-0; loss: 0.3455;time per batch:0.0815s
+Iter-0; loss: 0.3406;time per batch:0.0953s
 Epoch-156
 ————————————————
-Iter-0; loss: 0.3263;time per batch:0.0774s
+Iter-0; loss: 0.3371;time per batch:0.1001s
 Epoch-157
 ————————————————
-Iter-0; loss: 0.3304;time per batch:0.0767s
+Iter-0; loss: 0.3570;time per batch:0.0951s
 Epoch-158
 ————————————————
-Iter-0; loss: 0.4091;time per batch:0.0774s
+Iter-0; loss: 0.4421;time per batch:0.0982s
 Epoch-159
 ————————————————
-Iter-0; loss: 0.3635;time per batch:0.0789s
+Iter-0; loss: 0.3607;time per batch:0.0955s
 Epoch-160
 ————————————————
-Iter-0; loss: 0.3721;time per batch:0.0808s
+Iter-0; loss: 0.3901;time per batch:0.1014s
 Epoch-161
 ————————————————
-Iter-0; loss: 0.4297;time per batch:0.0776s
+Iter-0; loss: 0.4309;time per batch:0.1054s
 Epoch-162
 ————————————————
-Iter-0; loss: 0.3892;time per batch:0.0816s
+Iter-0; loss: 0.3751;time per batch:0.0928s
 Epoch-163
 ————————————————
-Iter-0; loss: 0.3988;time per batch:0.0772s
+Iter-0; loss: 0.4067;time per batch:0.0965s
 Epoch-164
 ————————————————
-Iter-0; loss: 0.3670;time per batch:0.0770s
+Iter-0; loss: 0.3647;time per batch:0.0932s
 Epoch-165
 ————————————————
-Iter-0; loss: 0.4161;time per batch:0.0774s
+Iter-0; loss: 0.4162;time per batch:0.0930s
 Epoch-166
 ————————————————
-Iter-0; loss: 0.4250;time per batch:0.0807s
+Iter-0; loss: 0.4359;time per batch:0.0986s
 Epoch-167
 ————————————————
-Iter-0; loss: 0.4058;time per batch:0.0793s
+Iter-0; loss: 0.4153;time per batch:0.0955s
 Epoch-168
 ————————————————
-Iter-0; loss: 0.3102;time per batch:0.0767s
+Iter-0; loss: 0.3047;time per batch:0.0987s
 Epoch-169
 ————————————————
-Iter-0; loss: 0.2670;time per batch:0.0796s
+Iter-0; loss: 0.2546;time per batch:0.0931s
 Epoch-170
 ————————————————
-Iter-0; loss: 0.3137;time per batch:0.0750s
+Iter-0; loss: 0.3096;time per batch:0.1059s
 Epoch-171
 ————————————————
-Iter-0; loss: 0.3613;time per batch:0.0869s
+Iter-0; loss: 0.3792;time per batch:0.0943s
 Epoch-172
 ————————————————
-Iter-0; loss: 0.3691;time per batch:0.0801s
+Iter-0; loss: 0.3786;time per batch:0.0933s
 Epoch-173
 ————————————————
-Iter-0; loss: 0.3130;time per batch:0.0785s
+Iter-0; loss: 0.3170;time per batch:0.0947s
 Epoch-174
 ————————————————
-Iter-0; loss: 0.3879;time per batch:0.0776s
+Iter-0; loss: 0.3790;time per batch:0.0966s
 Epoch-175
 ————————————————
-Iter-0; loss: 0.3137;time per batch:0.0793s
+Iter-0; loss: 0.3041;time per batch:0.0974s
 Epoch-176
 ————————————————
-Iter-0; loss: 0.3534;time per batch:0.0746s
+Iter-0; loss: 0.3436;time per batch:0.0976s
 Epoch-177
 ————————————————
-Iter-0; loss: 0.3438;time per batch:0.0799s
+Iter-0; loss: 0.3347;time per batch:0.1043s
 Epoch-178
 ————————————————
-Iter-0; loss: 0.3800;time per batch:0.0803s
+Iter-0; loss: 0.3732;time per batch:0.0958s
 Epoch-179
 ————————————————
-Iter-0; loss: 0.3556;time per batch:0.0751s
+Iter-0; loss: 0.3491;time per batch:0.0986s
 Epoch-180
 ————————————————
-Iter-0; loss: 0.3826;time per batch:0.0803s
+Iter-0; loss: 0.3771;time per batch:0.0968s
 Epoch-181
 ————————————————
-Iter-0; loss: 0.4459;time per batch:0.0750s
+Iter-0; loss: 0.4271;time per batch:0.0973s
 Epoch-182
 ————————————————
-Iter-0; loss: 0.3136;time per batch:0.0779s
+Iter-0; loss: 0.3188;time per batch:0.0956s
 Epoch-183
 ————————————————
-Iter-0; loss: 0.3011;time per batch:0.0742s
+Iter-0; loss: 0.2902;time per batch:0.0924s
 Epoch-184
 ————————————————
-Iter-0; loss: 0.3958;time per batch:0.0763s
+Iter-0; loss: 0.3995;time per batch:0.0956s
 Epoch-185
 ————————————————
-Iter-0; loss: 0.3584;time per batch:0.0857s
+Iter-0; loss: 0.3647;time per batch:0.0985s
 Epoch-186
 ————————————————
-Iter-0; loss: 0.3504;time per batch:0.0773s
+Iter-0; loss: 0.3607;time per batch:0.0965s
 Epoch-187
 ————————————————
-Iter-0; loss: 0.3100;time per batch:0.0766s
+Iter-0; loss: 0.3075;time per batch:0.0957s
 Epoch-188
 ————————————————
-Iter-0; loss: 0.3108;time per batch:0.0769s
+Iter-0; loss: 0.3160;time per batch:0.0955s
 Epoch-189
 ————————————————
-Iter-0; loss: 0.3112;time per batch:0.0788s
+Iter-0; loss: 0.3130;time per batch:0.0960s
 Epoch-190
 ————————————————
-Iter-0; loss: 0.2939;time per batch:0.0777s
+Iter-0; loss: 0.2848;time per batch:0.0964s
 Epoch-191
 ————————————————
-Iter-0; loss: 0.2995;time per batch:0.0749s
+Iter-0; loss: 0.2857;time per batch:0.0978s
 Epoch-192
 ————————————————
-Iter-0; loss: 0.3193;time per batch:0.0764s
+Iter-0; loss: 0.3409;time per batch:0.0963s
 Epoch-193
 ————————————————
-Iter-0; loss: 0.3121;time per batch:0.0780s
+Iter-0; loss: 0.3000;time per batch:0.1011s
 Epoch-194
 ————————————————
-Iter-0; loss: 0.3144;time per batch:0.0794s
+Iter-0; loss: 0.3201;time per batch:0.0919s
 Epoch-195
 ————————————————
-Iter-0; loss: 0.3206;time per batch:0.0847s
+Iter-0; loss: 0.3150;time per batch:0.1102s
 Epoch-196
 ————————————————
-Iter-0; loss: 0.3525;time per batch:0.0780s
+Iter-0; loss: 0.3510;time per batch:0.0958s
 Epoch-197
 ————————————————
-Iter-0; loss: 0.3514;time per batch:0.0773s
+Iter-0; loss: 0.3552;time per batch:0.0950s
 Epoch-198
 ————————————————
-Iter-0; loss: 0.3480;time per batch:0.0764s
+Iter-0; loss: 0.3336;time per batch:0.0948s
 Epoch-199
 ————————————————
-Iter-0; loss: 0.4028;time per batch:0.0786s
+Iter-0; loss: 0.4176;time per batch:0.0942s
 Epoch-200
 ————————————————
-Iter-0; loss: 0.3381;time per batch:0.0788s
+Iter-0; loss: 0.3486;time per batch:0.1114s
 Epoch-201
 ————————————————
-Iter-0; loss: 0.2794;time per batch:0.0776s
+Iter-0; loss: 0.3077;time per batch:0.0952s
 Epoch-202
 ————————————————
-Iter-0; loss: 0.3622;time per batch:0.0786s
+Iter-0; loss: 0.3681;time per batch:0.0920s
 Epoch-203
 ————————————————
-Iter-0; loss: 0.3402;time per batch:0.0804s
+Iter-0; loss: 0.3346;time per batch:0.0954s
 Epoch-204
 ————————————————
-Iter-0; loss: 0.3901;time per batch:0.0756s
+Iter-0; loss: 0.3993;time per batch:0.0941s
 Epoch-205
 ————————————————
-Iter-0; loss: 0.2942;time per batch:0.0766s
+Iter-0; loss: 0.3023;time per batch:0.1009s
 Epoch-206
 ————————————————
-Iter-0; loss: 0.3367;time per batch:0.0786s
+Iter-0; loss: 0.3326;time per batch:0.1099s
 Epoch-207
 ————————————————
-Iter-0; loss: 0.4083;time per batch:0.0734s
+Iter-0; loss: 0.4319;time per batch:0.0946s
 Epoch-208
 ————————————————
-Iter-0; loss: 0.3458;time per batch:0.0789s
+Iter-0; loss: 0.3508;time per batch:0.0963s
 Epoch-209
 ————————————————
-Iter-0; loss: 0.3776;time per batch:0.0780s
+Iter-0; loss: 0.3911;time per batch:0.0975s
 Epoch-210
 ————————————————
-Iter-0; loss: 0.3568;time per batch:0.0830s
+Iter-0; loss: 0.3603;time per batch:0.0947s
 Epoch-211
 ————————————————
-Iter-0; loss: 0.3040;time per batch:0.0803s
+Iter-0; loss: 0.3126;time per batch:0.0963s
 Epoch-212
 ————————————————
-Iter-0; loss: 0.3465;time per batch:0.0752s
+Iter-0; loss: 0.3509;time per batch:0.0996s
 Epoch-213
 ————————————————
-Iter-0; loss: 0.3871;time per batch:0.0742s
+Iter-0; loss: 0.3846;time per batch:0.0966s
 Epoch-214
 ————————————————
-Iter-0; loss: 0.3872;time per batch:0.0758s
+Iter-0; loss: 0.3759;time per batch:0.0959s
 Epoch-215
 ————————————————
-Iter-0; loss: 0.3172;time per batch:0.0828s
+Iter-0; loss: 0.3319;time per batch:0.0992s
 Epoch-216
 ————————————————
-Iter-0; loss: 0.3245;time per batch:0.0768s
+Iter-0; loss: 0.3183;time per batch:0.0997s
 Epoch-217
 ————————————————
-Iter-0; loss: 0.2769;time per batch:0.0833s
+Iter-0; loss: 0.3004;time per batch:0.1002s
 Epoch-218
 ————————————————
-Iter-0; loss: 0.4370;time per batch:0.0815s
+Iter-0; loss: 0.4292;time per batch:0.1081s
 Epoch-219
 ————————————————
-Iter-0; loss: 0.2742;time per batch:0.0750s
+Iter-0; loss: 0.2862;time per batch:0.1083s
 Epoch-220
 ————————————————
-Iter-0; loss: 0.2610;time per batch:0.0794s
+Iter-0; loss: 0.2631;time per batch:0.0941s
 Epoch-221
 ————————————————
-Iter-0; loss: 0.2940;time per batch:0.0775s
+Iter-0; loss: 0.2749;time per batch:0.1007s
 Epoch-222
 ————————————————
-Iter-0; loss: 0.3140;time per batch:0.0769s
+Iter-0; loss: 0.3196;time per batch:0.0995s
 Epoch-223
 ————————————————
-Iter-0; loss: 0.2585;time per batch:0.0783s
+Iter-0; loss: 0.2572;time per batch:0.0944s
 Epoch-224
 ————————————————
-Iter-0; loss: 0.3205;time per batch:0.0772s
+Iter-0; loss: 0.3218;time per batch:0.0967s
 Epoch-225
 ————————————————
-Iter-0; loss: 0.2463;time per batch:0.0805s
+Iter-0; loss: 0.2434;time per batch:0.0971s
 Epoch-226
 ————————————————
-Iter-0; loss: 0.3094;time per batch:0.0765s
+Iter-0; loss: 0.3165;time per batch:0.0975s
 Epoch-227
 ————————————————
-Iter-0; loss: 0.2723;time per batch:0.0776s
+Iter-0; loss: 0.2617;time per batch:0.0923s
 Epoch-228
 ————————————————
-Iter-0; loss: 0.3104;time per batch:0.0794s
+Iter-0; loss: 0.3005;time per batch:0.0986s
 Epoch-229
 ————————————————
-Iter-0; loss: 0.3490;time per batch:0.0758s
+Iter-0; loss: 0.3501;time per batch:0.1050s
 Epoch-230
 ————————————————
-Iter-0; loss: 0.2266;time per batch:0.0762s
+Iter-0; loss: 0.2227;time per batch:0.0966s
 Epoch-231
 ————————————————
-Iter-0; loss: 0.2981;time per batch:0.0781s
+Iter-0; loss: 0.2936;time per batch:0.1033s
 Epoch-232
 ————————————————
-Iter-0; loss: 0.3375;time per batch:0.0795s
+Iter-0; loss: 0.3356;time per batch:0.1100s
 Epoch-233
 ————————————————
-Iter-0; loss: 0.3163;time per batch:0.0763s
+Iter-0; loss: 0.3067;time per batch:0.0956s
 Epoch-234
 ————————————————
-Iter-0; loss: 0.3648;time per batch:0.0728s
+Iter-0; loss: 0.3798;time per batch:0.0958s
 Epoch-235
 ————————————————
-Iter-0; loss: 0.4095;time per batch:0.0768s
+Iter-0; loss: 0.3562;time per batch:0.1049s
 Epoch-236
 ————————————————
-Iter-0; loss: 0.3133;time per batch:0.0729s
+Iter-0; loss: 0.3135;time per batch:0.0950s
 Epoch-237
 ————————————————
-Iter-0; loss: 0.3028;time per batch:0.0753s
+Iter-0; loss: 0.3223;time per batch:0.1058s
 Epoch-238
 ————————————————
-Iter-0; loss: 0.2661;time per batch:0.0750s
+Iter-0; loss: 0.2597;time per batch:0.0976s
 Epoch-239
 ————————————————
-Iter-0; loss: 0.3759;time per batch:0.0750s
+Iter-0; loss: 0.3690;time per batch:0.0981s
 Epoch-240
 ————————————————
-Iter-0; loss: 0.3415;time per batch:0.0786s
+Iter-0; loss: 0.3349;time per batch:0.0931s
 Epoch-241
 ————————————————
-Iter-0; loss: 0.2964;time per batch:0.0788s
+Iter-0; loss: 0.2986;time per batch:0.0985s
 Epoch-242
 ————————————————
-Iter-0; loss: 0.3145;time per batch:0.0772s
+Iter-0; loss: 0.3077;time per batch:0.0951s
 Epoch-243
 ————————————————
-Iter-0; loss: 0.2539;time per batch:0.0774s
+Iter-0; loss: 0.2597;time per batch:0.0989s
 Epoch-244
 ————————————————
-Iter-0; loss: 0.3018;time per batch:0.0749s
+Iter-0; loss: 0.2987;time per batch:0.0944s
 Epoch-245
 ————————————————
-Iter-0; loss: 0.3655;time per batch:0.0770s
+Iter-0; loss: 0.3661;time per batch:0.1016s
 Epoch-246
 ————————————————
-Iter-0; loss: 0.3457;time per batch:0.0744s
+Iter-0; loss: 0.3292;time per batch:0.1008s
 Epoch-247
 ————————————————
-Iter-0; loss: 0.2725;time per batch:0.0744s
+Iter-0; loss: 0.2812;time per batch:0.0963s
 Epoch-248
 ————————————————
-Iter-0; loss: 0.2531;time per batch:0.0730s
+Iter-0; loss: 0.2493;time per batch:0.0994s
 Epoch-249
 ————————————————
-Iter-0; loss: 0.2889;time per batch:0.0801s
+Iter-0; loss: 0.2926;time per batch:0.0959s
 Epoch-250
 ————————————————
-Iter-0; loss: 0.2924;time per batch:0.0752s
+Iter-0; loss: 0.2891;time per batch:0.0980s
 validation results:
-Mean Rank: 556
-Mean RR: 0.2250
-Hit@1: 0.1726
-Hit@3: 0.2386
-Hit@5: 0.2690
+Mean Rank: 568
+Mean RR: 0.2334
+Hit@1: 0.1853
+Hit@3: 0.2411
+Hit@5: 0.2741
 Hit@10: 0.3299
 test result:
-Mean Rank: 579
-Mean RR: 0.2374
-Hit@1: 0.1818
-Hit@3: 0.2500
+Mean Rank: 577
+Mean RR: 0.2397
+Hit@1: 0.1869
+Hit@3: 0.2525
 Hit@5: 0.2854
 Hit@10: 0.3460

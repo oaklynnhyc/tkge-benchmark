@@ -1,10 +1,10 @@
 # TKGE Benchmark — 4 methods × 3 datasets (link prediction)
 
-_Generated 2026-06-25 05:21 UTC; run mode(s): full, smoke_
+_Generated 2026-07-13 10:34 UTC; run mode(s): full, smoke_
 
 | Method | Dataset | MRR | Hits@1 | Hits@3 | Hits@10 | MR |
 |---|---|---|---|---|---|---|
-| TeRo | FinReflect | 0.2374 | 0.1818 | 0.2500 | 0.3460 | 579.0000 |
+| TeRo | FinReflect | 0.2397 | 0.1869 | 0.2525 | 0.3460 | 577.0000 |
 | TeRo | ICEWS18 (5k) | 0.1152 | 0.0656 | 0.1200 | 0.2216 | 962.0000 |
 | TeRo | GDELT (5k) | 0.0744 | 0.0296 | 0.0680 | 0.1672 | 313.0000 |
 | ATiSE | FinReflect | 0.2595 | 0.2247 | 0.2601 | 0.3359 | 428.0000 |

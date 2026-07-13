@@ -51,19 +51,19 @@ Starting training
 Mini Batches     5 or   2.5 epochs |[1;34m**********************[0;0m| 100.0% | Average Loss   4.2199 | reg  0.376 | time      3 ||
 Mini Batches     6 or   3.2 epochs |[1;34m**********************[0;0m| 100.0% | Average Loss   3.3354 | reg  0.401 | time      3 ||
 Mini Batches     7 or   3.8 epochs |[1;34m**********************[0;0m| 100.0% | Average Loss   2.8762 | reg  0.398 | time      4 ||
-Mini Batches     8 or   4.4 epochs |[1;34m**********************[0;0m| 100.0% | Average Loss   2.5882 | reg  0.407 | time      5 ||
+Mini Batches     8 or   4.4 epochs |[1;34m**********************[0;0m| 100.0% | Average Loss   2.5882 | reg  0.407 | time      4 ||
 Mini Batches     9 or   5.1 epochs |[1;34m**********************[0;0m| 100.0% | Average Loss   2.3299 | reg  0.404 | time      5 ||
-Mini Batches    10 or   5.7 epochs |[1;34m**********************[0;0m| 100.0% | Average Loss   2.2812 | reg  0.406 | time      6 ||
+Mini Batches    10 or   5.7 epochs |[1;34m**********************[0;0m| 100.0% | Average Loss   2.2812 | reg  0.406 | time      5 ||
 Mini Batches    11 or   6.3 epochs |[1;34m**********************[0;0m| 100.0% | Average Loss   2.1760 | reg  0.400 | time      6 ||
-Mini Batches    12 or   7.0 epochs |[1;34m**********************[0;0m| 100.0% | Average Loss   2.0747 | reg  0.404 | time      7 ||
+Mini Batches    12 or   7.0 epochs |[1;34m**********************[0;0m| 100.0% | Average Loss   2.0747 | reg  0.404 | time      6 ||
 Mini Batches    13 or   7.6 epochs |[1;34m**********************[0;0m| 100.0% | Average Loss   1.9969 | reg  0.400 | time      7 ||
-Mini Batches    14 or   8.2 epochs |[1;34m**********************[0;0m| 100.0% | Average Loss   1.9999 | reg  0.394 | time      8 ||
-Mini Batches    15 or   8.9 epochs |[1;34m**********************[0;0m| 100.0% | Average Loss   1.9706 | reg  0.389 | time      9 ||
-Mini Batches    16 or   9.5 epochs |[1;34m**********************[0;0m| 100.0% | Average Loss   1.8908 | reg  0.390 | time      9 ||
-Mini Batches    17 or  10.1 epochs |[1;34m**********************[0;0m| 100.0% | Average Loss   1.8974 | reg  0.383 | time     10 ||
-Mini Batches    18 or  10.8 epochs |[1;34m**********************[0;0m| 100.0% | Average Loss   1.9195 | reg  0.381 | time     10 ||
-Mini Batches    19 or  11.4 epochs |[1;34m**********************[0;0m| 100.0% | Average Loss   1.8583 | reg  0.375 | time     11 ||
-Mini Batches    20 or  12.0 epochs |[1;34m**********************[0;0m| 100.0% | Average Loss   1.7941 | reg  0.383 | time     11 ||
+Mini Batches    14 or   8.2 epochs |[1;34m**********************[0;0m| 100.0% | Average Loss   1.9999 | reg  0.394 | time      7 ||
+Mini Batches    15 or   8.9 epochs |[1;34m**********************[0;0m| 100.0% | Average Loss   1.9706 | reg  0.389 | time      8 ||
+Mini Batches    16 or   9.5 epochs |[1;34m**********************[0;0m| 100.0% | Average Loss   1.8908 | reg  0.390 | time      8 ||
+Mini Batches    17 or  10.1 epochs |[1;34m**********************[0;0m| 100.0% | Average Loss   1.8974 | reg  0.383 | time      9 ||
+Mini Batches    18 or  10.8 epochs |[1;34m**********************[0;0m| 100.0% | Average Loss   1.9195 | reg  0.381 | time      9 ||
+Mini Batches    19 or  11.4 epochs |[1;34m**********************[0;0m| 100.0% | Average Loss   1.8583 | reg  0.375 | time     10 ||
+Mini Batches    20 or  12.0 epochs |[1;34m**********************[0;0m| 100.0% | Average Loss   1.7941 | reg  0.383 | time     10 ||
 Eval on valid |[1;32m**********[0;0m| 100.0% |M| mrr:33.45|h10:48.98%|h1:26.14|e1| mrr:62.46|h10:87.31%|h1:50.76|e2| mrr:4.43|h10:10.66%|h1:1.52|time     0|
 Eval on valid |M| mrr:33.45|h10:48.98|h1:26.14%|e1| mrr:62.46|h10:87.31|h1:50.76%|e2| mrr:4.43|h10:10.66|h1:1.52|%|r | mrr:0.00|h10:0.00|h1:0.00|%|t | mrr:0.00|h10:0.00|h1:0.00| mr:0.00|%|tp| mrr:0.00|h10:0.00|h1:0.00| mr:0.00|%| iou:0.00|%time     0|
  
@@ -87,17 +87,17 @@ Best Model details:
  valid_t {'mrr': 0.0, 'mr': 0.0, 'hits10': 0.0, 'hits1': 0.0} 
  test_t {'mrr': 0.0, 'mr': 0.0, 'hits10': 0.0, 'hits1': 0.0} 
 
-Mini Batches    21 or  12.7 epochs |[1;34m**********************[0;0m| 100.0% | Average Loss   1.8564 | reg  0.372 | time     12 ||
-Mini Batches    22 or  13.3 epochs |[1;34m**********************[0;0m| 100.0% | Average Loss   1.7990 | reg  0.377 | time     13 ||
-Mini Batches    23 or  13.9 epochs |[1;34m**********************[0;0m| 100.0% | Average Loss   1.7658 | reg  0.372 | time     13 ||
-Mini Batches    24 or  14.6 epochs |[1;34m**********************[0;0m| 100.0% | Average Loss   1.8207 | reg  0.371 | time     14 ||
-Mini Batches    25 or  15.2 epochs |[1;34m**********************[0;0m| 100.0% | Average Loss   1.8146 | reg  0.358 | time     14 ||
-Mini Batches    26 or  15.8 epochs |[1;34m**********************[0;0m| 100.0% | Average Loss   1.7669 | reg  0.365 | time     15 ||
-Mini Batches    27 or  16.5 epochs |[1;34m**********************[0;0m| 100.0% | Average Loss   1.7655 | reg  0.365 | time     15 ||
-Mini Batches    28 or  17.1 epochs |[1;34m**********************[0;0m| 100.0% | Average Loss   1.7193 | reg  0.360 | time     16 ||
-Mini Batches    29 or  17.7 epochs |[1;34m**********************[0;0m| 100.0% | Average Loss   1.7809 | reg  0.361 | time     17 ||
-Mini Batches    30 or  18.4 epochs |[1;34m**********************[0;0m| 100.0% | Average Loss   1.7603 | reg  0.354 | time     17 ||
-Mini Batches    31 or  19.0 epochs |[1;34m**********************[0;0m| 100.0% | Average Loss   1.7232 | reg  0.359 | time     18 ||
+Mini Batches    21 or  12.7 epochs |[1;34m**********************[0;0m| 100.0% | Average Loss   1.8564 | reg  0.372 | time     11 ||
+Mini Batches    22 or  13.3 epochs |[1;34m**********************[0;0m| 100.0% | Average Loss   1.7990 | reg  0.377 | time     12 ||
+Mini Batches    23 or  13.9 epochs |[1;34m**********************[0;0m| 100.0% | Average Loss   1.7658 | reg  0.372 | time     12 ||
+Mini Batches    24 or  14.6 epochs |[1;34m**********************[0;0m| 100.0% | Average Loss   1.8207 | reg  0.371 | time     13 ||
+Mini Batches    25 or  15.2 epochs |[1;34m**********************[0;0m| 100.0% | Average Loss   1.8146 | reg  0.358 | time     13 ||
+Mini Batches    26 or  15.8 epochs |[1;34m**********************[0;0m| 100.0% | Average Loss   1.7669 | reg  0.365 | time     14 ||
+Mini Batches    27 or  16.5 epochs |[1;34m**********************[0;0m| 100.0% | Average Loss   1.7655 | reg  0.365 | time     14 ||
+Mini Batches    28 or  17.1 epochs |[1;34m**********************[0;0m| 100.0% | Average Loss   1.7193 | reg  0.360 | time     15 ||
+Mini Batches    29 or  17.7 epochs |[1;34m**********************[0;0m| 100.0% | Average Loss   1.7809 | reg  0.361 | time     15 ||
+Mini Batches    30 or  18.4 epochs |[1;34m**********************[0;0m| 100.0% | Average Loss   1.7603 | reg  0.354 | time     16 ||
+Mini Batches    31 or  19.0 epochs |[1;34m**********************[0;0m| 100.0% | Average Loss   1.7232 | reg  0.359 | time     16 ||
 
 Ending
 {'valid_m': {'mrr': tensor(0.3345), 'mr': tensor(398.7005), 'hits10': tensor(0.4898), 'hits1': tensor(0.2614)}, 'test_m': {'mrr': tensor(0.3370), 'mr': tensor(405.0076), 'hits10': tensor(0.4722), 'hits1': tensor(0.2677)}, 'valid': {'mrr': tensor(0.0443), 'mr': tensor(742.2538), 'hits10': tensor(0.1066), 'hits1': tensor(0.0152)}, 'test': {'mrr': tensor(0.0304), 'mr': tensor(758.3889), 'hits10': tensor(0.0606), 'hits1': tensor(0.0152)}, 'valid_e1': {'mrr': tensor(0.6246), 'mr': tensor(55.1472), 'hits10': tensor(0.8731), 'hits1': tensor(0.5076)}, 'test_e1': {'mrr': tensor(0.6436), 'mr': tensor(51.6263), 'hits10': tensor(0.8838), 'hits1': tensor(0.5202)}, 'valid_r': {'mrr': 0.0, 'mr': 0.0, 'hits10': 0.0, 'hits1': 0.0}, 'test_r': {'mrr': 0.0, 'mr': 0.0, 'hits10': 0.0, 'hits1': 0.0}, 'valid_t': {'mrr': 0.0, 'mr': 0.0, 'hits10': 0.0, 'hits1': 0.0}, 'test_t': {'mrr': 0.0, 'mr': 0.0, 'hits10': 0.0, 'hits1': 0.0}}
