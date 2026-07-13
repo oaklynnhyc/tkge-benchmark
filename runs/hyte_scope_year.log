@@ -1,0 +1,5 @@
+CMD[sel]: python time_proj_tdns_scope.py -name scope_year_sel -margin 10 -l2 0.00 -neg_sample 5 -gpu  -batch 2500 -seed 1234 -epoch 150 -test_freq 50 -data_type yago -version large
+Traceback (most recent call last):
+  File "/__w/tkge-benchmark/tkge-benchmark/repos/HyTE/time_proj_tdns_scope.py", line 8, in <module>
+    import matplotlib.pyplot as plt, uuid, sys, os, time, argparse
+ModuleNotFoundError: No module named 'matplotlib'
