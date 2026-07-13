@@ -1,0 +1,109 @@
+name: hyte-granularity
+
+# HyTE FinReflect year-vs-month contrast (entity + strict time prediction).
+# Independent workflow/trigger so it never interferes with benchmark.yml.
+# Trigger: push a change to .ci-hyte-gran (line1 = smoke|full, line2 = nonce).
+on:
+  push:
+    paths: [".ci-hyte-gran"]
+  workflow_dispatch:
+    inputs:
+      mode:
+        type: choice
+        options: [smoke, full]
+        default: smoke
+
+permissions:
+  contents: write
+
+jobs:
+  entity-month:
+    runs-on: ubuntu-22.04
+    timeout-minutes: 300
+    container: python:3.7-bullseye
+    steps:
+      - uses: actions/checkout@v4
+      - run: pip install -r envs/requirements-hyte.txt
+      - run: bash scripts/ci/pin_repos.sh hyte
+      - name: Convert (month tokens)
+        run: python converters/to_hyte_month.py
+      - name: Train + evaluate (original time_proj.py)
+        run: |
+          MODE="${{ inputs.mode }}"; MODE="${MODE:-$(head -1 .ci-hyte-gran | tr -d '[:space:]')}"
+          bash scripts/ci/run_hyte.sh finreflect_month "$MODE"
+      - name: Trim log
+        if: always()
+        run: for f in runs/*.log; do tail -c 200000 "$f" > "$f.t" && mv "$f.t" "$f"; done || true
+      - uses: actions/upload-artifact@v4
+        if: always()
+        with:
+          name: hg-entity-month
+          path: |
+            results/hyte_finreflect_month.json
+            runs/hyte_finreflect_month.log
+          if-no-files-found: warn
+
+  scope:
+    runs-on: ubuntu-22.04
+    timeout-minutes: 300
+    container: python:3.7-bullseye
+    strategy:
+      fail-fast: false
+      matrix:
+        gran: [year, month]
+    steps:
+      - uses: actions/checkout@v4
+      - run: pip install -r envs/requirements-hyte.txt
+      - run: bash scripts/ci/pin_repos.sh hyte
+      - name: Convert + build twin workdirs
+        run: |
+          python converters/to_hyte.py finreflect
+          python converters/to_hyte_month.py
+          python converters/to_hyte_scope.py ${{ matrix.gran }}
+      - name: Twin-run time prediction (original tdns_scope entry point)
+        run: |
+          MODE="${{ inputs.mode }}"; MODE="${MODE:-$(head -1 .ci-hyte-gran | tr -d '[:space:]')}"
+          bash scripts/ci/run_hyte_scope.sh ${{ matrix.gran }} "$MODE"
+      - name: Trim log
+        if: always()
+        run: for f in runs/*.log; do tail -c 200000 "$f" > "$f.t" && mv "$f.t" "$f"; done || true
+      - uses: actions/upload-artifact@v4
+        if: always()
+        with:
+          name: hg-scope-${{ matrix.gran }}
+          path: |
+            results/hyte_time_finreflect_${{ matrix.gran }}.json
+            runs/hyte_scope_${{ matrix.gran }}.log
+          if-no-files-found: warn
+
+  collect:
+    needs: [entity-month, scope]
+    if: always()
+    runs-on: ubuntu-22.04
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/download-artifact@v4
+        with:
+          pattern: hg-*
+          merge-multiple: true
+          path: ci_out
+      - name: Collect
+        run: |
+          mkdir -p results runs
+          find ci_out -name "*.json" -exec cp {} results/ \;
+          find ci_out -name "*.log"  -exec cp {} runs/ \;
+          ls -la results/
+      - name: Build HYTE_YEAR_VS_MONTH.md
+        run: python scripts/ci/aggregate_hyte_granularity.py
+      - name: Commit results back
+        run: |
+          git config user.name "tkge-benchmark-ci"
+          git config user.email "ci@users.noreply.github.com"
+          git stash -u || true
+          git pull --rebase origin ${{ github.ref_name }}
+          git stash pop || true
+          git add results/
+          git add -f runs/hyte_finreflect_month.log runs/hyte_scope_*.log || true
+          MODE="${{ inputs.mode }}"; MODE="${MODE:-$(head -1 .ci-hyte-gran | tr -d '[:space:]')}"
+          git commit -m "exp(hyte-gran): $MODE year-vs-month results $(date -u +%Y%m%dT%H%M)" || echo "nothing to commit"
+          git push origin HEAD:${{ github.ref_name }} || { git pull --rebase origin ${{ github.ref_name }} && git push origin HEAD:${{ github.ref_name }}; }
