@@ -1,0 +1,15 @@
+{
+  "variant": "interval",
+  "dataset": "finreflect",
+  "n_entity": 1605,
+  "n_relation": 3,
+  "rows_real_interval(start!=end)": 70,
+  "policy": {
+    "reversed_collapsed": 2
+  },
+  "splits": {
+    "train": 1580,
+    "valid": 197,
+    "test": 198
+  }
+}

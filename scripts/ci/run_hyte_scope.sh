@@ -41,7 +41,8 @@ EV=$(PYTHONPATH="$REPO" python "$REPO/result_eval_time.py" \
 set -e
 echo "$EV" >> "$LOG"
 read -r BEST SELRANK <<<"$(echo "$EV" | grep -oE 'Epoch [0-9]+ :  time_rank [0-9.]+' \
-  | awk '{print $2, $6}' | sort -k2,2g | head -1)"
+  | awk '{print $2, $NF}' | sort -k2,2g | head -1)"
+[ -n "${BEST:-}" ] && [ -n "${SELRANK:-}" ] || { echo "FATAL: best-epoch parse failed" | tee -a "$LOG"; exit 1; }
 echo "BEST_EPOCH=$BEST SEL_MEAN_RANK(0-based)=$SELRANK" | tee -a "$LOG"
 
 # --- twin-identity proof: checkpoint bytes at E* must match ------------------

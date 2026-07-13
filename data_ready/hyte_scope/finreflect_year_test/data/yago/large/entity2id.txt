@@ -1,0 +1,1605 @@
+120 country	0
+125 portsmouth boulevard	1
+130 country	2
+150 country	3
+24/7 newschannel	4
+4g lte network	5
+5g home internet	6
+5g network	7
+94 russell drive	8
+aap	9
+aapl	10
+abilene , tx	11
+accessory	12
+accounting service	13
+ace	14
+ace funding	15
+ad tech	16
+addison , il	17
+administrative building	18
+administrative service	19
+advance auto part	20
+advanced auto connectivity	21
+advanced security technology	22
+adventure of the sea	23
+advertising	24
+advertising service	25
+aep system	26
+africa	27
+agawam , ma	28
+ai runtime security	29
+air filter	30
+air freshener	31
+air transportation	32
+air-gas manufacturing plant	33
+aircraft manufacturer	34
+airport information	35
+akron , oh	36
+alaska	37
+albuquerque , nm	38
+alexandria , va	39
+alhambra	40
+alhambra , ca	41
+all other country	42
+all other operating segment	43
+all other segment	44
+allentown , pa	45
+alpharetta , ga	46
+altria group , inc .	47
+aluminum	48
+amazon mobile ad network	49
+amherst , ny	50
+amzn	51
+anadarko basin	52
+anderson , sc	53
+ann arbor	54
+ann arbor , mi	55
+antarctica	56
+antenna	57
+anthem of the sea	58
+antifreeze	59
+apis	60
+app store	61
+apple	62
+apple arcade	63
+apple music	64
+apple music , apple pay , icloud	65
+apple pay	66
+apple tv	67
+apple tv device	68
+apple vision pro	69
+apple watch	70
+apple watch se	71
+apple watch series 2	72
+applecare	73
+appliance	74
+application	75
+arizona	76
+arkansas	77
+arkla-tex basin	78
+arlington , tx	79
+arlington , va	80
+arlington height , il	81
+articulate truck	82
+asheboro , nc	83
+asheville , nc	84
+asia	85
+asia-pacific	86
+asia/pacific	87
+asia/pacific cruise market	88
+asian market	89
+asphalt pavers	90
+asset	91
+association service	92
+atl city electric	93
+audio software	94
+audiobooks	95
+audit service	96
+australia	97
+australian market	98
+auto loan	99
+automobile manufacturer	100
+autonomous machine capability	101
+autopilot mode	102
+aviation dealer	103
+aws	104
+aws segment	105
+azamara club cruise	106
+backhoe loader	107
+bad axe , mi	108
+bahamas	109
+bakersfield , ca	110
+ballymena	111
+baltimore , md	112
+banbridge , united kingdom	113
+barnum , mn	114
+bartlesville	115
+basic generation service	116
+basingstoke , uk	117
+batavia , oh	118
+baton rouge , la	119
+battery	120
+battery accessory	121
+bazzano , italy	122
+beat	123
+beaumont	124
+beaver , pa	125
+beavercreek , oh	126
+bee cave , tx	127
+belgium	128
+bellingham , wa	129
+belo corp .	130
+benbrook , tx	131
+bermuda	132
+berth	133
+bethesda , md	134
+beverley , uk	135
+beverly hill	136
+beverly hill , ca	137
+bf-b	138
+big river electric corporation	139
+biloxi	140
+bloomington , in	141
+bluefield	142
+boca meat alternative	143
+boca raton , fl	144
+boiler slag	145
+boise	146
+boise , id	147
+bondable transition property	148
+boonville , missouri	149
+borrower company	150
+bothell , wa	151
+bottle closure	152
+bottling service	153
+boulder , co	154
+bracknell , uk	155
+braintree	156
+braintree , ma	157
+brake	158
+brake pad	159
+brand management and marketing strategy	160
+brandon	161
+brazil	162
+bremerton , wa	163
+brick	164
+brick , nj	165
+brilliance of the sea	166
+broadbean	167
+broadcast television	168
+broken arrow , ok	169
+broomfield , co	170
+brossard , qc	171
+burleson	172
+burleson , tx	173
+burlingame , ca	174
+burlington , nc	175
+burlington , on	176
+burnaby , bc	177
+business market and other	178
+business segment	179
+business service industry	180
+business video service	181
+buzzfeed	182
+cable	183
+cable communication	184
+cable network	185
+cable service	186
+cable system	187
+cable tv service	188
+calgary , ab	189
+california	190
+camberley , uk	191
+camillus , ny	192
+canada	193
+canadian mist	194
+canton	195
+canton , mi	196
+canton , oh	197
+capital market service	198
+capri sun	199
+car wash soap	200
+cardboard	201
+careerbuilder	202
+caribbean	203
+carlisle , pa	204
+carrollton , ga	205
+cary , nc	206
+castleton , in	207
+cat	208
+cat 3406 engine	209
+cat financial	210
+catalog item	211
+caterpillar d10 bulldozer	212
+caterpillar engine	213
+caterpillar insurance co. ltd .	214
+caterpillar insurance service corporation	215
+caterpillar life insurance company	216
+caterpillar ni	217
+cdf croisieres de france	218
+cdf croisières de france	219
+cdf cruise	220
+cedar fall , ia	221
+cedar park , tx	222
+cedar rapid , ia	223
+ceip	224
+celebrity apex - hull k34	225
+celebrity constellation	226
+celebrity cruise	227
+cell site real estate	228
+centerpoint energy	229
+centerpoint energy resource corporation	230
+centerpoint houston	231
+central indiana	232
+cerc	233
+cerc corp .	234
+cerc gas	235
+cerc underground natural gas storage facility	236
+chambersburg , pa	237
+chaparral boat , inc .	238
+charleston , sc	239
+charlotte , nc	240
+cheese & dairy	241
+cherry hill , nj	242
+chertsey , united kingdom	243
+chesterfield	244
+chesterfield , va	245
+chevy chase , md	246
+chicago , il	247
+chickasha , ok	248
+chicopee , ma	249
+chillicothe , oh	250
+china	251
+chula vista , ca	252
+cigar	253
+cigarette	254
+cigarillo	255
+cincinnati	256
+cincinnati , oh	257
+cincinnati , ohio	258
+city of houston	259
+claremore , ok	260
+clarkson valley , mo	261
+clarksville , tn	262
+clay , ny	263
+clayton , nc	264
+clean solution and maintenance accessory	265
+clia	266
+client	267
+clifton , nj	268
+cloud service	269
+cmcsa	270
+cn-series	271
+cnp	272
+co-branded card	273
+co-branded credit card agreement	274
+coal	275
+cofactor ( shoplocal )	276
+coffee	277
+cohasset , ma	278
+colchester , uk	279
+cold planer	280
+colleyville , tx	281
+colorado	282
+colorado spring , co	283
+colt neck , nj	284
+columbia , md	285
+columbia , sc	286
+columbus , oh	287
+combustible product	288
+comm . solution	289
+commercial and industrial customer	290
+commercial lending	291
+commercial paper program	292
+communication device	293
+communication solution	294
+compact , small and medium wheel loader	295
+compact wheel loader	296
+compactors	297
+competitive environment	298
+competitor product	299
+compute service	300
+computer system development and support	301
+concord , nh	302
+connecticut	303
+connectivity product	304
+connor , uk	305
+conocophillips company	306
+construction and mining equipment	307
+construction in process	308
+construction industry	309
+construction industry segment	310
+construction of turbine	311
+consulting service	312
+consumer electronics	313
+consumer good	314
+consumer product	315
+consumer segment	316
+consumer software	317
+contemporary family market	318
+content	319
+content licensors	320
+continuous miner	321
+contractual liability insurance	322
+control solution	323
+convenience apps	324
+convenience feature	325
+cooling part	326
+copyright	327
+corporate and other	328
+corporate bond	329
+corporate networking solution	330
+cortex x sia m	331
+cortex xsiam	332
+crawfordsville , in	333
+credit facility	334
+crew movement team	335
+cruise guest	336
+cruise industry	337
+cruise service	338
+cruise terminal	339
+ctas	340
+cuba	341
+customer	342
+customer billing vendor	343
+customer care real estate	344
+customer service center	345
+cybersecurity curriculum	346
+d.c .	347
+dana point , ca	348
+danbury , ct	349
+danville , in	350
+data center	351
+data center service	352
+data service	353
+database service	354
+database update	355
+dayton , oh	356
+de peres , mo	357
+dealer	358
+dealer counterparty	359
+dealer retail service	360
+dealer solution	361
+debt facility	362
+decatur	363
+decatur , ga	364
+default	365
+default electricity supply	366
+delaware	367
+delicados	368
+delmarva power	369
+deloitte & touche llp	370
+delray beach	371
+delray beach , fl	372
+denton , tx	373
+denver	374
+denver , co	375
+depreciation and amortization	376
+derby	377
+destination	378
+device a	379
+device payment plan agreement receivables	380
+diesel-electric locomotive	381
+diesel-electric locomotive component	382
+digital content subscription	383
+digital distribution service	384
+digital engineering capability	385
+digital medium content	386
+digital medium segment	387
+digital medium service	388
+digital video	389
+display advertising	390
+distribution center	391
+distribution operation	392
+distribution service	393
+district of columbia	394
+dividend	395
+dividend from subsidiary	396
+dix hill , ny	397
+dlc	398
+docsis 3.1	399
+domestic car part	400
+downloadable content	401
+dpl	402
+driver behavior analysis solution	403
+driverside	404
+droitwich	405
+drug x	406
+dryer	407
+dublin , oh	408
+dunkirk , md	409
+dxc	410
+e	411
+e-books	412
+eame	413
+east amherst , ny	414
+east asia	415
+east brunswick	416
+east coast	417
+east setauket	418
+east setauket , ny	419
+eastbourne	420
+eastern asia	421
+easy ready meal	422
+echo device	423
+edgewater , nj	424
+edinburgh , uk	425
+edmond , ok	426
+egt	427
+el jimador new mix rtds	428
+electric delivery business	429
+electric segment	430
+electric transmission & distribution	431
+electricity	432
+electricity distribution	433
+electricity generation	434
+electronic component	435
+electronics	436
+electronics and control system	437
+elgin , il	438
+elk grove	439
+elkhorn , ne	440
+emd	441
+enable	442
+enchantment of the sea	443
+encinitas , ca	444
+encino , ca	445
+end user	446
+energy	447
+energy & transportation	448
+energy performance contracting	449
+energy product and service	450
+energy saving performance contracting	451
+energy service	452
+engine	453
+enterprise dlp	454
+entertainment content	455
+environmental remediation site	456
+equipment	457
+ercot	458
+ernst & young llp	459
+escondido , ca	460
+esg	461
+estate planning	462
+europa 2	463
+europe	464
+europe , asia , latin america	465
+europe segment	466
+european cruise market	467
+european operation	468
+european union	469
+excavator	470
+exhaust part	471
+exhaust system	472
+expedition cruise	473
+fairfax , va	474
+fairfield , il	475
+fairfield , nj	476
+fairhope , al	477
+farnborough	478
+farnborough , united kingdom	479
+favorable lease	480
+fayetteville	481
+fayetteville , ny	482
+fayetteville , pa	483
+federal government	484
+fenton , mo	485
+fg wilson	486
+fiber-optic network	487
+fiber-to-the-cabinet	488
+field service	489
+field service management	490
+fiji	491
+film	492
+final cut pro	493
+finance alternative	494
+financial product	495
+financial product segment	496
+financial service	497
+financing to customer	498
+fincantieri	499
+finlandia	500
+fios internet	501
+fios service	502
+fios video	503
+fire extinguisher	504
+fire extinguisher and test	505
+fire tablet	506
+first aid and safety product	507
+first aid product	508
+first aid service	509
+first union national bank	510
+fixed income manager	511
+fixed wireless access broadband	512
+flame resistant clothing	513
+fleet management solution	514
+fleet management technology	515
+flight logistics/scheduling	516
+flight scheduling	517
+florence , al	518
+florence , nj	519
+florida	520
+flower mound , tx	521
+flowood , m	522
+floyd , va	523
+fltlogic	524
+fltlogic.com	525
+fltplan.com	526
+fltsafety.com	527
+fluid transfer	528
+food and beverage product	529
+foreign market	530
+foreign operation	531
+forest city , nc	532
+forestry equipment	533
+forestry excavator	534
+fort ashby , wv	535
+fort worth , tx	536
+france	537
+franklin	538
+frederick , md	539
+fresno , ca	540
+frome , uk	541
+frozen and chill meal	542
+frozen potato product	543
+fuel additive	544
+fuel filter	545
+fuel hose	546
+furniture and other equipment	547
+fwa broadband	548
+galapagos island	549
+game	550
+game strategy guide	551
+gardner , ks	552
+gas turbine	553
+generator	554
+generator set	555
+genesis healthcare	556
+geneva , il	557
+geographic reach	558
+georgetown , tx	559
+georgia	560
+germany	561
+gig harbor	562
+gig harbor , wa	563
+gilbert , az	564
+glen cove , ny	565
+glendale , az	566
+glendale , ca	567
+global	568
+global cruise itinerary	569
+global enterprise	570
+global enterprise market	571
+global infrastructure service	572
+global market	573
+global weather data	574
+global wholesale market	575
+globalprotect	576
+gme	577
+good	578
+government agency	579
+gpi	580
+gps	581
+grader	582
+granbury , tx	583
+grand bahama shipyard ltd .	584
+grand fork , nd	585
+grandeur of the sea	586
+granger , in	587
+grapevine , tx	588
+greeley , co	589
+greenville , mi	590
+greenville , sc	591
+grmn	592
+grmn pilot	593
+grosse pointe , mi	594
+ground-clutter suppression	595
+guam	596
+guest experience	597
+guest service segment	598
+haddonfield , nj	599
+hail prediction	600
+ham	601
+hampton road	602
+hand sanitizer	603
+hand tool	604
+hard rock vehicle	605
+harden bar stock component	606
+hardrock continuous mining system	607
+hardware	608
+hardware product	609
+harmony of the sea	610
+harrisburg , nc	611
+harrow , great london , uk	612
+harvester	613
+hatfield , uk	614
+hattiesburg , m	615
+hawaii	616
+haymarket , va	617
+hazard management	618
+hazardous substance	619
+hbo	620
+hc-one group	621
+hd service	622
+hd voice	623
+headphone	624
+health data	625
+heat shrink tube	626
+heat tube	627
+heavy construction equipment	628
+heavy equipment	629
+heavy machinery	630
+heets creation	631
+heets dimension	632
+heets marlboro	633
+heinz	634
+helena , mt	635
+hermitage , pa	636
+hiawatha , ks	637
+hickory , nc	638
+high point , nc	639
+high productivity equipment	640
+high-speed internet	641
+high-traffic center	642
+high-voltage relay	643
+highland park , il	644
+highland ranch , co	645
+highwall miner	646
+hindhead , uk	647
+hingham , ma	648
+holton	649
+holton , ks	650
+home repair plan	651
+home repair protection plan	652
+hoover , al	653
+hortolandia	654
+hose	655
+hot dog	656
+houston	657
+houston , texas	658
+houston , tx	659
+houston electric	660
+houston/galveston metropolitan area	661
+howard , wi	662
+howell , nj	663
+htc	664
+human capital saas	665
+huntington beach , ca	666
+hutchinson , ks	667
+hvac system	668
+icloud	669
+icon 2	670
+idaho	671
+ih segment	672
+illinois	673
+independent dealer	674
+independent grower	675
+independent publisher	676
+independent support living	677
+independent television station	678
+independent tobacco supplier	679
+independently-owned carquest store	680
+indexed debt security	681
+india	682
+indiana	683
+indiana electric	684
+indiana gas	685
+indianapolis	686
+indirect auto loan	687
+industrial	688
+industrial automation	689
+industrial equipment	690
+industrial gas turbine	691
+infrastructure service disposal group	692
+infrastructure service segment	693
+inst inv solution	694
+installation and repair shop	695
+integrate	696
+integrate camera solution	697
+integrate solution suite	698
+integrate system	699
+interest income	700
+interest on equipment financing	701
+international	702
+international business operation	703
+international market	704
+international operation	705
+international segment	706
+interstate pipeline company	707
+interventional medical component	708
+intuit	709
+inventory	710
+investigative reporting	711
+investment banking and capital market service	712
+investment banking solution	713
+investment brokerage service	714
+io device	715
+iot service	716
+iot/ot security	717
+iowa	718
+ipad	719
+ipad pro	720
+iphone	721
+iphone 14	722
+iphone 6 plus	723
+iqos	724
+italy	725
+itunes store	726
+itunes u	727
+jack daniel 's family of brand	728
+jack daniel 's fire	729
+jack daniel 's no . 27 gold tennessee whiskey	730
+jack daniel 's rtd	731
+jack daniel 's rtds	732
+jack daniel 's single barrel collection	733
+jackson , tn	734
+jacksonville	735
+jacksonville , fl	736
+japan	737
+jefferson city , tn	738
+jl audio	739
+john creek , ga	740
+kalamazoo	741
+kalamazoo , mi	742
+kensington , md	743
+kentucky	744
+kenwood , oh	745
+khc	746
+kingwood , tx	747
+kissimmee , fl	748
+kmov	749
+knoxville , tn	750
+kokomo , in	751
+korbel california brandy	752
+kpmg llp	753
+kraft food group	754
+kraft mayo and miracle whip spoonable dressing	755
+kt & g	756
+la jolla , ca	757
+la palma , ca	758
+la vega , nv	759
+lackawanna , ny	760
+lafayette , in	761
+laguna wood , ca	762
+lake havasu city , az	763
+lake mary , fl	764
+lake zurich , il	765
+lakeland , fl	766
+lakeview , mi	767
+land	768
+large excavator	769
+large mining truck	770
+large track-type tractor	771
+large wheel loader	772
+largo , fl	773
+latin america	774
+lawton	775
+lawton , ok	776
+lead lighting	777
+leander , tx	778
+leasehold improvement	779
+leasing service	780
+leatherhead	781
+leavenworth , ks	782
+leawood , ks	783
+lebanon , nh	784
+lebanon , pa	785
+lee , ma	786
+legal serv	787
+lenexa , ks	788
+license gaming merchandise	789
+licensing	790
+licensing and update	791
+lil vapor	792
+linwood , nj	793
+lititz , pa	794
+little rock	795
+little rock , ar	796
+live assistance service	797
+livingston , nj	798
+livonia , mi	799
+local and long distance voice service	800
+local government	801
+local market	802
+locomotive component	803
+logistics	804
+logistics segment	805
+london , ontario	806
+londonderry	807
+long distance voice service	808
+long-term/postacute care facility	809
+longwall miner	810
+los alamitos	811
+louisiana	812
+louisiana and mississippi ldc business	813
+louisville , co	814
+louisville , ky	815
+lowell , ma	816
+loxahatchee , fl	817
+lunchables	818
+lutherville , md	819
+luxembourg	820
+luxoft	821
+lynchburg , va	822
+lynnwood , wa	823
+mac	824
+mac app store	825
+macbook air	826
+machinery , energy & transportation	827
+machinery component	828
+madison , tn	829
+maid moreton , uk	830
+maine	831
+major supplier	832
+mak	833
+mak m 461 c engine	834
+malta	835
+malvern , pa	836
+mansfield , tx	837
+manteca , ca	838
+manufacturing	839
+manufacturing facility	840
+mar , pa	841
+margate , fl	842
+marietta	843
+marieville , quebec	844
+marine and oil and gas industry solution	845
+marion , in	846
+marlboro	847
+marlboro , l & m	848
+marlboro , nj	849
+marlboro heatsticks	850
+martinsville , va	851
+maryland	852
+marysville , wa	853
+mass market	854
+master sauce	855
+mat	856
+material handle & underground	857
+maxwell house	858
+may land , new jersey	859
+mckenzie county	860
+mcmurray , pa	861
+meat	862
+meat and seafood	863
+meat product	864
+mediterranean	865
+medium	866
+medium segment	867
+medium track excavator	868
+medium track-type tractor	869
+medium wheel loader	870
+mein schiff 1	871
+mein schiff 2	872
+mein schiff 4	873
+mein schiff 6	874
+mein schiff herz	875
+mein schiff relax	876
+memphis , tn	877
+menomonee fall , wi	878
+mentor	879
+mentor , oh	880
+mequon , wi	881
+merced , ca	882
+merchant service	883
+messaging service	884
+mexico	885
+meyer turku	886
+meyer turku oy	887
+meyer turku shipyard	888
+meyer werft	889
+miami , florida	890
+miami facility	891
+michigan	892
+mid-atlantic	893
+mid-atlantic u.s .	894
+mid-price brand	895
+mid-tier soil compactors	896
+middle east	897
+midstream investment	898
+millbrook , ny	899
+mini , small , medium and large track excavator	900
+mini excavator	901
+mini track excavator	902
+mining	903
+mining equipment	904
+mining performance solution	905
+mining truck	906
+minneapolis	907
+minnesota	908
+miracle whip	909
+miscellaneous product	910
+mishawaka , in	911
+mishawaka in	912
+mission hill , ca	913
+mission-optimized avionics	914
+mississauga , on	915
+mississippi	916
+missoula , mt	917
+missouri	918
+mobberley	919
+mobberley , uk	920
+mobile and consumer electronics product	921
+mobile/online banking	922
+mondelēz international	923
+money pool	924
+monroeville pa	925
+montana	926
+montgomery , al	927
+montgomeryville , pa	928
+mop	929
+morehead city nc	930
+morton grove , il	931
+motorgraders	932
+motorola mobility	933
+mount vernon	934
+movie programming	935
+muffler	936
+multi-terrain loader	937
+multiple state ( include texas , california , and new york )	938
+muncie	939
+music streaming	940
+mwm	941
+na	942
+naperville , il	943
+naples , fl	944
+nascar programming	945
+nashville , tn	946
+national indirect lending service	947
+natural gas	948
+natural gas combine cycle generate facility	949
+natural gas customer	950
+natural gas distribution	951
+natural gas distribution service	952
+natural gas pipeline	953
+natural gas segment	954
+natural gas transportation and storage	955
+natural gas utility	956
+nbc sport	957
+nbcuniversal	958
+nebraska	959
+needham	960
+netbooks	961
+netherlands	962
+network	963
+network access	964
+network software	965
+nevada	966
+new cruise ship	967
+new jersey	968
+new mix rtd	969
+new orleans , la	970
+new palestine , in	971
+new rochelle , ny	972
+new york	973
+new york city	974
+newark , de	975
+newbury	976
+newport , ar	977
+newport , ct	978
+newport , in	979
+newport , ks	980
+newport , mi	981
+newport , ny	982
+newport , ok	983
+newport , or	984
+newport , tn	985
+news	986
+news content	987
+news watch on channel 15	988
+newtown square , pa	989
+newtown square , pennsylvania	990
+next generation e-vapor technology	991
+next generation product line	992
+ngd	993
+ngl fractionation	994
+niagara fall , ny	995
+nicotine gum	996
+nicotine-containing product	997
+nj	998
+nmea 2000 radio	999
+non-branded bulk wine	1000
+non-competes	1001
+nordic	1002
+north america	1003
+north america segment	1004
+north augusta , sc	1005
+north canton , oh	1006
+north dakota	1007
+north easton , ma	1008
+north tustin , ca	1009
+north wale , pa	1010
+northern europe	1011
+norwegian sea	1012
+nottingham , uk	1013
+number	1014
+nuthall	1015
+o x	1016
+oasis of the sea	1017
+oceania	1018
+odyssey of the sea	1019
+off-highway diesel and natural gas engine	1020
+off-highway truck	1021
+office equipment	1022
+office furniture	1023
+official product name	1024
+ohio	1025
+oil	1026
+oil & gas	1027
+oil additive	1028
+oil and gas industry solution	1029
+oil and gas solution	1030
+oil filter	1031
+oklahoma	1032
+oklahoma city , ok	1033
+olney	1034
+om	1035
+on-highway vocational truck	1036
+ona , wv	1037
+oneonta , ny	1038
+ongoing variation margin	1039
+online gaming	1040
+online store	1041
+ontario	1042
+operate income	1043
+orange park	1044
+oregon	1045
+orem , ut	1046
+ormond beach , fl	1047
+osawatomie , ks	1048
+other international	1049
+other operation	1050
+other product	1051
+other region	1052
+other revenue	1053
+other service	1054
+otp	1055
+outpatient med	1056
+outpatient medical	1057
+outpatient medical segment	1058
+outremont , qc	1059
+ovation of the sea	1060
+overland park , ks	1061
+owasso , ok	1062
+painesville	1063
+painesville , oh	1064
+palestine	1065
+palestine , tx	1066
+palm desert , ca	1067
+palo alto	1068
+panama canal	1069
+panama city	1070
+panw	1071
+paola , ks	1072
+paramus , nj	1073
+parma	1074
+part cleaner	1075
+part distribution	1076
+participate financial institution	1077
+pasadena , tx	1078
+paso roble	1079
+paso roble , ca	1080
+passenger cruise ship	1081
+paw paw , mi	1082
+payment service	1083
+payroll software solution	1084
+pc entertainment software	1085
+pci loan	1086
+peabody	1087
+pella	1088
+pembroke , on	1089
+pennsylvania	1090
+pensacola , fl	1091
+pepco	1092
+pepco energy service	1093
+pepe lopez tequila	1094
+performance calculation	1095
+performance part	1096
+perkins	1097
+perrysburg , oh	1098
+personal computer	1099
+personal protective equipment	1100
+peterborough	1101
+phi	1102
+philip morris	1103
+philip morris cigarette	1104
+physical store	1105
+pipe tobacco	1106
+pipelayers	1107
+pipeline construction service	1108
+pipeline repair service	1109
+piracicaba , brazil	1110
+pittsburgh	1111
+pittsburgh , pa	1112
+placentia	1113
+placentia , ca	1114
+plano , tx	1115
+plantation , fl	1116
+plattsmouth	1117
+pleasanton , ca	1118
+pm	1119
+pm brand	1120
+pmm	1121
+pointroll	1122
+polly-o and athenos cheese	1123
+pom	1124
+port of costa maya	1125
+port of miami , florida	1126
+port perry , on	1127
+port st. lucie	1128
+port st. lucie , fl	1129
+portage , mi	1130
+porterville , ca	1131
+portmiami	1132
+posey county	1133
+posey county , indiana	1134
+position reporting	1135
+pottstown	1136
+pottstown , pa	1137
+powell	1138
+power generation solution	1139
+power sport equipment	1140
+pre- and post-cruise hotel package	1141
+pre-departure clearance	1142
+premium segment	1143
+prep tractor	1144
+prepaid service	1145
+pringles chip	1146
+prior lake , mn	1147
+private ip service	1148
+private label part	1149
+private label product	1150
+private student loan	1151
+proceeds from investment disposition	1152
+process control system	1153
+produced water gathering	1154
+product	1155
+product a	1156
+product and service	1157
+program	1158
+progress rail	1159
+propane plant	1160
+protective apparel	1161
+protective gear	1162
+public sector	1163
+publishing service	1164
+pullmantur	1165
+pullmantur holding	1166
+quality assurance program	1167
+quantum of the sea	1168
+quarry and aggregate equipment	1169
+radiance of the sea	1170
+rail-related product	1171
+rail-related service	1172
+raleigh , nc	1173
+rantoul , il	1174
+rcl	1175
+real estate	1176
+real estate lending	1177
+rear spoiler	1178
+reciprocate engine	1179
+reciprocate engine and integrated system for marine and oil and gas	1180
+recyclable item	1181
+red bank	1182
+redding , ca	1183
+reduced-risk product	1184
+reduced-risk tobacco product	1185
+redwood city	1186
+regal marine industry , inc .	1187
+rehoboth beach , de	1188
+reidsville	1189
+remanufactured engine	1190
+remanufactured prod	1191
+renewable energy	1192
+reno , nv	1193
+republic of liberia	1194
+reputable brand name part	1195
+research and development	1196
+residential appliance repair and maintenance	1197
+residential fix connectivity solution	1198
+residential video service	1199
+resource industry	1200
+rest of world	1201
+retail and small business deposit product	1202
+retail gas sale	1203
+retail sale	1204
+retiree medical stop loss insurance	1205
+revenue	1206
+reward platform	1207
+reynosa	1208
+richardson	1209
+richmond , in	1210
+richmond , tx	1211
+richmond , va	1212
+right-of-way service in texas	1213
+road reclaimers	1214
+roanoke , va	1215
+rochester , mi	1216
+rockford , il	1217
+rockville centre , ny	1218
+rockwall	1219
+rockwall , tx	1220
+rocky hill , ct	1221
+rohnert park	1222
+roll-your-own	1223
+rotary drill	1224
+round rock	1225
+round rock , tx	1226
+royal caribbean international	1227
+rrps	1228
+rtd canning plant	1229
+rural usa	1230
+ruston	1231
+saas security	1232
+sabre spring , ca	1233
+safety and compliance training	1234
+safety and fire protection office	1235
+safety and fire protection product	1236
+safety product	1237
+safety service	1238
+saginaw , mi	1239
+saint john , mi	1240
+saint-lambert	1241
+sale , uk	1242
+sale support	1243
+salem , or	1244
+salisbury , nc	1245
+salisbury , united kingdom	1246
+sampoerna a	1247
+samsung	1248
+san angelo	1249
+san angelo , tx	1250
+san diego , ca	1251
+san eusebio , italy	1252
+san francisco , ca	1253
+san gabriel , ca	1254
+san jose , ca	1255
+santa clarita , ca	1256
+santa rosa , ca	1257
+saw mill	1258
+sc	1259
+scalability solution	1260
+schertz	1261
+scottsdale , az	1262
+sd-wan	1263
+sdk	1264
+sea hunt	1265
+seal beach , ca	1266
+sealing and connecting component	1267
+seatrade insider	1268
+seattle , wa	1269
+seattle , washington	1270
+sebree	1271
+secure indirect installment loan	1272
+secured loan	1273
+security control module	1274
+security service	1275
+security solution	1276
+selbyville , de	1277
+select work tool	1278
+self-monitoring capability	1279
+sem	1280
+semiconductor equipment	1281
+seminole , fl	1282
+senior housing	1283
+senior housing property	1284
+sensor	1285
+sensor business	1286
+sensor solution	1287
+service	1288
+service center	1289
+service wire	1290
+sevenoaks , uk	1291
+shawnee	1292
+shawnee , ks	1293
+shawnee , ok	1294
+shepherdstown	1295
+sherman oak , ca	1296
+ship	1297
+sho	1298
+shopping mall	1299
+shreveport	1300
+sigeco	1301
+signal system	1302
+silver cloud	1303
+silver moon	1304
+silver nova	1305
+silver origin	1306
+silver shadow	1307
+silver spirit	1308
+silver whisper	1309
+silver wind	1310
+silvis , il	1311
+singapore	1312
+siri	1313
+siriusxm radio and weather	1314
+site-to-site vpn	1315
+six state	1316
+skid steer loader	1317
+skysea cruise	1318
+small excavator	1319
+small track excavator	1320
+small track-type tractor	1321
+small tractor	1322
+small wheel loader	1323
+smithfield	1324
+smoke-free product	1325
+software solution	1326
+soil compactors	1327
+solar panel	1328
+solar turbine	1329
+solution	1330
+sonning , uk	1331
+sonoma-cutrer	1332
+sonoma-cutrer california wine	1333
+sony	1334
+south america	1335
+south asia	1336
+south bend	1337
+south haven , mi	1338
+south korea	1339
+south point , oh	1340
+southbourne , uk	1341
+southbury , ct	1342
+southern caribbean	1343
+southern hemisphere summer	1344
+southern summer	1345
+southlake , tx	1346
+southwestern indiana	1347
+spanish market	1348
+specialized tool	1349
+specific supplier company	1350
+spectrum of the sea	1351
+spencer county	1352
+sponsorship	1353
+sport program	1354
+spring , tx	1355
+springvale	1356
+st paul , mn	1357
+st. albert , ab	1358
+st. louis , mo	1359
+stafford , uk	1360
+stamford , uk	1361
+stanley , uk	1362
+starter	1363
+state & local hhs	1364
+statesville , nc	1365
+staunton , va	1366
+steel	1367
+steel casting	1368
+steer part	1369
+stephenville , tx	1370
+sterling height , mi	1371
+steven spielberg	1372
+stockton , ca	1373
+stoneygate	1374
+storage	1375
+strategic advisory service	1376
+stratford-upon-avon , united kingdom	1377
+stream content	1378
+subscription service	1379
+subsea communication system	1380
+substation	1381
+suffern , ny	1382
+suffield , ct	1383
+suffolk , va	1384
+summer season	1385
+sunnyvale	1386
+sunrise senior living	1387
+superior , wi	1388
+supplier	1389
+sustainable infrastructure service	1390
+sweden	1391
+syfy	1392
+symphony of the sea	1393
+synchronize race timer	1394
+system integrator	1395
+t & d	1396
+taco bell home original	1397
+tacoma , wa	1398
+take-two interactive	1399
+tallahassee	1400
+tampa	1401
+tampa , fl	1402
+target trend	1403
+tarzana , ca	1404
+te connectivity ltd .	1405
+technical documentation	1406
+technology	1407
+technology brand	1408
+technology licensors	1409
+tegsa	1410
+tel	1411
+telecommunication service	1412
+telehandlers	1413
+telemundo	1414
+telephone equipment	1415
+television programming	1416
+telford , uk	1417
+temple , tx	1418
+tenaska marketing venture , llc	1419
+tennessee	1420
+terea	1421
+terminal and connector system	1422
+terre haute , in	1423
+test service	1424
+testflight	1425
+texarkana , tx	1426
+texas	1427
+texas , california , new york , florida , illinois , pennsylvania	1428
+texas , louisiana , oklahoma , arkansas , mississippi , new mexico	1429
+texas gulf coast area	1430
+tfc	1431
+tgna	1432
+thailand	1433
+the woodland , tx	1434
+third party	1435
+third-party access .	1436
+third-party client	1437
+third-party content	1438
+third-party film distribution	1439
+third-party hardware product	1440
+third-party seller service	1441
+third-party vendor	1442
+third-party video provider	1443
+three river , mi	1444
+time warner cable	1445
+tire and rim	1446
+tire repair accessory	1447
+tn	1448
+tobacco product	1449
+torrance , ca	1450
+torreon	1451
+totalpmi	1452
+tough one	1453
+track and rotary drill	1454
+track drill	1455
+track-type loader	1456
+track-type tractor	1457
+trademark	1458
+traffic awareness system	1459
+transformer capacity	1460
+transmission and distribution system	1461
+transmission fluid	1462
+transmission line	1463
+transmission service	1464
+transportation solution	1465
+treasury serv	1466
+trip request	1467
+triple-net leasing	1468
+triple-net portfolio	1469
+triple-net segment	1470
+trs business loan	1471
+trust service	1472
+tuaca	1473
+tucson , az	1474
+tui cruise	1475
+tulsa , ok	1476
+turbine	1477
+tustin , ca	1478
+tv station	1479
+tvos	1480
+u	1481
+u.k .	1482
+u.n. peacekeeping force	1483
+u.s .	1484
+u.s. treasury security	1485
+u.s. virgin island	1486
+undercarriage	1487
+underground transmission and distribution service	1488
+underground transmission line	1489
+uniform	1490
+uniform rental	1491
+uniform rental and facility service	1492
+uniform sale	1493
+union , ky	1494
+united kingdom	1495
+united state	1496
+universal studio brand	1497
+unnamed	1498
+unnamed ( evolution-class )	1499
+unnamed ( icon-class )	1500
+unnamed ( meyer turku oy )	1501
+urbandale , ia	1502
+usps	1503
+utility vehicle	1504
+valparaiso , in	1505
+variable and fixed-price physical natural gas	1506
+vedo	1507
+velveeta	1508
+vendor	1509
+verizon business group	1510
+verizon consumer group	1511
+vermont	1512
+vero beach	1513
+vero beach , fl	1514
+vicksburg , m	1515
+video game software	1516
+virginia	1517
+virginia beach , va	1518
+virtual firewall product	1519
+voice call	1520
+voice service	1521
+vz	1522
+walmart inc .	1523
+wamego	1524
+ware , uk	1525
+warehouse	1526
+warner robin , ga	1527
+warren , nj	1528
+warrick county	1529
+warsaw , ny	1530
+washington , dc	1531
+washington d.c .	1532
+waste product	1533
+waukee , ia	1534
+wax	1535
+wayne , nj	1536
+wealth management	1537
+wearable solution	1538
+weatherford	1539
+website	1540
+webster grove	1541
+webster grove , mo	1542
+well	1543
+well stimulation pump	1544
+wellington , fl	1545
+west bend	1546
+west bend , wi	1547
+west bloomfield , mi	1548
+west drayton , uk	1549
+west milford , nj	1550
+west palm beach , fl	1551
+west reading , pa	1552
+west virginia	1553
+west-central ohio	1554
+westerville , oh	1555
+westfield , ma	1556
+westlake , oh	1557
+weston	1558
+weybridge	1559
+weymouth	1560
+wheel dozer	1561
+wheel excavator	1562
+whippany , nj	1563
+white oak , md	1564
+whitesboro	1565
+wholesale financing plan	1566
+wholesale power market	1567
+wholesale supplier	1568
+willoughby , oh	1569
+wilmington	1570
+wilmington , nc	1571
+windsor , va	1572
+winnipeg , mb	1573
+winston-salem , nc	1574
+wire and heat shrink tube	1575
+wireless carrier	1576
+wireless connectivity service	1577
+wireless data service	1578
+wireless device	1579
+wireless gateway	1580
+wireless product	1581
+wireless service	1582
+wireless transfer capability	1583
+wireline carrier	1584
+wireline connectivity	1585
+wireline service	1586
+wisconsin	1587
+wolverhampton , uk	1588
+woodbridge , va	1589
+woodbury , nj	1590
+woodstock , va	1591
+wooster , oh	1592
+work and service	1593
+worker compensation	1594
+xclass tv	1595
+xfinity online portal	1596
+xuzhou , china	1597
+yakima , wa	1598
+yardley , pa	1599
+yellowfin yacht	1600
+york , pa	1601
+york , uk	1602
+yorkton , sk	1603
+ypsilanti , mi	1604

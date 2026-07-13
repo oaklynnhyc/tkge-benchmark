@@ -1,0 +1,10 @@
+{
+  "variant": "interval",
+  "alias": "WIKIDATA12k",
+  "rows_real_interval": 70,
+  "splits": {
+    "train": 1580,
+    "valid": 197,
+    "test": 198
+  }
+}

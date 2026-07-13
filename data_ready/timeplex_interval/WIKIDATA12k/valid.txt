@@ -1,0 +1,197 @@
+khc	produces	meat and seafood	2017-##-##	2017-##-##
+aapl	produces	itunes store	2014-##-##	2014-##-##
+well	operates_in	concord , nh	2022-##-##	2022-##-##
+well	operates_in	west virginia	2022-##-##	2022-##-##
+well	operates_in	colleyville , tx	2023-##-##	2023-##-##
+pom	operates_in	new jersey	2010-##-##	2015-##-##
+tel	produces	interventional medical component	2020-##-##	2020-##-##
+aapl	produces	service	2023-##-##	2023-##-##
+amzn	produces	product and service	2017-##-##	2017-##-##
+cat	operates_in	decatur	2023-##-##	2023-##-##
+houston electric	operates_in	houston	2019-##-##	2019-##-##
+rcl	operates_in	silver spirit	2009-##-##	2024-##-##
+well	operates_in	ann arbor , mi	2024-##-##	2024-##-##
+cat	operates_in	south korea	2023-##-##	2023-##-##
+aapl	produces	other product	2017-##-##	2017-##-##
+material handle & underground	produces	highwall miner	2017-##-##	2017-##-##
+cnp	produces	coal	2020-##-##	2020-##-##
+vz	produces	control solution	2020-##-##	2020-##-##
+vz	produces	residential fix connectivity solution	2024-##-##	2024-##-##
+well	operates_in	lakeland , fl	2023-##-##	2023-##-##
+well	operates_in	howell , nj	2023-##-##	2023-##-##
+well	operates_in	madison , tn	2021-##-##	2021-##-##
+cat	operates_in	texas	2015-##-##	2015-##-##
+well	operates_in	brick , nj	2022-##-##	2022-##-##
+well	operates_in	bakersfield , ca	2021-##-##	2021-##-##
+well	operates_in	osawatomie , ks	2022-##-##	2022-##-##
+cat	produces	multi-terrain loader	2015-##-##	2015-##-##
+well	operates_in	fairhope , al	2021-##-##	2021-##-##
+well	operates_in	nebraska	2020-##-##	2020-##-##
+cnp	operates_in	texas gulf coast area	2021-##-##	2023-##-##
+aapl	produces	beat	2018-##-##	2018-##-##
+well	operates_in	rockville centre , ny	2019-##-##	2019-##-##
+pm	produces	chesterfield	2017-##-##	2017-##-##
+cnp	operates_in	louisiana	2022-##-##	2022-##-##
+gme	produces	video game software	2014-##-##	2014-##-##
+amzn	operates_in	geographic reach	2018-##-##	2018-##-##
+fltplan.com	supplies	pre-departure clearance	2018-##-##	2018-##-##
+cat	produces	articulate truck	2020-##-##	2020-##-##
+well	operates_in	canton , oh	2020-##-##	2020-##-##
+well	operates_in	west palm beach , fl	2024-##-##	2024-##-##
+rcl	operates_in	port of costa maya	2024-##-##	2025-##-##
+aap	produces	reputable brand name part	2017-##-##	2017-##-##
+amzn	produces	database service	2017-##-##	2017-##-##
+cnp	operates_in	spencer county	2024-##-##	2024-##-##
+aapl	supplies	technical documentation	2014-##-##	2014-##-##
+nbcuniversal	produces	entertainment content	2022-##-##	2022-##-##
+well	operates_in	west bend , wi	2024-##-##	2024-##-##
+well	operates_in	margate , fl	2020-##-##	2020-##-##
+tfc	produces	wealth management	2024-##-##	2024-##-##
+resource industry	produces	hardrock continuous mining system	2017-##-##	2017-##-##
+enable	operates_in	egt	2020-##-##	2020-##-##
+well	operates_in	ann arbor	2019-##-##	2019-##-##
+rcl	produces	anthem of the sea	2015-##-##	2015-##-##
+tfc	produces	trust service	2023-##-##	2023-##-##
+rcl	operates_in	caribbean	2021-##-##	2021-##-##
+well	operates_in	salem , or	2024-##-##	2024-##-##
+gme	produces	website	2015-##-##	2015-##-##
+communication solution	supplies	dryer	2024-##-##	2024-##-##
+aap	produces	recyclable item	2020-##-##	2020-##-##
+rcl	operates_in	east asia	2022-##-##	2022-##-##
+panw	supplies	inventory	2024-##-##	2024-##-##
+well	operates_in	sterling height , mi	2022-##-##	2022-##-##
+cat	produces	retiree medical stop loss insurance	2018-##-##	2018-##-##
+vz	produces	hvac system	2020-##-##	2020-##-##
+construction industry segment	produces	compactors	2021-##-##	2021-##-##
+well	operates_in	denver , co	2023-##-##	2023-##-##
+rcl	operates_in	international market	2014-##-##	2014-##-##
+latin america	operates_in	cat	2023-##-##	2023-##-##
+well	operates_in	west reading , pa	2021-##-##	2021-##-##
+amzn	produces	co-branded credit card agreement	2016-##-##	2016-##-##
+ctas	produces	first aid and safety product	2016-##-##	2016-##-##
+cdf croisieres de france	operates_in	malta	2015-##-##	2015-##-##
+well	operates_in	st paul , mn	2022-##-##	2022-##-##
+rcl	operates_in	bermuda	2019-##-##	2019-##-##
+aapl	produces	apple tv device	2020-##-##	2020-##-##
+ace funding	supplies	bondable transition property	2015-##-##	2015-##-##
+well	operates_in	lynchburg , va	2019-##-##	2019-##-##
+ctas	operates_in	united state	2021-##-##	2021-##-##
+cnp	operates_in	united state	2017-##-##	2017-##-##
+well	operates_in	jackson , tn	2021-##-##	2021-##-##
+vz	operates_in	mass market	2017-##-##	2017-##-##
+well	operates_in	huntington beach , ca	2022-##-##	2022-##-##
+grmn	supplies	synchronize race timer	2020-##-##	2020-##-##
+pm	produces	cigarette	2021-##-##	2021-##-##
+tel	produces	comm . solution	2024-##-##	2024-##-##
+ctas	operates_in	business service industry	2019-##-##	2019-##-##
+well	operates_in	flower mound , tx	2022-##-##	2022-##-##
+well	operates_in	superior , wi	2022-##-##	2022-##-##
+rcl	operates_in	southern summer	2018-##-##	2018-##-##
+atl city electric	produces	electricity	2015-##-##	2015-##-##
+rcl	operates_in	antarctica	2022-##-##	2022-##-##
+well	operates_in	montgomery , al	2021-##-##	2021-##-##
+cnp	operates_in	united state	2022-##-##	2022-##-##
+well	operates_in	triple-net leasing	2019-##-##	2019-##-##
+construction industry	produces	small tractor	2015-##-##	2015-##-##
+vz	operates_in	local government	2020-##-##	2020-##-##
+bf-b	produces	sonoma-cutrer	2015-##-##	2015-##-##
+well	operates_in	georgia	2022-##-##	2022-##-##
+well	operates_in	lake havasu city , az	2020-##-##	2020-##-##
+vz	produces	cell site real estate	2018-##-##	2018-##-##
+cmcsa	produces	wireless gateway	2015-##-##	2015-##-##
+well	operates_in	dublin , oh	2021-##-##	2021-##-##
+rcl	operates_in	australian market	2016-##-##	2016-##-##
+ctas	operates_in	cincinnati , ohio	2014-##-##	2014-##-##
+meyer turku shipyard	produces	ship	2017-##-##	2017-##-##
+cat	produces	skid steer loader	2020-##-##	2020-##-##
+natural gas segment	produces	home repair protection plan	2020-##-##	2020-##-##
+ctas	produces	mat	2019-##-##	2019-##-##
+well	operates_in	richardson	2024-##-##	2024-##-##
+well	operates_in	castleton , in	2022-##-##	2022-##-##
+cat	produces	well stimulation pump	2017-##-##	2017-##-##
+tel	produces	wire and heat shrink tube	2020-##-##	2020-##-##
+tel	supplies	process control system	2021-##-##	2021-##-##
+amzn	operates_in	germany	2023-##-##	2023-##-##
+vz	produces	wireless data service	2015-##-##	2015-##-##
+well	operates_in	colt neck , nj	2020-##-##	2020-##-##
+vz	operates_in	150 country	2017-##-##	2017-##-##
+resource industry	produces	hardrock continuous mining system	2015-##-##	2015-##-##
+rcl	operates_in	u.s. virgin island	2024-##-##	2024-##-##
+khc	produces	product	2022-##-##	2022-##-##
+aap	produces	brake	2020-##-##	2020-##-##
+resource industry	produces	articulate truck	2016-##-##	2016-##-##
+well	produces	independent support living	2019-##-##	2019-##-##
+vz	operates_in	global	2020-##-##	2020-##-##
+amzn	operates_in	north america segment	2023-##-##	2023-##-##
+well	operates_in	sherman oak , ca	2019-##-##	2019-##-##
+well	operates_in	newport , ok	2024-##-##	2024-##-##
+bf-b	supplies	independent grower	2016-##-##	2016-##-##
+well	operates_in	hatfield , uk	2021-##-##	2021-##-##
+cnp	supplies	indexed debt security	2016-##-##	2016-##-##
+aapl	produces	apple pay	2017-##-##	2017-##-##
+well	operates_in	cincinnati , oh	2022-##-##	2022-##-##
+cat	produces	motorgraders	2018-##-##	2018-##-##
+well	operates_in	west bend	2019-##-##	2019-##-##
+cmcsa	supplies	third-party video provider	2022-##-##	2022-##-##
+well	operates_in	denver , co	2022-##-##	2022-##-##
+ctas	supplies	protective apparel	2014-##-##	2014-##-##
+tel	produces	high-voltage relay	2017-##-##	2017-##-##
+well	operates_in	arlington , tx	2021-##-##	2021-##-##
+well	operates_in	concord , nh	2019-##-##	2019-##-##
+tgna	operates_in	united state	2015-##-##	2015-##-##
+pm	supplies	tobacco product	2022-##-##	2022-##-##
+cat	produces	continuous miner	2017-##-##	2017-##-##
+ceip	operates_in	texas	2015-##-##	2015-##-##
+well	operates_in	senior housing	2021-##-##	2022-##-##
+pom	operates_in	district of columbia	2014-##-##	2015-##-##
+vz	produces	network access	2020-##-##	2020-##-##
+well	produces	senior housing property	2021-##-##	2021-##-##
+cnp	operates_in	posey county	1979-##-##	2019-##-##
+well	operates_in	florence , nj	2024-##-##	2024-##-##
+well	operates_in	decatur , ga	2019-##-##	2019-##-##
+uniform rental and facility service	produces	mop	2021-##-##	2021-##-##
+well	operates_in	tacoma , wa	2022-##-##	2022-##-##
+well	operates_in	triple-net segment	2024-##-##	2024-##-##
+well	operates_in	greenville , mi	2021-##-##	2021-##-##
+cat	produces	construction and mining equipment	2017-##-##	2017-##-##
+cnp	supplies	service	2016-##-##	2017-##-##
+well	supplies	apis	2021-##-##	2021-##-##
+vz	produces	software solution	2015-##-##	2015-##-##
+cat	produces	rail-related service	2015-##-##	2015-##-##
+cat	produces	forestry equipment	2020-##-##	2020-##-##
+all other segment	produces	brand management and marketing strategy	2024-##-##	2024-##-##
+grmn	supplies	autopilot mode	2019-##-##	2019-##-##
+well	operates_in	woodstock , va	2022-##-##	2022-##-##
+tgna	operates_in	digital medium segment	2016-##-##	2016-##-##
+well	produces	sho	2023-##-##	2023-##-##
+bf-b	produces	sponsorship	2016-##-##	2016-##-##
+well	operates_in	kensington , md	2020-##-##	2020-##-##
+vz	operates_in	east coast	2023-##-##	2023-##-##
+well	operates_in	reno , nv	2019-##-##	2019-##-##
+amzn	produces	advertising service	2018-##-##	2018-##-##
+well	operates_in	high point , nc	2021-##-##	2021-##-##
+dxc	operates_in	other international	2019-##-##	2019-##-##
+well	operates_in	mansfield , tx	2021-##-##	2021-##-##
+vz	produces	security solution	2024-##-##	2024-##-##
+cnp	operates_in	southwestern indiana	2021-##-##	2021-##-##
+well	operates_in	suffield , ct	2020-##-##	2020-##-##
+fltsafety.com	supplies	hazard management	2018-##-##	2018-##-##
+cat	supplies	heavy machinery	2021-##-##	2021-##-##
+aapl	supplies	gps	2016-##-##	2016-##-##
+meyer turku oy	supplies	unnamed ( icon-class )	2022-##-##	2024-##-##
+rcl	operates_in	destination	2014-##-##	2014-##-##
+rcl	operates_in	asia/pacific	2021-##-##	2021-##-##
+cat	produces	medium track excavator	2019-##-##	2019-##-##
+well	operates_in	stafford , uk	2020-##-##	2020-##-##
+amzn	produces	fire tablet	2022-##-##	2022-##-##
+rcl	operates_in	global cruise itinerary	2022-##-##	2022-##-##
+aap	produces	hand tool	2019-##-##	2019-##-##
+cat	operates_in	eame	2021-##-##	2021-##-##
+well	operates_in	east setauket	2024-##-##	2024-##-##
+vz	produces	netbooks	2017-##-##	2017-##-##
+well	operates_in	kentucky	2020-##-##	2020-##-##
+well	operates_in	lebanon , pa	2019-##-##	2019-##-##
+bf-b	produces	saw mill	2015-##-##	2015-##-##
+dxc	operates_in	asia-pacific	2019-##-##	2019-##-##
+cnp	produces	natural gas	2018-##-##	2018-##-##
+cat	operates_in	muncie	2023-##-##	2023-##-##

@@ -1,0 +1,16 @@
+{
+  "rows": 2000,
+  "parsed_month": 1964,
+  "fallback_january": 0,
+  "collision_groups": 9,
+  "quads_with_month": 1942,
+  "min_year": 2014,
+  "token_rule": "1000+(year-min_year)*12+(month-1)",
+  "split_rows_fallback_january": 33,
+  "train_token_range": [
+    1000,
+    1131
+  ],
+  "eval_tokens_clamped": 0,
+  "distinct_month_tokens": 53
+}
